@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "නිරෝධ සුත්තං",
+    "sutta_title": "තණ්හාව නිරුද්ධ වීම ගැන වදාළ දෙසුම",
+    "id": "5943",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සප්ත බොජ්ඣංග සහ තෘෂ්ණා නිරෝධය",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "තෘෂ්ණාව සම්පූර්ණයෙන් නිරුද්ධ කිරීම සඳහා සති සම්බොජ්ඣංගයේ සිට උපේක්ෂා සම්බොජ්ඣංගය දක්වා වූ ධර්මයන් විවේකීව සහ විරාගීව වැඩිය යුතු බව මෙහි ඉගැන්වේ.",
+        "long_summary": "මෙම දේශනාව මගින් තෘෂ්ණාව (Tanha) නිරුද්ධ කිරීමේ ප්‍රායෝගික මාර්ගය ලෙස සප්ත බොජ්ඣංගයන් හඳුන්වා දෙයි. භික්ෂුවක් හෝ යෝගියෙක් සති, ධම්මවිචය, විරිය, පීති, පස්සද්ධි, සමාධි සහ උපේක්ෂා යන අංගයන් කායික හා මානසික විවේකයෙන් යුතුව (Viveka-nissitam), විරාගය පදනම් කරගෙන (Viraga-nissitam) සහ නිරෝධය අරමුණු කරගෙන (Nirodha-nissitam) වර්ධනය කළ යුතුය. නිවනට නැඹුරු වූ සිතින් (Vossagga-parinamim) මෙම අංගයන් බහුලව පුහුණු කිරීම තුළින් තෘෂ්ණාව ප්‍රහීණ කළ හැකි බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "සප්ත බොජ්ඣංග (Seven Factors of Enlightenment) වැඩීම තුළින් තෘෂ්ණාව (Craving) නිරුද්ධ කිරීමේ පරම ක්‍රියාවලිය.",
+        "core_truth_of_sutta": "තෘෂ්ණාව නිරුද්ධ කිරීමේ ඒකායන මාර්ගය වන්නේ නිවනට නැඹුරු වූ සිතින් සප්ත බොජ්ඣංග ධර්මයන් බහුලව වැඩීමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සප්ත බොජ්ඣංග (Seven Factors of Enlightenment)",
+            "how_it_aids_liberation": "සිත අකුසල් වලින් මුදවා, විරාගී බව සහ නිරෝධය තුළින් සිත නිවනටම (Nibbana) යොමු කරවයි.",
+            "practical_renunciation": "බාහිර අරමුණු වලට ඇලීමෙන් තොරව, කාය චිත්ත විවේකය තුළින් අත්හැරීම (Vossagga) පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සති (Mindfulness)",
+                "විරාග (Non-attachment)",
+                "උපේක්ෂා (Equanimity)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන ආශාවන් (Cravings) හඳුනාගෙන ඒවාට ප්‍රතිචාර නොදක්වා උපේක්ෂාවෙන් සිටීම මගින් සංජානනීය විකෘතිතා (Cognitive distortions) අවම කරයි.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) සහ Acceptance and Commitment Therapy (ACT) හි එන 'Radical Acceptance' සහ 'Defusion' සංකල්ප වලට අතිශය සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "බොජ්ඣංග වැඩීම මගින් තෘෂ්ණාව ඇති කරන ස්නායුක මාර්ග (Reward pathways - Dopaminergic system) දුර්වල කර, සතිමත්බව සහ ස්වයං පාලනය පිළිබඳ PFC ප්‍රදේශය ශක්තිමත් කරයි (Neuroplasticity).",
+            "stress_reduction_mechanism": "විරාගී චින්තනය සහ විවේකය මගින් Amygdala වේ ක්‍රියාකාරීත්වය අඩු කර Cortisol මට්ටම පහත හෙළීමෙන් මානසික ආතතිය පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සතිමත්බව (Mindfulness)",
+            "ධර්ම විචය (Investigation)",
+            "විරාගී චින්තනය (Detachment-based thinking)",
+            "උපේක්ෂාව (Equanimity)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "අසහනයෙන් සහ තෘෂ්ණාවෙන් මිදී උපේක්ෂාව කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "විවේකය",
+                "විරාගය",
+                "නිරෝධය",
+                "ශාන්තිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Mindfulness-Based Stress Reduction (MBSR)",
+                "parallel_description": "සති සම්බොජ්ඣංගය සහ අනෙකුත් සාධක නූතන MBSR ක්‍රමවේදයට සමාන වන අතර, එමගින් පුද්ගලයාගේ ආතතිය සහ ආශාවන් පාලනය කිරීමේ හැකියාව (Emotional Regulation) වර්ධනය කරයි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සප්ත බොජ්ඣංග",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය",
+                    "ආනාපානසති සූත්‍රය"
+                ],
+                "connection_type": "ප්‍රතිපදා සමානතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම අභියෝගාත්මක අවස්ථාවකදී සතිමත් බවින් යුතුව සිතේ ඇතිවන ආශාවන් හෝ ගැටීම් නිරීක්ෂණය කරමින්, ඒවා කෙරෙහි උපේක්ෂාව පුහුණු කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා විනාඩි 10-15ක් නිහඬව හිඳ සතිමත් බව (Mindfulness) පුහුණු කරන්න.",
+            "සිතේ යම් අරමුණක් කෙරෙහි ඇලීමක් ඇති වූ විට එය 'අනිත්‍ය' සහ 'විරාගී' ලෙස දැකීමට උත්සාහ කරන්න.",
+            "කායික හා මානසික විවේකය (Solitude) සඳහා දිනකට යම් කාලයක් වෙන් කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යෝ භික්ඛවේ, මග්ගෝ යා පටිපදා තණ්හානිරෝධාය සංවත්තති, තං මග්ගං තං පටිපදං භාවේථ. කතමෝ ච භික්ඛවේ, මග්ගෝ කතමා පටිපදා තණ්හානිරෝධාය සංවත්තති: යදිදං සත්ත බොජ්ඣංගා. කතමේ සත්ත: සතිසම්බොජ්ඣංගෝ ....(පෙ).... උපේඛාසම්බොජ්ඣංගෝ. කථං භාවිතා ච භික්ඛවේ, සත්ත බොජ්ඣංගා කථං බහුලීකතා තණ්හානිරෝධාය සංවත්තන්ති: ඉධ භික්ඛවේ, භික්ඛු සතිසම්බොජ්ඣංගං භාවේති ....(පෙ).... උපේඛාසම්බොජ්ඣංගං භාවේති විවේකනිස්සිතං විරාගනිස්සිතං නිරෝධනිස්සිතං වොස්සග්ගපරිණාමිං. ඒවං භාවිතා ඛෝ භික්ඛවේ, සත්ත බොජ්ඣංගා ඒවං බහුලීකතා තණ්හානිරෝධාය සංවත්තන්තීති.",
+            "sinhala": "මහණෙනි, යම් මාර්ගයක්, යම් ප්‍රතිපදාවක් තණ්හාව නිරුද්ධ වීම පිණිස පවතියි නම්, ඒ මාර්ගය ත්, ඒ ප්‍රතිපදාව ත් භාවිත කරව්. මහණෙනි, තණ්හාව නිරුද්ධ වීම පිණිස පවතින ඒ මාර්ගය කුමක් ද? ඒ ප්‍රතිපදාව කුමක් ද? මේ සප්ත බොජ්ඣංගයෝ ය. ඒ කවර සතක් ද යත්; සති සම්බොජ්ඣංගය ය, ….(පෙ)…. උපෙක්ඛා සම්බොජ්ඣංගය ය."
+        }
+    ]
+}

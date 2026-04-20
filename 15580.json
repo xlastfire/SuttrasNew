@@ -1,0 +1,91 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "දුක්ඛ සූත්‍රය",
+    "sutta_title": "දුක ගැන වදාළ දෙසුම",
+    "id": "15580",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "දුක්ඛ නිරෝධය (Cessation of Suffering)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "දුක ලෙස හඳුනාගන්නා ඕනෑම දෙයක් කෙරෙහි ඇති වන්නා වූ ඡන්දරාගය (ඇලීම සහිත ආශාව) දුරු කළ යුතු බව මෙම සූත්‍රයෙන් අවධාරණය කෙරේ.",
+        "long_summary": "සැවැත් නුවරදී බුදුරජාණන් වහන්සේ රාධ හිමියන් අමතා, ලෝකය තුළ දුක් සහගත යමක් වේ නම්, ඒ දුක කෙරෙහි පවත්නා වූ දැඩි කැමැත්ත හෙවත් ඡන්දරාගය (Chanda-raga) ප්‍රහීණය කළ යුතු බව දේශනා කළ සේක. යම් අරමුණක ඇති දුක්ඛිත ස්වභාවය අවබෝධ කරගෙන, එම අරමුණ කෙරෙහි ඇති ආශාවන් පාලනය කර ගැනීමෙන් දුක නිවා දැමිය හැකි බව මෙහි සාරයයි.",
+        "main_discovery": "දුක සහ දුකට හේතුවන මානසික ඇලීම (ඡන්දරාගය) හඳුනාගෙන එය ප්‍රහීණය කිරීමේ අවශ්‍යතාවය.",
+        "core_truth_of_sutta": "දුක පවතින්නේ බාහිර වස්තුව තුළ නොව, එම දුක්ඛිත වස්තුව කෙරෙහි සිතේ පවත්නා ඡන්දරාගය (Desire-attachment) තුළ බවත්, එය දුරු කිරීමෙන් දුකෙන් මිදිය හැකි බවත්ය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "දුක්ඛ නිරෝධ ගාමිණී පටිපදාව (දුක නැති කිරීමේ මාර්ගය).",
+            "how_it_aids_liberation": "සිතේ බැඳීම් (Upadana) ලිහිල් කිරීම මගින් භව චක්‍රය නැවැත්වීමට සහ පරම විමුක්තිය ලබා ගැනීමට උපකාරී වේ.",
+            "practical_renunciation": "යම් දෙයක් කෙරෙහි සිත ඇලෙන විට එය අනිත්‍ය හෝ දුක්ඛ ලෙස මෙනෙහි කර, ඒ කෙරෙහි ඇති දැඩි ආශාව මුදා හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්දය (Desire)",
+                "රාගය (Lust/Attachment)",
+                "දුක්ඛ (Suffering)"
+            ],
+            "cognitive_impact": "සිතේ ඇති වන 'ආශා සහගත පෙළඹවීම්' (Cravings) ස්වයං-විවේචනයට ලක් කර ඒවා පාලනය කිරීමට අවශ්‍ය 'සංජානනමය ශක්තිය' (Cognitive control) ලබා දෙයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' ක්‍රියාවලියට සමාන වේ; එනම් තමාගේ ආශාවන්ගෙන් වෙන්වී ඒවා දෙස උපේක්ෂාවෙන් බැලීමට හුරුවීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "DMN (Default Mode Network)",
+                "Ventral Striatum (Reward Circuitry)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "ඡන්දරාගය දුරු කිරීමට උත්සාහ කිරීමේදී මොළයේ සතුට සොයා යන 'Reward circuitry' හී ඇති වන ක්‍රියාකාරීත්වය Prefrontal Cortex මගින් පාලනය කිරීමට ඉගෙන ගනී. මෙය දිගින් දිගටම පුහුණු කිරීමේදී (Neuroplasticity), ආශාවන් පසුපස හඹා යන ස්නායුක රටා දුර්වල වේ.",
+            "stress_reduction_mechanism": "ආශාවන් ඉටු නොවන විට ඇති වන Amygdala උද්දීපනය (Stress response) පාලනය කරමින්, Cortisol මට්ටම අඩු කිරීමට මෙම මානසික අත්හැරීම උපකාරී වේ."
+        },
+        "cognitive_mechanisms": [
+            "Desire Regulation",
+            "Cognitive Restructuring",
+            "Craving Identification",
+            "Inhibition of Maladaptive Urges"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "ඇලීම සහ දුක හඳුනාගැනීමේ සිට ඒවායින් මිදීම හරහා ලැබෙන මානසික නිදහස කරා.",
+            "mood_keywords": [
+                "නිවීම",
+                "ප්‍රහීණය",
+                "නිදහස",
+                "අවබෝධය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "දුක ඇති කරන සිතුවිලි සහ ආශාවන් හඳුනාගෙන ඒවායේ ඇති අතාර්කික බව අවබෝධ කරගනිමින් චර්යාත්මක වෙනසක් සිදු කිරීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඡන්දරාගප්පහාණය (Abandoning Desire)",
+                "related_teachings": [
+                    "රාධ සංයුක්තය",
+                    "දුක්ඛ සමුදය සත්‍යය"
+                ],
+                "connection_type": "සෘජු අනුපූරක දේශනාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "යම් දෙයකින් හෝ පුද්ගලයෙකුගෙන් ඔබට මානසික පීඩාවක් දැනේ නම්, එම පීඩාවට හේතුව එම වස්තුවට වඩා ඔබ තුළ ඒ කෙරෙහි ඇති 'බැඳීම' බව තේරුම් ගෙන එය ලිහිල් කරන්න.",
+        "daily_practice_steps": [
+            "තමා තුළ ඇති වන දැඩි ආශාවන් හෝ බැඳීම් (ඡන්දරාගය) අවස්ථාවේදීම හඳුනාගන්න.",
+            "එම බැඳීම නිසා සිතේ ඇති වන අසහනය හෝ දුක පිළිබඳව අවධානය යොමු කරන්න.",
+            "මෙම ආශාව නිසා ලැබෙන පීඩාව සිතින් විග්‍රහ කර (Analysis), එම ආශාව අත්හැරීමට අධිෂ්ඨාන කරන්න.",
+            "බැඳීම් රහිතව වර්තමාන මොහොතේ සිත පවත්වා ගැනීමට පුහුණු වන්න (Mindfulness)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …………………"
+        },
+        {
+            "pali": "යං ඛෝ රාධ, දුක්ඛං ….(පෙ)…. ඡන්‌දරාගෝ පහාතබ්බෝ’ති.",
+            "sinhala": "එකත්පස්ව වාඩිවුණ ආයුෂ්මත් රාධයන් හට භාග්‍යවතුන් වහන්සේ මෙකරුණ වදාළා. පින්වත් රාධ, දුක් වූ යමක් ඇද්ද, ඒ කෙරෙහි …. (පෙ) …. ඡන්දරාගය දුරු කළ යුතුයි."
+        }
+    ]
+}

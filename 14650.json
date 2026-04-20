@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "තිස්සා ථේරීගාථා",
+    "sutta_title": "තිස්සා තෙරණියගේ ගාථාව",
+    "id": "14650",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ත්‍රිවිධ ශික්ෂාව (The Threefold Training)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "තිස්සා රහත් තෙරණිය විසින් සීල, සමාධි, ප්‍රඥා යන ශික්ෂාවන්හි හික්මීමෙන් සියලු බන්ධනවලින් මිදීමට කළ අනුශාසනාවකි.",
+        "long_summary": "සීලය (Moral conduct), සමාධිය (Concentration) සහ ප්‍රඥාව (Wisdom) යන ත්‍රිවිධ ශික්ෂාවන් පදනම් කරගෙන සිත දියුණු කරගැනීම මෙහි හරයයි. මිනිසෙකුට ලැබෙන මෙම දුර්ලභ අවස්ථාව ප්‍රයෝජනයට ගෙන, ලෝකයේ පවතින සියලු මානසික බන්ධනවලින් මිදී, කෙලෙස් රහිත (Nikkilesa) උතුමෙකු ලෙස ජීවත් විය යුතු බව තිස්සා තෙරණිය මෙම ගාථාවෙන් අවධාරණය කරයි.",
+        "main_discovery": "සීල, සමාධි, ප්‍රඥාව තුළින් සියලු මානසික බන්ධනවලින් (Fetters) මිදී නිකලෙස් තත්ත්වයට පත්වීම.",
+        "core_truth_of_sutta": "ත්‍රිවිධ ශික්ෂාව සම්පූර්ණ කිරීමෙන් පමණක් සියලු බන්ධන (Samyojana) සිඳී නිදහස උදාවෙයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සීල, සමාධි, ප්‍රඥා යන ත්‍රිවිධ ශික්ෂාව නිවනට යන එකම මාවතයි.",
+            "how_it_aids_liberation": "සීලයෙන් අකුසලයෙන් වැළකී, සමාධියෙන් සිත එකඟ කර, ප්‍රඥාවෙන් යථාර්ථය දැකීමෙන් තණ්හාව සහ අවිද්‍යාව දුරු කර නිවන සාක්ෂාත් කරයි.",
+            "practical_renunciation": "ලෝකය කෙරෙහි ඇති බැඳීම් (Attachments) බන්ධන ලෙස දැක ඒවා අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "හික්මීම (Discipline)",
+                "අවධානය (Focus)",
+                "විමුක්තිය (Release)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන ආවේග පාලනය කිරීමටත් (Impulse control), සිදුවීම් දෙස වාස්තවිකව (Objectively) බැලීමටත් පුහුණු කරයි.",
+            "modern_psychology_parallel": "Mindfulness-Based Stress Reduction (MBSR) සහ Impulse Control Therapy සමඟ සමපාත වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විධායක ක්‍රියාකාරිත්වය සහ සීලය)",
+                "Default Mode Network (DMN - ආත්මීය චින්තනය අවම කිරීම)",
+                "Anterior Cingulate Cortex (අවධානය සහ සමාධිය)"
+            ],
+            "neuroplasticity_and_habit": "ත්‍රිවිධ ශික්ෂාව පුහුණු කිරීමේදී මොළයේ සන්සුන් භාවයට සහ තර්කානුකූල චින්තනයට අදාළ ස්නායුක පථ (Neural pathways) ශක්තිමත් වී, අකුසල මූලික පුරුදු දුර්වල වේ.",
+            "stress_reduction_mechanism": "සීලයෙන් ඇතිවන මානසික පාරිශුද්ධිය Amygdala හි ක්‍රියාකාරිත්වය අඩු කරන අතර Cortisol මට්ටම පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සීලය හරහා චර්යාත්මක ස්වයං-නියාමනය (Behavioral Self-regulation)",
+            "සමාධිය හරහා ඒකාග්‍ර අවධානය (Focused Attention)",
+            "ප්‍රඥාව හරහා සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය සහ වීර්යය (Urgency and Determination)",
+            "emotional_intensity": 9,
+            "emotional_arc": "බන්ධනවලින් ඇතිවන පීඩනයෙන් මිදී නිදහස කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිදහස",
+                "අවදිවීම",
+                "හික්මීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "වැරදි සිතුවිලි සහ හැසිරීම් පාලනය කර (සීල/සමාධි) යථාර්ථය නිවැරදිව වටහා ගැනීම (ප්‍රඥාව) හරහා මානසික සහනය ලබා ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ත්‍රිවිධ ශික්ෂාව (Threefold Training)",
+                "related_teachings": [
+                    "මහාපරිනිබ්බාණ සූත්‍රය",
+                    "ආර්ය අෂ්ටාංගික මාර්ගය"
+                ],
+                "connection_type": "මූලික දහම් අඩුව (Foundational framework)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලැබී ඇති දුර්ලභ අවස්ථාවෙන් ප්‍රයෝජන ගෙන, විනයගරුකව සහ අවධානයෙන් යුතුව ජීවත් වෙමින් සත්‍යය අවබෝධ කර ගැනීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "තමාගේ වචනය සහ ක්‍රියාව අනුන්ට පීඩා නොවන පරිදි පවත්වා ගන්න (සීල).",
+            "දිනකට සුළු වෙලාවක් හෝ සිත එක්තැන් කරන භාවනාවක නිරත වන්න (සමාධි).",
+            "ලෝකයේ ඕනෑම දෙයක් වෙනස් වන සුළු බව නුවණින් විමසන්න (ප්‍රඥා)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "තිස්සේ සික්ඛස්සු සික්ඛාය මා තං යෝගා උපච්චගුං,\nසබ්බයෝගවිසංයුත්තා චර ලෝකේ අනාසවා’ති",
+            "sinhala": "පින්වත් තිස්සා. සීල, සමාධි, ප්‍රඥාවේ හික්මෙන්න. මේ දුර්ලභ අවස්ථාව මග හැරගන්ට නම් එපා! සියලු බන්ධයන් ගෙන් නිදහස් වෙන්න. නිකලෙස් කෙනෙක් හැටියට ලෝකේ ජීවත් වෙන්න."
+        },
+        {
+            "pali": "ඉත්ථං සුදං තිස්සා ථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී තිස්සා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

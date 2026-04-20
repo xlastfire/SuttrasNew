@@ -1,0 +1,84 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "තණ්හා සුත්තං",
+    "sutta_title": "තණ්හාව ගැන වදාළ දෙසුම",
+    "id": "2332",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අවබෝධය සහ විමුක්තිය (Understanding and Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "තණ්හාව පිළිබඳ අවබෝධය ශ්‍රමණ බ්‍රාහ්මණයන් ලබන උසස් ඵලයන්ගේ පදනම වන අතර, එම අවබෝධය නොමැතිව කිසිදු ආධ්‍යාත්මික ජයග්‍රහණයක් අත්පත් කරගත නොහැක.",
+        "long_summary": "මෙම දේශනාව මගින් තණ්හාව (Craving) පිළිබඳ නිවැරදි අවබෝධයෙහි ඇති වැදගත්කම අවධාරණය කෙරේ. තණ්හාවේ ස්වභාවය සහ එහි ක්‍රියාකාරිත්වය පිළිබඳ අවබෝධයක් නොමැති ශ්‍රමණයන් හෝ බ්‍රාහ්මණයන් හට කිසිදු ආධ්‍යාත්මික ඵලයක් (Fruits of spiritual life) අත්පත් කරගත නොහැකි බව පෙන්වා දෙයි. එහෙත්, තණ්හාව යනු කුමක්දැයි නිවැරදිව වටහාගත් උතුමන් පමණක් උතුම් වූ ඵලයන් අත්කර ගැනීමට සමත් වන බව මෙහි ප්‍රධාන අන්තර්ගතයයි.",
+        "main_discovery": "තණ්හාව පිළිබඳ නිවැරදි අවබෝධය (Insight into Craving) ශ්‍රමණ බ්‍රාහ්මණයන්ගේ සාර්ථකත්වයේ සහ ප්‍රතිඵල ලැබීමේ තීරණාත්මක සාධකයයි.",
+        "core_truth_of_sutta": "ආධ්‍යාත්මික විමුක්තියේ සහ සාර්ථකත්වයේ මූලික රහස වන්නේ තණ්හාව පිළිබඳ පූර්ණ අවබෝධයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "තණ්හාව අවබෝධ කර ගැනීම (Knowledge of Craving)",
+            "how_it_aids_liberation": "සසර බැඳ තබන මූලික සාධකය වන තණ්හාව අවබෝධ කර ගැනීමෙන්, එය ප්‍රහාණය කිරීමටත් ඒ හරහා දුක නිවීමටත් මග පාදයි.",
+            "practical_renunciation": "තණ්හාව දෙස විචාරාත්මකව බැලීමෙන් ඒ කෙරෙහි ඇති බැඳීම (Upadana) ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "තණ්හාව (Craving)",
+                "අවබෝධය (Wisdom/Understanding)",
+                "මුලාව (Ignorance)"
+            ],
+            "cognitive_impact": "යම් අරමුණක් කෙරෙහි ඇති වන දැඩි ග්‍රහණය (Attachment) පිළිබඳව 'Observer' කෙනෙකු ලෙස බැලීමට සිත පුහුණු කිරීම.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) හි එන 'Mindfulness' ක්‍රමවේදය හරහා ආවේග සහ ආශාවන් (Urges) කළමනාකරණය කිරීමේ ක්‍රමවේදයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Reward System (Dopaminergic pathways)",
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "තණ්හාව පිළිබඳ නිරන්තර අවධානයෙන් සිටීමෙන් (Self-monitoring), මොළයේ පුරුදු මත පදනම් වූ ක්‍රියාවන් (Habitual responses) වෙනස් වී නව ස්නායුක සම්බන්ධතා (Neuroplasticity) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "තණ්හාව අවබෝධ කර ගැනීමෙන් මොළයේ Amygdala හි ක්‍රියාකාරිත්වය අඩු වී, බාහිර අරමුණු මත ඇති වන ආතතිය සහ නොසන්සුන් බව පහව යයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring (ප්‍රජානන ප්‍රතිව්‍යුහගතකරණය)",
+            "Meta-awareness (මනස පිළිබඳ අවබෝධය)",
+            "Attention Regulation (අවධානය පාලනය)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "මුලාවෙන් මිදී පැහැදිලි අවබෝධය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිවුණු",
+                "පැහැදිලි",
+                "විචාරාත්මක"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "තණ්හාව හෝ දැඩි ආශාව (Maladaptive cravings) හඳුනා ගැනීම සහ ඒවායේ ක්‍රියාවලිය අවබෝධ කර ගැනීම හරහා චර්යාත්මක වෙනස්කම් ඇති කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "තණ්හාව ක්ෂය කිරීම (Cessation of Craving)",
+                "related_teachings": [
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය",
+                    "මහාසතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "මූලික ධර්ම කරුණ සම්බන්ධතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ ආශාවන් සහ අවශ්‍යතාවන් දෙස විචාරාත්මකව බලන්න; එය ඔබේ ජීවිතයේ මානසික නිදහසට මග පාදනු ඇත.",
+        "daily_practice_steps": [
+            "දිනකට කිහිප වතාවක් ඔබේ මනසේ ඇති වන ආශාවන් (Cravings) හඳුනා ගන්න.",
+            "එම ආශාව ඇති වූයේ ඇයිදැයි විචාරාත්මකව විමසන්න (Self-inquiry).",
+            "බැඳීම් වලට වහල් නොවී, දැනුවත් මනසකින් තීරණ ගැනීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(යේහි කේචි ....(පෙ).... තණ්හං නප්පජානන්ති. ....(පෙ).... යේ ච ඛෝ කේචි ....(පෙ).... තණ්හං පජානන්ති ....(පෙ)....)",
+            "sinhala": "පින්වත් මහණෙනි, යම්කිසි ශ්‍රමණයන් වේවා, බ්‍රාහ්මණයන් වේවා, තණ්හාව ගැන අවබෝධයක් නැත්නම්, ....(පෙ).... ලැබෙන්නේ නෑ.පින්වත් මහණෙනි, යම්කිසි ශ්‍රමණයන් වේවා, බ්‍රාහ්මණයන් වේවා, තණ්හාව ගැන අවබෝධයක් තියෙනවා නම්, ....(පෙ).... ලැබෙනවා."
+        }
+    ]
+}

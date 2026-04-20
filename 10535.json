@@ -1,0 +1,106 @@
+{
+    "nikaya": "ඡක්ක නිපාතෝ",
+    "vagga": "අභබ්බ සුත්තං",
+    "sutta_title": "අසමර්ථ බව ගැන වදාළ දෙසුම",
+    "id": "10535",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සෝවාන් මඟෙහි බාධක (Obstacles to Stream-entry)",
+        "complexity_rating": 3,
+        "analysis_confidence": 5,
+        "short_summary": "සෝවාන් ඵලය ලැබීමට බාධා පමුණුවන දෘෂ්ටිමය බැඳීම් තුනක් සහ අපායගාමී අකුසල මූලයන් තුනක් ප්‍රහාණය කිරීමේ අවශ්‍යතාවය මෙම සූත්‍රයෙන් විස්තර කෙරේ.",
+        "long_summary": "සැවැත් නුවරදී දේශිත මෙම සූත්‍රය මගින් පුද්ගලයෙකුට සෝවාන් තත්ත්වයට පත්වීමට බාධා කරන කරුණු හයක් (6) පෙන්වා දෙයි. ඒවා නම්: සක්කාය දිට්ඨිය (තමා පිළිබඳ ඇති වැරදි දෘෂ්ටිය), විචිකිච්ඡාව (ධර්මය පිළිබඳ සැකය), සීලබ්බත පරාමාස (වැරදි වෘත හා වත්පිළිවෙත් කෙරෙහි ඇලීම) යන දෘෂ්ටිමය බාධක තුනත්; අපායගාමී වීමට හේතු වන දැඩි රාගය, ද්වේෂය සහ මෝහය යන ක්ලේශ ධර්මයන් තුනත්ය. මෙම කරුණු හය පවතින තාක් පුද්ගලයෙකුට සෝවාන් ඵලය සාක්ෂාත් කර ගැනීමට නොහැකි බව බුදුරජාණන් වහන්සේ මෙහිදී අවධාරණය කරති.",
+        "main_discovery": "සෝවාන් ඵලය ලැබීමට නම් දෘෂ්ටිමය බැඳීම් (Cognitive Fetters) සහ අපායගාමී චිත්තවේගීය මූලයන් (Maladaptive Emotional Roots) යන දෙකම ප්‍රහාණය කළ යුතු බව.",
+        "core_truth_of_sutta": "සෝවාන් ඵලය ලැබීමට නම් දෘෂ්ටිමය වැරදි (Intellectual errors) සහ දැඩි අකුසල මූලයන් (Intense emotional defilements) යන දෙකම බැහැර කළ යුතුය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සෝවාන් මඟ අවුරන ප්‍රධාන සංයෝජන (Fetters) හඳුනා ගැනීම.",
+            "how_it_aids_liberation": "සතර අපායෙන් මිදී නිවනේ පළමු පියවර තැබීමට ඇති මානසික බාධක ඉවත් කිරීම මගින් විමුක්තියට මඟ පාදයි.",
+            "practical_renunciation": "තමා පිළිබඳ ඇති දැඩි අනන්‍යතාවය (Identity) සහ අන්ධ විශ්වාසයන් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සක්කාය දිට්ඨිය (Identity Attachment)",
+                "විචිකිච්ඡාව (Cognitive Dissonance)",
+                "රාග/ද්වේෂ/මෝහ (Maladaptive Affective States)"
+            ],
+            "cognitive_impact": "වැරදි දෘෂ්ටි (Cognitive Distortions) ඉවත් කිරීමෙන් සිතේ පැහැදිලි බව සහ තීරණ ගැනීමේ හැකියාව වර්ධනය වේ.",
+            "modern_psychology_parallel": "මෙය Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' (සිතුවිලි වලින් වෙන්වීම) ක්‍රියාවලියට බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "දෘෂ්ටිමය බැඳීම් අත්හැරීම මගින් මොළයේ පවතින ස්වයං-කේන්ද්‍රීය ස්නායුක රටාවන් (Self-centric neural pathways) වෙනස් වී නව අවබෝධතා රටාවන් (Neuroplasticity) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "අපායගාමී රාග/ද්වේෂ පාලනය කිරීමෙන් Amygdala හි අධි-ක්‍රියාකාරිත්වය අඩු වී Cortisol මට්ටම පහත වැටීමෙන් මානසික සුවතාවය ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Bias Correction",
+            "Identity Deconstruction",
+            "Emotional Regulation",
+            "Belief Revision"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 4,
+            "emotional_arc": "දැඩි බැඳීම් සහ දෘෂ්ටිමය ව්‍යාකූලත්වයෙන් මිදී මානසික නිදහස කරා යොමු වීම.",
+            "mood_keywords": [
+                "නිදහස",
+                "පැහැදීම",
+                "අවබෝධය",
+                "විමුක්තිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Cognitive Dissonance & Core Beliefs",
+                "parallel_description": "සක්කාය දිට්ඨිය සහ විචිකිච්ඡාව යනු පුද්ගලයෙකුගේ මූලික විශ්වාස පද්ධතියේ (Core Beliefs) පවතින දෝෂ සහගත තර්කනයන් වන අතර, ඒවා නිවැරදි කිරීම CBT ප්‍රතිකාර ක්‍රමවේදයට සමාන වේ.",
+                "confidence_score": 5
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Default Mode Network (DMN) Deactivation",
+                "parallel_description": "සක්කාය දිට්ඨිය ප්‍රහාණය කිරීමේදී මොළයේ ස්වයං-කේන්ද්‍රීය චින්තනයට (Self-referential processing) වගකියන DMN ජාලයේ ක්‍රියාකාරිත්වය අඩු වන බව නිරීක්ෂණය කළ හැක.",
+                "confidence_score": 4
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සංයෝජන ප්‍රහාණය (Abandoning Fetters)",
+                "related_teachings": [
+                    "සක්කාය දිට්ඨිය",
+                    "විචිකිච්ඡාව",
+                    "සීලබ්බත පරාමාස"
+                ],
+                "connection_type": "සෝවාන් ඵලයට අදාළ මූලික අවශ්‍යතා"
+            }
+        ],
+        "practical_takeaway_sinhala": "සෝවාන් වීමට බාධා කරන වැරදි මතවාද සහ දැඩි අකුසලයන්ගෙන් සිත මුදවා ගැනීමට උත්සාහ කළ යුතුය.",
+        "daily_practice_steps": [
+            "තමා පිළිබඳ ඇති දැඩි බැඳීම (Identity) සහ 'මම' යන හැඟීම විමසා බැලීම.",
+            "ධර්මය පිළිබඳ ඇති සැකයන් සාකච්ඡා කිරීමෙන් හෝ අධ්‍යයනයෙන් නිරවුල් කර ගැනීම.",
+            "දෛනිකව ඇති වන දැඩි ආශාවන් සහ ක්‍රෝධයන් පාලනය කිරීමට සතිමත් වීම.",
+            "අන්ධ විශ්වාස සහ වැරදි වත්පිළිවෙත් වලින් බැහැර වීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථිනිදානං .....",
+            "sinhala": "සැවැත් නුවර දී ය ....."
+        },
+        {
+            "pali": "ඡ භික්ඛවේ ධම්මේ අභබ්බෝ දිට්ඨිසම්පන්නෝ පුග්ගලෝ උප්පාදේතුං. කතමේ ඡ:",
+            "sinhala": "මහණෙනි, මේ සය කරුණ දිට්ඨි සම්පන්න හෙවත් සෝවාන් පුද්ගලයා උපදවන්නට අසමර්ථ වෙයි. ඒ කවර සය කරුණක් ද යත්;"
+        },
+        {
+            "pali": "සක්කායදිට්ඨිං, විචිකිච්ඡං, සීලබ්බතපරාමාසං, අපායගමනීයං රාගං, අපායගමනීයං දෝසං, අපායගමනීයං මෝහං.",
+            "sinhala": "සක්කාය දිට්ඨිය ය. විචිකිච්ඡාව ය. සීලබ්බත පරාමාස ය. අපාය කරා රැගෙන යන රාගය ය. අපාය කරා රැගෙන යන ද්වේෂය ය. අපාය කරා රැගෙන යන මෝහය ය."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ ඡ ධම්මේ අභබ්බෝ දිට්ඨිසම්පන්නෝ පුග්ගලෝ උප්පාදේතුන්ති.",
+            "sinhala": "මහණෙනි, මේ සය කරුණ දිට්ඨි සම්පන්න හෙවත් සෝවාන් පුද්ගලයා උපදවන්නට අසමර්ථ වෙයි."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "යස තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15421",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අධ්‍යාත්මික පරිවර්තනය (Spiritual Transformation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "භෞතික සැරසිලි සහ ලෞකික සැප අත්හැර, ත්‍රිවිද්‍යාව ලබා ගැනීමෙන් බුදු සසුන සම්පූර්ණ කර ගත් ආකාරය මෙහි දැක්වේ.",
+        "long_summary": "අතීතයේදී කථකයා සුවඳ විලවුන්, වටිනා සළුපිළි සහ ආභරණ වැනි භෞතික සැරසිලි කෙරෙහි දැඩිව ඇලුම් කළ ආකාරයත්, පසුව එම ලෞකික ආකර්ෂණයන්ගෙන් මිදී බුදු සසුන තුළ ප්‍රතිපදාවන් පුරා ත්‍රිවිද්‍යාව (පූර්වේනිවාසානුස්මෘති ඥානය, චුතූපපාත ඥානය, ආසවක්ඛය ඥානය) ලබා ගත් ආකාරයත් මෙහි විස්තර වේ. බාහිර අලංකාරයට වඩා අධ්‍යාත්මිකව ඥානසම්පන්න වීම උසස් බව මෙයින් අවධාරණය කෙරේ.",
+        "main_discovery": "භෞතික ආභරණ සහ සැරසිලි මගින් ලැබෙන තාවකාලික තෘප්තියට වඩා ත්‍රිවිද්‍යාව (Triple Knowledge) ලබා ගැනීමෙන් ලැබෙන ආධ්‍යාත්මික සැනසීම උසස් බව.",
+        "core_truth_of_sutta": "තාවකාලික භෞතික සැරසිලි (Physical Adornments) වලට වඩා අධ්‍යාත්මික විද්‍යාවන් (Spiritual Knowledge) සාක්ෂාත් කර ගැනීම පරම සැනසීමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ත්‍රිවිද්‍යාව (Triple Knowledge) සාක්ෂාත් කිරීම.",
+            "how_it_aids_liberation": "ආශාවන් (Taṇhā) ඇති කරන රූප සහ වස්තූන් කෙරෙහි ඇති ඇලීම ප්‍රඥාව මගින් ප්‍රහීණය කිරීමෙන් නිවනට මග පාදයි.",
+            "practical_renunciation": "ශරීරය සහ ඇඳුම් පැළඳුම් කෙරෙහි ඇති අස්මීමානය (Ego/Identification) ක්‍රමයෙන් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "තෘෂ්ණාව (Craving)",
+                "මෝහය (Delusion)",
+                "සති (Mindfulness)"
+            ],
+            "cognitive_impact": "බාහිර පෙනුම මත පදනම් වූ ආත්ම අභිමානය (Self-esteem based on appearance) වෙනුවට අභ්‍යන්තර ගුණාංග මත පදනම් වූ ස්වයං-අවබෝධයක් ඇති කිරීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) - වටිනාකම් මත පදනම් වූ ජීවිතයක් සඳහා ලෞකික බැඳීම් පිළිගනිමින් අත්හැරීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Reward System (Dopaminergic pathways)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "සැරසිලි මගින් ලැබෙන ක්ෂණික තෘප්තිය (Instant Gratification) වෙනුවට ගැඹුරු ඥානය කෙරෙහි යොමු වීමෙන් මොළයේ Reward Circuitry පද්ධතිය වඩාත් ස්ථාවර සහ සන්සුන් තත්ත්වයකට (Neuroplasticity) පත් වේ.",
+            "stress_reduction_mechanism": "බාහිර පෙනුම නඩත්තු කිරීමට ඇති සමාජීය ආතතිය (Social Evaluation Threat) අඩුවීම නිසා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Prefrontal Cortex හරහා චිත්තවේග පාලනය ශක්තිමත් වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Value Re-evaluation",
+            "Attentional Shift"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් භාවය (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "භෞතික ආශාවන්ගෙන් පටන් ගෙන අධ්‍යාත්මික විමුක්තිය දක්වා ගලා යයි.",
+            "mood_keywords": [
+                "නිදහස",
+                "ප්‍රඥාව",
+                "අත්හැරීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Determination Theory",
+                "parallel_description": "බාහිර අභිප්‍රේරණයන් (External motivators - සැරසිලි) අභිබවා අභ්‍යන්තර වර්ධනය (Intrinsic growth - ඥානය) මගින් සැබෑ මානසික තෘප්තිය ළඟා කර ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බාහිර අලංකාරයට වඩා ශීලය සහ ප්‍රඥාව උතුම් බව",
+                "related_teachings": [
+                    "ධම්මපදය - පුප්ඵ වග්ගය"
+                ],
+                "connection_type": "සදාචාරාත්මක සහ ප්‍රඥාමය සමානකම්"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර පෙනුම හැඩගැන්වීමට වැය කරන කාලය සහ ශ්‍රමය සිතේ ප්‍රඥාව සහ ගුණධර්ම වර්ධනය කිරීමට යොමු කිරීම සැබෑ සතුටට මගයි.",
+        "daily_practice_steps": [
+            "බාහිර සැරසිලි සඳහා ඇති අසීමිත ආශාව හඳුනා ගැනීම.",
+            "දිනකට සුළු වෙලාවක් හෝ අධ්‍යාත්මික පොත පත කියවීම හෝ භාවනා කිරීම.",
+            "ලෞකික දේවල තාවකාලික බව මෙනෙහි කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සුවීලිත්තෝ සුවසනෝ සබ්බාභරණභූසිතෝ\nතිස්සෝ විජ්ජා අජ්ඣගමිං කතං බුද්ධස්ස සාසන’න්ති",
+            "sinhala": "මං ඉස්සර හිටියෙ සුවඳ විලවුන් ගා ගත්ත ගමන්. වටිනා සළුපිළි තමයි හැන්දේ. හැම ආභරණයකින් ම සැරසිලා හිටියා. එහෙත් දැන් මා ත්‍රිවිද්‍යාව ලබාගත්තා. බුදු සසුන සම්පූර්ණ කරගත්තා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා යසෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් යස නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "nikaya": "පඤ්චක නිපාතෝ",
+    "vagga": "යාගු සුත්තං",
+    "sutta_title": "කැඳ ගැන වදාළ දෙසුම",
+    "id": "9972",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සෞඛ්‍යය සහ කායික පාලනය (Health and Physiological Regulation)",
+        "complexity_rating": 2,
+        "analysis_confidence": 95,
+        "short_summary": "කැඳ පරිභෝජනයෙන් කුසගින්න සහ පිපාසය නිවීම, වාතය පිටවීම, මල මාර්ගය පිරිසිදු වීම සහ ආහාර දිරවීම යන අනුසස් පහ ලැබේ.",
+        "long_summary": "බුදුරජාණන් වහන්සේ විසින් කැඳෙහි අඩංගු අනුසස් පහක් මෙහි විස්තර කෙරේ. පළමුව, එය කුසගින්න සහ පිපාසය සන්සිඳුවයි. දෙවනුව, ශරීරයේ වාතය බැහැර කිරීමටත්, මල මාර්ගය පිරිසිදු කිරීමටත් (Laxative effect) උපකාරී වේ. අවසාන වශයෙන්, ආමාශයේ රැඳී ඇති අජීර්ණ ආහාර දිරවීමට අවශ්‍ය පසුබිම සකසමින් සමස්ත කායික සෞඛ්‍යය නංවාලීමට කැඳ ඉවහල් වන බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "කැඳ පරිභෝජනය මගින් ශරීරයේ මූලික කායික අවශ්‍යතා තෘප්තිමත් කරමින් සුවපහසුව ඇති කරන ආකාරය සහ ජීර්ණ පද්ධතියේ ක්‍රියාකාරිත්වය විධිමත් කරන ආකාරය.",
+        "core_truth_of_sutta": "ශරීරයේ පැවැත්මට අවශ්‍ය මූලික කායික අවශ්‍යතා නිසි පරිදි සපුරාලීම මානසික නිරවුල්භාවයට සහ සෞඛ්‍යයට අත්‍යවශ්‍ය වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කායගතාසති පදනම (Basis of Mindfulness of Body)",
+            "how_it_aids_liberation": "ශරීරය පීඩාවකින් තොරව (කුසගින්නෙන් තොරව) තබා ගැනීමෙන් භාවනානුයෝගියාට චිත්ත ඒකාග්‍රතාවය ලබා ගැනීම පහසු වේ.",
+            "practical_renunciation": "ආහාරය රසය සඳහා නොව, ශරීරයේ පැවැත්ම සහ පීඩා දුරු කිරීම සඳහා පමණක් ය යන මධ්‍යම ප්‍රතිපදාව පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "තෘප්තිය (Satisfaction)",
+                "වේදනාව සමනය කිරීම (Alleviating physical discomfort)"
+            ],
+            "cognitive_impact": "කුසගින්න සහ පිපාසය නිසා ඇතිවන මානසික අවසන්සන් බව (Cognitive load/irritation) ඉවත් කර සිතේ අවධානය (Attention control) වැඩි දියුණු කරයි.",
+            "modern_psychology_parallel": "Maslow's Hierarchy of Needs - මූලික කායික අවශ්‍යතා (Physiological needs) සපුරා ගැනීම මානසික උසස් තත්ත්වයන් ළඟා කර ගැනීමට පූර්ව අවශ්‍යතාවයකි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Hypothalamus (කුසගින්න සහ පිපාසය පාලනය)",
+                "Enteric Nervous System (ආමාශගත ස්නායු පද්ධතිය)",
+                "Vagus Nerve (වේගස් ස්නායුව)"
+            ],
+            "neuroplasticity_and_habit": "සැහැල්ලු ආහාර රටාවකට හුරු වීමෙන් මොළයේ පලනයක් නොමැති ආශාවන් (Dopamine-driven binge eating) පාලනය කිරීමට උපකාරී වන ස්නායුක පථ ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "ජීර්ණ පද්ධතියේ අපහසුතා ඉවත් වීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, කෝටිසෝල් (Cortisol) මට්ටම පහත වැටීමෙන් ශරීරය සන්සුන් වේ."
+        },
+        "cognitive_mechanisms": [
+            "සංවේදක තෘප්තිය (Sensory Satisfaction)",
+            "කායික සමස්ථිතිය (Homeostasis)",
+            "අභ්‍යන්තර කායික අවබෝධය (Interoceptive Awareness)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සැනසීම (Equanimity/Contentment)",
+            "emotional_intensity": 4,
+            "emotional_arc": "අවශ්‍යතාවයෙන් තෘප්තියට (Need to Satisfaction)",
+            "mood_keywords": [
+                "සන්සුන්",
+                "නිරවුල්",
+                "ප්‍රබෝධමත්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "පෝෂණ විද්‍යාව (Nutritional Science)",
+                "theory_name": "ජීර්ණ පද්ධතියේ කාර්යක්ෂමතාව (Digestive Efficiency)",
+                "parallel_description": "දියරමය ආහාරයක් ලෙස කැඳ ඉක්මනින් ජීර්ණය වීම සහ සජලනය (Hydration) ලබා දීම මගින් පරිවෘත්තීය ක්‍රියා වේගවත් කරයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ආහාරයේ මාත්‍රාව දැන ගැනීම (Matannuta ca bhattasmi)",
+                "related_teachings": [
+                    "භෝජනේ මාත්‍රඤ්ඤුතා (Bhojane Mattaññutā)"
+                ],
+                "connection_type": "සාරධර්මීය සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ශරීරයට හිතකර සැහැල්ලු ආහාරයක් ලෙස කැඳ භාවිතයෙන් දිනපතා සෞඛ්‍යය සහ මානසික ප්‍රබෝධය පවත්වා ගත හැක.",
+        "daily_practice_steps": [
+            "උදෑසන ආහාරය සඳහා පෝෂණීය කැඳ වර්ගයක් තෝරා ගන්න.",
+            "ආහාර ගන්නා විට එය කුසගින්න සහ පිපාසය නිවන ආකාරය ගැන අවධානයෙන් සිටින්න (Mindful eating).",
+            "ජීර්ණ පද්ධතියේ පහසුව සලසන ආහාර මගින් මනසට ලැබෙන සැහැල්ලුව නිරීක්ෂණය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ, පඤ්ච ආනිසංසා යාගුයාති.",
+            "sinhala": "මහණෙනි, කැඳෙහි මේ අනුසස් පස ඇත්තේ ය. ඒ කවර පසක් ද යත්; කුසගිනි නසයි. පිපාසය දුරු කරයි. වාතය බැහැර කරයි. මල මාර්ගය පිරිසිදු කරයි. ආමාශයෙහි ඉතිරි වී ඇති ආහාර දිරවයි. මහණෙනි, කැඳෙහි මේ අනුසස් පස ඇත්තේ ය."
+        }
+    ]
+}

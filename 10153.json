@@ -1,0 +1,102 @@
+{
+    "nikaya": "ඡක්ක නිපාතෝ",
+    "vagga": "බලසුත්තං",
+    "sutta_title": "බලයන් ගැන වදාළ දෙසුම",
+    "id": "10153",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Spiritual Faculties and Liberation (Indriya/Bala)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ශ්‍රද්ධාව ඇතුළු පංච බලයන්ගෙන් යුක්තව, ආශ්‍රවයන් ක්ෂය කර විමුක්තිය ලැබූ භික්ෂුව ලෝකයේ අනුත්තර පින් කෙතක් බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+        "long_summary": "භික්ෂුවක් දන් පැන් පිදීමට සුදුසු සහ ලෝකයාට අනුත්තර පින් කෙතක් වීමට අවශ්‍ය කරුණු හයක් මෙහි විස්තර වේ. එනම්: ශ්‍රද්ධා බලය (විශ්වාසය), විරිය බලය (වීර්යය), සති බලය (සිහිය), සමාධි බලය (ඒකාග්‍රතාවය), සහ ප්‍රඥා බලය (නුවණ) යන පංච බලයන්ගෙන් යුක්ත වීමත්, අවසානයේ ආශ්‍රවයන් ක්ෂය කිරීමෙන් ලැබෙන අනාශ්‍රව වූ චිත්ත විමුක්තිය සහ ප්‍රඥා විමුක්තිය මේ ජීවිතයේදීම අත්කර ගැනීමත්ය.",
+        "main_discovery": "පංච බලයන් (ශ්‍රද්ධා, විරිය, සති, සමාධි, ප්‍රඥා) පූර්ණ කර අරිහත් ඵලයට පත්වීම තුළින් පුද්ගලයෙකු ලෝකයාගේ පූජාවට සුදුසු උත්තරීතර තත්ත්වයට පත්වේ.",
+        "core_truth_of_sutta": "චිත්ත පාරිශුද්ධිය සහ ප්‍රඥා විමුක්තිය උදාකර ගත් පුද්ගලයා සමාජීය හා ආධ්‍යාත්මික වශයෙන් ඉහළම ගෞරවයට හා පූජනීයත්වයට පත්වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පංච බලයන් පූර්ණ කිරීම සහ ආශ්‍රවක්ෂය (Destruction of Taints) හරහා ලබන උභය විමුක්තිය.",
+            "how_it_aids_liberation": "සූත්‍රය මගින් අරහත් මාර්ගය පියවරෙන් පියවර විග්‍රහ කරන අතර, එය සෘජුවම ක්ලේශයන්ගෙන් මිදීමට (Liberation) මග පෙන්වයි.",
+            "practical_renunciation": "ආශ්‍රවයන් (Asavas) බැහැර කිරීම තුළින් සසර බැඳීම් අත්හැරීම පුහුණු කරයි."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Faith (ශ්‍රද්ධා)",
+                "Persistence (විරිය)",
+                "Mindfulness (සති)",
+                "Concentration (සමාධි)",
+                "Insight (ප්‍රඥා)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය පාලනය කර (Cognitive control), අවබෝධය තුළින් මානසික නිදහස (CBT වලට සමාන cognitive restructuring) ලබා ගැනීම.",
+            "modern_psychology_parallel": "සති සහ සමාධි බලය Mindfulness-Based Cognitive Therapy (MBCT) හි ක්‍රියාවලියට සමාන වන අතර, ආශ්‍රව ක්ෂය කිරීම යනු සිතේ මුල් බැසගත් maladaptive schemas ඉවත් කිරීමයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (Executive Function)",
+                "Anterior Cingulate Cortex (Attention)",
+                "Default Mode Network (DMN - Deactivation during Samadhi)"
+            ],
+            "neuroplasticity_and_habit": "විරිය සහ සති පුහුණුව මගින් නියුරෝන අතර නව සබඳතා ඇති කරමින් (Synaptic Plasticity), අකුසල මූලික පැරණි පුරුදු (Habitual responses) අක්‍රීය කරයි.",
+            "stress_reduction_mechanism": "සමාධි සහ ප්‍රඥා බලය වර්ධනය වීමත් සමඟ Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, Cortisol මට්ටම පාලනය වීමෙන් චිත්තවේගීය ස්ථාවරත්වය (Emotional regulation) ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Control",
+            "Cognitive Flexibility",
+            "Metacognition",
+            "Affective Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 5,
+            "emotional_arc": "විශ්වාසයේ සිට ප්‍රඥාව දක්වා සහ පසුව පරම සාමය කරා (Faith to Wisdom to Absolute Peace)",
+            "mood_keywords": [
+                "Serene",
+                "Stable",
+                "Empowered",
+                "Transcendental"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Determination Theory",
+                "parallel_description": "ශ්‍රද්ධාව සහ විරිය මගින් ඇතිකරන අභ්‍යන්තර පෙළඹවීම (Intrinsic Motivation) පුද්ගල වර්ධනයට බලපාන ආකාරය.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Bala (Powers)",
+                "related_teachings": [
+                    "Indriya Vibhanga Sutta",
+                    "Sammappadhana Sutta"
+                ],
+                "connection_type": "Direct development of spiritual faculties into powers."
+            }
+        ],
+        "practical_takeaway_sinhala": "විශ්වාසය, උත්සාහය සහ සිහිය දියුණු කරගැනීමෙන් ඕනෑම අයෙකුට තම සිතේ පීඩනය අවම කරගෙන උසස් මානසික තත්ත්වයකට පත්විය හැකිය.",
+        "daily_practice_steps": [
+            "තමා කරන කාර්යය කෙරෙහි ශ්‍රද්ධාව (පැහැදීම) ඇති කරගන්න.",
+            "අපලස නොවී අඛණ්ඩව උත්සාහය (විරිය) පවත්වා ගන්න.",
+            "වර්තමාන මොහොතේ සිහියෙන් (සති) යුතුව කටයුතු කරන්න.",
+            "දිනකට සුළු වේලාවක් හෝ සිත එකඟ කිරීමට (සමාධි) හුරුවන්න.",
+            "ඕනෑම ගැටලුවක යථාර්ථය අවබෝධයෙන් (ප්‍රඥා) විමසා බලන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථිනිදානං ...................",
+            "sinhala": "සැවැත් නුවර දී ය ..................."
+        },
+        {
+            "pali": "ඡහි භික්ඛවේ ධම්මේහි සමන්නාගතෝ භික්ඛු ආහුනෙය්‍යෝ හෝති ....(පෙ).... අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්ස. කතමේහි ඡහි:",
+            "sinhala": "මහණෙනි, කරුණු හයකින් සමන්විත වූ භික්ෂුව දන් පැන් පිදීමට සුදුසු වෙයි. ....(පෙ).... ලෝකයාගේ අනුත්තර වූ පින් කෙත වෙයි. ඒ කවර සය කරුණකින් ද යත්;"
+        },
+        {
+            "pali": "සද්ධාබලේන විරියබලේන සතිබලේන සමාධිබලේන පඤ්ඤාබලේන, ආසවානං ඛයා අනාසවං චේතෝවිමුත්තිං පඤ්ඤාවිමුත්තිං දිට්ඨේව ධම්මේ සයං අභිඤ්ඤා සච්ඡිකත්වා උපසම්පජ්ජ විහරති.",
+            "sinhala": "ශ්‍රද්ධා බලයෙන් ය, විරිය බලයෙන් ය, සති බලයෙන් ය, සමාධි බලයෙන් ය, ප්‍රඥා බලයෙන් ය, ආශ්‍රවයන් ක්ෂය වීමෙන් අනාශ්‍රව වූ චිත්ත විමුක්තියත්, ප්‍රඥා විමුක්තියත් මේ ජීවිතයේදී ම තම විශිෂ්ට නුවණින් අත්දැක එයට පැමිණ වාසය කිරීමෙන් ය."
+        },
+        {
+            "pali": "ඉමේහි ඛෝ භික්ඛවේ ඡහි ධම්මේහි සමන්නාගතෝ භික්ඛු ආහුනෙය්‍යෝ හෝති ....(පෙ).... අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්සාති.",
+            "sinhala": "මහණෙනි, මේ කරුණු හයෙන් සමන්විත වූ භික්ෂුව දන් පැන් පිදීමට සුදුසු වෙයි. ....(පෙ).... ලෝකයාගේ අනුත්තර වූ පින් කෙත වෙයි."
+        }
+    ]
+}

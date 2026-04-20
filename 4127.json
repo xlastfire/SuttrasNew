@@ -1,0 +1,87 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "දුතිය සීල සුත්තං",
+    "sutta_title": "සීලය ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "4127",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Sila and The Noble Eightfold Path",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සීල සම්පන්න භික්ෂුවක් විසින් රාග, ද්වේෂ, මෝහ ප්‍රහීණය කරමින් ආර්ය අෂ්ටාංගික මාර්ගය පරිපූර්ණ කර නිවැරදි දෘෂ්ටිය හා සමාධිය ලඟා කර ගන්නා ආකාරය මෙහි දැක්වේ.",
+        "long_summary": "සීලය පදනම් කරගත් භික්ෂුව ආර්ය අෂ්ටාංගික මාර්ගය ක්‍රමානුකූලව දියුණු කරන ආකාරය මෙම සූත්‍රය විස්තර කරයි. මෙහිදී ප්‍රධාන වශයෙන් රාගය, ද්වේෂය සහ මෝහය දුරු කිරීමේ අනුපිළිවෙලක් අනුගමනය කෙරේ. මෙම ක්ලේශයන් ප්‍රහීණය කිරීමෙන් පසු භික්ෂුව සම්මා දිට්ඨිය (නිවැරදි දෘෂ්ටිය) වර්ධනය කර ගන්නා අතර, අවසානයේ සම්මා සමාධිය (නිවැරදි චිත්තේකාග්‍රතාවය) කරා ගමන් කරමින් ආර්ය අෂ්ටාංගික මාර්ගයේ පරිපූර්ණත්වය අත්පත් කර ගනී.",
+        "main_discovery": "සීලය පදනම් කරගෙන රාග, ද්වේෂ, මෝහ දුරු කිරීම තුළින් ආර්ය අෂ්ටාංගික මාර්ගය පරිපූර්ණත්වයට පත්වන අනුපිළිවෙල.",
+        "core_truth_of_sutta": "ක්ලේශයන් (රාග, ද්වේෂ, මෝහ) දුරු කිරීම යනු ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රායෝගිකව පරිපූර්ණ කිරීමේ ක්‍රියාවලියයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සීලය මත පදනම් වූ ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කිරීම.",
+            "how_it_aids_liberation": "සංසාරික බැඳීම් ඇති කරන රාග, ද්වේෂ සහ මෝහ මුලිනුපුටා දැමීම මගින් නිවනට අවශ්‍ය පදනම සකසයි.",
+            "practical_renunciation": "ක්ලේශයන් උපදින මූලයන් හඳුනාගෙන ඒවා ප්‍රහීණය කිරීමට වීර්යය වැඩීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "රාගය (Attachment)",
+                "ද්වේෂය (Aversion)",
+                "මෝහය (Delusion)",
+                "සම්මා දිට්ඨිය (Right View)"
+            ],
+            "cognitive_impact": "අකුසල මූලයන් දුරු කිරීම මගින් සිතේ ඇති වන ආවේගාත්මක ප්‍රතිචාර පාලනය වී තර්කානුකූල හා යථාර්ථවාදී චින්තනයක් (Reasoning) ඇති කරයි.",
+            "modern_psychology_parallel": "සීලය හා මනෝවිද්‍යාත්මක විනය (Self-regulation) මගින් විධායක ක්‍රියාකාරිත්වය (Executive Function) දියුණු කිරීමේ ක්‍රමවේදයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Amygdala",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "සීලය රැකීම සහ මාර්ගය ප්‍රගුණ කිරීම මගින් මොළයේ පූර්ව මස්තිෂ්කය (PFC) ශක්තිමත් වන අතර, පැරණි ක්ලේශ සහගත ස්නායු පථ (Neural Pathways) දුර්වල වී නව සතිමත් පථ නිර්මාණය වේ (Neuroplasticity).",
+            "stress_reduction_mechanism": "ද්වේෂය දුරු කිරීමේදී Amygdala හි ක්‍රියාකාරිත්වය අඩු වන අතර, එමගින් Cortisol මට්ටම පහත වැටී මානසික පීඩනය අවම වේ."
+        },
+        "cognitive_mechanisms": [
+            "Ethical Restraint",
+            "Cognitive Restructuring",
+            "Attentional Control",
+            "Affective Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "විනයගත වීමෙන් ආරම්භ වී ක්ලේශයන් ප්‍රහීණය වීම හරහා ලැබෙන ශාන්තිය දක්වා.",
+            "mood_keywords": [
+                "Discipline",
+                "Clarity",
+                "Purification",
+                "Freedom"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "සීලය මගින් හැසිරීම් පාලනය කිරීම (Behavioral Activation) හරහා වැරදි දෘෂ්ටීන් (Cognitive Distortions) නිවැරදි කරගැනීමට අවකාශ සලසයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "The Noble Eightfold Path (ආර්ය අෂ්ටාංගික මාර්ගය)",
+                "related_teachings": [
+                    "Dhammacakkappavattana Sutta",
+                    "Sila Sutta"
+                ],
+                "connection_type": "Structural Framework"
+            }
+        ],
+        "practical_takeaway_sinhala": "යහපත් හැසිරීම (සීලය) පවත්වා ගනිමින් සිතේ ඇතිවන දැඩි ආශාවන් සහ කෝපය පාලනය කිරීම මානසික නිදහසට ඇති එකම මඟයි.",
+        "daily_practice_steps": [
+            "තම හැසිරීම් හා වචනය පාලනය කරමින් සීලය ආරක්ෂා කිරීම.",
+            "සිතේ රාගයක් හෝ කෝපයක් උපදින විට එය හඳුනාගෙන පාලනය කිරීමට උත්සාහ කිරීම.",
+            "සෑම දිනකම සුළු වෙලාවක් හෝ සිත එකඟ කරගැනීමට (සමාධියට) හුරු වීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "නාහං භික්ඛවේ, අඤ්ඤං ඒකධම්මම්පි සමනුපස්සාමි, යේන අනුප්පන්නෝ වා අරියෝ අට්ඨංගිකෝ මග්ගෝ උප්පජ්ජති, උප්පන්නෝ වා අරියෝ අට්ඨංගිකෝ මග්ගෝ භාවනාපාරිපූරිං ගච්ඡති, යථයිදං භික්ඛවේ, සීලසම්පදා. සීලසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, යමක් හේතු කොට ගෙන නූපන් ආර්ය අෂ්ටාංගික මාර්ගය උපදියි නම්, උපන් ආර්ය අෂ්ටාංගික මාර්ගය දියුණු වීමෙන් පරිපූර්ණත්වයට යයි නම්, මහණෙනි, යම් බඳු මේ සීලය නම් වූ සම්පත්තිය වැනි අන් එක් ධර්මයක් වත් මම නොදකිමි."
+        }
+    ]
+}

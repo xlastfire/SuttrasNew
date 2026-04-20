@@ -1,0 +1,91 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "පෝසිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15337",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සම්මාචාරය සහ ඉන්ද්‍රිය සංවරය (Virtuous Conduct and Restraint)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "ධර්මධර භික්ෂුවක් කාන්තාවන්ගෙන් ඈත්ව විසීමෙන් සහ අනවශ්‍ය කතා බහෙන් වැළකී සිටීමෙන් තම ශීලයේ උත්තම භාවය ආරක්ෂා කරගන්නා ආකාරය මෙහි දැක්වේ.",
+        "long_summary": "සද්ධර්මය පිළිබඳ දැනුම ඇති භික්ෂුවකගේ උත්තම භාවය තීරණය වන්නේ කාන්තාවන් ඇසුරෙන් ඈත්ව සිටීමෙනි. ආයුෂ්මත් පෝසිය රහතන් වහන්සේ විසින් දේශනා කරන ලද මෙම අනුශාසනාවට අනුව, උන්වහන්සේ අරණ්‍යයේ සිට ගමට තම පැරණි නිවසට වැඩිය ද, නැවත නික්ම යන විට කිසිදු වචනයක් ප්‍රකාශ නොකර විනයානුකූලව වැඩම කළ සේක. මෙය සම්මාචාරය සහ විනයෙහි ඇති වැදගත්කම මැනවින් නිරූපණය කරයි.",
+        "main_discovery": "සද්ධර්මය පිළිබඳ දැනුම ඇති අයෙකු කාන්තාවන් වැනි ඇලීමට හේතු වන අරමුණු වලින් ඈත්ව සිටීම සහ දැඩි ඉන්ද්‍රිය සංවරය උතුම් බව.",
+        "core_truth_of_sutta": "ප්‍රායෝගික විනය සහ ඉන්ද්‍රිය සංවරය නොමැති ධර්ම ඥානය අසම්පූර්ණ වන අතර, අරමුණු කෙරෙහි බැඳීම් ඇති නොවන පරිදි හැසිරීම උතුම් වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉන්ද්‍රිය සංවර ශීලය (Moral restraint of the senses).",
+            "how_it_aids_liberation": "සරාගී අරමුණු (Sensual triggers) වලින් ඉවත් වීමෙන් චිත්ත ඒකාග්‍රතාවය සහ පූර්ණ නිදහස උදා වේ.",
+            "practical_renunciation": "තමා කලින් බැඳී සිටි පුද්ගලයන් හෝ පරිසරයන් සමග අනවශ්‍ය ලෙස වචන හුවමාරු නොකර (Non-attachment in speech) නිහඬව පිටත්ව යාම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ධර්මධරත්වය (Moral knowledge)",
+                "සංවරය (Restraint)",
+                "අකෝලාහලය (Non-conflict)",
+                "උපේක්ෂාව (Equanimity)"
+            ],
+            "cognitive_impact": "සිතේ ඇති වන ආවේග පාලනය (Inhibitory control) ශක්තිමත් කිරීම සහ මතකය ඔස්සේ පරණ බැඳීම් අලුත් වීම වැළැක්වීම.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි සඳහන් වන Trigger avoidance සහ Impulse management ශිල්පීය ක්‍රම වලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (Executive Control Network)",
+                "Amygdala (Emotional response)",
+                "Default Mode Network (Self-referential thought)"
+            ],
+            "neuroplasticity_and_habit": "පැරණි බැඳීම් සහිත පරිසරයකදී පවා ප්‍රතිචාර නොදක්වා සිටීම (Response inhibition) මගින් මොළයේ පවතින සරාගී ස්නායුක මාර්ග (Neural pathways) දුර්වල වී ස්වයං පාලනය ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අනවශ්‍ය වචන කතා නොකිරීමෙන් සහ ඈත්ව සිටීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, කෝටිසෝල් (Cortisol) මට්ටම පාලනය කරමින් සාමකාමී මානසිකත්වයක් පවත්වා ගැනීමට උදවු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restraint",
+            "Impulse Control",
+            "Stimulus Control",
+            "Focused Attention"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Equanimity mixed with Dispassion)",
+            "emotional_intensity": 7,
+            "emotional_arc": "ධර්මය පිළිබඳ අවබෝධයේ සිට දැඩි විනය සහ අත්හැරීම දක්වා (Knowledge to Self-Discipline)",
+            "mood_keywords": [
+                "සංවරය",
+                "නිශ්ශබ්දතාව",
+                "උපේක්ෂාව",
+                "නිදහස"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Stimulus Control Therapy",
+                "parallel_description": "අහිතකර චර්යාවන් ( maladaptive behaviors) ඇති කරන පරිසරයන්ගෙන් සහ අරමුණු වලින් ඈත් වීම මගින් සිතේ ස්වයං පාලනයක් ඇති කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය සංවරය (Restraint of Senses)",
+                "related_teachings": [
+                    "සම්මා වාචා",
+                    "සම්මා කම්මන්ත"
+                ],
+                "connection_type": "ධර්මධරත්වය විනයෙහි ප්‍රායෝගිකව ක්‍රියාත්මක කිරීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ගැටුම් හෝ බැඳීම් ඇති විය හැකි තැන්වලදී අනවශ්‍ය කතාවෙන් වැළකී, සංවරව එතැනින් ඉවත් වීම මානසික නිදහසට මගකි.",
+        "daily_practice_steps": [
+            "තමාගේ සංවරයට බාධා කරන පුද්ගලයන් හෝ පරිසරයන් හඳුනාගෙන ඒවායින් ඈත් වන්න.",
+            "කතාවෙන් සිත විසිරෙන අවස්ථාවලදී නිහඬතාවය (Mindful silence) පුරුදු කරන්න.",
+            "හිටපු පරිසරයකින් හෝ සම්බන්ධතාවයකින් ඉවත් වන විට බැඳීම් ඉතිරි නොවන සේ උපේක්ෂාවෙන් නික්මෙන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අනාසන්නවරා ඒතා නිච්චමේව විජානතා\nගාමා අරඤ්ඤමාගම්ම තතෝ ගේහං උපාවිසිං\nතතෝ උට්ඨාය පක්කමිං අනාමන්තිය පෝසියෝ’ති",
+            "sinhala": "සද්ධර්මය දන්නා භික්ෂුව උතුම් ලෙස සලකන්නේ කාන්තාවන් ගෙන් ඈත් වී සිටීම ම යි. මං එදා අරණ්‍යයෙන් ගමට ඇවිත් ගෙදරට ගියා. නමුත් යහනෙන් නැගිට මං පිටත් වෙලා ගියේ කිසිම දෙයක් නො කියා ම යි. මගේ නම ‘පෝසිය’."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා පෝසියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් පෝසිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

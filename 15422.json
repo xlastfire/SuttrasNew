@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "කිම්බිල තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15422",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍ය සහ අනාත්ම (Impermanence and Non-self)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කිම්බිල රහතන් වහන්සේ විසින් රූපයේ අනිත්‍යතාව සහ අනාත්ම ස්වභාවය නුවණින් විමසා බලා බැඳීම් අත්හැරිය යුතු ආකාරය මෙම ගාථාවෙන් පෙන්වා දෙයි.",
+        "long_summary": "තරුණ බව වැනි ගොඩනැගුණු දේවල් පවා බිඳී වැටෙන ස්වභාවයෙන් යුක්ත බවත්, ශාරීරික රූපය සැබවින්ම තමාට අයත් නොවන බවත් මෙම දේශනාව පවසයි. සිත පිරිසිදු කර ගැනීම සඳහා රූපය දෙස අසන්නෙකු හෝ වෙනත් අයෙකු දෙස බලන්නාක් මෙන් විද්‍යාත්මකව නිරීක්ෂණය කළ යුතුය. රූපය කෙරෙහි පවතින ඇල්ම සහ අල්ලා ගැනීම් (අත්ති) බැහැර කරමින්, නුවණින් යුතුව අනිත්‍ය ස්වභාවය අවබෝධ කර ගැනීම මෙහි පරමාර්ථයයි.",
+        "main_discovery": "ශාරීරික රූපය තමාගේ නොවන බව (අනාත්ම) විද්‍යාත්මකව නිරීක්ෂණය කිරීමෙන් ඇල්ම සහ බැඳීම ප්‍රහාණය කළ හැකි බව.",
+        "core_truth_of_sutta": "රූපය යනු තමාගේ නොවන, අනිත්‍ය වූවක් බව විද්‍යාත්මක නිරීක්ෂකයෙකු ලෙස වටහා ගැනීම සත්‍යාවබෝධයට මගයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "රූපය කෙරෙහි ඇති ඇල්ම විරක්ෂණය කිරීම (Viraaga) සහ අනාත්ම ලක්ෂණය මෙනෙහි කිරීම.",
+            "how_it_aids_liberation": "සක්කාය දිට්ඨිය (self-identification) ප්‍රහාණය කිරීම මගින් භවයෙන් මිදීමට සහ දුක නිවීමට මග පාදයි.",
+            "practical_renunciation": "තමාගේ රූපය කෙරෙහි පවතින 'මම', 'මගේ' යන හැඟීම අත්හැර එය බාහිර වස්තුවක් ලෙස නිරීක්ෂණය කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "රූප ඇල්ම (Lust for form)",
+                "මෝහය (Delusion of self)",
+                "විමංසාව (Investigation)"
+            ],
+            "cognitive_impact": "ස්වයං-ප්‍රතිරූපය (Self-image) පිළිබඳ පවතින දැඩි මානසික බැඳීම (Attachment) ලිහිල් කර, යථාර්ථවාදී දැක්මක් ඇති කරයි.",
+            "modern_psychology_parallel": "පිළිගැනීම සහ කැපවීම පිළිබඳ චිකිත්සාව (Acceptance and Commitment Therapy - ACT) තුළ එන 'Observer Self' සංකල්පයට මෙය ඉතා සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Insula",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "තමා පිළිබඳව නිරන්තරයෙන් සිතන DMN ජාලයේ ක්‍රියාකාරිත්වය අඩු කරමින්, වස්තුමය නිරීක්ෂණය (Object-based observation) හරහා නව ස්නායුක පථ නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "ශරීරයේ වෙනස්වීම් කෙරෙහි දක්වන අතාර්කික බිය (Fear of aging) පාලනය කිරීමට Amygdala හි ක්‍රියාකාරිත්වය සමනය කර Prefrontal Cortex මගින් තර්කානුකූල පාලනයක් ලබා දෙයි."
+        },
+        "cognitive_mechanisms": [
+            "Objectification of the self",
+            "Cognitive Reframing",
+            "Non-attachment",
+            "Impermanence perception"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ඇල්මේ සිට විරාගය දක්වා (From attachment to detachment)",
+            "mood_keywords": [
+                "නිසල",
+                "විද්‍යාත්මක",
+                "විරාගී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Defusion",
+                "parallel_description": "තම ශරීරය හෝ සිතුවිලි තමා ලෙස නොව, බාහිර වස්තුවක් ලෙස නිරීක්ෂණය කිරීම (Self-as-context).",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනිත්‍යතාව සහ අනාත්ම ස්වභාවය",
+                "related_teachings": [
+                    "අනත්තලක්ඛණ සූත්‍රය"
+                ],
+                "connection_type": "මූලධර්මීය සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ ශරීරයේ සිදුවන වයසට යාම හෝ වෙනස්වීම් දෙස බාහිර නිරීක්ෂකයෙකු ලෙස උපේක්ෂාවෙන් බැලීමට හුරු වන්න.",
+        "daily_practice_steps": [
+            "කණ්ණාඩියෙන් බලන විට එම රූපය 'මම' ලෙස නොව, ජෛව විද්‍යාත්මක සංසිද්ධියක් ලෙස නිරීක්ෂණය කරන්න.",
+            "ශරීරයේ ඇති වන වෙනස්වීම් (අනිත්‍ය බව) දෙස නොසැලී බැලීමට පුහුණු වන්න.",
+            "රූපය පිළිබඳව ඇති වන 'මගේ' යන අදහස පැන නගින විට එය සිතුවිල්ලක් පමණක් බව වටහා ගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අභිසන්ථෝව නිපතති\nවයෝ රූපං අඤ්ඤමිව තථේව සන්තං\nතස්සේව සතෝ අවිප්පවසතෝ\nඅඤ්ඤස්සේව සරාමි අත්තාන’න්ති",
+            "sinhala": "අටවා තිබුණ දෙයක් බිම වැටෙන පරිද්දෙනුයි මේ තරුණකම ඇද වැටෙන්නේ. ඔව්! මේ පෙනෙන්නට තියෙන රූපය අනුන්ගේ දෙයක් වගෙයි. මේ රූපය ගැන මගේ සිතේ ඇල්මක් නෑ. මං නුවණින් විමසන්නෙ වෙන කෙනෙකුගේ දෙයක් දිහා බලනවා වගේ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා කිම්බිලෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් කිම්බිල නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

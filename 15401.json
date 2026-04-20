@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "තිස්ස තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15401",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අත්හැරීම සහ විමුක්තිය (Renunciation and Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "වටිනා රන් භාජනයක් අත්හැර මැටි පාත්‍රයක් වැළඳ ගැනීමෙන් ප්‍රකට කරන ලෞකික සම්පත් කෙරෙහි වූ බැඳීම ප්‍රහීණ කිරීමේ උතුම් ආදර්ශය.",
+        "long_summary": "අලංකාර කැටයම් සහිත, අතිශය වටිනා රන් කහවණු දහස් ගණනක් වටිනා රත්තරන් භාජනයක් පරිහරණය කිරීම අත්හැර, ආයුෂ්මත් තිස්ස රහත් මුනිඳුන් මැටි පාත්‍රයක් සිය දෝතට ගත් ආකාරය මෙහි විස්තර වේ. බාහිර ලෝකයේ වටිනාකම් ලෙස සැලකෙන දේවල ඇති නිස්සාර බවත්, සැබෑ ජීවන වටිනාකම ඇත්තේ අල්පේච්ඡතාව සහ අත්හැරීම තුළ බවත් මෙමගින් අවධාරණය කෙරේ.",
+        "main_discovery": "භෞතික වටිනාකම් සහිත වස්තූන් අත්හැරීම තුළින් මානසික නිදහස සහ සැබෑ ජීවන වටිනාකම සාක්ෂාත් කර ගැනීම.",
+        "core_truth_of_sutta": "බාහිර භෞතික වස්තූන් කෙරෙහි පවතින ආශාව (Tanha) අත්හැරීම සැබෑ මානසික විමුක්තියට මග පාදයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "උපාදාන (Clinging) සහ තණ්හාව ප්‍රහීණ කිරීමේ ප්‍රායෝගික පියවරක් ලෙස නෙක්ඛම්මය හඳුනා ගැනීම.",
+            "how_it_aids_liberation": "භෞතික වස්තූන් කෙරෙහි ඇති 'මම' සහ 'මගේ' යන හැඟීම (Sakkaya Ditthi) දුරු කිරීමෙන් සංසාර බැඳීම් ලිහිල් වේ.",
+            "practical_renunciation": "වටිනා සම්පත් කෙරෙහි පවතින මානසික ඇලීම ක්‍රමයෙන් අත්හැරීම සහ සරල ජීවන රටාවකට හුරු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විසංයෝජනය (Detachment)",
+                "තෘප්තිය (Contentment)",
+                "නොඇලීම (Non-attachment)"
+            ],
+            "cognitive_impact": "බාහිර වස්තූන්ගේ වටිනාකම පිළිබඳ පවතින සංජානනය (Cognitive restructuring) වෙනස් කර, ඒවායේ අස්ථිර බව වටහා ගැනීමට මග පාදයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන බැඳීම්වලින් තොරව සිතුවිලි දෙස බැලීමේ (Defusion) ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Ventral Striatum (Reward system)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "රන් භාජන වැනි වස්තූන්ගෙන් ලැබෙන තාවකාලික සතුට (Dopaminergic reward) වෙනුවට, අත්හැරීමෙන් ලැබෙන ස්ථිර මානසික සහනය (Endorphin-based peace) මොළයේ නව ස්නායුක පථ (Neural pathways) නිර්මාණය කිරීමට උදවු වේ.",
+            "stress_reduction_mechanism": "වස්තූන් ආරක්ෂා කිරීමට ඇති වන බිය සහ ආතතිය (Cortisol) අඩුවීමෙන් Amygdala හි ක්‍රියාකාරිත්වය සමනය වී සන්සුන් බව ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Value Re-appraisal",
+            "Attentional Shifting",
+            "Cognitive Decoupling"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "භෞතික වස්තූන් කෙරෙහි වූ බැඳීමෙන් මිදී අධ්‍යාත්මික නිදහස කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිස්කලංක",
+                "නිදහස්",
+                "ස්ථාවර"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Minimalism & Subjective Well-being",
+                "parallel_description": "භෞතික සම්පත් අවම කිරීම (Material minimalism) මානසික ආතතිය අඩු කිරීමට සහ ජීවිත තෘප්තිය (Life satisfaction) වැඩි කිරීමට හේතු වන බව නූතන මනෝවිද්‍යාවේ පෙන්වා දෙයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නෙක්ඛම්ම (Renunciation)",
+                "related_teachings": [
+                    "Pabbajja Sutta",
+                    "Dhammapada (Tanhavagga)"
+                ],
+                "connection_type": "ධර්ම විනයානුකූල අනුශාසනා"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ වටිනාකම තීරණය වන්නේ අප සතු භෞතික සම්පත් ප්‍රමාණය මත නොව, අප තුළ ඇති අත්හැරීමේ සහ මානසික නිදහසේ ප්‍රමාණය මතය.",
+        "daily_practice_steps": [
+            "තමන් අතිශයින් ප්‍රිය කරන එක් භෞතික වස්තුවක් දෙස මැදහත් සිතින් බැලීමට පුරුදු වන්න.",
+            "භාණ්ඩ පරිහරණයේදී එහි වටිනාකමට වඩා අවශ්‍යතාවයට මුල් තැන දෙන්න.",
+            "අත්හැරීමෙන් ලබන මානසික සැහැල්ලුව දිනපතා අවධානයට ලක් කරන්න (Mindfulness of letting go)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "හිත්වා සතපලං කංසං සෝවණ්ණං සතරාජිකං\nඅග්ගහිං මත්තිකාපත්තං ඉදං දුතියාභිසේවන’න්ති",
+            "sinhala": "මට පුළුවන් වුණා රන් කහවණු දහස් ගණන් වටිනා ලස්සන කැටයම් තිබෙන රත්තරන් භාජනේ අත්හරින්ට. ඉතින් මා ඒක අත්හැරලා මැටි පාත්‍රය දෝතට ගත්තා. මේක තමයි මගේ දෙවැනි ඔටුනු පැළඳීම."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා තිස්සෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් තිස්ස නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

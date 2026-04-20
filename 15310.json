@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "භල්ලිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15310",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Fearlessness and Liberation (අභය සහ විමුක්තිය)",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "මහා බලයකින් ඒදණ්ඩක් බිඳ දමන්නා සේ කෙලෙස් සේනාව පරාජය කර, සද්ධර්මය තුළින් බිය සහ තැතිගැනීම ඉක්මවා සිත නිවනෙහි පිහිටුවා පිරිනිවී යාම මෙහි හරයයි.",
+        "long_summary": "මෙම ගාථාව මගින් විස්තර කෙරෙන්නේ රහත් මුනිවරයෙකු තමන් සතු අධ්‍යාත්මික ශක්තිය භාවිතා කරමින් කෙලෙස් නමැති මහා සේනාව විනාශ කළ ආකාරයයි. ඒදණ්ඩක් බිඳ දමන මහා බලයක් මෙන් ඔහු සියලු අභ්‍යන්තර බාධාවන් ජයගෙන ඇත. එහි ප්‍රතිඵලයක් ලෙස ඔහු තුළ මරණයට හෝ වෙනත් කිසිවකට බියක් හෝ තැතිගැනීමක් (Fear or Agitation) ඉතිරි නොවේ. සද්ධර්මය තුළ මනාව දමනය වූ (Self-controlled) ඒ භික්ෂුව, සිත නිවනෙහිම පිහිටුවාගෙන අවසානයේ පිරිනිවන් පාන බව මෙහි සඳහන් වේ.",
+        "main_discovery": "කෙලෙස් සටන ජයග්‍රහණය කිරීම තුළින් උපදින නිරපේක්ෂ නිර්භීතභාවය සහ පිරිනිවීම.",
+        "core_truth_of_sutta": "අධ්‍යාත්මික දමනය සහ කෙලෙස් ප්‍රහාණය තුළින් සියලු බිය සහ සංසාරික බැඳීම් කෙළවර කර නිවන සාක්ෂාත් කිරීම.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කෙලෙස් සටන (Battle against defilements) ජය ගැනීම.",
+            "how_it_aids_liberation": "සිත නිවනෙහි පිහිටුවා ගැනීම (Fixing the mind on Nibbana) මගින් භව ගමන නතර කිරීම.",
+            "practical_renunciation": "බිය සහ තැතිගැනීම ඇති කරන කෙලෙස් මහා සේනාවක් ලෙස හඳුනාගෙන ඒවා බැහැර කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නිර්භීතභාවය (Fearlessness)",
+                "දමනය (Self-discipline)",
+                "නිසල බව (Tranquility)"
+            ],
+            "cognitive_impact": "බාහිර තර්ජන හමුවේ අකම්පිතව සිටීමට හැකි වන පරිදි මනස ස්ථාවර කිරීම (Cognitive Stability).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Psychological Flexibility' තත්ත්වය මෙහිදී උපරිම මට්ටමින් දැකිය හැකිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Amygdala (Fear center regulation)",
+                "Prefrontal Cortex (Executive control)",
+                "Default Mode Network (Deactivation of self-referential thought)"
+            ],
+            "neuroplasticity_and_habit": "කෙලෙස් පරාජය කිරීමේදී මොළයේ පැවති පැරණි ප්‍රතික්‍රියාශීලී රටාවන් (Reactive patterns) මැකී ගොස් ස්වයං-පාලනය (Self-regulation) තහවුරු වන ස්නායුක පථ නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "බිය නැති වීම හරහා ඇමිග්ඩලා (Amygdala) කොටස අකර්මන්‍ය වන අතර කෝටිසෝල් (Cortisol) වැනි ආතති හෝමෝන ශ්‍රාවය වීම අවම වී මොළය උපරිම සාමකාමී මට්ටමකට (Homeostasis) පත්වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Attentional Control",
+            "Emotional Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 9,
+            "emotional_arc": "තැතිගැනීමේ සිට නිරපේක්ෂ සාමය දක්වා (From trepidation to absolute peace)",
+            "mood_keywords": [
+                "නිර්භීත",
+                "දමනය වූ",
+                "ශාන්ත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Exposure Therapy & Cognitive Mastery",
+                "parallel_description": "භීතිය ඇති කරන මූලයන් (කෙලෙස්) සම්පූර්ණයෙන්ම මුලිනුපුටා දැමීම මගින් භීතිකාවන්ගෙන් (Phobias) නිදහස් වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අභය (Fearlessness)",
+                "related_teachings": [
+                    "ධජග්ග සූත්‍රය",
+                    "අභයරාජකුමාර සූත්‍රය"
+                ],
+                "connection_type": "ධර්මයේ පිහිටීමෙන් බිය ඉක්මවා යාම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ ගැටලු සහ බියකරු අවස්ථාවන් හමුවේ සැලෙන්නේ නැතිව, සිත දමනය කරගැනීමෙන් ඕනෑම අභියෝගයක් ජයගත හැකි බව.",
+        "daily_practice_steps": [
+            "තමා තුළ ඇති වන බිය සහ තැතිගැනීම් පිළිබඳව සතිමත්ව නිරීක්ෂණය කරන්න.",
+            "සිත සද්ධර්මය කෙරෙහි හෝ නිසල අරමුණක දමනය කිරීමට දිනකට සුළු වේලාවක් හෝ වෙන් කරන්න.",
+            "බාහිර බලපෑම් වලට වඩා අභ්‍යන්තර කෙලෙස් පාලනය කිරීම කෙරෙහි අවධානය යොමු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යෝපානුදී මච්චුරාජස්ස සේනං\nනළසේතුං ව සුදුබ්බලං මහෝඝෝ\nවිජිතාවී අපේතභේරවෝ හි\nදන්තෝ සෝ පරිනිබ්බුතෝ ඨිතත්තෝ’ති",
+            "sinhala": "ඔහු මාර සේනාව බැහැර කෙරුවේ මහා සැඩ පහරකින් ඒදණ්ඩක් කැඩී බිඳී යන ආකාරයෙන්. කෙලෙස් සටනින් ඔහුට ජය ලැබුණා. කිසිම බියක් තැතිගැනීමක් දැන් එයා ළඟ නෑ. එයා දමනය වෙලා ඉන්නේ සද්ධර්මය තුළයි. සිත නිවනෙහි පිහිටුවාගෙන සිටින ඒ භික්ෂුව පිරිනිවී යාවි."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා භල්ලියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් භල්ලිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "බන්ධුර තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15407",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සදහම් රසය සහ කාම නිස්සරණය",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කාම සැපයේ නිෂ්ඵල බවත්, සදහම් රසය ලැබූ තැනැත්තා කාමයෙන් සම්පූර්ණයෙන්ම මිදෙන බවත් භන්ධුර රහතන් වහන්සේ ප්‍රකාශ කරති.",
+        "long_summary": "භන්ධුර රහත් මුනිඳුන් විසින් දේශනා කරන ලද මෙම ගාථාවට අනුව, ලෞකික කාම සැපය කිසිදු සැබෑ ප්‍රයෝජනයක් නොමැති තාවකාලික දෙයකි. සදහම් රසය හෙවත් ධර්මයේ උත්තරීතර තෘප්තිය අත්විඳි පුද්ගලයා හට කාම සැපය සමඟ කිසිදු බැඳීමක් හෝ එකතුවක් නොපවතී. එය සියලු ලෞකික රසයන් ඉක්මවා ගිය පරම සතුටක් බව මෙහි විස්තර වේ.",
+        "main_discovery": "ලෞකික කාම ආශ්වාදයට වඩා ධර්ම රසය (spiritual joy) ප්‍රණීත බවත්, එය අත්විඳි තැනැත්තා කාමයන්ගෙන් ස්වාභාවිකවම බැහැර වන බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සදහම් රසය ලැබූ විට කාමයන් කෙරෙහි පවතින ආශාව ඉබේම ක්ෂය වී යයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කාම නිස්සරණය (Liberation from Sensuality)",
+            "how_it_aids_liberation": "සදහම් රසය තුළින් සිත තෘප්තිමත් කිරීම (Piti/Sukha) මගින් කාම වස්තූන් කෙරෙහි පවතින බැඳීම (Upadana) ඉවත් කර නිවන කරා යොමු කරයි.",
+            "practical_renunciation": "බාහිර ආශ්වාදයන්ට වඩා ධර්ම ශ්‍රවණය සහ භාවනාව තුළින් ලැබෙන මානසික සතුට පුරුදු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ධර්ම රතිය (Delight in Dhamma)",
+                "කාම විරාගය (Detachment from Sensuality)"
+            ],
+            "cognitive_impact": "කාම වස්තූන් 'සැප' ලෙස දකින විපරීත සංඥාව වෙනුවට, ධර්මය 'සැබෑ තෘප්තිය' ලෙස දකින නිවැරදි ප්‍රජානනය (Right Perception) ඇති වීම.",
+            "modern_psychology_parallel": "Dopamine-driven reward cycle එකෙන් මිදී අභ්‍යන්තර සාමය (Intrinsic contentment) මගින් තෘප්තිය සෙවීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Reward System (Ventral Striatum)",
+                "Prefrontal Cortex",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "ධර්ම රසය පුරුදු කිරීමෙන් මොළයේ කාම උත්තේජක සඳහා වන සංවේදීතාව අඩු වී, අභ්‍යන්තර සමාධිය සහ තෘප්තිය සඳහා වන ස්නායුක පථ ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "ධර්ම රසය තුළින් ලැබෙන තැන්පත් බව නිසා Cortisol මට්ටම අඩු වී, ශාන්තිය ලබා දෙන ස්නායු සම්ප්‍රේෂක උත්තේජනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "තෘප්තිය (Satisfaction)",
+            "විරාගය (Detachment)",
+            "අභිරතිය (Spiritual Delight)",
+            "ප්‍රජානන ප්‍රතිනිර්මාණය (Cognitive Reframing)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "කාමයේ හිස්බව දැකීමෙන් ලැබෙන උත්තරීතර තෘප්තිය.",
+            "mood_keywords": [
+                "නිශ්චල",
+                "නිදහස්",
+                "ප්‍රභාස්වර"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Intrinsic vs Extrinsic Motivation",
+                "parallel_description": "කාම සැපය බාහිර උත්තේජක (extrinsic) මත රඳා පවතින අතර ධර්ම රසය අභ්‍යන්තර තෘප්තිය (intrinsic satisfaction) මත පදනම් වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Nekkhamma (Renunciation)",
+                "related_teachings": [
+                    "කාමයන්ගේ ආදීනව"
+                ],
+                "connection_type": "ධර්ම රසය නිසා කාමය අත්හැරීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර වස්තූන්ගෙන් ලැබෙන තාවකාලික සතුට පසුපස හඹා යෑම පසෙකලා, ධර්මය අවබෝධ කර ගැනීමෙන් ලැබෙන උසස් මානසික සුවය අත්විඳීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා සුළු වේලාවක් හෝ ධර්මය ශ්‍රවණය කර එහි අර්ථය මෙනෙහි කරන්න.",
+            "බාහිර කාම වස්තූන්ගෙන් සිත ඉවත් කර සිතේ පවතින නිශ්චල බවේ රසය අත්විඳීමට උත්සාහ කරන්න.",
+            "කාම සැපයක් ලැබුණු විට එහි අනිත්‍ය බව සහ තාවකාලික බව නුවණින් දකින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "නාහං ඒතේන අත්ථිකෝ සුඛිතෝ ධම්මරසේන තප්පිතෝ\nපීත්වාන රසග්ගමුත්තමං න ච කාහාමි විසේන සන්ථව’න්ති",
+            "sinhala": "මට කාම සැපයෙන් වැඩක් නෑ. සදහම් රසයෙන් සැපවත් වෙලයි මං ඉන්නේ. තෘප්තියට පැමිණිලයි මං ඉන්නේ. රසයන් අතර අග්‍ර වූ සදහම් රස පානය කළ මා පස්කම් සැපය සමඟ නම් එක්වන්නේ නෑ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා බන්ධුරෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් භන්ධුර නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

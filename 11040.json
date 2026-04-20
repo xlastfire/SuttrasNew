@@ -1,0 +1,89 @@
+{
+    "nikaya": "අට්ඨක නිපාතෝ",
+    "vagga": "දුතිය දාන සුත්තං",
+    "sutta_title": "දානය ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "11040",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සීල සහ පරිත්‍යාග (Ethics and Generosity)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "ශ්‍රද්ධාව, හිරි-ඔතප් සහ නිරන්තර දානය යන ගුණධර්ම සත්පුරුෂයන් විසින් දෙව්ලොව කරා යන මාර්ගය ලෙස අනුගමනය කරන බව මෙම සූත්‍රය පවසයි.",
+        "long_summary": "මෙම සූත්‍රය මගින් ශ්‍රද්ධාව (පැහැදීම), පවට ඇති ලැජ්ජාව (හිරි), කුසල් දහම්වල නිරත වීම සහ නිරන්තරයෙන් දානයෙහි (නිතිය) යෙදීම යන සත්පුරුෂ ගුණාංග විස්තර කෙරේ. මෙම ධර්මයන් ප්‍රගුණ කිරීමෙන් පුද්ගලයෙකු උසස් තත්ත්වයන් කරා ගමන් කරන බවත්, එය දෙව්ලොවට මඟ පෙන්වන උතුම් ප්‍රතිපදාව බවත් බුදුපියාණන් වහන්සේ දේශනා කරති.",
+        "main_discovery": "සත්පුරුෂ ගුණධර්ම සහ අඛණ්ඩ දානය මගින් පුද්ගල විඥානය උසස් මට්ටමකට පත් කිරීම.",
+        "core_truth_of_sutta": "අභ්‍යන්තර ගුණධර්ම පෝෂණය කිරීම සහ අත්හැරීම පුහුණු කිරීම උසස් ආධ්‍යාත්මික ගමනක පදනමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සත්පුරුෂ ප්‍රතිපදාව සහ දානය (Generosity and Noble Conduct).",
+            "how_it_aids_liberation": "මසුරුකම දුරු කිරීම (Macchariya) සහ අත්හැරීමේ (Caga) පුහුණුව තුළින් තෘෂ්ණාව ක්‍රමයෙන් ක්ෂය වී නිවන් මඟ විවෘත වේ.",
+            "practical_renunciation": "තමා සතු දේ නිතර දන් දීමෙන් 'මමත්වය' සහ 'හිමිකාරිත්වය' පිළිබඳ බැඳීම ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ශ්‍රද්ධාව (Faith/Trust)",
+                "හිරි (Moral Shame)",
+                "කුසල චේතනා (Wholesome Intentions)"
+            ],
+            "cognitive_impact": "පවට ඇති ලැජ්ජාව තුළින් අකුසල සහජාසයන් (Maladaptive Impulses) පාලනය කිරීමටත්, ශ්‍රද්ධාව තුළින් මනස ඒකාග්‍ර කිරීමටත් උපකාරී වේ.",
+            "modern_psychology_parallel": "පිළිගැනීමේ සහ කැපවීමේ චිකිත්සාව (Acceptance and Commitment Therapy - ACT) තුළ ඇති වටිනාකම් අනුව ජීවත් වීමේ මූලධර්මයට මෙය සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex",
+                "Ventral Striatum",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "නිතිය දන් දීම (Constant giving) මගින් මොළයේ Reward System එක (Dopaminergic pathways) පරිත්‍යාගශීලී ක්‍රියාවන් සමඟ සම්බන්ධ වී ස්වයංක්‍රීය පුරුද්දක් බවට පත්වේ (Long-term Potentiation).",
+            "stress_reduction_mechanism": "පවට ලැජ්ජාව සහ කුසල් වැඩීම තුළින් 'අපරාධකාරී හැඟීම්' (Guilt) අවම වන අතර, එමගින් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී ආතතිය (Cortisol) පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Altruism",
+            "Self-regulation",
+            "Positive Reinforcement",
+            "Cognitive Restructuring"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "ලැජ්ජාව සහ බිය තුළින් හික්මීම ඇති කර, පරිත්‍යාගය හරහා ප්‍රමෝදය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "ශ්‍රද්ධාව",
+                "ප්‍රසාදය",
+                "නිරාමිස සතුට"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Positive Psychology",
+                "theory_name": "Prosocial Behavior and Subjective Well-being",
+                "parallel_description": "අන් අයට උපකාර කිරීම සහ දන් දීම මගින් පුද්ගලයාගේ මානසික තෘප්තිය සහ සතුට ඉහළ යන බව නූතන මනෝවිද්‍යාවේ ද පිළිගැනේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සප්පුරිස ධම්ම (Virtues of a Great Person)",
+                "related_teachings": [
+                    "සප්පුරිස සූත්‍රය",
+                    "දාන සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "තමා සතු සම්පත්වලින් කොටසක් නිතිපතා අන් අයට පරිත්‍යාග කිරීම සහ ගුණවත් දිවියක් ගත කිරීම උසස් මානසික සුවයකට මඟ පාදයි.",
+        "daily_practice_steps": [
+            "සෑම දිනකම අවම වශයෙන් එක් කුඩා හෝ දානයක් ලබා දීමට පුරුදු වන්න.",
+            "වරදක් කිරීමට පෙර ඒ පිළිබඳ ලැජ්ජාවක් සහ බියක් ඇති කරගන්න.",
+            "තමා කරන යහපත් ක්‍රියා පිළිබඳව සිහිපත් කරමින් චිත්ත ප්‍රසාදය ඇති කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "සද්ධා හිරියං කුසලඤ්ච දානං\nධම්මා ඒතේ සප්පුරිසානුයාතා,\nඒතං හි මග්ගං දිවියං වදන්තී\nඒතේහි ගච්ඡති දේවලෝකන්ති",
+            "sinhala": "ශ්‍රද්ධාව ඇති බව ද, පවට ලැජ්ජා ඇති බව ද, කුසල් ඇති බව ද, නිති දන් දෙන බව ද යන මේ ධර්මයන් සත්පුරුෂයන් විසින් අනුගමනය කරන ලද්දේ ය. මෙය දෙව්ලොවට මාර්ගය යැයි කියති. මේ තුළින් දෙව්ලොව යති."
+        }
+    ]
+}

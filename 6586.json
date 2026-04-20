@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "සුද්ධක සුත්තං",
+    "sutta_title": "පිරිසිදු බව ගැන වදාළ දෙසුම",
+    "id": "6586",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංවේදන සහ අත්දැකීම් පිළිබඳ විශ්ලේෂණය (Analysis of Feelings/Indriya)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සැප, දුක, සොම්නස, දොම්නස සහ උපේක්ෂාව යන ඉන්ද්‍රියයන් පහ හරහා මිනිස් අත්දැකීම්වල විවිධත්වය මෙහිදී විග්‍රහ කෙරේ.",
+        "long_summary": "මෙම දේශනාව මගින් මානසික සහ ශාරීරික අත්දැකීම්වල මූලික අවස්ථා පහක් වන සැප ඉන්ද්‍රියය (Pleasant bodily feeling), දුක ඉන්ද්‍රියය (Unpleasant bodily feeling), සොම්නස ඉන්ද්‍රියය (Mental happiness), දොම්නස ඉන්ද්‍රියය (Mental distress) සහ උපේක්ෂා ඉන්ද්‍රියය (Neutral feeling) පිළිබඳව විස්තර කරයි. ජීවිතයේ ඕනෑම අත්දැකීමක් මෙම ස්වභාවයන් පහට යටත් වන බවත්, ඒවා හඳුනා ගැනීම තුළින් අත්දැකීම්වල යථා ස්වභාවය අවබෝධ කරගත හැකි බවත් මෙහි සාරයයි.",
+        "main_discovery": "මානසික අත්දැකීම්වල සමස්ත පරාසය සැප, දුක, සොම්නස, දොම්නස සහ උපේක්ෂාව යන ඉන්ද්‍රියයන් පහක් ලෙස හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සියලු සචේතනික අත්දැකීම් සැප, දුක, සොම්නස, දොම්නස හෝ උපේක්ෂාව යන තත්ත්වයන්ගෙන් බැහැර නොවන බව.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පඤ්ච ඉන්ද්‍රියයන්ගේ උදය හා අත්තංගම පිළිබඳ අවබෝධය (Understanding the rise and fall of five faculties).",
+            "how_it_aids_liberation": "අත්දැකීම් 'මම' හෝ 'මගේ' ලෙස නොගෙන ඉන්ද්‍රියයන්ගේ ක්‍රියාවලියක් ලෙස දැකීමෙන් තණ්හාව නිරුද්ධ වේ.",
+            "practical_renunciation": "සංවේදන කෙරෙහි ඇලීමෙන් සහ ගැටීමෙන් තොරව ඒවායේ විවිධත්වය දෙස සාක්ෂිකරුවෙකු ලෙස බැලීම (Objective observation)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ශාරීරික සැපය සහ දුක",
+                "මානසික ප්‍රීතිය සහ වේදනාව",
+                "මැදහත් බව"
+            ],
+            "cognitive_impact": "අපැහැදිලි හැඟීම් (Vague emotions) පැහැදිලි ප්‍රභේද පහකට වෙන් කර හඳුනාගැනීමෙන් මනස සන්සුන් වේ (Emotional Granularity).",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) වල එන 'Mindfulness of current emotion' සහ 'Labeling feelings' යන ක්‍රමවේදවලට බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Salience Network (වැදගත් සංවේදන හඳුනාගැනීම)",
+                "Insular Cortex (ශරීරයේ අභ්‍යන්තර සංවේදන හඳුනාගැනීම)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "හැඟීම්වලට ක්ෂණිකව ප්‍රතිචාර දැක්වීම වෙනුවට ඒවා හඳුනාගැනීමෙන් (Labeling) මොළයේ 'Top-down regulation' වර්ධනය වී ආවේග පාලනය ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "Prefrontal Cortex මගින් Amygdala වේගවත් බව පාලනය කිරීම නිසා දොම්නස හා දුක හමුවේ ඇතිවන ආතතිය (Cortisol) අඩු වේ."
+        },
+        "cognitive_mechanisms": [
+            "සංවේදන වර්ගීකරණය (Valence Categorization)",
+            "සංජානනීය ස්වභාවය හඳුනාගැනීම (Cognitive Recognition)",
+            "විවේචනාත්මක අවබෝධය (Discernment)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සමබරතාවය (Equanimity)",
+            "emotional_intensity": 5,
+            "emotional_arc": "විවිධ වූ හැඟීම් පරාසයක සිට ස්ථාවර මධ්‍යස්ථ බවක් කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිසල",
+                "පැහැදිලි",
+                "විශ්ලේෂණාත්මක"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Affective Science",
+                "theory_name": "Affective Valence",
+                "parallel_description": "අත්දැකීම් සතු ධනාත්මක (Positive), සෘණාත්මක (Negative) හෝ මධ්‍යස්ථ (Neutral) ගුණයන් මෙහි සඳහන් ඉන්ද්‍රිය පහට අනුරූප වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය විභංගය",
+                "related_teachings": [
+                    "වේදනා සංයුත්තය"
+                ],
+                "connection_type": "ධර්ම විග්‍රහය සමාන වේ."
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබට දැනෙන ඕනෑම හැඟීමක් සැප, දුක, සොම්නස, දොම්නස හෝ උපේක්ෂාව ලෙස නිවැරදිව හඳුනාගෙන ඒවායේ තාවකාලික බව තේරුම් ගන්න.",
+        "daily_practice_steps": [
+            "දිනය පුරා ඇතිවන හැඟීම්වල ස්වභාවය විමසන්න.",
+            "එය සැපක් ද, දුකක් ද නැතිනම් සොම්නසක් හෝ දොම්නසක් ද කියා නම් කරන්න (Labeling).",
+            "හැඟීම මැදහත් නම් එය උපේක්ෂාව ලෙස හඳුනාගන්න.",
+            "කිසිදු හැඟීමකට ප්‍රතිචාර නොදක්වා එය වෙනස් වන ආකාරය නිරීක්ෂණය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "පඤ්චිමානි භික්ඛවේ, ඉන්ද්‍රියානි. කතමානි පඤ්ච: සුඛින්ද්‍රියං, දුක්ඛින්ද්‍රියං, සෝමනස්සින්ද්‍රියං, දෝමනස්සින්ද්‍රියං, උපෙක්ඛින්ද්‍රියං, ඉමානි ඛෝ භික්ඛවේ, පඤ්චින්ද්‍රියානීති.",
+            "sinhala": "මහණෙනි, මේ ඉන්ද්‍රියයෝ පසකි. ඒ කවර පසක් ද යත්, සැපය නම් වූ ඉන්ද්‍රියයකි. දුක නම් වූ ඉන්ද්‍රියයකි. සොම්නස නම් වූ ඉන්ද්‍රියයකි. දොම්නස නම් වූ ඉන්ද්‍රියයකි. උපේක්ෂාව නම් වූ ඉන්ද්‍රියයකි. මහණෙනි, මේ වනාහී පංච ඉන්ද්‍රියයෝ ය."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "දුතිය ජනේති සුත්තං",
+    "sutta_title": "උපද්දවන දේ ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "1124",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Soteriology / Cognitive Psychology",
+        "complexity_rating": 8,
+        "analysis_confidence": 95,
+        "short_summary": "සත්වයාගේ උපතට, පැවැත්මට සහ සසර දුකට මූලික හේතුව තණ්හාව සහ සිතුවිලි සංකීර්ණය බව මෙම සූත්‍රයෙන් පැහැදිලි කෙරේ.",
+        "long_summary": "සත්වයෙකුගේ උපත සිදුවන්නේ තණ්හාව මූලික කරගෙනය. සත්වයා තුළ පවතින සිතුවිලි සංකීර්ණය විසින්ම ඔහුව විවිධ භවයන් කරා මෙහෙයවනු ලබයි. සසර චක්‍රය තුළ නැවත නැවත ඉපදීමට සහ දුකෙන් නිදහස් වීමට නොහැකි වී ඇත්තේ ද මෙම අභ්‍යන්තර තෘෂ්ණා සහගත ක්‍රියාවලිය හේතුවෙනි.",
+        "main_discovery": "සත්වයාගේ සසර ගමන සහ දුක රඳා පවතින්නේ බාහිර සාධක මත නොව, තණ්හාව පදනම් කරගත් අභ්‍යන්තර චින්තන ක්‍රියාවලිය (Cognitive complex) මත බව හඳුනාගැනීම.",
+        "core_truth_of_sutta": "සත්වයාගේ සසර බැඳීම සහ දුක පවතින්නේ තණ්හාව සහ සිතුවිලි මගින් නිර්මාණය කරන ලද අභ්‍යන්තර යාන්ත්‍රණය තුළය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "භවය නිර්මාණය කරන තණ්හාව ප්‍රහාණය කිරීම (Elimination of Craving).",
+            "how_it_aids_liberation": "සසර ගමන පවත්වාගෙන යන ඉන්ධනය තණ්හාව බව වටහා දීමෙන්, එය අත්හැරීමට අවශ්‍ය ප්‍රඥාව ලබා දෙයි.",
+            "practical_renunciation": "සිතුවිලි පිටුපස ඇති තෘෂ්ණාව හඳුනාගෙන, ඒවාට ප්‍රතිචාර දැක්වීමෙන් වැළකී සිටීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "තණ්හාව (Desire)",
+                "සිතුවිලි සංකීර්ණය (Complex Mentation)",
+                "දුක (Suffering)"
+            ],
+            "cognitive_impact": "අපගේ සිතුවිලි සහ ආශාවන් අපගේ අනාගතය සහ මානසික ලෝකය නිර්මාණය කරන ආකාරය (Cognitive construction of reality) පිළිබඳ අවබෝධය.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන බැඳීම්වලින් මිදීම (Defusion) සහ තෘෂ්ණාව කළමනාකරණය කිරීමේ ක්‍රමවේදයන්ට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Reward System (Dopaminergic pathways)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "තණ්හාව මත පදනම් වූ නැවත නැවත සිදුවන සිතුවිලි ස්නායුක මාර්ග (Neural pathways) ශක්තිමත් කරයි. සතිමත්භාවය මගින් මෙම ස්වයංක්‍රීය සිතුවිලි රටා (Neural loops) බිඳ දැමිය හැක.",
+            "stress_reduction_mechanism": "තණ්හාව අත්හැරීම මගින් මොළයේ ඇති වන 'ප්‍රතිලාභ අපේක්ෂාව' (Reward anticipation stress) අඩු වන අතර, එය Amygdala හි ක්‍රියාකාරිත්වය සමනය කර ආතතිය අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "තෘෂ්ණාව (Craving)",
+            "සිතුවිලි සංකීර්ණය (Thought Complexity)",
+            "සංසාර චක්‍රය (Recursive Feedback Loops)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgency/Spiritual Urgency)",
+            "emotional_intensity": 7,
+            "emotional_arc": "දුක පෙන්වා දීමෙන් මිදීමේ මාර්ගය කරා යොමු කිරීම.",
+            "mood_keywords": [
+                "යථාර්ථවාදී",
+                "අවබෝධාත්මක",
+                "සන්සුන්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Cycle",
+                "parallel_description": "තණ්හාව සහ සිතුවිලි මගින් චර්යාවන් මෙහෙයවීම සහ එයින් ස්වයං-පෝෂිත චක්‍රයක් (Self-reinforcing cycles) නිර්මාණය වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "තණ්හා පච්චයා උපාදානං",
+                "related_teachings": [
+                    "පටිච්ච සමුප්පාදය",
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය"
+                ],
+                "connection_type": "මූලික හේතුඵල දහම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ දුකට හේතුව බාහිර ලෝකය නොව, ඔබ තුළම ඇති තෘෂ්ණාව සහ සිතුවිලි රටාවන් බව වටහාගෙන සතිමත්භාවයෙන් ඒවා දෙස බලන්න.",
+        "daily_practice_steps": [
+            "තණ්හාව හෝ ආශාව උපදින මොහොතේම එය 'තණ්හාවක්' ලෙස හඳුනාගන්න.",
+            "සිතුවිලි වලට අනුව ක්‍රියා නොකර, ඒවායේ ඇතිවීම සහ නැතිවීම දෙස උපේක්ෂාවෙන් බලා සිටින්න.",
+            "දිනපතා කෙටි වෙලාවක් හෝ සිතුවිලි පාලනය නොව, සිතුවිලි දෙස බලා සිටීමේ (Mindfulness) අභ්‍යාසයක නිරත වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "කිංසු ජනේති පුරිසං කිංසු තස්‌ස විධාවති\nකිංසු සංසාරමාපාදි කිස්‌මා න පරිමුච්‌චතීති",
+            "sinhala": "“සත්වයා උපදවන්නේ කවරෙක් ද? ඔහු තුළ තිබෙන කවර දෙයක් නම් ඔබ මොබ දිව යත් ද? සසරට පැමිණියේ කවරෙක් ද? ඔහු කුමකින් නිදහස් නොවෙයි ද?”"
+        },
+        {
+            "pali": "(භගවා);",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "තණ්‌හා ජනේති පුරිසං චිත්‌තමස්‌ස විධාවති\nසත්‌තෝ සංසාරමාපාදි දුක්‌ඛා න පරිමුච්‌චතීති",
+            "sinhala": "“තණ්හාව සත්වයාව උපදවයි. ඔහු තුළ තිබෙන සිත ඔබ මොබ දිව යයි. සසරට පැමිණියේ සත්වයා ය. ඔහු දුකෙන් නිදහස් නොවෙයි.”"
+        }
+    ]
+}

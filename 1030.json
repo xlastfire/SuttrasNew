@@ -1,0 +1,101 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "චතුචක්ක සුත්තං",
+    "sutta_title": "රෝද හතර මුල්කොට වදාළ දෙසුම",
+    "id": "1030",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimutti (Liberation) & Anatomy of Suffering",
+        "complexity_rating": 7,
+        "analysis_confidence": 100,
+        "short_summary": "ශරීරය යනු අසුචි පිරුණු රෝද හතරේ වාහනයක් බවත්, තෘෂ්ණාව සහ ලෝභය නමැති රැහැන් සිඳීමෙන් මඩෙන් නික්මිය හැකි බවත් මෙහි ඉගැන්වේ.",
+        "long_summary": "භාග්‍යවතුන් වහන්සේ සිරුර රෝද හතරක් (අත්, පා) සහ දොරටු නවයක් සහිත වාහනයකට උපමා කරති. මෙම වාහනය අශුචියෙන් පිරී ඇති, ආශාව හා ලෝභය නිසා මඩෙහි හටගත් එකකි. මෙයින් නිදහස් වීමට නම් රථය හසුරුවන රැහැන වැනි වූ ළාමක ආශාවන් සහ ලෝභය සම්පූර්ණයෙන් ඉවත් කළ යුතුය. තෘෂ්ණාව මුලිනුපුටා දැමීම මෙම භෞතික පැවැත්මෙන් නික්ම යාමට ඇති එකම මග බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "භෞතික ශරීරය අශුභ සහ අස්ථිර වාහනයක් ලෙස හඳුනාගෙන, තෘෂ්ණාව නම් වූ බන්ධනය ඉවත් කිරීමෙන් සංසාරික පැවැත්ම නතර කළ හැකි බව.",
+        "core_truth_of_sutta": "භෞතික ශරීරය කෙරෙහි පවතින ආශාව සහ ලෝභය නමැති මානසික බන්ධන (Ropes) ඉවත් කිරීමෙන් පමණක් සසර පැවැත්මෙන් නික්මිය හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කායගතාසතිය සහ අශුභ භාවනාව (Contemplation on the foulness of the body) හරහා තෘෂ්ණාව ක්ෂය කිරීම.",
+            "how_it_aids_liberation": "සිරුර කෙරෙහි ඇති 'මමය' යන හැඟීම සහ ආශාව (Self-identification with the body) බිඳ දැමීම මගින් උපාදානය නැති කරයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය ගෝචර වන ලෝභී සිතුවිලි සහ ආශාවන් පාලනය කරමින් සිත අත්හැරීමට (Letting go) පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Lobha (Greed)",
+                "Tanha (Craving)",
+                "Asubha-Sanna (Perception of impurity)"
+            ],
+            "cognitive_impact": "ශරීරය සුන්දර වස්තුවක් ලෙස දකින විපරීත දෘෂ්ටිය වෙනස් කර, එය ක්‍රියාකාරී පද්ධතියක් ලෙස පමණක් දැකීමට (Objective Observation) සිත හුරු කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Defusion' ක්‍රමය මගින් සිතුවිලි සහ ශරීරය සමග අනන්‍ය නොවී සිටීමට උත්සාහ කිරීම මෙයට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ආශාව පුරුදු කළ ස්නායුක මංපෙත් (Neural pathways) වෙනුවට, විරාගය සහ අත්හැරීම පුහුණු කිරීමෙන් Prefrontal Cortex මගින් ආවේග පාලනය ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "ශරීරය කෙරෙහි ඇති අනවශ්‍ය බිය සහ ඇලීම පාලනය කිරීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී Cortisol මට්ටම පහළ යයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing",
+            "Metaphorical Processing",
+            "Impulse Control",
+            "Attentional Bias Modification"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Dispassion (Viraga)",
+            "emotional_intensity": 8,
+            "emotional_arc": "From physical realization of impurity to the liberation of detachment.",
+            "mood_keywords": [
+                "Detachment",
+                "Clarity",
+                "Urgency"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "ශරීරය පිළිබඳ පවතින විපරීත සංඥාව (Cognitive distortion) වෙනස් කර එය යථාර්ථවාදීව දැකීම මගින් බැඳීම් (Attachments) ලිහිල් කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "The Body as a Cart / Vehicle",
+                "related_teachings": [
+                    "Vajira Sutta",
+                    "Vijaya Sutta"
+                ],
+                "connection_type": "Metaphorical Similarity"
+            }
+        ],
+        "practical_takeaway_sinhala": "සිරුර යනු නඩත්තු කළ යුතු උපකරණයක් පමණක් බව වටහාගෙන, එයට ඇති දැඩි ඇලීම සහ ආශාව ක්‍රමයෙන් පාලනය කරන්න.",
+        "daily_practice_steps": [
+            "ශරීරයේ ඇති අනිත්‍ය සහ අශුභ ස්වභාවය දිනකට සුළු මොහොතක් මෙනෙහි කරන්න.",
+            "බාහිර දේ කෙරෙහි ලෝභයක් හෝ දැඩි ආශාවක් ඇති වන විට එය 'බැඳීමක්' ලෙස හඳුනාගෙන සිතින් අත්හරින්න.",
+            "ඉන්ද්‍රිය දොරටු නවයෙන් ලැබෙන අත්දැකීම් පිළිබඳව සතිමත්ව (Mindful) සිටින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්‌ථියං...",
+            "sinhala": "සැවැත් නුවර ....."
+        },
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "චතුචක්‌කං නවද්‌වාරං පුණ්‌ණං ලෝභේන සංයුතං\nපං‌කජාතං මහාවීර කථං යාත්‍රා භවිස්‌සති",
+            "sinhala": "“මහාවීරයන් වහන්ස, මේ සිරුර නමැති වාහනයෙහි දෑත්, දෙපය නමැති රෝද සතරක් ඇත්තේය. අසුචි වැගිරෙන දොරටු නවයක් ඇත්තේය. අසුචියෙන් පිරී ඇත්තේය. ආශාව හා එක්වී ඇත්තේය. මඩෙහි උපන්නේය. කෙසේ නම් මෙයින් නික්ම යන්නේ ද?”"
+        },
+        {
+            "pali": "(භගවා);",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "ඡෙත්‌වා නද්‌ධිං වරත්‌තඤ්‌ච ඉච්‌ඡා ලෝභඤ්‌ච පාපකං\nසමූලං තණ්‌හං අබ්‌බුය්‌හ ඒවං යාත්‍රා භවිස්‌සතීති",
+            "sinhala": "“රථය හසුරුවන රැහැනත් වරපටත් සිඳ දමා, ළාමක ආශාවත් ලෝභයත් සිඳ දමා, තෘෂ්ණාව මුලිනුපුටා දැමීමෙන් මෙසේ මෙයින් නික්මීම වන්නේය.”"
+        }
+    ]
+}

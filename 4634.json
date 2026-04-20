@@ -1,0 +1,92 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "චතුත්ථ පාචීනනින්න සුත්තං",
+    "sutta_title": "පෙරදිගට නැමී තිබීම ගැන වදාළ සිව්වෙනි දෙසුම",
+    "id": "4634",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "නිවන වෙත යොමු වීම (Orientation towards Nibbana)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සරභූ නදිය පෙරදිගට ගලා යන්නා සේ, භික්ෂුවකගේ ජීවිතය නිවන දෙසටම නැඹුරු වී, බර වී, යොමු වී පැවතිය යුතු බව මෙහි ඉගැන්වේ.",
+        "long_summary": "සරභූ නදිය පෙරදිග දිශාවට නැමී, එම දිශාවටම නැඹුරු වී, එම දිශාවටම බර වී ගලා යන ආකාරය බුදුරජාණන් වහන්සේ උපමාවකට ගනිති. එමෙන්ම නිවන ළඟා කර ගැනීම අරමුණු කරගත් භික්ෂුවකගේ සියලු ක්‍රියාවන්, චේතනාවන් සහ මුළු මහත් ජීවිතයම නිවන යන අවසාන ඵලය වෙතටම බර වී, නැඹුරු වී සහ යොමු වී තිබිය යුතු බව මෙම සූත්‍රය මගින් අවධාරණය කෙරේ.",
+        "main_discovery": "සරභූ නදිය ස්වභාවිකව පෙරදිගට ගලා යන්නා සේ, සත්පුරුෂ භික්ෂුවකගේ සමස්ත ජීවිත පද්ධතියම නිවන ඉලක්ක කරගත් ස්වයංක්‍රීය ගලායාමක් විය යුතුය.",
+        "core_truth_of_sutta": "විමුක්තිය උදෙසා කෙරෙන පුහුණුව යනු හුදෙක් බාහිර ක්‍රියාවක් නොව, සිතේ සහ ජීවිතයේ සමස්ත දිශානතිය නිවන වෙත ස්වයංක්‍රීයව යොමු වූ ප්‍රවාහයක් බවට පත් කර ගැනීමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "විවේක නිස්සිත, විරාග නිස්සිත, නිරෝධ නිස්සිත ලෙස චිත්ත පද්ධතිය සකස් කිරීම.",
+            "how_it_aids_liberation": "සිත නිරන්තරයෙන් නිවනට නැඹුරු කිරීමෙන් සංසාරික බැඳීම්වලට ඇති ආකර්ෂණය ක්‍රමයෙන් ක්ෂය වී යයි.",
+            "practical_renunciation": "ලෞකික අරමුණු අත්හැර දමා සිතේ 'ගුරුත්වාකර්ෂණය' නිවන වෙත යොමු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අරමුණ කෙරෙහි ඒකාග්‍රතාව (Focus)",
+                "අභ්‍යන්තර පෙළඹවීම (Intrinsic Motivation)",
+                "චේතනාත්මක නැඹුරුව (Intentionality)"
+            ],
+            "cognitive_impact": "සිතේ ඇති විසිරුණු ස්වභාවය ඉවත් වී සියලු මානසික ශක්තීන් නිවන නම් තනි ඉලක්කයකට පෙළගැසීම (Cognitive Alignment).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Committed Action' සහ වටිනාකම් මත පදනම් වූ ජීවිතය මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Task Positive Network (TPN)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "නිරන්තර පුහුණුව මගින් නිවනට අදාළ සිතුවිලි ස්නායු පථ ශක්තිමත් කිරීමෙන් (Long-Term Potentiation), එය වෙහෙසකින් තොරව සිදුවන ස්වයංක්‍රීය පුරුද්දක් බවට පත්වේ.",
+            "stress_reduction_mechanism": "පැහැදිලි ඉලක්කයක් (Target Goal) තිබීම මගින් Amygdala හි ඇතිවන අවිනිශ්චිත භීතිය සහ ආතතිය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Orientation",
+            "Goal-Directed Behavior",
+            "Internalized Intention",
+            "Attentional Bias"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "උපමාවකින් ආරම්භ වී ස්ථිරසාර අධිෂ්ඨානයක් කරා ගමන් කරයි.",
+            "mood_keywords": [
+                "සන්සුන්",
+                "අචල",
+                "ප්‍රවාහයකට සමාන",
+                "අරමුණු සහගත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Flow State (Mihaly Csikszentmihalyi)",
+                "parallel_description": "නදියක ගලායාම මෙන් අරමුණ සමඟ ඒකාත්මික වීම තුළින් සිදුවන වෙහෙස රහිත ක්‍රියාකාරීත්වය.",
+                "confidence_score": 85
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Hebbian Theory",
+                "parallel_description": "'Neurons that fire together, wire together' මූලධර්මය අනුව නිරන්තරයෙන් නිවන ගැන සිතීමෙන් මොළයේ ස්නායු පථ එම අරමුණටම සැකසීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නැඹුරුව (Propensity/Inclination)",
+                "related_teachings": [
+                    "අවිජ්ජා සූත්‍රය",
+                    "ගංගා පේය්‍යාල වර්ගය"
+                ],
+                "connection_type": "උපමා සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ දෛනික සෑම ක්‍රියාවක්ම (වැඩ කිරීම, ආහාර ගැනීම, කතා කිරීම) 'මෙය මාගේ නිවනට උපකාරී වේද?' යන අරමුණ දෙසට නැඹුරු කරන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ පසු එදින අරමුණ නිවනට නැඹුරු කිරීමට අධිෂ්ඨාන කරන්න.",
+            "දවස පුරා ගන්නා තීරණ ලෞකික ලාභයට වඩා අධ්‍යාත්මික නිදහසට බර දැයි විමසන්න.",
+            "ගලා යන නදියක් මෙන් බාධා හමුවේ නොනැවතී නිවන දෙසටම සිත යොමු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, සරභූ නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, සරභූ නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

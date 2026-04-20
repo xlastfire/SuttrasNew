@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "දුතිය ඡන්ද සුත්තං",
+    "sutta_title": "දුකෙන් මිදෙනු කැමති වීම ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "4129",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ආර්ය අෂ්ටාංගික මාර්ගය සහ අධිෂ්ඨානය (Noble Eightfold Path and Resolution)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "දුකින් මිදීමේ දැඩි අභිලාෂය මුල්කරගෙන ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කිරීමෙන් ලැබෙන පරිපූර්ණ විමුක්තිය මෙහි විස්තර වේ.",
+        "long_summary": "මෙම සූත්‍රය මගින් දුකෙන් මිදීමට ඇති දැඩි අධිෂ්ඨානය සහ අභිලාෂය (Resolution for Liberation) අසමසම සම්පත්තියක් ලෙස හඳුන්වයි. යම් හේතුවක් මත පදනම්ව උපදින ආර්ය අෂ්ටාංගික මාර්ගය, ක්‍රමානුකූලව ප්‍රගුණ කිරීම (Cultivation) තුළින් පුද්ගලයා පරිපූර්ණත්වයට පත් කරන ආකාරයත්, එම මාර්ගය අනුගමනය කිරීමේ වැදගත්කමත් මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "දුකින් මිදීම සඳහා අත්‍යවශ්‍ය වන අභ්‍යන්තර පෙලඹවීම (Intrinsic Motivation) සහ ආර්ය අෂ්ටාංගික මාර්ගයේ ක්‍රමානුකූල සංවර්ධනය අතර ඇති සෘජු සම්බන්ධතාවය.",
+        "core_truth_of_sutta": "දුක කෙරෙහි ඇති කලකිරීම හා එයින් මිදීමට ඇති දැඩි වුවමනාව, ආර්ය අෂ්ටාංගික මාර්ගය සම්පූර්ණ කර විමුක්තිය ලබාගැනීමට ඇති ප්‍රබලතම සාධකයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආර්ය අෂ්ටාංගික මාර්ගයේ සම්පූර්ණත්වය (Completeness of the Noble Eightfold Path).",
+            "how_it_aids_liberation": "නිවැරදි දැක්ම හා අභිප්‍රේරණය හරහා කෙලෙස් දුරු කරමින් නිර්වාණ අවබෝධයට අවශ්‍ය මාර්ගය විවෘත කරයි.",
+            "practical_renunciation": "දුකට හේතු වන බැඳීම් වලින් මිදීමට ඇති දැඩි අභිලාෂය මගින් උපාදාන අත්හැරීම පුරුදු කරයි."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අභිලාෂය (Desire for Liberation)",
+                "වීර්යය (Effort)",
+                "සම්පත්තිය (Endowment)"
+            ],
+            "cognitive_impact": "සිතේ ඇති අවුල් සහගත තත්ත්වයන් වෙනුවට පැහැදිලි අරමුණක් සහ ක්‍රමානුකූල මාවතක් (Cognitive Restructuring) ගොඩනැගීම.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි ඉලක්කගත චර්යාත්මක වෙනස්කම් සහ අභිප්‍රේරණ සම්මුඛ සාකච්ඡා (Motivational Interviewing) වලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (Executive Function)",
+                "Anterior Cingulate Cortex (Conflict Monitoring)",
+                "Mesolimbic Pathway (Reward/Motivation)"
+            ],
+            "neuroplasticity_and_habit": "ප්‍රතිපත්ති ප්‍රගුණ කිරීමේදී මොළයේ සාරධර්ම හා සම්බන්ධ ස්නායුක සම්බන්ධතා ශක්තිමත් වීම (Synaptic Strengthening) සහ අකුසල සහගත පුරුදු දුර්වල වීම සිදුවේ.",
+            "stress_reduction_mechanism": "මාර්ගය ප්‍රගුණ කිරීමෙන් ලැබෙන මානසික විනය හරහා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී ආතතිය පාලනය වේ (Emotional Regulation)."
+        },
+        "cognitive_mechanisms": [
+            "සංකල්පීය අවබෝධය (Cognitive Appraisal)",
+            "අභිප්‍රේරණය (Goal-directed Motivation)",
+            "ක්‍රමානුකූල චර්යාත්මක පුහුණුව (Systematic Behavioral Training)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශ්‍රද්ධාව සහ උද්යෝගය (Inspiration and Enthusiasm)",
+            "emotional_intensity": 8,
+            "emotional_arc": "දුක පිළිබඳ අවබෝධයෙන් මාර්ගයේ පරිපූර්ණත්වය දක්වා වූ ස්ථාවර ගමනක්.",
+            "mood_keywords": [
+                "අධිෂ්ඨානය",
+                "ප්‍රබෝධය",
+                "විශ්වාසය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Determination Theory (SDT)",
+                "parallel_description": "දුකින් මිදීමට ඇති දැඩි අභිලාෂය, නූතන මනෝවිද්‍යාවේ ස්වයං-නිර්ණය න්‍යායෙහි දැක්වෙන අභ්‍යන්තර අභිප්‍රේරණයට (Intrinsic Motivation) සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ආර්ය අෂ්ටාංගික මාර්ගයේ සංවර්ධනය",
+                "related_teachings": [
+                    "මග්ග විභංග සූත්‍රය",
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය"
+                ],
+                "connection_type": "මූලධර්මීය සමානතාවය (Doctrinal Congruence)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ දුක් ගැහැට වලින් මිදීමට නම්, ඒ සඳහා වන ස්ථිර අධිෂ්ඨානය මුල් කරගෙන ආර්ය අෂ්ටාංගික මාර්ගය එදිනෙදා ජීවිතයේදී ක්‍රමානුකූලව පුහුණු කළ යුතුය.",
+        "daily_practice_steps": [
+            "දුකෙන් මිදීමේ අවශ්‍යතාවය දිනපතා සිහිපත් කිරීම (Right Intention).",
+            "තම වචනය, ක්‍රියාව සහ ජීවනෝපාය දැඩි අවධානයෙන් යුතුව ආර්ය මාර්ගයට අනුකූල කිරීම.",
+            "නිවැරදි සතිය (Mindfulness) පවත්වා ගනිමින් මාර්ගයේ ප්‍රගමනය නිරීක්ෂණය කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "නාහං භික්ඛවේ, අඤ්ඤං ඒකධම්මම්පි සමනුපස්සාමි, යේන අනුප්පන්නෝ වා අරියෝ අට්ඨංගිකෝ මග්ගෝ උප්පජ්ජති, උප්පන්නෝ වා අරියෝ අට්ඨංගිකෝ මග්ගෝ භාවනාපාරිපූරිං ගච්ඡති, යථයිදං භික්ඛවේ, ඡන්දසම්පදා. ඡන්දසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, යමක් හේතු කොට ගෙන නූපන් ආර්ය අෂ්ටාංගික මාර්ගය උපදියි නම්, උපන් ආර්ය අෂ්ටාංගික මාර්ගය දියුණු වීමෙන් පරිපූර්ණත්වයට යයි නම්, මහණෙනි, යම් බඳු මේ දුකින් මිදීමට ඇති කැමැත්ත නම් වූ සම්පත්තිය වැනි අන් එක් ධර්මයක් වත් මම නොදකිමි.  ….(පෙ)…. ආර්ය අෂ්ටාංගික මාර්ගය බහුල ව ප්‍රගුණ කරන්නේ මේ අයුරිනි."
+        }
+    ]
+}

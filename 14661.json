@@ -1,0 +1,89 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "උත්තරා ථේරීගාථා",
+    "sutta_title": "උත්තරා තෙරණියගේ ගාථාව",
+    "id": "14661",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංවරය සහ තෘෂ්ණා ක්ෂය වීම (Restraint and Eradication of Craving)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "උත්තරා තෙරණිය විසින් දේශිත මෙම ගාථාවෙන් කය, වචනය සහ සිතේ සංවරය තුළින් තෘෂ්ණාව සහමුලින්ම දුරු කර ලබා ගන්නා පරම නිවීම විස්තර කෙරේ.",
+        "long_summary": "උත්තරා රහත් තෙරණිය විසින් වදාල මෙම අනුශාසනාවට අනුව, මෝක්ෂය සඳහා මූලික වන්නේ කය (Physical action), වචනය (Speech) සහ සිත (Mind) යන අංශ තුනෙහි මනා සංවරයයි. මෙලෙස ඇති කරගන්නා සංවරය තුළින් දුකට මූලික හේතුව වන තණ්හාව (Craving) මුලින්ම උදුරා දැමිය හැකිය. තණ්හාව දුරු වීමත් සමඟ සිතේ දැවීම් පහව ගොස් අතිශය සිසිලසක් ඇති වන අතර, එමගින් පුද්ගලයා පරම නිවීම කරා ළඟා වන බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "කාය, වාග්, මන යන තිදොර සංවරය තුළින් තෘෂ්ණාව මුලින්ම උපුටා දැමීමෙන් ලැබෙන පරම ශාන්තිය (Nirvanic coolness).",
+        "core_truth_of_sutta": "තණ්හාව සහමුලින්ම ප්‍රහාණය කිරීමෙන් ලැබෙන පරම සිසිලස උදා වන්නේ කය, වචනය සහ සිත යන තිදොරේ මනා සංවරය තුළිනි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "තිදොර සංවරය (Threefold Restraint) සහ තණ්හක්ඛය (Destruction of Craving).",
+            "how_it_aids_liberation": "තණ්හාව මුලින්ම උදුරා දැමීමෙන් පුනර්භවයට ඇති හේතු නැති කර සෘජුවම අර්හත් ඵලය හෙවත් නිවන සාක්ෂාත් කිරීමට උපකාරී වේ.",
+            "practical_renunciation": "ඉන්ද්‍රිය සංවරය සහ ආශාවන් (Desires) පිළිබඳව සතිමත්භාවයෙන් යුතුව ඒවා අත්හැරීමට පුහුණු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සංවරය (Self-restraint)",
+                "තණ්හාව (Attachment/Craving)",
+                "නිවීම (Psychological Relief)"
+            ],
+            "cognitive_impact": "සංජානන මට්ටමින් ආවේගයන් පාලනය කිරීම (Impulse control) හරහා පුද්ගලයාගේ චර්යා රටාවන් වඩාත් සන්සුන් හා තර්කානුකූල මට්ටමකට පත් කරයි.",
+            "modern_psychology_parallel": "සංජානන චර්යා ප්‍රතිකාරයේ (CBT) එන චර්යාත්මක වෙනස්කම් සහ පිළිගැනීමේ හා කැපවීමේ ප්‍රතිකාරයේ (ACT) එන වටිනාකම් මත පදනම් වූ සංවරයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විධායක පාලනය)",
+                "Amygdala (ආවේග පාලනය)",
+                "Default Mode Network (තණ්හාව සහ ආත්මීය බැඳීම්)"
+            ],
+            "neuroplasticity_and_habit": "දිගින් දිගටම පවතින සංවරය මගින් Prefrontal Cortex ශක්තිමත් වන අතර (Top-down regulation), තණ්හාව ආශ්‍රිත ස්නායුක මාර්ග දුර්වල වී නව සන්සුන් ස්නායුක ජාල (Neural circuits) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "තණ්හාව දුරු වීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී Cortisol මට්ටම පහළ බසින අතර, එමගින් සිරුරේ සහ මොළයේ 'සිසිලස' හෙවත් Stress-free state එකක් නිර්මාණය වේ."
+        },
+        "cognitive_mechanisms": [
+            "සංවරය (Self-regulation)",
+            "තෘෂ්ණා ප්‍රහාණය (Eradication of craving)",
+            "සීතලීභූත වීම (Homeostatic mental balance)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "අසංවරයෙන් මිදී ක්‍රමිකව පරම සිසිලස කරා ළඟා වීම",
+            "mood_keywords": [
+                "සංවරය",
+                "නිවීම",
+                "සිසිලස"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Inhibitory Control",
+                "parallel_description": "තිදොර සංවරය යනු මනෝවිද්‍යාවේ එන 'Inhibitory Control' හෙවත් ආවේග පාලනයට හා ස්වයං-විනයට (Self-discipline) සමාන ක්‍රියාවලියකි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ත්‍රිවිධ සංවරය",
+                "related_teachings": [
+                    "සම්මා වාචා",
+                    "සම්මා කම්මන්ත"
+                ],
+                "connection_type": "ආර්ය අෂ්ටාංගික මාර්ගයේ පදනම"
+            }
+        ],
+        "practical_takeaway_sinhala": "එදිනෙදා වැඩ කටයුතු වලදී කතා කරන දේ, කරන දේ සහ සිතන දේ ගැන විමසිල්ලෙන් සිටිමින්, දැඩි ආශාවන් පාලනය කර සිතේ සැහැල්ලුව පවත්වා ගන්න.",
+        "daily_practice_steps": [
+            "කතා කිරීමට පෙර එම වචනයෙන් අයහපතක් වේදැයි මොහොතක් සිතන්න.",
+            "කය වෙහෙසා කරන ක්‍රියා වලදී අන් අයට පීඩාවක් නොවන සේ හැසිරෙන්න.",
+            "සිතේ තණ්හාවක් හෝ ලෝභකමක් ඇති වන විට එය හඳුනාගෙන එසැණින් අත්හැරීමට උත්සාහ කරන්න.",
+            "දවස අවසානයේ තමන්ගේ සංවරය පිළිබඳව ආපසු හැරී බලා සතුටු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "කායේන සංවුතා ආසිං වාචාය උද චේතසා,\nසමූලං තණ්හං අබ්බුය්හ සීතිභූතම්හි නිබ්බුතාති",
+            "sinhala": "මං කයෙන් සංවර වුණා. වචනයෙනුත් සංවර වුණා. සිතිනුත් සංවර වුණා. තණ්හාව මුලින්ම උදුරල දැම්මා. සිසිල් වුණා. නිවිල ගියා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං උත්තරාථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී උත්තරා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

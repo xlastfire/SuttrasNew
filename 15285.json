@@ -1,0 +1,95 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "- පුන අප්පමාද වග්ගෝ",
+    "sutta_title": "- පුන අප්පමාද වර්ගය",
+    "id": "15285",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සූත්‍ර සංවිධානය සහ විනයානුකූල අධ්‍යයනය (Systematic Doctrinal Organization)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "තථාගතයන් වහන්සේ වදාළ දේශනා තිහක් ප්‍රධාන මාතෘකා දහයක් යටතේ (එකකට තුන බැගින්) විධිමත් ලෙස වර්ගීකරණය කර ඇති බව පෙන්වා දෙයි.",
+        "long_summary": "පුන අප්පමාද වර්ගය යටතේ ඉදිරිපත් වන මෙම දේශනාව, බුදුරජාණන් වහන්සේගේ ධර්ම කරුණු තිහක් ක්‍රමානුකූලව සංවිධානය කර ඇති ආකාරය විස්තර කරයි. මෙහිදී තථාගත, පද, කූට, මූල, සාර, වස්සික, රාජ, චන්දිම, සුරිය සහ වත්ථ යන මාතෘකා දහයක් යටතේ සූත්‍ර තිහ බෙදා දක්වා ඇත. මෙම එක් එක් මාතෘකාවකට සූත්‍ර තුන බැගින් අන්තර්ගත වන අතර, මෙම විධිමත් ව්‍යුහය දේශනා වල හරය නිවැරදිව හා ක්‍රමවත්ව අවබෝධ කර ගැනීමටත්, අධ්‍යයනය කිරීමටත් අත්‍යවශ්‍ය පදනමක් සපයයි.",
+        "main_discovery": "බුදුරජාණන් වහන්සේගේ දේශනා තිස් සූත්‍රයකින් සමන්විත විධිමත් ව්‍යුහයක් (Structured Framework) යටතේ වර්ගීකරණය කර ඇති බවත්, එය අධ්‍යයනය සඳහා ක්‍රමවත් පදනමක් සපයන බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "ධර්මයේ අවබෝධය උදෙසා කරුණු විසිරී නොපැවතීමත්, ඒවා අතිශය සංවිධානාත්මක ව්‍යුහයක් (Structured reality) තුළ පැවතීමත් අවබෝධ කර ගැනීම.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා දිට්ඨිය උදෙසා ධර්මයේ විධිමත් ව්‍යුහය අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "සිතේ ඇති වන අවිධිමත් සිතුවිලි සහ ධර්මය පිළිබඳ පටලැවිලි (Mental clutter) ඉවත් කර, නිවන කරා යන මඟ පැහැදිලි ලෙස ගොඩනගා ගැනීමට උපකාරී වේ.",
+            "practical_renunciation": "විසිරුණු අදහස් සහ අනවශ්‍ය දත්ත අතහැර, මූලික ධර්ම කරුණු (Core principles) කෙරෙහි පමණක් අවධානය යොමු කිරීම (Simplification)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමංසා (Investigation)",
+                "සති (Mindfulness)",
+                "පැහැදීම (Clarity)"
+            ],
+            "cognitive_impact": "තොරතුරු සංවිධානය (Information categorization) මගින් මානසික පීඩනය (Cognitive load) අඩු කරන අතර තීරණ ගැනීමේ හැකියාව වැඩි කරයි.",
+            "modern_psychology_parallel": "Structured Learning Therapy (SLT) සහ Cognitive Reorganization යන ප්‍රතිකාර ක්‍රම මගින් රෝගියෙකුගේ විසිරුණු සිතුවිලි ක්‍රමවත් රටාවකට ගෙන එන ආකාරයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Executive Control Network (ECN)",
+                "Hippocampus (මතකය සඳහා)",
+                "Left Prefrontal Cortex (විශ්ලේෂණාත්මක සිතීම සඳහා)"
+            ],
+            "neuroplasticity_and_habit": "තොරතුරු වර්ගීකරණය මගින් ස්නායු සෛල අතර සම්බන්ධතා (Synaptic connections) වඩාත් ශක්තිමත් කරන අතර, තොරතුරු ප්‍රතිසාධනය (Information retrieval) පහසු කරන නව ස්නායුක මංපෙත් නිර්මාණය කරයි.",
+            "stress_reduction_mechanism": "අවිධිමත් දත්ත නිසා ඇති වන ව්‍යාකූලත්වය පාලනය කිරීම මගින් Amygdala හි ක්‍රියාකාරීත්වය (බිය හෝ නොසන්සුන්තාවය) අඩු කර Cortisol මට්ටම පහත හෙළයි."
+        },
+        "cognitive_mechanisms": [
+            "Categorical Thinking (වර්ගීකරණ චින්තනය)",
+            "Pattern Recognition (රටා හඳුනා ගැනීම)",
+            "Systematic Processing (ක්‍රමවත් සැකසුම්කරණය)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 2,
+            "emotional_arc": "විසිරුණු මනසක සිට සංවිධානාත්මක අවබෝධය කරා යොමු වීම.",
+            "mood_keywords": [
+                "විනයානුකූල",
+                "පැහැදිලි",
+                "සංවිධානාත්මක"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Science",
+                "theory_name": "Chunking and Information Architecture",
+                "parallel_description": "මොළයට විශාල තොරතුරු ප්‍රමාණයක් ධාරණය කරගැනීම පහසු වන පරිදි දත්ත කුඩා කොටස් (30 Suttas into 10 groups) වලට බෙදා දැක්වීම මගින් මතකය (Memory retention) සහ අවබෝධය වැඩි දියුණු කරයි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ධර්ම විනය (Dharma-Vinaya)",
+                "related_teachings": [
+                    "අංගුත්තර නිකාය (Numerical Discourses)"
+                ],
+                "connection_type": "ව්‍යුහමය සමානතාවය (Structural similarity)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ ජීවිතයේ අරමුණු සහ කටයුතු ද මෙම සූත්‍ර ක්‍රමවේදය මෙන් මැනවින් සංවිධානය කරගැනීමෙන් ව්‍යාකූල බවින් තොරව සාර්ථකත්වය කරා යා හැකිය.",
+        "daily_practice_steps": [
+            "දිනපතා උගත් ධර්ම කරුණු හෝ වැඩ කටයුතු ප්‍රධාන මාතෘකා යටතේ වර්ගීකරණය කරන්න.",
+            "සිතේ ඇති වන සිතුවිලි විසිරී යාමට ඉඩ නොදී යම් ක්‍රමවේදයකට (Methodology) අනුව විමසා බලන්න.",
+            "අවබෝධ කරගත යුතු කරුණු කුඩා කොටස් (Segments) වලට බෙදා අධ්‍යයනය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යාවතා භික්ඛවේ, සත්තා අපදා වා ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, යම්තාක් පා රහිත වූ ද, ….(පෙ)… බහුල ව ප්‍රගුණ කරයි."
+        },
+        {
+            "pali": "(යථා වුත්තනයේන විත්ථාරේතබ්බෝ තිංසති සුත්තන්තා වේදිතබ්බා.)",
+            "sinhala": "(කලින් විස්තර කරන ලද ක්‍රමයට මෙම තිස් සූත්‍රයෝ ද දත යුත්තේ ය.)"
+        },
+        {
+            "pali": "තත්‍රැද්දානං:",
+            "sinhala": "එහි පිළිවෙල උද්දානයයි :"
+        },
+        {
+            "pali": "තථාගතං පදං කූටං මූලං සාරඤ්ච වස්සිකං,\nරාජා චන්දිමසුරියා ච වත්ථේන දසමං පදන්ති",
+            "sinhala": "තථාගත, පද, කූට, මූල, සාර, වස්සික, රාජ, චන්දිම, සුරිය, වත්ථ වශයෙන් තුන බැගින් දසයකි. සූත්‍ර තිහකි."
+        }
+    ]
+}

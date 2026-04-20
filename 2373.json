@@ -1,0 +1,86 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "ජරා මරණාදී සූත්‍ර",
+    "sutta_title": "-  අප්පටිවානි වර්ගය",
+    "id": "2373",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vipassana and Cognitive Transformation",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ජරා මරණ නිරුද්ධ කරගනු පිණිස සතර සතිපට්ඨාන භාවනාවෙහි නොපසුබටව යෙදීමේ වැදගත්කම මෙම දේශනාවෙන් අවධාරණය කෙරේ.",
+        "long_summary": "ජරා මරණ පිළිබඳ නිසි අවබෝධයක් හෝ දැක්මක් නොමැති පුද්ගලයා විසින් එම දුක්ඛිත තත්ත්වයන් නිරුද්ධ කරගැනීමේ මාර්ගය පිළිබඳ යථාර්ථවාදී ඥානයක් ලබාගත යුතුය. ඒ සඳහා සතර සතිපට්ඨානය වැනි ප්‍රතිපදාවන්හි අතිශය නොපසුබට උත්සාහයකින් (Appativani) යුතුව කටයුතු කිරීම අනිවාර්ය වේ. මෙම සමස්ත ක්‍රියාවලිය චතුරාර්ය සත්‍යය තුළ පිහිටා ගැඹුරින් තේරුම් ගත යුතු බව මෙහි සඳහන් වේ.",
+        "main_discovery": "ජරා මරණ නිරුද්ධ කිරීම සඳහා සතර සතිපට්ඨාන ප්‍රතිපදාව තුළ නොපසුබට උත්සාහය (Unremitting effort) අත්‍යවශ්‍ය සාධකයක් බව අවබෝධ කර ගැනීම.",
+        "core_truth_of_sutta": "ජරා මරණ සංඛ්‍යාත දුක ප්‍රහීණ කළ හැක්කේ සතර සතිපට්ඨානය වැනි විදර්ශනා ප්‍රතිපදාවන්හි වීර්යය පවත්වා ගනිමින් චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීමෙන් පමණි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ජරා මරණ නිරෝධය සහ සතර සතිපට්ඨානය.",
+            "how_it_aids_liberation": "සතර සතිපට්ඨානය මගින් පංච උපාදානස්කන්ධය කෙරෙහි ඇති බැඳීම ලිහිල් කිරීමෙන් භව නිරෝධය හා ජරා මරණ නිරෝධය කරා යොමු කරයි.",
+            "practical_renunciation": "ශරීරය, වේදනා, සිත සහ ධර්මයන් කෙරෙහි පවතින 'මම' යන දෘෂ්ටිය අත්හැරීමට (Relinquishing identification) උත්සාහ කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවිද්‍යාව (Ignorance)",
+                "වීර්යය (Effort)",
+                "සති (Mindfulness)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය පාලනය කර (Attention regulation), වයසට යෑම සහ මරණය පිළිබඳ පවතින 'බිය' පදනම් කරගත් සිතුවිලි යථාර්ථවාදී අවබෝධයක් දක්වා පරිවර්තනය කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි එන සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive restructuring) මගින් වැරදි සහගත වැටහීම් නිවැරදි කිරීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - reduction",
+                "Executive Control Network (ECN) - activation",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "නොපසුබට උත්සාහය (Unremitting effort) මගින් පූර්ව-සංස්කාර (Habitual neural pathways) වෙනස් කර, නව ස්නායුක සම්බන්ධතා (Neuroplasticity) හරහා සතිමත්බව තහවුරු කරයි.",
+            "stress_reduction_mechanism": "Prefrontal Cortex මගින් Amygdala හි ක්‍රියාකාරිත්වය පාලනය කිරීම නිසා මරණ බිය ආදී ආතතීන් අවම වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing of Aging and Death",
+            "Attentional Control (Sati)",
+            "Meta-awareness",
+            "Self-regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Urgency (Samvega)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Ignorance to Clarity",
+            "mood_keywords": [
+                "Determined",
+                "Focused",
+                "Realistic",
+                "Striving"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychotherapy",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "යථාර්ථය පිළිගැනීම සහ වටිනාකම් මත පදනම් වූ ක්‍රියාවන් (Committed Action) හරහා මානසික දුක්ඛිත තත්ත්වයන් කළමනාකරණය කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Caturaryasatta (Four Noble Truths)",
+                "related_teachings": [
+                    "Dhammacakkappavattana Sutta",
+                    "Satipatthana Sutta"
+                ],
+                "connection_type": "Foundational Framework"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ නොවැලැක්විය හැකි යථාර්ථයන් වන ජරා මරණ දෙස උපේක්ෂාවෙන් හා අවබෝධයෙන් බැලීමට නම්, දිනපතා සතිමත්බව පුහුණු කිරීමේ අඛණ්ඩ උත්සාහයක් තිබිය යුතුය.",
+        "daily_practice_steps": [
+            "තමාගේ ශරීරයේ සහ සිතේ සිදුවන වෙනස්වීම් (අනිත්‍යය) පිළිබඳව අවධානයෙන් සිටින්න.",
+            "ඕනෑම අභියෝගාත්මක අවස්ථාවකදී මෙය චතුරාර්ය සත්‍යයට අදාළව 'දුක' ලෙස හඳුනා ගැනීමට උත්සාහ කරන්න.",
+            "භාවනාව සඳහා දිනපතා ස්ථාවර කාලයක් වෙන් කර නොපසුබටව එය පවත්වා ගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "137 - 147. ජරාමරණං භික්ඛවේ අජානතා අපස්‌සතා යථාභූතං ජරාමරණේ යථාභූතං ඤාණාය අප්‌පටිවානී කරණීයා’ති.",
+            "sinhala": "137-147. පින්වත් මහණෙනි, ජරා මරණ ගැන ඒ ආකාරයෙන්ම නොදන්නා, නොදක්නා තැනැත්තා විසින් ඒ ජරා මරණ පිළිබඳව යථාභූත ඤාණය ලබා ගැනීම පිණිසයි සතර සතිපට්ඨානාදී භාවනා වැඩීමට නොපසුබට උත්සාහයක් ගත යුත්තේ .....(පෙ).... ජරා මරණ නිරුද්ධ වීම පිණිස පවතින ප්‍රතිපදාව ගැන ඒ ආකාරයෙන්ම නොදන්නා, නොදක්නා තැනැත්තා විසින් ඒ ජරා මරණ නිරුද්ධ වීම පිණිස පවතින ප්‍රතිපදාව පිළිබඳව යථාභූත ඤාණය ලබා ගැනීම පිණිසයි සතර සතිපට්ඨානාදී භාවනා වැඩීමට නොපසුබට උත්සාහයක් ගත යුත්තේ.(සියල්ලම චතුරාර්ය සත්‍යයට ගලපා තේරුම් ගත යුතුය.)"
+        }
+    ]
+}

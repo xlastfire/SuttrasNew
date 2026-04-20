@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "ඡන්ද සුත්තං",
+    "sutta_title": "දුකෙන් මිදෙනු කැමති වීම ගැන වදාළ දෙසුම",
+    "id": "4086",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අභිප්‍රේරණය සහ මාර්ග ප්‍රගුණ කිරීම (Motivation and Path Cultivation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ආර්ය අෂ්ටාංගික මාර්ගය සාර්ථකව වැඩීම සඳහා දුකෙන් මිදීමට ඇති දැඩි කැමැත්ත හෙවත් නිවැරදි අභිප්‍රේරණය පදනම වන බව මෙහි දැක්වේ.",
+        "long_summary": "සංසාර දුකෙන් නිදහස් වීමට ඇති දැඩි ආශාව හෝ අභිප්‍රේරණය ආර්ය අෂ්ටාංගික මාර්ගයේ ගමන් කරන්නෙකුට අත්‍යවශ්‍ය වේ. එම අධිෂ්ඨානය ඇති කර ගැනීමෙන් සම්මා දිට්ඨි ආදී අංග අට ක්‍රියාවට නැංවීම අතිශයින්ම පහසු කරවන බවත්, ප්‍රගතිය වේගවත් කරවන බවත් මෙම දේශනාව අවධාරණය කරයි.",
+        "main_discovery": "දුකෙන් මිදීමේ දැඩි අභිප්‍රේරණය (Intrinsic Motivation) ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කිරීමේ මූලික එන්ජිම ලෙස ක්‍රියා කරයි.",
+        "core_truth_of_sutta": "යමෙකුට දුකෙන් මිදීමේ දැඩි ඡන්දය (කැමැත්ත) පවතී නම්, ඔහුට ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කිරීම ස්වයංක්‍රීය සහ ආයාසයකින් තොර ක්‍රියාවක් බවට පත්වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "දුක පිළිබඳ පිරිසිඳ දැකීමෙන් (දුක්ඛාර්ය සත්‍යය) පැනනගින විමුක්තිකාමී ඡන්දය.",
+            "how_it_aids_liberation": "මාර්ගයේ ගමන් කිරීමේදී ඇතිවන වෙහෙස හෝ බාධා ජය ගැනීමට අවශ්‍ය මානසික වීර්යය සපයයි.",
+            "practical_renunciation": "දුක හඳුනා ගැනීම හරහා ලෞකික බැඳීම් වල ඇති නිසරු බව වටහාගෙන ඒවා අත්හැරීමට කැමැත්ත ඇති කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්ද (Positive Desire)",
+                "අධිෂ්ඨාන (Determination)",
+                "වීර්ය (Energy)"
+            ],
+            "cognitive_impact": "සිතේ අවධානය විසිරී යාම වළක්වා (Attention control), ප්‍රධාන ඉලක්කය වෙත යොමු කිරීම මගින් තීරණ ගැනීමේ හැකියාව ශක්තිමත් කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි සඳහන් වන ඉලක්කගත චර්යා වෙනස් කිරීම් (Targeted behavioral activation) සහ අභිප්‍රේරණ සම්මුඛ සාකච්ඡා (Motivational Interviewing) වලට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Dopaminergic Reward System",
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "දුකෙන් මිදීමේ දැඩි අභිප්‍රේරණය මොළයේ Reward circuit එක උත්තේජනය කරමින් මාර්ගය ප්‍රගුණ කිරීම ප්‍රියජනක පුරුද්දක් (Habit formation) බවට පත් කරයි.",
+            "stress_reduction_mechanism": "නිශ්චිත ඉලක්කයක් (දුකෙන් මිදීම) ඇති විට මොළය අනවශ්‍ය බිය (Amygdala hyperactivity) පාලනය කරමින් ඉහළ මානසික ස්ථාවරත්වයක් පවත්වා ගනී."
+        },
+        "cognitive_mechanisms": [
+            "Goal-Oriented Behavior",
+            "Intrinsic Motivation",
+            "Cognitive Reframing",
+            "Self-Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය සහ අධිෂ්ඨානය (Urgency and Resolve)",
+            "emotional_intensity": 8,
+            "emotional_arc": "දුක පිළිබඳ අවබෝධයෙන් හටගන්නා කැළඹීමේ සිට මාර්ගය ප්‍රගුණ කිරීමේ සහනය දක්වා.",
+            "mood_keywords": [
+                "අභිප්‍රේරණය",
+                "වීර්යය",
+                "අපේක්ෂාව",
+                "ධෛර්යය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Determination Theory (SDT)",
+                "parallel_description": "බාහිර බලපෑමකින් තොරව තමා තුළින්ම පැනනගින 'දුකෙන් මිදීමේ කැමැත්ත' යනු ඉහළම මට්ටමේ ස්වයං-අභිප්‍රේරණයක් වන අතර එය චර්යාත්මක වෙනසක් සඳහා අත්‍යවශ්‍ය වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඡන්ද ඉද්ධිපාද (Desire as a base for success)",
+                "related_teachings": [
+                    "ඉද්ධිපාද සූත්‍ර",
+                    "වීරිය පාරමිතා"
+                ],
+                "connection_type": "ධර්ම මාර්ගයේ දියුණුවට අත්‍යවශ්‍ය මූලික ශක්තියක් ලෙස."
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ කරන ඕනෑම ධර්ම පුහුණුවකට පෙර, 'මම මේ දුකෙන් නිදහස් විය යුතුයි' යන අභිප්‍රේරණය සිත තුළ දැඩිව තහවුරු කරගන්න.",
+        "daily_practice_steps": [
+            "ජීවිතයේ අනිත්‍ය බව සහ දුක්ඛ ස්වභාවය දිනපතා ස්මරණය කරන්න.",
+            "මාර්ගය ප්‍රගුණ කිරීමෙන් ලැබෙන මානසික නිදහස පිළිබඳව නිරන්තරයෙන් මෙනෙහි කරන්න.",
+            "සෑම ක්‍රියාවකදීම මෙය දුකෙන් මිදීමට උපකාරී වන්නේ කෙසේදැයි විමසන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒකධම්මෝ භික්ඛවේ, බහුකාරෝ අරියස්ස අට්ඨංගිකස්ස මග්ගස්ස උප්පාදාය. කතමෝ ඒකධම්මෝ: යදිදං ඡන්දසම්පදා. ඡන්දසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, ආර්ය අෂ්ටාංගික මාර්ගය උපදවා ගැනීම පිණිස එක ධර්මයක් බොහෝ සෙයින් උපකාරී වෙයි. ඒ කවර එක ධර්මයක් ද යත්, එනම් දුකෙන් මිදීමට කැමැත්ත ඇති බව නම් වූ සම්පත්තිය යි. ….(පෙ)…. ආර්ය අෂ්ටාංගික මාර්ගය බහුල ව ප්‍රගුණ කරන්නේ මේ අයුරිනි."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "සමුදයධම්ම සුත්තං",
+    "sutta_title": "හටගැනීම ස්වභාව කොට ඇති දෙය ගැන වදාළ දෙසුම",
+    "id": "4313",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍යතාවය සහ සංස්කාර (Impermanence and Sankhara)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "සියලු සංස්කාරයන් හටගැනීම ස්වභාව කොට ඇති බවත්, එම නිසාම ඒවා අනිත්‍ය බවත් අවධාරණය කෙරෙන දේශනාවකි.",
+        "long_summary": "සැවැත් නුවරදී දේශනා කරන ලද මෙම සූත්‍රය මගින් ලෝකයේ පවතින සියලුම සංස්කාරයන් (සංසිද්ධීන්) හටගැනීමේ ස්වභාවයෙන් යුක්ත බව පෙන්වා දෙයි. යමක් හටගන්නේද, එය අනිවාර්යයෙන්ම වෙනස් වීමට සහ විනාශ වීමට ලක්වන බවත්, මෙම මූලික ධර්මතාවය අවබෝධ කර ගැනීම තුළින් ලෝකය දෙස නිවැරදි දැක්මකින් බැලීමට මග පෙන්වයි.",
+        "main_discovery": "සියලු සංස්කාරයන්ගේ හටගැනීම (Origination) සහ ඒවායේ නොවැලැක්විය හැකි වෙනස්වන සුළු ස්වභාවය අවබෝධ කර ගැනීම.",
+        "core_truth_of_sutta": "යම් කිසිවක් හටගැනීම ස්වභාව කොට ඇත්නම්, ඒ සියල්ල විනාශ වීම (වෙනස් වීම) ස්වභාව කොට ඇත්තේය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනිත්‍ය පටිසංවේදීතාව (Perception of Impermanence) - සියලු සංස්කාරයන්ගේ අස්ථිර බව දැකීම.",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ වෙනස්වන සුළු බව අවබෝධ වීමෙන් ඒවා කෙරෙහි පවතින තෘෂ්ණාව සහ උපාදානය (Clinging) දුරු වී විමුක්තිය උදාවේ.",
+            "practical_renunciation": "අල්ලාගෙන සිටින දේවල වෙනස් වීම දැකීමෙන් ස්වභාවිකවම සිත බැඳීම්වලින් නිදහස් වීම (Letting go) පුහුණු වේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නිවැරදි දැකීම (Right View)",
+                "මෝහය දුරු කිරීම (Dispelling Delusion)"
+            ],
+            "cognitive_impact": "සදාකාලික යැයි සිතන වැරදි සහගත සංජානනය (Perception of Permanence) නිවැරදි කරමින් මානසික නම්‍යශීලීතාවය ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'පිළිගැනීම' (Acceptance) - ලෝකයේ යථාර්ථය වෙනස් කළ නොහැකි බව වටහාගෙන ඒ අනුව මනස හැඩගැස්වීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "අනිත්‍යතාවය නැවත නැවත මෙනෙහි කිරීමේදී (Contemplation), 'මම' කේන්ද්‍ර කරගත් DMN ජාලයේ ක්‍රියාකාරිත්වය අඩු වී මොළයේ ව්‍යුහාත්මක වෙනසක් සිදුවේ.",
+            "stress_reduction_mechanism": "වෙනස් වීම ලෝක ස්වභාවය ලෙස පිළිගැනීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී Cortisol මට්ටම පහත වැටීමෙන් මානසික ආතතිය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Pattern Recognition of Change",
+            "Cognitive Reframing",
+            "Reality Testing"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Ignorance to Clarity",
+            "mood_keywords": [
+                "Peaceful",
+                "Detached",
+                "Grounded"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Physics",
+                "theory_name": "Entropy / Second Law of Thermodynamics",
+                "parallel_description": "සියලු පද්ධතීන් ස්වභාවයෙන්ම අක්‍රමවත්භාවයට සහ වෙනස් වීමට ලක්වන බව පවසන විද්‍යාත්මක මූලධර්මය, බුදුදහමේ අනිත්‍ය ස්වභාවයට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Sabbe Sankhara Anicca",
+                "related_teachings": [
+                    "Anatta Lakkhana Sutta",
+                    "Paticcasamuppada"
+                ],
+                "connection_type": "Thematic Continuity"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ සිදුවන ඕනෑම වෙනස් වීමකදී එය 'හටගැනීම සහ නැතිවීම' යන විශ්ව ධර්මතාවයේ කොටසක් ලෙස දැකීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ විට අද දින මා අත්දකින සියල්ල වෙනස් වන සුළු බව සිහිපත් කරන්න.",
+            "යම් පීඩාකාරී සිතිවිල්ලක් ආ විට 'මෙයත් හටගත්තක්, මෙයත් වෙනස් වේ' යන්න මෙනෙහි කරන්න.",
+            "බාහිර වස්තූන්ගේ වෙනස් වීම් දෙස උපේක්ෂාවෙන් බැලීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …."
+        },
+        {
+            "pali": "සබ්බං භික්ඛවේ, සමුදයධම්මං ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල හටගැනීම ස්වභාව කොටයි තියෙන්නේ ….(පෙ)…."
+        }
+    ]
+}

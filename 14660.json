@@ -1,0 +1,89 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "සුමනා ථේරීගාථා",
+    "sutta_title": "සුමනා තෙරණියගේ ගාථාව",
+    "id": "14660",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimuktti (Liberation)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "මහා ධාතූන් කෙරෙහි පවතින බැඳීම දුකක් ලෙස දැක, සියලු ආශාවන් අත්හැර සංසාර චක්‍රයෙන් නිදහස් වීමේ උපශාන්ත මාර්ගය මෙහි දැක්වේ.",
+        "long_summary": "සුමනා තෙරණිය විසින් වදාල මෙම ගාථාවෙන් පෙන්වා දෙන්නේ පඨවි, ආපෝ, තේජෝ, වායෝ යන සතර මහා ධාතූන්ගෙන් සැදුම්ලත් පැවැත්ම දුකක් ලෙස අවබෝධ කරගැනීමේ වැදගත්කමයි. එසේ අවබෝධ කරගත් තැනැත්තා නැවත භවයට (සංසාර චක්‍රයට) යාම නොකළ යුතුය. ජීවිතය කෙරෙහි පවතින සියලුම ආශාවන් (තෘෂ්ණාව) අත්හැර දැමීමෙන් ඇතිවන උපශාන්ත මනසින් යුතුව කාලය ගත කිරීම මුක්තිය ලැබූවකුගේ ස්වභාවයයි.",
+        "main_discovery": "සතර මහා ධාතූන් කෙරෙහි ඇති බැඳීම දුකක් ලෙස හඳුනාගෙන භවයට ඇති තෘෂ්ණාව ප්‍රහීණ කිරීමෙන් ලැබෙන උපශාන්ත බව.",
+        "core_truth_of_sutta": "ධාතූන්ගේ පැවැත්මේ දුක දැක භව තෘෂ්ණාව ප්‍රහීණ කිරීම පරම උපශාන්තියයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සතර මහා ධාතු (Four Elements) පිළිබඳ යථාභූත ඥානය ලැබීම.",
+            "how_it_aids_liberation": "සංසාර චක්‍රයේ (Cycle of Birth) රඳවා තබා ගන්නා තෘෂ්ණාව මුලිනුපුටා දැමීම මගින් නිවනට මග පාදයි.",
+            "practical_renunciation": "භවය කෙරෙහි ඇති ආශාවන් (Existence Craving) අත්හැරීමෙන් ලබන චිත්ත විවේකය."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවබෝධය (Realization)",
+                "උපශාන්ත බව (Tranquillity)",
+                "අනපේක්ෂිත බව (Non-expectation)"
+            ],
+            "cognitive_impact": "යථාර්ථය ධාතු වශයෙන් (Structural view) විශ්ලේෂණය කිරීම මගින් පුද්ගල භාවය (Self-identity) පිළිබඳ පවතින මායාව ඉවත් කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' සංකල්පයට සමානය; එනම් සිතුවිලි හෝ ද්‍රව්‍යමය ව්‍යුහයන් සමග අනන්‍ය නොවී ඒවා දෙස උපේක්ෂාවෙන් බැලීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Limbic System",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "සංසාර චක්‍රයට ඇති ලැදියාව අත්හැරීම මගින් මොළයේ 'Reward System' එක (Dopaminergic pathways) නව රටාවකට හැඩගැසී, භාහිර උත්තේජන මත යැපීම අවම වේ.",
+            "stress_reduction_mechanism": "ආශාවන් අත්හැරීම මගින් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී Cortisol මට්ටම පහළ යන අතර, එමගින් උපශාන්ත (Homeostatic) තත්ත්වයක් ඇතිවේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Detachment (Viraga)",
+            "Radical Acceptance",
+            "Pattern Breaking"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Tranquillity (Upekkha)",
+            "emotional_intensity": 9,
+            "emotional_arc": "සංසාරික බියෙන් උපශාන්ත නිදහස කරා.",
+            "mood_keywords": [
+                "Peaceful",
+                "Resolved",
+                "Detached"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "වස්තූන්ගේ ස්වභාවය විකෘති කිරීමකින් තොරව (Cognitive Distortions) පවතින අයුරින්ම (ධාතු වශයෙන්) දැකීමෙන් චිත්තවේගීය සමතුලිතතාවය ඇති කිරීම.",
+                "confidence_score": 88
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Maha Bhuta (Great Elements)",
+                "related_teachings": [
+                    "Maha-hatthipadopama Sutta",
+                    "Dhatuvibhanga Sutta"
+                ],
+                "connection_type": "Thematic Consistency"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකයේ ඇති කිසිදු දෙයක් ස්ථිර නැති බවත්, ඒ දේවල් ධාතු මාත්‍රයක් පමණක් බවත් වටහාගෙන අසීමිත ආශාවන් පාලනය කර ශාන්ත මනසක් ඇති කරගන්න.",
+        "daily_practice_steps": [
+            "තමා සතු වස්තූන් හා ශරීරය සතර මහා ධාතූන්ගේ එකතුවක් ලෙස මෙනෙහි කරන්න.",
+            "ජීවිතයේ ඇතිවන දැඩි බැඳීම් (Attachments) දෙස විමර්ශනාත්මකව බලන්න.",
+            "දිනපතා සුළු වේලාවක් හෝ නිශ්ශබ්දව මනස උපශාන්ත කරගන්නා භාවනාවක යෙදෙන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ධාතුයෝ දුක්ඛතෝ දිස්වා මා ජාතිං පුනරාගමි,\nභවේ ඡන්දං විරාජෙත්වා උපසන්තා චරිස්සසීති",
+            "sinhala": "මේ සතර මහා ධාතූන්ගේ පැවැත්ම දුකක් වශයෙන් අවබෝධ වුණාට පස්සෙ ආයෙත් ඉපදෙන සංසාරයට නම් එන්න එපා. භවය ගැන තියෙන ආශාව නැති කරගෙන උපශාන්ත සිතින් කල් ගෙවන්න."
+        },
+        {
+            "pali": "ඉත්ථං සුදං සුමනා ථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී මුත්තා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

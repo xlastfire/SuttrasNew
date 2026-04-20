@@ -1,0 +1,96 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "කාම සුත්තං",
+    "sutta_title": "කැමැත්ත ගැන වදාළ දෙසුම",
+    "id": "1199",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සත්තානං ස්වභාව සහ විමුක්ති මූලධර්ම (Nature of Beings and Liberation)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "සත්වයෙකු තමාගේ ස්වභාවයම අත් නොහරින බවත්, තමාටම අයිති ආත්මීය ගුණාංග අන්සතු නොකරන බවත්, යහපත් වචන භාවිතා කරමින් අයහපත් දේ බැහැර කළ යුතු බවත් මෙම සූත්‍රය අවධාරණය කරයි.",
+        "long_summary": "යහපත් ජීවිතයක් ගත කිරීමට අපේක්ෂා කරන අයෙකු අත් නොහරින සහ අන්සතු නොකරන දේ පිළිබඳව දෙවියෙකු නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් බුදුරජාණන් වහන්සේ වදාරන්නේ, සත්වයෙකු කිසිසේත් තම ස්වභාවය (Nature) අත් නොහරින බවත්, තමා සතු පෞරුෂය හෝ ආත්මය (Self) අන්සතු නොකරන බවත්ය. එමෙන්ම ප්‍රඥාවන්තයා නිරතුරුවම යහපත් වචන (Subhasita) ප්‍රකාශ කරන අතර, ළාමක වූ හෝ අකුසල සහගත දේ (Vulgar/Evil) තම මනසින් හෝ වචනයෙන් මුදා නොහැරීමට වගබලා ගන්නා බව මෙහි සවිස්තරාත්මකව දක්වා ඇත.",
+        "main_discovery": "සත්වයෙකු විසින් කිසිසේත් අත් නොහරින්නේ සහ අන්සතු නොකරන්නේ තමාගේ ස්වභාවය (Nature/Self) බවත්, නිවැරදි වචන භාවිතය සහ අයහපත් දේ බැහැර කිරීම යහපත් ජීවිතයකට මූලික වන බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සත්වයාගේ සහජ ස්වභාවය වෙනස් කිරීම අපහසු වුවද, වාචසික සංවරය සහ ළාමක අකුසලයෙන් වැළකීම තුළින් යහපත් පැවැත්මක් ගොඩනගා ගත හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සීලමය පදනම මත පිහිටා වාචසික අකුසලයෙන් වැළකීම සහ තම සැබෑ ස්වභාවය අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "සම්මා වාචා (Right Speech) පුහුණුව මගින් අකුසල මූලයන් ක්ෂය කිරීමටත්, ස්වයං-අවබෝධය තුළින් මමත්වය ප්‍රහීණය කිරීමටත් මග පාදයි.",
+            "practical_renunciation": "ළාමක සිතුවිලි සහ වචන (Low/Defiled qualities) මුදා හැරීම හෙවත් අත්හැරීම ප්‍රායෝගිකව පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "මමත්වය (Identity attachment)",
+                "සම්මා වාචා (Right verbal communication)",
+                "අකුසල විතර්ක (Unwholesome thoughts)"
+            ],
+            "cognitive_impact": "යහපත් වචන භාවිතය තුළින් මනසේ ස්නායුක පථ ධනාත්මකව ප්‍රතිසංවිධානය වන අතර, ළාමක දේ බැහැර කිරීමෙන් චිත්තවේගීය නියාමනය (Emotional Regulation) ශක්තිමත් වේ.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි භාවිතා වන 'Thought Stopping' සහ 'Cognitive Restructuring' ක්‍රමවේද හරහා අයහපත් සිතුවිලි පාලනය කිරීම මීට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Broca's Area"
+            ],
+            "neuroplasticity_and_habit": "යහපත් වචන නැවත නැවත භාවිතය (Repetitive positive speech) මගින් මොළයේ Prefrontal Cortex හි ස්නායුක සම්බන්ධතා ශක්තිමත් වී ස්වයං-පාලනය (Self-control) දියුණු වේ.",
+            "stress_reduction_mechanism": "ළාමක සිතුවිලි සහ වචන පාලනය කිරීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහළ යාම නිසා මානසික ආතතිය අවම වේ."
+        },
+        "cognitive_mechanisms": [
+            "Self-preservation bias",
+            "Verbal regulation",
+            "Cognitive filtering",
+            "Moral discernment"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් සහ උපදේශාත්මක (Equanimous and Instructive)",
+            "emotional_intensity": 6,
+            "emotional_arc": "ප්‍රශ්නාර්ථයකින් ආරම්භ වී පැහැදිලි ධර්මාවබෝධයකින් අවසන් වේ.",
+            "mood_keywords": [
+                "නිවුණු",
+                "ප්‍රඥාවන්ත",
+                "පැහැදිලි"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Consistency Theory",
+                "parallel_description": "පුද්ගලයෙකු තම අනන්‍යතාවය සහ ස්වයං-රූපය (Self-image) පවත්වා ගැනීමට ගන්නා උත්සාහය, සූත්‍රයේ 'තම ස්වභාවය අත් නොහරියි' යන කරුණ හා සමාන වේ.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සම්මා වාචා (Right Speech)",
+                "related_teachings": [
+                    "අංගුත්තර නිකාය - වාචා සූත්‍රය"
+                ],
+                "connection_type": "ධර්මනුකූල අනුපූරක (Doctrinal Complementary)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ සහජ ස්වභාවය හඳුනාගන්න; සැමවිටම කාරුණික සහ සත්‍යවාදී වචන භාවිතා කරන්න; පහත් හෝ අකුසල සහගත අදහස් සිතින් පවා බැහැර කිරීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "සෑම දිනකම උදෑසන 'අද දවසේ මා කිසිදු රළු වචනයක් නොපවසමි' යන්න අධිෂ්ඨාන කරගන්න.",
+            "සිතට පහත් හෝ ළාමක සිතුවිල්ලක් පැමිණි වහාම එය 'මෙය මට අයහපත පිණිස පවතී' ලෙස හඳුනාගෙන බැහැර කරන්න.",
+            "තමාගේ ස්වභාවය දෙස උපේක්ෂාවෙන් බැලීමට දිනකට විනාඩි 5ක් නිශ්ශබ්දව විමර්ශනය කරන්න (Mindful self-observation)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "කිමත්‌ථකාමෝ න දදේ කිං මච්‌චෝ න පරිච්‌චජේ\nකිංසු මුඤ්‌චෙය්‍ය කල්‍යාණං පාපිකඤ්ච න මෝචයේති",
+            "sinhala": "“යහපත කැමති සත්වයා කුමක් නොදෙයි ද? කුමක් අත්නොහරියි ද? කල්‍යාණ වූ කුමක් මුදාහරියි ද? ළාමක වූ කුමක් නොමුදයි ද?”"
+        },
+        {
+            "pali": "(භගවා)",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "අත්‌තානං න දදේ පෝසෝ අත්‌තානං න පරිච්‌චජේ\nවාචං මුඤ්‌චෙය්‍ය කල්‍යාණං පාපිකඤ්‌ච න මෝචයේති",
+            "sinhala": "“සත්ව තෙමේ තමාව නොදෙන්නේය. තමාව අත්නොහරින්නේය. යහපත් වචන මුදාහරින්නේය. පවිටු වචන නොමුදන්නේය.”"
+        }
+    ]
+}

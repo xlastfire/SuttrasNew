@@ -1,0 +1,83 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "ජීවිතින්ද්‍රිය සුත්තං",
+    "sutta_title": "ජීවිතින්ද්‍රිය ගැන වදාළ දෙසුම",
+    "id": "6547",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ඉන්ද්‍රිය විභංග (Analysis of Faculties)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සත්ව පැවැත්මේ මූලික පදනම වන ස්ත්‍රී, පුරුෂ සහ ජීවිත යන ඉන්ද්‍රියන් තුන පිළිබඳ කෙටි විවරණයකි.",
+        "long_summary": "සත්වයෙකුගේ භෞතික හා කායික පැවැත්ම නිර්වචනය කරන ප්‍රධාන ඉන්ද්‍රියන් තුනක් මෙහි විග්‍රහ කෙරේ. ස්ත්‍රී ස්වභාවය තීරණය කරන ස්ත්‍රී ඉන්ද්‍රියය (Itthindriya), පුරුෂ ස්වභාවය තීරණය කරන පුරුෂ ඉන්ද්‍රියය (Purisindriya) සහ රූප-අරූප ධර්මයන්ගේ ආයු කාලය හෙවත් පැවැත්ම පවත්වාගෙන යන ජීවිත ඉන්ද්‍රියය (Jivitindriya) යන මේවා ජීවී පද්ධතියක මූලිකාංග බව මෙහි දැක්වේ.",
+        "main_discovery": "ජීව විද්‍යාත්මක පැවැත්ම සහ ලිංගික අනන්‍යතාවය තීරණය කරන මූලික ශක්තීන් (ඉන්ද්‍රිය) හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "පුද්ගල අනන්‍යතාවය සහ පැවැත්ම යනු ස්වාධීන ආත්මයක් නොව, ඉන්ද්‍රියන්ගේ ක්‍රියාකාරිත්වයේ ඵලයකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉන්ද්‍රිය ධර්මයන්ගේ අනිත්‍යතාවය සහ හේතු-ඵල දහම අවබෝධ කිරීම.",
+            "how_it_aids_liberation": "ස්ත්‍රී/පුරුෂ යන අනන්‍යතාවයන් කෙරෙහි ඇති බැඳීම (Identification) ලිහිල් කිරීමෙන් 'මම' යන දෘෂ්ටිය ප්‍රහීණය කිරීමට උපකාරී වේ.",
+            "practical_renunciation": "ස්ත්‍රීත්වය හෝ පුරුෂත්වය මත පදනම් වූ ආශ්වාදය සහ බැඳීම හුදු ඉන්ද්‍රිය ක්‍රියාවලියක් ලෙස දැක අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ලිංගික අනන්‍යතාවය (Gender Identity)",
+                "ජීවත්වීමේ ආශාව (Desire for existence)"
+            ],
+            "cognitive_impact": "සත්වයෙකු ලෙස ගන්නා මනෝමය සංකල්පය (Personhood) ජීව විද්‍යාත්මක ක්‍රියාවලීන් තුනකට ලඝු කිරීමෙන් මෝහය දුරු කරයි.",
+            "modern_psychology_parallel": "Gender identity formation සහ මනෝවිශ්ලේෂණයේදී එන අනන්‍යතා ගොඩනැගීම පිළිබඳ මූලධර්මවලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Hypothalamus (ලිංගික ලක්ෂණ පාලනය)",
+                "Default Mode Network (ස්වයං-අනන්‍යතාවය)",
+                "Brainstem (ජීවය පවත්වා ගැනීම)"
+            ],
+            "neuroplasticity_and_habit": "ලිංගිකත්වය මත පදනම් වූ රේඛීය චින්තනයෙන් බැහැර වී, ඒවා ධාතු ස්වභාවයන් ලෙස දැකීමට මොළයේ නව ස්නායුක පථ (Neural pathways) නිර්මාණය කිරීම.",
+            "stress_reduction_mechanism": "ජීවිතය සහ අනන්‍යතාවය පිළිබඳ ඇති අධික බිය (Death anxiety) සහ බැඳීම පාලනය කිරීම මගින් Amygdala හි ක්‍රියාකාරිත්වය සමනය වීම."
+        },
+        "cognitive_mechanisms": [
+            "Self-identification",
+            "Gender Identity perception",
+            "Survival Instinct"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 4,
+            "emotional_arc": "ජීව විද්‍යාත්මක යථාර්ථය අවබෝධ කර ගැනීමෙන් ඇතිවන තැන්පත් බව.",
+            "mood_keywords": [
+                "නිරවුල්",
+                "විමර්ශනාත්මක",
+                "යථාර්ථවාදී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Biology / Genetics",
+                "theory_name": "Biological Determinism",
+                "parallel_description": "ස්ත්‍රී පුරුෂ භාවය සහ ජීවී බව (Biological life) ජානමය හා හෝර්මෝනමය සාධක මත තීරණය වීම බුදුදහමේ ඉන්ද්‍රිය සංකල්පයට සමාන්තර වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Indriya (Faculties)",
+                "related_teachings": [
+                    "Indriya Vibhanga Sutta",
+                    "Dhammasangani"
+                ],
+                "connection_type": "ධර්ම විභාගාත්මක සබඳතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "අපගේ ස්ත්‍රී/පුරුෂ බව හෝ පෞරුෂය යනු ස්ථිර දෙයක් නොව හේතු ප්‍රත්‍ය මත පවතින ඉන්ද්‍රිය ක්‍රියාවලියක් බව වටහාගෙන අනවශ්‍ය මානසික පීඩනයෙන් නිදහස් වීම.",
+        "daily_practice_steps": [
+            "තමාගේ රූපය හෝ අනන්‍යතාවය දෙස බලන විට එය ඉන්ද්‍රිය ක්‍රියාවලියක් ලෙස සිහිකිරීම (Objective observation).",
+            "ජීවිත ඉන්ද්‍රිය පවතින තාක් පමණක් මේ සියල්ල පවතින බව මෙනෙහි කරමින් නිහතමානී වීම.",
+            "බාහිර රූපයන්හි ස්ත්‍රී/පුරුෂ ලක්ෂණ දෙස විනිශ්චයකින් තොරව බැලීමට පුරුදු වීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "තීණිමානි භික්ඛවේ, ඉන්ද්‍රියානි. කතමානි තීණි: ඉත්ථින්ද්‍රියං, පුරිසින්ද්‍රියං, ජීවිතින්ද්‍රියං. ඉමානි ඛෝ භික්ඛවේ, තීණි ඉන්ද්‍රියානීති.",
+            "sinhala": "මහණෙනි, මේ ඉන්ද්‍රියයෝ තුනකි. ඒ කවර තුනක් ද යත්, ස්ත්‍රී ඉන්ද්‍රිය, පුරුෂ ඉන්ද්‍රිය, ජීවිත ඉන්ද්‍රිය ය. මහණෙනි, මේ වනාහී තුනක් වූ ඉන්ද්‍රියයෝ ය."
+        }
+    ]
+}

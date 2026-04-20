@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "සුමනා ඛුඩ්ඪපබ්බජිතා ථේරීගාථා",
+    "sutta_title": "වයසට ගොස් පැවිදි වූ සුමනා තෙරණියගේ ගාථාව",
+    "id": "14662",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimukthi (Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "වැඩිමහල් තැනැත්තෙකුගේ රාගය සංසිඳී ඇති බැවින්, පාංශුකූල සිවුරු දරාගෙන නිවී සුවසේ සැතපෙන ලෙස සුමනා තෙරණිය කරන අනුශාසනාවකි.",
+        "long_summary": "වයසට ගොස් පැවිදි වූ සුමනා රහත් තෙරණිය විසින් වැඩිමහල් තැනැත්තෙකු උදෙසා කරන ලද අනුශාසනාවකි. එහිදී ඔහු සතු සියලු රාගයන් සංසිඳී ඇති බව තහවුරු කරන තෙරණිය, පාංශුකූල වස්ත්‍රයෙන් කළ සිවුරු දරාගෙන විවේකීව සුවසේ සැතපෙන ලෙසත්, සිහිල් වී නිවී යන ලෙසත් අවවාද කරයි. මෙය ක්ලේශයන් ප්‍රහීණ කළ උත්තමයෙකුගේ මානසික නිදහස නිරූපණය කරයි.",
+        "main_discovery": "රාගය සංසිඳීම හරහා ලැබෙන මානසික නිදහස සහ ශාරීරික විවේකය අතර ඇති අන්තර් සම්බන්ධතාවය.",
+        "core_truth_of_sutta": "රාගය සහමුලින්ම සංසිඳීම (රාගක්ඛය) යනු සැබෑ විවේකය සහ නිවීමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "රාගය සංසිඳීම (Lust extinguishment).",
+            "how_it_aids_liberation": "සිතේ ඇති දැවෙන ස්වභාවය (රාගය) ඉවත් වූ විට සිත ස්වභාවිකවම නිවන (Nibbana) කරා යොමු වේ.",
+            "practical_renunciation": "ලෞකික සැප සම්පත් වෙනුවට පාංශුකූල වැනි අල්පේච්ඡ දේවලින් සතුටු වෙමින් මානසික විවේකය ලැබීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "වීතරාගී තත්ත්වය (Lust-free state)",
+                "උපසම (Tranquility)"
+            ],
+            "cognitive_impact": "ආශාවන් පසුපස හඹායන සංජානන රටාව (Object-seeking cognition) නතර වීම නිසා මොළයේ ශක්ති වැයවීම අවම වී මානසික සුවය උදාවීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Psychological flexibility' සහ ක්ලේශයන්ගෙන් මිදීම සමාන කළ හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Amygdala deactivation",
+                "Parasympathetic Nervous System activation"
+            ],
+            "neuroplasticity_and_habit": "රාගී සිතුවිලි නැවත නැවත ජනනය නොවීමෙන් මොළයේ අදාළ ස්නායුක පථ (Neural pathways) ක්ෂය වී, නිවීම සඳහා වූ නව පථ ශක්තිමත් වීම.",
+            "stress_reduction_mechanism": "රාගය සංසිඳීම නිසා Cortisol මට්ටම පහත වැටී මොළයේ තෘප්තිය ඇති කරන ස්නායු සම්ප්‍රේෂක උත්තේජනය වීම සහ Amygdala වේගවත් ක්‍රියාකාරිත්වය නතර වීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Desensitization to Sensory Stimuli",
+            "Internalized Peace"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සැනසීම (Serenity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "උපදේශනයේ සිට පරම සැනසීම දක්වා",
+            "mood_keywords": [
+                "නිවුණු",
+                "විවේකී",
+                "සංසිඳුණු",
+                "සිහිල්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Drive Reduction Theory",
+                "parallel_description": "රාගය වැනි මූලික පෙලඹවීම් (Drives) සංසිඳුණු විට සිත ස්ථාවර තත්වයකට (Homeostasis) පත්වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "රාගක්ඛය (Destruction of Lust)",
+                "related_teachings": [
+                    "නිබ්බාන සූත්‍ර",
+                    "විමුක්ති මාර්ගය"
+                ],
+                "connection_type": "ධර්ම සමානතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර ආශාවන් පසුපස හඹා නොයා සිත සංසිඳුවා ගැනීම තුළින් සැබෑ කායික හා මානසික විවේකය ළඟා කර ගත හැකිය.",
+        "daily_practice_steps": [
+            "සිතේ ඇතිවන දැවෙන සුලු ආශාවන් දෙස උපේක්ෂාවෙන් බැලීම.",
+            "ලැබෙන දෙයින් සතුටු වීම (පාංශුකූල සංකල්පය).",
+            "දිනපතා විනාඩි කිහිපයක් සිතේ සියලු ආතතීන් නිවාලන 'සිහිල්' මෙනෙහි කිරීමක යෙදීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සුඛං ත්වං වුඩ්ඪිකේ සේහි කත්වා චෝළේන පාරුතා,\nඋපසන්තෝ හි තේ රාගෝ සීතිභූතාසි නිබ්බුතාති",
+            "sinhala": "පින්වත් වැඩිමහළු තැනැත්තිය, පාංශුකූල රෙදිවලින් මසා ගත්ත සිවුරු පෙරවා ගෙන සුවසේ සැතපෙන්න. ඔබගේ රාගය සංසිඳිල තියෙන්නෙ. එනිසා සිහිල් වෙලා නිවී යන්න."
+        },
+        {
+            "pali": "ඉත්ථං සුදං සුමනා බුඩ්ඪපබ්බජිතා ථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී වසයට ගොස් පැවිදි වූ සුමනා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

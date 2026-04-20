@@ -1,0 +1,86 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "අනිච්ච සූත්‍රය",
+    "sutta_title": "අනිත්‍යය ගැන වදාළ දෙසුම",
+    "id": "15578",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍ය ලක්ෂණය සහ විරාගය (Impermanence and Detachment)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සෑම සංස්කාරයක්ම අනිත්‍ය බව වටහාගෙන, ඒ කෙරෙහි පවත්නා ඡන්දරාගය (ඇල්ම) දුරු කළ යුතු බව රාධ හිමියන්ට කළ මෙම දේශනාවේ හරයයි.",
+        "long_summary": "සැවැත් නුවර ජේතවනාරාමයේදී රාධ හිමියන් අමතා දේශනා කරන ලද මෙම සූත්‍රයෙන් පෙන්වා දෙන්නේ ලෝකයේ පවත්නා සියලු දේ අනිත්‍ය ස්වභාවයෙන් යුක්ත බවයි. අනිත්‍ය වූ දෙයක් කෙරෙහි දැඩිව ඇලී සිටීම දුකට හේතුවක් බැවින්, එම අනිත්‍ය බව නිවැරදිව දැකීමෙන් සිතේ ඇති වන දැඩි ඇල්ම හෙවත් ඡන්දරාගය ක්‍රමයෙන් ප්‍රහීණ කළ යුතු බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "සියලු සංස්කාරයන්හි පවත්නා අනිත්‍ය ස්වභාවය හඳුනාගැනීම මගින් ඒවා කෙරෙහි ඇති වන ඇල්ම (ඡන්දරාගය) ප්‍රහීණ කළ හැකි බව.",
+        "core_truth_of_sutta": "සියල්ල අනිත්‍යය; එබැවින් අනිත්‍ය දේ කෙරෙහි පවත්නා ඡන්දරාගය ප්‍රහීණ කිරීම විමුක්තියේ මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සංස්කාරයන්ගේ අනිත්‍යතාවය (Impermanence of conditioned things) දැකීම.",
+            "how_it_aids_liberation": "අනිත්‍යය අවබෝධ වීමෙන් 'නිබ්බිදා' (කලකිරීම) ඇති වන අතර, එමගින් ඡන්දරාගය නැති වී සිත මිදේ.",
+            "practical_renunciation": "කිසිදු අනිත්‍ය වස්තුවක් හෝ පුද්ගලයෙක් නිත්‍ය ලෙස ග්‍රහණය කර නොගැනීම (Non-clinging)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්දරාගය (Desire-lust)",
+                "අනිත්‍ය සඤ්ඤාව (Perception of impermanence)"
+            ],
+            "cognitive_impact": "යථාර්ථය පිළිබඳව පවත්නා වැරදි සහගත 'නිත්‍ය' යන සංජානනය වෙනස් කිරීමෙන් මානසික ආතතිය අඩු කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි දැක්වෙන පරිදි සාවද්‍ය විශ්වාස (Irrational beliefs) නිවැරදි කිරීමේ ක්‍රියාවලියට මෙය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Ventral Striatum (Reward system)"
+            ],
+            "neuroplasticity_and_habit": "අනිත්‍යතාවය නැවත නැවත මෙනෙහි කිරීමෙන් (Repetitive contemplation) තෘෂ්ණාවට අදාළ ස්නායුක පථ දුර්වල වී ප්‍රඥාවට අදාළ පථ ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අනිත්‍යය පිළිගැනීම මගින් අහිමි වීම් හමුවේ Amygdala වේගවත්ව උත්තේජනය වීම පාලනය කර ආතති හෝමෝන (Cortisol) මට්ටම අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)",
+            "අනිත්‍ය සඤ්ඤාව (Perception of Impermanence)",
+            "ඡන්දරාග විනය (Discipline of Desire)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ඇල්ම සහ බැඳීමෙන් හටගන්නා නොසන්සුන්බවේ සිට අවබෝධය තුළින් ලැබෙන සාමය දක්වා.",
+            "mood_keywords": [
+                "නිවුණු",
+                "ප්‍රඥාවන්ත",
+                "අකම්පිත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "ලෝකයේ අනිත්‍ය ස්වභාවය පිළිගැනීම (Acceptance) මගින් මානසික නම්‍යශීලීතාවය ඇති කර ගැනීම සහ අහිතකර ඇලීම් වලින් මිදීම (Defusion).",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඡන්දරාගය දුරු කිරීම (Removal of Desire-Lust)",
+                "related_teachings": [
+                    "රාධ සංයුත්තය",
+                    "අනිච්ච සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම දේශනාමය සමානත්වය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකයේ කිසිවක් සදාකාලික නොවන බව වටහාගෙන, අහිමි වීම් හමුවේ කම්පා නොවී සිටීමට සිත පුහුණු කරන්න.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම තමා අවට ඇති දේ වෙනස් වන සුළු බව (Impermanence) මෙනෙහි කරන්න.",
+            "යම් දෙයකට දැඩිව ඇලෙන විට එය අනිත්‍ය බව තමාටම සිහිපත් කර දෙන්න.",
+            "ලැබීම මෙන්ම නැති වීමද ස්වභාවික ධර්මතාවයක් ලෙස උපේක්ෂාවෙන් දකින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …………………"
+        },
+        {
+            "pali": "ඒකමන්තං නිසින්නං ඛෝ ආයස්‌මන්තං රාධං භගවා ඒතදවෝච. යං ඛෝ රාධ, අනිච්චං. ….(පෙ)…. ඡන්‌දරාගෝ පහාතබ්බෝ’ති.",
+            "sinhala": "එකත්පස්ව වාඩිවුණ ආයුෂ්මත් රාධයන් හට භාග්‍යවතුන් වහන්සේ මෙකරුණ වදාළා. පින්වත් රාධ, අනිත්‍ය වූ යමක් ඇද්ද, ඒ කෙරෙහි …. (පෙ) …. ඡන්දරාගය දුරු කළ යුතුයි."
+        }
+    ]
+}

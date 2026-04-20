@@ -1,0 +1,93 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "වේදනා සුත්තං",
+    "sutta_title": "වේදනාව ගැන වදාළ දෙසුම",
+    "id": "2333",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "වේදනානුපස්සනාව (Contemplation of Feeling)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "වේදනාව පිළිබඳ නිවැරදි අවබෝධයක් නොමැතිව අධ්‍යාත්මික දියුණුවක් ලැබිය නොහැකි බවත්, එය අවබෝධ කර ගැනීම උතුම් ඥානයට මග බවත් මෙහි දැක්වේ.",
+        "long_summary": "වේදනාව පිළිබඳ ගැඹුරු සහ නිවැරදි අවබෝධයක් නොමැති ශ්‍රමණ බ්‍රාහ්මණයන්ට තම අධ්‍යාත්මික ගමනේ යහපත් ප්‍රතිඵල අත්කර ගත නොහැක. වේදනාවේ ස්වභාවය, එහි හටගැනීම සහ නිරුද්ධ වීම පිළිබඳව පිරිසිදු ඥානයක් ඇති කරගන්නා තැනැත්තාට පමණක් උතුම් අවබෝධය ලබාගත හැකි බවත්, එය විමුක්ති මාර්ගයේ තීරණාත්මක සාධකයක් බවත් මෙම දේශනාව මගින් අවධාරණය කරයි.",
+        "main_discovery": "වේදනාව පිළිබඳ යථාභූත ඥානය විමුක්තිය සඳහා අත්‍යවශ්‍ය පූර්ව අවශ්‍යතාවයක් බව හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "වේදනාව පිළිබඳ යථාභූත ඥානය (විද්‍යාව) විමුක්තිය ලැබීමේ අනිවාර්ය පදනමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "වේදනාව යනු තෘෂ්ණාවට මූලික වන ප්‍රත්‍යය (වේදනා පච්චයා තණ්හා) බව අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "වේදනාව අනිත්‍ය ධර්මයක් ලෙස දැකීමෙන් එයට ඇති බැඳීම (Upadana) ලිහිල් වී දුකෙන් නිදහස් වීමට මග පාදයි.",
+            "practical_renunciation": "සැප වේදනාවේදී ඇලීමත්, දුක් වේදනාවේදී ගැටීමත්, නොඇලෙන නොගැටෙන වේදනාවේදී මුළාවීමත් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විඳීම (Sensation/Feeling)",
+                "අවිද්‍යාව (Ignorance)",
+                "ප්‍රඥාව (Insight)"
+            ],
+            "cognitive_impact": "වේදනාව යනු පුද්ගල අනන්‍යතාවයක් (Self) නොව හුදු සංසිද්ධියක් ලෙස දැකීමේ රටාව (Cognitive Reframing) වර්ධනය කරයි.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) හි එන 'Distress Tolerance' සහ Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' ක්‍රමවේදයන්ට බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Anterior Cingulate Cortex (ACC)",
+                "Insular Cortex",
+                "Prefrontal Cortex (PFC)",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "වේදනාවට දක්වන ක්ෂණික ප්‍රතිචාරාත්මක බව (Reactivity) අඩු කිරීමෙන් මොළයේ ස්වයංක්‍රීය ස්නායුක පථ වෙනස් වී විධායක ක්‍රියාකාරිත්වය (Executive Function) ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "Amygdala හි අතිශය ක්‍රියාකාරීත්වය පාලනය කරමින්, Cortisol මට්ටම අඩු කිරීමටත්, චිත්තවේගීය නියාමනය (Emotional Regulation) ඇති කිරීමටත් මෙම අවබෝධය උපකාරී වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Metacognitive Awareness",
+            "Affective Labeling",
+            "Objectification of Subjective Experience"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "නොදැනුවත්කම නිසා ඇතිවන ව්‍යාකූලත්වයේ සිට අවබෝධය තුළින් ලබන ශාන්තිය දක්වා.",
+            "mood_keywords": [
+                "නිරවුල්",
+                "ප්‍රඥාවන්ත",
+                "අවබෝධය",
+                "විනය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අරමුණක් කෙරෙහි ඇතිවන චිත්තවේගීය ප්‍රතිචාරය (Feeling) හඳුනාගෙන එයට දක්වන ස්වයංක්‍රීය ප්‍රතික්‍රියාව පාලනය කිරීමේ ක්‍රියාවලියට සමාන වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Interoceptive Awareness",
+                "parallel_description": "ශරීරයේ අභ්‍යන්තර සංවේදනයන් සහ වේදනාවන් පිළිබඳව ඇතිවන සවිඥානික බව මොළයේ Insular Cortex හි ක්‍රියාකාරිත්වය සමග සෘජුව බැඳී පවතී.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "වේදනානුපස්සනාව",
+                "related_teachings": [
+                    "සතිපට්ඨාන සූත්‍රය",
+                    "චූළවේදල්ල සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම විනයානුකූල අනුපූරක බව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ විවිධ අත්දැකීම් හමුවේ සිතේ ඇතිවන වේදනා (සැප, දුක්, මධ්‍යස්ථ) දෙස අවබෝධයෙන් බැලීමෙන් මානසික පීඩනයෙන් මිදිය හැක.",
+        "daily_practice_steps": [
+            "ඕනෑම සංවේදනයකදී එය 'සැප', 'දුක්' හෝ 'අදුක්ඛමසුඛ' ලෙස හඳුනා ගැනීමට සතිමත් වීම.",
+            "වේදනාව කෙරෙහි වහාම ප්‍රතිචාර නොදක්වා (React) එය නිරීක්ෂණය (Observe) කිරීමට පුරුදු වීම.",
+            "වේදනාව යනු ශරීරයේ ඇතිවන තාවකාලික සංසිද්ධියක් පමණක් බව මෙනෙහි කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(යේහි කේචි ....(පෙ).... වේදනං නප්පජානන්ති. ....(පෙ).... යේ ච ඛෝ කේචි ....(පෙ).... වේදනං පජානන්ති ....(පෙ)....)",
+            "sinhala": "පින්වත් මහණෙනි, යම්කිසි ශ්‍රමණයන් වේවා, බ්‍රාහ්මණයන් වේවා, වේදනාව ගැන අවබෝධයක් නැත්නම්, ....(පෙ).... ලැබෙන්නේ නෑ.පින්වත් මහණෙනි, යම්කිසි ශ්‍රමණයන් වේවා, බ්‍රාහ්මණයන් වේවා, වේදනාව ගැන අවබෝධයක් තියෙනවා නම්, ....(පෙ).... ලැබෙනවා."
+        }
+    ]
+}

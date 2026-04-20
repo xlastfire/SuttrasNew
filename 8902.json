@@ -1,0 +1,95 @@
+{
+    "nikaya": "චතුක්ක නිපාතෝ",
+    "vagga": "බල සුත්තං",
+    "sutta_title": "බල ගැන වදාළ දෙසුම",
+    "id": "8902",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Spiritual Faculties (Bala)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "ශ්‍රද්ධාව, වීරිය, සිහිය සහ සමාධිය යන සතර බලයන් පුහුණු කිරීම තුළින් සිත අකම්පිත බලවත් තත්ත්වයකට පත් කරන ආකාරය මෙහි දැක්වේ.",
+        "long_summary": "බුදුරජාණන් වහන්සේ මෙම සූත්‍රය මගින් බලයන් සතරක් (චතුරාර්ය බල) පිළිබඳව දේශනා කරති. ඒවා නම් සම්මා ශ්‍රද්ධාව (නිවැරදි විශ්වාසය), වීරිය (උත්සාහය), සිහිය (සතිමත්බව) සහ සමාධිය (චිත්ත ඒකාග්‍රතාවය) වේ. මෙම අංගයන් සතරක් ලෙස වෙන්කර දැක්වුවද, ඒවා එකිනෙක පෝෂණය කරමින් පුද්ගලයාගේ ආධ්‍යාත්මික ශක්තිය ගොඩනැගීමට දායක වන බව මෙමගින් අවධාරණය කෙරේ.",
+        "main_discovery": "ශ්‍රද්ධාව, වීරිය, සිහිය සහ සමාධිය යන බලයන් සතරේ සංයෝගය මානසික ස්ථාවරත්වයේ සහ විමුක්තියේ පදනමයි.",
+        "core_truth_of_sutta": "ආධ්‍යාත්මික දියුණුව රඳා පවතින්නේ හුදෙක් එක් ගුණයක නොව, විශ්වාසය, ප්‍රයත්නය, අවධානය සහ ඒකාග්‍රතාවය යන බලයන්ගේ අන්‍යෝන්‍ය සංයෝගය මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "බල සතර (The Four Powers)",
+            "how_it_aids_liberation": "කෙලෙස් බලපෑම් වලට යටත් නොවී සිත ස්ථාවරව තබා ගැනීමටත්, විදර්ශනා ඥානය උදාවීමට අවශ්‍ය මානසික පදනම සකස් කිරීමටත් මෙම බලයන් උපකාරී වේ.",
+            "practical_renunciation": "ලෞකික බැඳීම් වල ඇති අස්ථිර බව වටහාගෙන, ශ්‍රද්ධාවෙන් හා සිහියෙන් යුතුව අකුසලයන්ගෙන් සිත මුදවා ගැනීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විශ්වාසය (Trust)",
+                "අධිෂ්ඨානය (Determination)",
+                "අවධානය (Awareness)",
+                "නිසලතාවය (Tranquility)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය පාලනය කරමින්, චින්තන රටාවන් විධිමත් (Cognitive restructuring) කිරීම සහ මානසික ඔරොත්තු දීමේ හැකියාව (Resilience) වර්ධනය කිරීම.",
+            "modern_psychology_parallel": "CBT හි එන චර්යාත්මක සක්‍රීයනය (Behavioral Activation) සහ Mindfulness-Based Stress Reduction (MBSR) ක්‍රමවේදයන්හි සංකලනයක් ලෙස දැකිය හැකිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විධායක ක්‍රියාකාරිත්වය)",
+                "Anterior Cingulate Cortex (අවධානය පාලනය)",
+                "Default Mode Network (DMN) පාලනය"
+            ],
+            "neuroplasticity_and_habit": "සතිමත්බව සහ සමාධිය පුහුණු කිරීමේදී මොළයේ සිනැප්ටික් සම්බන්ධතා ශක්තිමත් වන අතර (Long-term potentiation), එමගින් අවධානය පවත්වා ගැනීමේ ස්නායුක මාර්ග අලුතින් නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "වීරිය සහ සමාධිය මගින් Amygdala හි ක්‍රියාකාරිත්වය සමනය කර Cortisol මට්ටම අඩු කරන අතර, එමගින් ආතති ප්‍රතිචාරය (Fight-or-flight) පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive appraisal (ශ්‍රද්ධාව)",
+            "Executive Function/Motivation (වීරිය)",
+            "Attentional Control (සිහිය)",
+            "Focused Attention (සමාධිය)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "විශ්වාසයේ සිට නොසැලෙන මානසික ඒකාග්‍රතාවය දක්වා",
+            "mood_keywords": [
+                "ස්ථාවරත්වය",
+                "ශක්තිය",
+                "පිබිදීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Efficacy & Cognitive Control",
+                "parallel_description": "ශ්‍රද්ධාව සහ වීරිය මගින් පුද්ගලයාගේ ස්වයං-කාර්යක්ෂමතාව (Self-efficacy) වර්ධනය කරන අතර, සිහිය සහ සමාධිය මගින් සංජානන පාලනය (Cognitive control) ඇති කරයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය ධර්ම (Faculties)",
+                "related_teachings": [
+                    "ඉන්ද්‍රිය විභංග සූත්‍රය",
+                    "බෝධිපාක්ෂික ධර්ම"
+                ],
+                "connection_type": "ධර්ම ස්කන්ධ අන්තර් සම්බන්ධතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ අභියෝග හමුවේ නොසැලී සිටීමට නම්, තමා පිළිබඳ විශ්වාසයත්, කැපවීමත්, සිහියෙන් යුතුව කටයුතු කිරීමත්, සිත එකඟ කර ගැනීමත් පුහුණු කළ යුතුය.",
+        "daily_practice_steps": [
+            "දවස ආරම්භයේදී යහපත් අරමුණක් කෙරෙහි ශ්‍රද්ධාව (විශ්වාසය) ඇති කරගන්න.",
+            "කරන සෑම කාර්යයකදීම සිහියෙන් (Mindfulness) පසුවන්න.",
+            "අලස නොවී නිරන්තර උත්සාහය (Vigor) පවත්වා ගන්න.",
+            "දිනකට සුළු වේලාවක් හෝ නිසලව හිඳ සිත එකඟ කිරීමට (Meditation) උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චත්තාරිමානි භික්ඛවේ බලානි. කතමානි චත්තාරි?",
+            "sinhala": "මහණෙනි, මේ බලයෝ සතරකි. ඒ කවර සතරක් ද යත්;"
+        },
+        {
+            "pali": "සද්ධාබලං, විරියබලං, සතිබලං, සමාධිබලං.",
+            "sinhala": "ශ්‍රද්ධාව නම් වූ බලය ය. වීරිය නම් වූ බලය ය. සිහිය නම් වූ බලය ය. සමාධිය නම් වූ බලය ය."
+        },
+        {
+            "pali": "ඉමානි ඛෝ භික්ඛවේ චත්තාරි බලානීති.",
+            "sinhala": "මහණෙනි, මේ වනාහී සතරක් වූ බලයෝ ය."
+        }
+    ]
+}

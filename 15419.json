@@ -1,0 +1,90 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "මහානාම තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15419",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Internal Mental Discipline vs External Environment",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "බාහිර පරිසරය කොතරම් සුන්දර වුවද, මනස දමනය කර ගැනීමට එය බාධාවක් නම් එම ස්ථානය අත්හැර යා යුතු බව මහානාම රහතන් වහන්සේ මෙයින් අවධාරණය කරති.",
+        "long_summary": "කීර්තිමත් නේසාද පර්වතය වැනි සල් ගස්වලින් ගහන, සුවපහසු සහ සෙවණ සහිත ශාන්ත පරිසරයක ජීවත් වුවද, යමෙකුගේ මනස නිසි පරිදි දමනය වී නොමැති නම් එම භෞතික සුවපහසුවෙන් පලක් නැත. බාහිර පරිසරයේ සශ්‍රීකත්වයට වඩා අභ්‍යන්තර මනස සංයමයට පත් කර ගැනීම වැදගත් වන අතර, මානසික දියුණුවට බාධා වන ඕනෑම බැඳීමක් හෝ ස්ථානයක් අත්හැරිය යුතු බව මෙම ගාථාව මගින් මහානාම රහතන් වහන්සේ පෙන්වා දෙති.",
+        "main_discovery": "භෞතික පරිසරයේ ශාන්ත බව හෝ සම්පත් මානසික සංයමය සඳහා ප්‍රමාණවත් නොවන බවත්, අභ්‍යන්තර දමනය නොමැති තැන බාහිර සැපය අත්හළ යුතු බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "මානසික විමුක්තිය රඳා පවතින්නේ අභ්‍යන්තර දමනය (Self-discipline) මත මිස භෞතික පරිසරයේ සුන්දරත්වය මත නොවන බව.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉන්ද්‍රිය සංවරය සහ විවේකය අතර ඇති සබඳතාවය.",
+            "how_it_aids_liberation": "සිත දමනයට බාධා කරන උපභෝග පරිභෝග වස්තු සහ පරිසරයන් අත්හැරීම (Nekkhamma) මගින් විමුක්තිය කරා යොමු වීම.",
+            "practical_renunciation": "සුවපහසු නමුත් කෙලෙස් වැඩෙන පරිසරයකින් ඉවත් වී සැබෑ අභ්‍යන්තර සාමය සෙවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අස්ථාවරත්වය (Instability)",
+                "ඇලීම (Attachment)",
+                "ස්වයං අවබෝධය (Self-awareness)"
+            ],
+            "cognitive_impact": "බාහිර වස්තූන්ගෙන් සතුට සෙවීමේ රටාව (External Validation) වෙනුවට අභ්‍යන්තර ස්වයං පාලනය (Internal Regulation) කෙරෙහි අවධානය යොමු කරවයි.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) තුළ පරිසරය වෙනස් කිරීම (Environmental Modification) මගින් චර්යාත්මක වෙනසක් ඇති කිරීමට උත්සාහ කරන ආකාරයට මෙය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Limbic System"
+            ],
+            "neuroplasticity_and_habit": "බාහිර උත්තේජන (Sensation seeking) නිසා උත්තේජනය වන ලිම්බික් පද්ධතිය පාලනය කර, පූර්ව මස්තිෂ්ක බාහිකය (PFC) හරහා මනස දමනය කිරීමට නව ස්නායුක පථ (Neural pathways) සකස් වීම මෙහිදී සිදු වේ.",
+            "stress_reduction_mechanism": "අනවශ්‍ය බැඳීම් අත්හැරීම මගින් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහළ යන අතර, එමගින් චිත්තවේගීය ස්ථාවරත්වය ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Dissonance",
+            "Environmental Adaptation",
+            "Selective Attention",
+            "Internal Locus of Control"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "නොසැලෙන විවේකී බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "බාහිර සුවපහසුව පිළිබඳ තෘප්තියේ සිට අභ්‍යන්තර අපිරිසිදු බව අවබෝධ කර ගැනීම දක්වා වූ පරිවර්තනයක්.",
+            "mood_keywords": [
+                "සංයමය",
+                "අත්හැරීම",
+                "ප්‍රඥාව",
+                "විවේකය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Person-Environment Fit Theory",
+                "parallel_description": "පුද්ගලයෙකුගේ අභ්‍යන්තර ලක්ෂණ සහ පරිසරය අතර ගැලපීමක් නොමැති විට ඇතිවන මානසික ආතතිය සහ එයින් මිදීමට පරිසරය වෙනස් කිරීමට ගන්නා තීරණය මෙහි මනෝවිද්‍යාත්මක හරයයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බාහිර විවේකය (Kayaviveka) සහ අභ්‍යන්තර විවේකය (Cittaviveka) අතර වෙනස",
+                "related_teachings": [
+                    "සබ්බාසව සූත්‍රය (පරිවර්ජන ප්‍රහාතව්‍ය ආශ්‍රව)"
+                ],
+                "connection_type": "ධර්මානුකූල පදනම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ සිටින තැන කොතරම් සැපදායක වුවත්, එය ඔබේ යහපත් ගතිගුණ වර්ධනයට හෝ මානසික සන්සුන්භාවයට බාධාවක් නම්, එම සැපය අත්හැරීමට තරම් නිර්භීත වන්න.",
+        "daily_practice_steps": [
+            "තමා වාසය කරන පරිසරය සිතේ සාමයට උදවු කරන්නේ දැයි දිනපතා ආවර්ජනය කරන්න.",
+            "බාහිර සැපයට ඇති ඇලීම හඳුනාගෙන එය සිතින් ඉවත් කිරීමට පුහුණු වන්න.",
+            "මනස නොසන්සුන් වන අවස්ථාවලදී පරිසරයට දොස් නොකියා සිත දමනය කිරීමට උත්සාහ කරන්න.",
+            "අනවශ්‍ය බාහිර බාධා අවම කර ගැනීමට පියවර ගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒසාවහිය්‍ය සේ පබ්බතේන බහුකුටජසල්ලකිකේන\nනේසාදකේන ගිරිනා යසස්සිනා පරිච්ඡදේනා’ති",
+            "sinhala": ""
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා මහානාමෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් මහානාම නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

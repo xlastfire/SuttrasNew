@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "තතිය සමුද්දනින්න සුත්තං",
+    "sutta_title": "සමුද්‍රයට නැමී තිබීම ගැන වදාළ තෙවෙනි දෙසුම",
+    "id": "4668",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimutti (Liberation) / Nibbana-orientation",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "අචිරවතී නදිය සැබැවින්ම මුහුදටම ගලා බසින්නා සේ, නිවන කෙරෙහි සිත නැඹුරු කළ භික්ෂුව නිරායාසයෙන්ම නිවන කරාම ගමන් කරයි.",
+        "long_summary": "මෙම සූත්‍රය මගින් අචිරවතී නදිය නිදසුනකට ගනිමින් ගැඹුරු දහම් කරුණක් පැහැදිලි කරයි. ගංගාවක් ස්වභාවිකවම සමුද්‍රය දෙසට නැමී (Ninna), සමුද්‍රය දෙසට නැඹුරු වී (Pona), සමුද්‍රය වෙතම බර වී (Pabbhara) පවතින්නා සේම, නිසි ලෙස ධර්මයේ හැසිරෙන භික්ෂුවකගේ චිත්ත සන්තානය ද නිවන දෙසටම නැඹුරු වී පවතී. මෙහිදී අවධාරණය වන්නේ නිසි ප්‍රතිපදාවක සිටින විට සිත සසර බැඳීම්වලින් මිදී නිවන කරා ගලා යාම ස්වභාවික නියාමයක් බවයි.",
+        "main_discovery": "සිත නිවන දෙසට යොමු කිරීම ස්වභාවිකවම විමුක්තිය කරා ගලා යන ක්‍රියාවලියක් බව.",
+        "core_truth_of_sutta": "චිත්ත අභිලාෂය සහ නැඹුරුව නිවන වෙත පවතින්නේ නම්, එය අවසාන විමුක්තිය කරාම මෙහෙයවනු ලැබේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "නිවන කෙරෙහි ඇති අචල නැඹුරුව (Nibbana-pabbhara).",
+            "how_it_aids_liberation": "සිතේ දිශානතිය නිවැරදි කිරීම හරහා අකුසල පක්ෂයෙන් මිදී කුසල පක්ෂය ඔස්සේ විමුක්තිය කරා ස්වයංක්‍රීයව ගමන් කිරීමට මග පාදයි.",
+            "practical_renunciation": "ලෞකික බැඳීම් කෙරෙහි ඇති ආශාව ක්‍රමයෙන් ලිහිල් කර, සිතේ ස්වභාවික ගලායාම නිවන දෙසට හැරවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අධිෂ්ඨානය (Determination)",
+                "සතිමත්බව (Mindfulness)",
+                "අත්හැරීම (Detachment)"
+            ],
+            "cognitive_impact": "සිතේ අරමුණ (Primary Goal) නිවන ලෙස ස්ථාවර වූ විට, අනවශ්‍ය මානසික බාධාවන් (Cognitive Dissonance) අවම වී මානසික ඒකාග්‍රතාව වර්ධනය වේ.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි ඉලක්කගත චර්යා වෙනස් කිරීම් සහ අරමුණක් සහිතව ජීවත් වීම (Value-based living) මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Ventral Striatum"
+            ],
+            "neuroplasticity_and_habit": "දිගින් දිගටම නිවන ගැන මෙනෙහි කිරීමෙන්, මොළයේ ඇති 'සංසාරික පුරුදු' (Synaptic pathways of craving) දුර්වල වී, අත්හැරීම සම්බන්ධ නව ස්නායුක සම්බන්ධතා (Neuroplasticity) ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "සමුද්‍රය වැනි නිසල ඉලක්කයකට සිත යොමු කිරීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, Cortisol මට්ටම පහත වැටීමෙන් මානසික සාමය උදා වේ."
+        },
+        "cognitive_mechanisms": [
+            "Goal-directed attention",
+            "Cognitive realignment",
+            "Implicit bias toward liberation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Tranquility",
+            "emotional_intensity": 7,
+            "emotional_arc": "Determination to Peace",
+            "mood_keywords": [
+                "Serenity",
+                "Focus",
+                "Flow"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Flow Theory",
+                "parallel_description": "සිත යම් උදාර අරමුණක (නිවන) අඛණ්ඩව පිහිටීම, බාහිර බාධාවන් නොසලකා ස්වයංක්‍රීයව එම ඉලක්කය කරා ගලා යන Flow තත්ත්වයට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Nibbana-ninna (Nibbana-sloping)",
+                "related_teachings": [
+                    "Samudda Sutta series",
+                    "Ganga Sutta"
+                ],
+                "connection_type": "Metaphorical Consistency"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ දෛනික අරමුණු ලෞකික දේට පමණක් සීමා නොකර, සිත නිදහස් කරගැනීම (නිවන) කෙරෙහි නැඹුරු කරන්න; එවිට ජීවිතයේ ගැටලු හමුවේ නොසැලී සිටීමට ඔබට හැකි වනු ඇත.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ පසු 'අද දින මගේ සිත සාමය සහ අත්හැරීම දෙසට යොමු කරමි' යන්න අධිෂ්ඨානය කිරීම.",
+            "අභියෝගාත්මක අවස්ථාවලදී සිත ගලා යන දිශාව (ලෝභ, දෝෂ, මෝහ දෙසටදැයි) පරීක්ෂා කිරීම.",
+            "ගලා යන ගඟක් දෙස බලන විට, සිතද ඒ හා සමානව නිදහස දෙසට ගලා යා යුතු බව මෙනෙහි කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, අචිරවතී නදී සමුද්දනින්නා සමුද්දපෝණා සමුද්දපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, අචිරවතී නදිය සමුද්‍රයට නැමී, සමුද්‍රයට නැඹුරු වී, සමුද්‍රයට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

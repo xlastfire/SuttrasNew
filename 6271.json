@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "මත්තෙය්‍ය සුත්තං",
+    "sutta_title": "මව්ට සැළකීම ගැන වදාළ දෙසුම",
+    "id": "6271",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සදාචාරාත්මක හික්මීම සහ වීර්යය (Ethical Discipline and Effort)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "මව් සෙනෙහස හඳුනන සත්වයන් අතිශය දුර්ලභ බැවින්, දුක නිවීමේ මග සඳහා දැඩි ප්‍රයත්නයක් දැරිය යුතු බව මෙම දේශනාව අවධාරණය කරයි.",
+        "long_summary": "මෙම දේශනාව මගින් ලෝකයේ මව් සෙනෙහස නිසි ලෙස හඳුනන සහ ඒ වෙනුවෙන් කෘතවේදී වන සත්වයන් ඉතා සීමිත පිරිසක් බව පෙන්වා දෙයි. බහුතරයක් සත්වයන් මෙම ගුණයෙන් බැහැරව සිටින බවත්, එම දුර්ලභ ගුණය අවබෝධ කරගනිමින් දුක නිරෝධය (Cessation of Suffering) කරා යන මාර්ගයෙහි ස්ථාවර වීමට නම් අතිශය කැපවීමකින් යුත් ප්‍රයත්නයක් සහ උත්සාහයක් දැරිය යුතු බවත් මෙහි සාරාංශයයි.",
+        "main_discovery": "මව් සෙනෙහස අගය කරන පිරිස අල්ප බවත්, එම ගුණය වර්ධනය කරගනිමින් දුක නිරෝධය සඳහා දැඩි ප්‍රයත්නයක් (Effort) දැරිය යුතු බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "ගුණධර්මවල ඇති දුර්ලභ බව වටහාගෙන, දුක නිවීම උදෙසා අනුකූල ප්‍රයත්නයක (Right Effort) යෙදීම අත්‍යවශ්‍ය වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා වායාම (Right Effort) සහ කෘතඥතාව පදනම් කරගත් සදාචාරය.",
+            "how_it_aids_liberation": "මව් සෙනෙහස වැනි මූලික මානුෂීය ගුණධර්ම පදනම් කරගෙන සිත මෘදු කරගැනීම (Malleability of mind) හරහා නිවන් මගට අවශ්‍ය චිත්ත ඒකාග්‍රතාවය ගොඩනගයි.",
+            "practical_renunciation": "තමාගේ ආත්මාර්ථකාමීත්වය අත්හැර මව්පියන් වැනි අන් අයගේ ගුණ හඳුනාගැනීම මගින් අහංකාරය (Ego) දුරු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කෘතවේදීභාවය (Gratitude)",
+                "අප්‍රමාදය (Diligence)",
+                "අල්පේච්ඡතාව (Recognition of Scarcity)"
+            ],
+            "cognitive_impact": "සිතේ ස්වභාවිකව පවතින නොසලකා හැරීමේ රටාව (Negativity bias or taking things for granted) වෙනුවට අගය කිරීමේ සහ උත්සාහයේ රටාවකට (Growth mindset) මනස හැඩගැස්වීම.",
+            "modern_psychology_parallel": "සාරධර්ම මත පදනම් වූ චර්යා චිකිත්සාව (Value-based Action in ACT) සහ චිත්තවේගීය බුද්ධිය (Emotional Intelligence) වර්ධනය කිරීමේ ක්‍රමවේද මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විධායක ක්‍රියාකාරිත්වය සහ වීර්යය)",
+                "Insula (සංවේදනය සහ අනුකම්පාව)",
+                "DMN (තමා පිළිබඳ සිතීම පාලනය කිරීම)"
+            ],
+            "neuroplasticity_and_habit": "මව්ගුණ වැනි ගුණධර්ම මෙනෙහි කිරීමේදී මොළයේ සමාජීය බැඳීම් වලට අදාළ ස්නායුක පථ (Neural pathways for social bonding) ශක්තිමත් වන අතර, උත්සාහය මගින් Prefrontal cortex හි ප්ලාස්ටිසිතාව (Plasticity) වර්ධනය වේ.",
+            "stress_reduction_mechanism": "කෘතඥතාවය මෙනෙහි කිරීම මගින් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී Oxytocin වැනි හෝර්මෝන ශ්‍රාවය වීම හරහා මානසික ආතතිය (Cortisol) පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive appraisal of gratitude",
+            "Selective attention to wholesome qualities",
+            "Goal-directed persistence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Compassionate Urgency)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අසන්නා තුළ මව්ගුණ පිළිබඳ සංවේදීතාවයක් ඇති කර එතැනින් දුක නිරෝධය සඳහා වූ වීර්යය කරා යොමු කිරීම.",
+            "mood_keywords": [
+                "කෘතඥතාව (Gratitude)",
+                "අල්ප බව (Scarcity)",
+                "ප්‍රයත්නය (Effort)"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Positive Psychology",
+                "theory_name": "Gratitude Intervention Theory",
+                "parallel_description": "මව් සෙනෙහස වැනි මූලික බැඳීම් කෙරෙහි කෘතඥ වීම මානසික යහපැවැත්මට සහ ස්වයං-පාලනයට (Self-regulation) සෘජුවම බලපාන බව නූතන මනෝවිද්‍යාවේ පිළිගැනීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "මාතාපිතූපට්ඨාන (Serving parents)",
+                "related_teachings": [
+                    "මංගල සූත්‍රය",
+                    "සිගාලෝවාද සූත්‍රය"
+                ],
+                "connection_type": "සදාචාරාත්මක පදනම (Ethical Foundation)"
+            }
+        ],
+        "practical_takeaway_sinhala": "මව්පියන්ගේ ගුණ වටහා ගැනීම දුර්ලභ භාග්‍යයක් ලෙස සලකා, එම පදනම මත පිහිටා තමාගේ ජීවිතයේ දුක නිවා ගැනීමට දැඩි උත්සාහයකින් කටයුතු කරන්න.",
+        "daily_practice_steps": [
+            "සෑම දිනකම මොහොතක් මවගේ ගුණ සහ සෙනෙහස සිහිපත් කර කෘතඥ වන්න.",
+            "තමා තුළ ඇති අකුසල සහ අලස බව හඳුනාගෙන, එයින් මිදීමට සවිඥානික ප්‍රයත්නයක් (Conscious Effort) දරන්න.",
+            "ලෝකයේ බහුතරයක් වැරදි මග යන බව සිහිපත් කර, තමා නිවැරදි දුක් නිරෝධය කරා යන මගෙහි රැඳී සිටීමට අධිෂ්ඨාන කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ මත්තෙය්‍යා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ අමත්තෙය්‍යා ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ සිය මව්ට සළකත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ සිය මව්ට නොසළකත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ….(පෙ)…. මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

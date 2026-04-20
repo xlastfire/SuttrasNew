@@ -1,0 +1,95 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "අරහන්ත සුත්තං",
+    "sutta_title": "රහතන් වහන්සේ ගැන වදාළ දෙසුම",
+    "id": "6588",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සත්තින්ද්‍රිය විභංගය (Analysis of Faculties)",
+        "complexity_rating": 8,
+        "analysis_confidence": 100,
+        "short_summary": "පස් ඉන්ද්‍රියයන් (සැප, දුක, සොම්නස, දොම්නස, උපේක්ෂාව) පිළිබඳ ඇති උපාදානයන්ගෙන් නිදහස් වී ආශ්‍රවයන් ක්ෂය කිරීමෙන් රහත් භාවය ලැබීම මෙහි හරයයි.",
+        "long_summary": "මෙම දේශනාව මගින් සැප, දුක, සොම්නස, දොම්නස සහ උපේක්ෂාව යන පස් ඉන්ද්‍රියයන්ගේ යථාර්ථය අවබෝධ කර ගැනීමේ වැදගත්කම පැහැදිලි කරයි. මෙම ඉන්ද්‍රියයන්හි ආශ්වාදය, ආදීනවය සහ ඉන් නිස්සරණය වීම (නිදහස් වීම) යන ක්‍රියාවලිය හරහා උපාදානයන්ගෙන් මිදීම සිදුවේ. එවිට ආශ්‍රවයන් ක්ෂය වී, බඹසර වැස නිම කර, කළ යුත්ත අවසන් කළ රහතන් වහන්සේ නමකගේ තත්ත්වය උදාවන අතර සියලු භව සංයෝජනයන් මුලිනුපුටා දැමීම මෙහි අවසාන ප්‍රතිඵලයයි.",
+        "main_discovery": "පංච ඉන්ද්‍රියයන්ගේ (වේදනා) අනිත්‍ය ස්වභාවය අවබෝධ කර ගැනීම සහ ඉන් නිස්සරණය වීම තුළින් සියලු භව සංයෝජනයන් ක්ෂය කර රහත් භාවය ලබා ගැනීම.",
+        "core_truth_of_sutta": "වේදනාවන් (Sensations) පිළිබඳ පූර්ණ අවබෝධය සහ ඒවායේ ඇති බැඳීම් සහමුලින්ම ඉවත් කිරීම (Cessation of attachments) විමුක්තිය සඳහා වූ ඒකායන මාර්ගයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආශ්‍රවක්ෂයකර ඥානය (Knowledge of the destruction of cankers).",
+            "how_it_aids_liberation": "සංයෝජන (Fetters) බිඳ දැමීම මගින් නැවත උපතක් ඇති කරන හේතු (Bhava) සම්පූර්ණයෙන්ම නැති කරයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය ගෝචර අත්දැකීම් කෙරෙහි දක්වන තෘෂ්ණාව සහ ගැටීම (Attachment/Aversion) අතහැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Sukha (Pleasure)",
+                "Dukkha (Pain)",
+                "Somanassa (Joy)",
+                "Domanassa (Grief)",
+                "Upekkha (Equanimity)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන වේදනා (Affective states) ස්වයංක්‍රීයව 'මම' හෝ 'මගේ' ලෙස හඳුනා ගැනීම වෙනුවට ඒවා හුදු ස්වභාවික සංසිද්ධීන් ලෙස දැකීමේ හැකියාව (Metacognitive Insight) වර්ධනය කරයි.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) හි එන 'Distress Tolerance' සහ Mindfulness පාදක කරගත් ප්‍රතිකාර ක්‍රමවලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Anterior Cingulate Cortex (ACC) activation",
+                "Amygdala deactivation"
+            ],
+            "neuroplasticity_and_habit": "වේදනාවන්ට දක්වන චිත්තවේගීය ප්‍රතිචාර (Limbic system response) වෙනුවට උපේක්ෂාව පුහුණු කිරීමෙන් Prefrontal Cortex මගින් ස්වයං-නියාමනය (Self-regulation) කිරීමේ නව ස්නායුක පථ (Neural pathways) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "ඉන්ද්‍රියන්ගෙන් මිදීම මගින් බාහිර ලෝකය කෙරෙහි දක්වන 'සටන් කිරීම හෝ පලායාම' (Fight-or-flight) ප්‍රතිචාරය අවම කර Cortisol මට්ටම ස්ථාවර කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal",
+            "Metacognitive Awareness",
+            "Detachment (Non-attachment)",
+            "Reframing Reality"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 9,
+            "emotional_arc": "විවිධ වේදනාත්මක හැඟීම් (සැප, දුක, සොම්නස, දොම්නස) අත්දැකීමේ සිට පූර්ණ මානසික නිදහස සහ ශාන්තිය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිදහස",
+                "ප්‍රඥාව",
+                "වීතරාගී",
+                "අකම්පිත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අත්දැකීම් (Sensations) පිළිබඳව ඇති වැරදි සහගත අර්ථකථන (Cognitive Distortions) නිවැරදි කර ගැනීමෙන් මානසික පීඩාවෙන් නිදහස් වීම.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Inhibitory Control and Emotional Regulation",
+                "parallel_description": "බාහිර උත්තේජනයන්ට දක්වන ක්ෂණික ප්‍රතිචාර (Reactive behavior) පාලනය කරමින් විඥානය හිතාමතා මෙහෙයවීමේ හැකියාව වර්ධනය වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය භාවනා",
+                "related_teachings": [
+                    "Indriya-bhavana Sutta",
+                    "Vedana Samyutta"
+                ],
+                "connection_type": "ධර්ම විනයානුකූල අනුපූර්ව ප්‍රතිපදාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ මනසේ ඇතිවන සැප හෝ දුක් සහගත හැඟීම් දෙස ඒවා ඔබේම කර නොගෙන, හුදු ඇතිවී නැතිවී යන ස්වභාවයන් ලෙස නිරීක්ෂණය කිරීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "දිනපතා මොහොතක් පාසා සිතේ ඇතිවන වේදනාව (සැප/දුක/උපේක්ෂාව) හඳුනා ගන්න.",
+            "එම වේදනාවට ප්‍රතික්‍රියා කිරීමට පෙර එය 'අනිත්‍ය' බව මෙනෙහි කරන්න.",
+            "වේදනාව කෙරෙහි ඇති ඇලීම හෝ ගැටීම සවිඥානිකව අත්හරින්න.",
+            "මනසෙහි මැදහත් බව (Equanimity) පවත්වා ගැනීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "පඤ්චිමානි භික්ඛවේ, ඉන්ද්‍රියානි. කතමානි පඤ්ච: සුඛින්ද්‍රියං ....(පෙ).... උපෙක්ඛින්ද්‍රියං. යතෝ ඛෝ භික්ඛවේ, භික්ඛු ඉමේසං පඤ්චන්නං ඉන්ද්‍රියානං සමුදයඤ්ච අත්ථගමඤ්ච අස්සාදඤ්ච ආදීනවඤ්ච නිස්සරණඤ්ච යථාභූතං විදිත්වා අනුපාදා විමුත්තෝ හෝති. අයං වුච්චති භික්ඛවේ, භික්ඛු අරහං ඛීණාසවෝ වුසිතවා කතකරණීයෝ ඕහිතභාරෝ අනුප්පත්තසදත්ථෝ පරික්ඛීණභවසංයෝජනෝ සම්මදඤ්ඤාවිමුත්තෝති.",
+            "sinhala": "මහණෙනි, මේ ඉන්ද්‍රියයෝ පසකි. ඒ කවර පසක් ද යත්, සැපය නම් වූ ඉන්ද්‍රියයකි. දුක නම් වූ ඉන්ද්‍රියයකි. සොම්නස නම් වූ ඉන්ද්‍රියයකි. දොම්නස නම් වූ ඉන්ද්‍රියයකි. උපේක්ෂාව නම් වූ ඉන්ද්‍රියයකි. මහණෙනි, යම් කලක භික්ෂුව මේ ඉන්ද්‍රියයන් පස පිළිබඳ ව හටගැනීම ත්, නැසීම ත්, ආශ්වාදය ත්, ආදීනවය ත්, නිස්සරණය ත් ඒ වූ සැටියෙන් ම දැන උපාදාන රහිත ව නිදහස් වූයේ වෙයි ද, මහණෙනි, මේ භික්ෂුව ආශ්‍රවයන් ක්ෂය කරන ලද්දේ, බඹසර නිමාකරන ලද්දේ, කළ යුත්ත කරන ලද්දේ, කෙලෙස් බර බැහැර කරන ලද්දේ, අනුපිළිවෙලින් පැමිණි අරහත්වය ඇත්තේ, භව සංයෝජන ක්ෂය කරන ලද්දේ, මැනැවින් දැන නිදහස් වූයේ, රහතන් වහන්සේ යැයි කියනු ලැබේ."
+        }
+    ]
+}

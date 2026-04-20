@@ -1,0 +1,86 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "–  බාහිරානිච්චඡන්ද, බාහිරානිච්චරාග, බාහිරානිච්චඡන්දරාග සූත්‍ර",
+    "sutta_title": "–  බාහිර අනිත්‍ය දේ කෙරෙහි ඇති ඡන්දයත්, රාගයත්, ඡන්දරාගයත් දුරු කිරීම ගැන වදාළ දෙසුම්",
+    "id": "4891",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vipassana Bhavana / Attachment Cessation",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "රූප, ශබ්ද ආදී අනිත්‍ය ස්වභාවයෙන් යුත් බාහිර අරමුණු කෙරෙහි පවතින ඡන්දය, රාගය සහ ඡන්දරාගය ප්‍රහාණය කිරීම මෙහි හරයයි.",
+        "long_summary": "මෙම දේශනාව මගින් රූප, ශබ්ද, ගන්ධ, රස, පහස සහ මනසට අරමුණු වන සියලු බාහිර වස්තූන්ගේ අනිත්‍ය ස්වභාවය විග්‍රහ කරයි. මෙම අනිත්‍ය වස්තූන් කෙරෙහි ඇති වන මූලික කැමැත්ත (ඡන්දය), ඇලීම (රාගය) සහ එම දෙකෙහිම එකතුවක් වන දැඩි බැඳීම (ඡන්දරාගය) හඳුනාගෙන ඒවා මානසිකව ප්‍රහාණය කිරීමේ (අත්හැරීමේ) අවශ්‍යතාවය මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "බාහිර අනිත්‍ය අරමුණු කෙරෙහි පවතින මානසික බැඳීම (ඡන්දරාගය) ප්‍රහාණය කිරීම දුකෙන් මිදීමේ මූලික ක්‍රමයයි.",
+        "core_truth_of_sutta": "අනිත්‍ය වූ බාහිර ලෝකය කෙරෙහි පවතින මානසික ඇලීම ප්‍රහාණය කිරීමම දුක කෙළවර කිරීමේ මාර්ගයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනිත්‍ය සංඥාව (Anicca-sanna) පදනම් කරගත් විරාගී පිළිවෙත.",
+            "how_it_aids_liberation": "සංවේදන කෙරෙහි පවතින උපාදාන (Clinging) නතර කිරීමෙන් භව ගමන නතර කිරීමට සෘජුවම දායක වේ.",
+            "practical_renunciation": "ඉන්ද්‍රිය ගෝචර අරමුණු ලැබෙන විට ඒවායේ වෙනස් වන ස්වභාවය දැකීමෙන් සිත අන්තර්ගතව මුදා හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Chanda (Liking/Desire)",
+                "Raga (Lust/Attachment)",
+                "Sensory Perception (Rupa, Sadda, etc.)"
+            ],
+            "cognitive_impact": "බාහිර අරමුණු ස්ථිර ලෙස දකින විපරීත සංඥාව වෙනුවට අනිත්‍ය සංඥාව ආදේශ කිරීමෙන් 'Reward seeking' චර්යාවන් පාලනය කිරීම.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) වල එන 'Mindfulness of Current Emotion' සහ 'Radical Acceptance' ක්‍රමවේදයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Ventral Striatum (Dopaminergic reward system)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ඡන්දරාගය අත්හැරීම මගින් මොළයේ Reward-seeking pathways දුර්වල වී ස්වයං-පාලනයට අදාළ Prefrontal Cortex හි ස්නායුක සම්බන්ධතා ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අනිත්‍යතාවය පිළිගැනීම මගින් බාහිර අහිමිවීම් වලදී Amygdala වේගයෙන් උත්තේජනය වීම පාලනය කර Cortisol මට්ටම අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Object recognition and categorization",
+            "Attentional bias toward sensory objects",
+            "Affective valuation (Chanda-raga)",
+            "Cognitive restructuring through Impermanence (Anicca)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "සංවේදී වස්තූන් කෙරෙහි ඇති තදබල ආශාවේ සිට ප්‍රහාණය හරහා ලැබෙන විමුක්තිය දක්වා.",
+            "mood_keywords": [
+                "Detachment",
+                "Clarity",
+                "Liberation",
+                "Serenity"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Reframing / Non-Attachment (ACT)",
+                "parallel_description": "බාහිර වස්තූන්ගේ වෙනස් වන සුළු ස්වභාවය අවබෝධ කර ගැනීමෙන් ඒවා කෙරෙහි දක්වන අතිශය උද්වේගකර බැඳීම (Hyper-fixation) අවම කිරීම.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Anicca (Impermanence)",
+                "related_teachings": [
+                    "Anattalakkhana Sutta",
+                    "Salayatana Vagga Samyutta"
+                ],
+                "connection_type": "Thematic reinforcement of sensory restraint"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකයේ කිසිවක් සදාකාලික නොවන බවත්, එම අනිත්‍ය දේ මත මානසිකව යැපීම දුකට හේතුවන බවත් අවබෝධ කරගෙන සිත සැහැල්ලු කරගන්න.",
+        "daily_practice_steps": [
+            "අභිමත අරමුණක් දුටු විට එය අනිත්‍ය බව මෙනෙහි කරන්න.",
+            "එම අරමුණ කෙරෙහි ඇති වන සිතේ ඇලීම (Raga) දෙස උපේක්ෂාවෙන් බලන්න.",
+            "බැඳීම අත්හැරීමට (Letting go) සිත පුහුණු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යං භික්ඛවේ අනිච්චං, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ, රාගෝ පහාතබ්බෝ, ඡන්දරාගෝ පහාතබ්බෝ. කිඤ්ච භික්ඛවේ අනිච්චං: රූපා භික්ඛවේ අනිච්චා, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ, රාගෝ පහාතබ්බෝ, ඡන්දරාගෝ පහාතබ්බෝ. සද්දා ....(පෙ).... ගන්ධා ....(පෙ).... රසා ....(පෙ).... ඵොට්ඨබ්බා ....(පෙ).... ධම්මා අනිච්චා, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ, රාගෝ පහාතබ්බෝ, ඡන්දරාගෝ පහාතබ්බෝ. යං භික්ඛවේ අනිච්චං තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ, රාගෝ පහාතබ්බෝ, ඡන්දරාගෝ පහාතබ්බෝති.",
+            "sinhala": "පින්වත් මහණෙනි, අනිත්‍ය වූ යමක් ඇත්ද, ඒ කෙරෙහි ඔබගේ ඇති ඡන්දයත්, රාගයත්, ඡන්දරාගයත් තමයි ප්‍රහාණය කළ යුත්තේ. පින්වත් මහණෙනි, අනිත්‍ය දේ යනු කුමක්ද? පින්වත් මහණෙනි, රූප අනිත්‍යයි. ඒ කෙරෙහි ඔබගේ ඇති ඡන්දයත්, රාගයත්, ඡන්දරාගයත් තමයි ප්‍රහාණය කළ යුත්තේ. ශබ්ද ….(පෙ)…. ගන්ධ ….(පෙ)…. රස ….(පෙ)…. පහස ….(පෙ)…. මනසට අරමුණු වන දේ අනිත්‍යයි, ඒ කෙරෙහි ඔබගේ ඇති ඡන්දයත්, රාගයත්, ඡන්දරාගයත් තමයි ප්‍රහාණය කළ යුත්තේ. පින්වත් මහණෙනි, අනිත්‍ය වූ යමක් ඇත්ද, ඒ කෙරෙහි ඔබගේ ඇති ඡන්දයත්, රාගයත්, ඡන්දරාගයත් තමයි ප්‍රහාණය කළ යුත්තේ."
+        }
+    ]
+}

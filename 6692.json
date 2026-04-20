@@ -1,0 +1,89 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "සංයෝජන සුත්තං",
+    "sutta_title": "සසර බන්ධන ගැන වදාළ දෙසුම",
+    "id": "6692",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ඉන්ද්‍රිය භාවනා (Indriya Bhavana)",
+        "complexity_rating": 7,
+        "analysis_confidence": 100,
+        "short_summary": "පංච ඉන්ද්‍රියයන් දියුණු කිරීම හරහා සසර බැඳීම් හෙවත් සංයෝජන ප්‍රහාණය කරන ආකාරය මෙම සූත්‍රයෙන් විග්‍රහ කෙරේ.",
+        "long_summary": "මහණෙනි, ශ්‍රද්ධා, විරිය, සති, සමාධි සහ ප්‍රඥා යන පංච ඉන්ද්‍රියයන් දියුණු කිරීම සහ බහුලව පුහුණු කිරීම තුළින් සත්වයා සංසාරයට බැඳ තබන සංයෝජනයන් සහමුලින්ම ප්‍රහාණය වී යයි. විශේෂයෙන් ශ්‍රද්ධා ඉන්ද්‍රිය සහ ප්‍රඥා ඉන්ද්‍රිය අතර පවතින අන්‍යෝන්‍ය සම්බන්ධතාවය මෙහිදී තීරණාත්මක වන අතර, මෙම සමතුලිතතාවය මගින් දුක කෙළවර කිරීමේ අවබෝධය උදා වේ.",
+        "main_discovery": "පංච ඉන්ද්‍රියයන් (ශ්‍රද්ධා, විරිය, සති, සමාධි, ප්‍රඥා) ප්‍රගුණ කිරීමෙන් සසර බැඳීම් හෙවත් සංයෝජන සහමුලින්ම ප්‍රහාණය කළ හැකි බව.",
+        "core_truth_of_sutta": "මානසික ශක්තීන් (ඉන්ද්‍රිය) ක්‍රමවත්ව පුහුණු කිරීම සසර බන්ධනවලින් මිදීමට ඇති එකම විද්‍යාත්මක මගයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පංච ඉන්ද්‍රිය (Five Faculties) ප්‍රගුණ කිරීම.",
+            "how_it_aids_liberation": "සංයෝජන (Fetters) ප්‍රහාණය කිරීම මගින් පුනර්භවය හා බැඳුණු දුක නිරුද්ධ කරයි.",
+            "practical_renunciation": "තණ්හාව හා බැඳුණු මානසික සංයෝජන කෙරෙහි පවතින ඇලීම ප්‍රඥාවෙන් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ශ්‍රද්ධාව (Confidence)",
+                "ප්‍රඥාව (Insight)",
+                "සංයෝජන (Psychological Fetters)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන වැරදි සහගත විශ්වාසයන් සහ ආකල්ප (Cognitive Distortions) ඉවත් කර යථාර්ථය දැකීමේ හැකියාව ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන මානසික නම්‍යතාවය (Psychological Flexibility) වර්ධනය කිරීමට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex",
+                "Amygdala",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "ඉන්ද්‍රියයන් පුහුණු කිරීමේදී (Hebbian Learning), මොළයේ පවතින අකුසල සහගත ස්නායුක ජාල දුර්වල වී (Long-term Depression), කුසල සහගත නව ස්නායුක සබඳතා ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "ප්‍රඥාව සහ සතිමත්බව මගින් Amygdala වේ ප්‍රතිචාරශීලී බව අඩු කර Cortisol මට්ටම පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Attentional Control",
+            "Belief Updating",
+            "Metacognition"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "සංයෝජන නිසා ඇතිවන බන්ධනවලින් මිදී නිදහස කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "විමුක්තිය",
+                "ප්‍රඥාව",
+                "ශක්තිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Transformation Therapy",
+                "parallel_description": "ඉන්ද්‍රිය ධර්ම දියුණු කිරීම යනු මානසික ක්‍රියාවලීන් පාලනය කිරීම මගින් අහිතකර චර්යා රටා (Habitual Patterns) වෙනස් කිරීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සංයෝජන ප්‍රහාණය (Eradication of Fetters)",
+                "related_teachings": [
+                    "ඉන්ද්‍රිය විභංගය",
+                    "මහා සතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "ඵල ප්‍රකාශනය (Result-oriented connection)"
+            }
+        ],
+        "practical_takeaway_sinhala": "තමා සතු ශ්‍රද්ධාව සහ ප්‍රඥාව සමබර කර ගනිමින් මානසික අවධානය පුහුණු කිරීම එදිනෙදා ජීවිතයේ ගැටලු විසඳා ගැනීමටත්, මානසික නිදහස ලබා ගැනීමටත් උපකාරී වේ.",
+        "daily_practice_steps": [
+            "ඕනෑම ක්‍රියාවකදී සතිමත් බව (Mindfulness) පවත්වා ගැනීම.",
+            "අන්ධ භක්තියෙන් තොරව කරුණු විමසා බලන ප්‍රඥාව (Inquiry) දියුණු කිරීම.",
+            "බාහිර අරමුණු වලට සිත ඇදී යාම වළක්වා ගැනීමට වීර්යය (Effort) කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං:",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "පඤ්චිමානි භික්ඛවේ, ඉන්ද්‍රියානි භාවිතානි බහුලීකතානි සංයෝජනප්පහානාය සංවත්තන්ති. කතමානි පඤ්ච: සද්ධින්ද්‍රියං ....(පෙ).... පඤ්ඤින්ද්‍රියං. ඉමානි ඛෝ භික්ඛවේ, පඤ්චින්ද්‍රියානි භාවිතානි බහුලීකතානි සංයෝජනප්පහානාය සංවත්තන්තීති.",
+            "sinhala": "මහණෙනි, මේ පංච ඉන්ද්‍රියයෝ දියුණු කරගත් විට, බහුල ව ප්‍රගුණ කරගත් විට, සංයෝජනයන් ප්‍රහාණය පිණිස පවතින්නාහු ය. ඒ කවර පසක් ද යත්, ශ්‍රද්ධා ඉන්ද්‍රිය ය ….(පෙ)…. ප්‍රඥා ඉන්ද්‍රිය ය. මහණෙනි, මේ පංච ඉන්ද්‍රියයෝ දියුණු කරගත් විට, බහුල ව ප්‍රගුණ කරගත් විට, සංයෝජනයන් ප්‍රහාණය පිණිස පවතින්නාහු ය."
+        }
+    ]
+}

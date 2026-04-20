@@ -1,0 +1,90 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "ඛයධම්ම සූත්‍රය",
+    "sutta_title": "ගෙවී යන ස්වභාවයට අයත් දේ ගැන වදාළ දෙසුම",
+    "id": "15584",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍යතාවය සහ අත්හැරීම",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "ගෙවී යන ස්වභාවයට අයත් දේ කෙරෙහි ඇති අනාගත බලාපොරොත්තු සහ ඇල්ම දුරු කරගැනීම පිළිබඳව රාධ හිමියන්ට කළ උපදේශයකි.",
+        "long_summary": "සැවැත් නුවරදී ආයුෂ්මත් රාධ හිමියන් අමතා දේශනා කරන ලද මෙම සූත්‍රය මගින්, ලෝකයේ පවතින යම්තාක් දෙයක් ගෙවී යන ස්වභාවයට (Paloka-dhamma) අයත්ද, ඒ පිළිබඳව ඇතිකරගන්නා ඇල්ම හා ආශාව (Chanda-raga) ප්‍රහීණ කළ යුතු බව උගන්වයි. විශේෂයෙන්ම අනාගතය පිළිබඳව ඇතිවන එවැනි ගෙවී යන ස්වභාවයේ වස්තූන් හෝ අරමුණු කෙරෙහි පවත්නා බැඳීම් අත්හැරීම තුළින් සිත පිරිසිදු කරගත හැකි බව භාග්‍යවතුන් වහන්සේ අවධාරණය කරති.",
+        "main_discovery": "ගෙවී යන ස්වභාවයට (Paloka-dhamma) අයත් දෑ කෙරෙහි පවත්නා අනාගත අපේක්ෂාවන් සහ ඇල්ම දුරු කිරීමෙන් මානසික විමුක්තිය උදාවන බව.",
+        "core_truth_of_sutta": "ගෙවී යන ස්වභාවයට අයත් දේ කෙරෙහි ඇති අනාගත ආශාවන් දුරු කිරීම පිරිසිදු සිතකට සහ විමුක්තියට මගයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පලෝක ධර්ම (ගෙවී යන ස්වභාවය) අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "සංඛාරයන්ගේ බිඳී යන ස්වභාවය දැකීමෙන් අනාගතය පිළිබඳ තෘෂ්ණාව (Tanha) ක්ෂය කර විමුක්තිය කරා යොමු කරයි.",
+            "practical_renunciation": "අනාගත සැලසුම් හෝ වස්තූන් කෙරෙහි ඇති දැඩි මානසික ඇලීම (Attachment) අනිත්‍යතාවය මෙනෙහි කිරීමෙන් ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අනාගත ඇල්ම (Future-oriented desire)",
+                "උපාදානය (Clinging)",
+                "සතිමත්බව (Mindfulness)"
+            ],
+            "cognitive_impact": "අනාගත අපේක්ෂාවන් මත ගොඩනැගෙන මානසික පීඩනය අවම කර, වර්තමාන මොහොතේ යථාර්ථය පිළිගැනීමට මනස පුහුණු කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි ඉගැන්වෙන 'Decatastrophizing' සහ අනාගතය පිළිබඳ ඇතිවන කාංසාව (Anxiety) පාලනය කිරීමේ ක්‍රමවේදයන්ට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Mesolimbic Reward System"
+            ],
+            "neuroplasticity_and_habit": "ගෙවී යන ස්වභාවය නිතර මෙනෙහි කිරීමෙන් (Internalizing impermanence), තෘෂ්ණාව හා බැඳුණු ස්නායුක පථ (Neural pathways) දුර්වල වී අත්හැරීම පුරුදු කරන නව පථ ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අනාගතය පිළිබඳ අතිශයෝක්ති ස්වයං-ප්‍රක්ෂේපණයන් (Self-projection) සිදුකරන DMN පද්ධතියේ ක්‍රියාකාරිත්වය අඩු කිරීම මගින් ආතතිය (Cortisol) පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Attentional Refocusing",
+            "Future-oriented Desires",
+            "Detachment"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "නිසලතාවය (Equanimity)",
+            "emotional_intensity": 4,
+            "emotional_arc": "බැඳීම් සහ අපේක්ෂා සහිත නොසන්සුන් භාවයේ සිට අත්හැරීමෙන් ලබන මානසික නිදහස කරා.",
+            "mood_keywords": [
+                "නිදහස",
+                "පැහැදිලි බව",
+                "යථාභූත ඥානය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "ගෙවී යන ස්වභාවය පිළිගැනීම (Acceptance) සහ එමගින් ඇතිවන අනවශ්‍ය බැඳීම් වලින් මිදීම (Cognitive Defusion) හරහා මානසික සුවය ලැබීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනිත්‍ය ලක්ෂණය (Anicca)",
+                "related_teachings": [
+                    "රාධ සංයුක්තය",
+                    "අනිච්ච සූත්‍රය"
+                ],
+                "connection_type": "Direct thematic connection to the impermanent nature of reality."
+            }
+        ],
+        "practical_takeaway_sinhala": "ගෙවී යන, විනාශ වන දේවල් පිළිබඳව අනාගත බලාපොරොත්තු තබාගෙන පීඩා විඳිනවා වෙනුවට, ඒවායේ අනිත්‍ය ස්වභාවය තේරුම් ගෙන මානසිකව නිදහස් වන්න.",
+        "daily_practice_steps": [
+            "තමා ඉතා ආදරය කරන හෝ බලාපොරොත්තු තබා ඇති දෙයක් ගෙවී යන ස්වභාවයට අයත් බව හඳුනා ගැනීම.",
+            "එම දෙය කෙරෙහි සිතේ ඇති ඇල්ම හෝ දැඩි ආශාව පිළිබඳව අවධානයෙන් සිටීම.",
+            "එය අනිත්‍ය බව මෙනෙහි කරමින් එම ආශාව ලිහිල් කිරීමට උත්සාහ කිරීම.",
+            "අනාගතය පිළිබඳ අනවශ්‍ය තැවුලෙන් මිදී වර්තමාන මොහොතේ සන්සුන්ව සිටීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …………………"
+        },
+        {
+            "pali": "යෝ ඛෝ රාධ, ඛයධම්මෝ. ….(පෙ)…. ඡන්‌දරාගෝ පහාතබ්බෝ’ති.",
+            "sinhala": "එකත්පස්ව වාඩිවුණ ආයුෂ්මත් රාධයන් හට භාග්‍යවතුන් වහන්සේ මෙකරුණ වදාළා. පින්වත් රාධ, ගෙවී යන ස්වභාවයට අයත් වූ යමක් ඇද්ද, ඒ කෙරෙහි …. (පෙ) …. ඡන්දරාගය දුරු කළ යුතුයි."
+        }
+    ]
+}

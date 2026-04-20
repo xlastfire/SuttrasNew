@@ -1,0 +1,92 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "ඵල සුත්තං",
+    "sutta_title": "ප්‍රතිඵල ගැන වදාළ දෙසුම",
+    "id": "7204",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සෝවාන් මාර්ගය (Stream-entry Path)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සෝවාන් ඵලය ලබා ගැනීම සඳහා අනුගමනය කළ යුතු අත්‍යවශ්‍ය කරුණු සතරක් වන සත්පුරුෂ ආශ්‍රය, ධර්ම ශ්‍රවණය, යෝනිසෝ මනසිකාරය සහ ධම්මානුධම්ම පටිපත්තිය මෙහි විස්තර වේ.",
+        "long_summary": "මෙම දේශනාව මගින් සෝවාන් ඵලය සාක්ෂාත් කර ගැනීමට අපේක්ෂා කරන පුද්ගලයෙකු ප්‍රගුණ කළ යුතු මූලික පියවර හතරක් අවධාරණය කරයි. පළමුව, කල්‍යාණ මිත්‍රයන් හෝ සත්පුරුෂයන් ආශ්‍රය කිරීම (සප්පුරිස සංසේවය), දෙවනුව එම සත්පුරුෂයන්ගෙන් නිවැරදි ධර්මය ශ්‍රවණය කිරීම (සද්ධම්මසවනය), තෙවනුව ඇසූ ධර්මය නුවණින් විමසා බැලීම (යෝනිසෝ මනසිකාරය) සහ සිව්වනුව එම ධර්මය ප්‍රායෝගික ජීවිතයට ගැලපෙන පරිදි අනුගමනය කිරීම (ධම්මානුධම්ම පටිපත්තිය) මෙහි අඩංගු වේ. මෙම හතර ප්‍රමාණවත් පරිදි ප්‍රගුණ කිරීම සෝවාන් වීම සඳහා ඒකායන මාර්ගයයි.",
+        "main_discovery": "සෝවාන් ඵලය සාක්ෂාත් කර ගැනීම සඳහා අත්‍යවශ්‍ය වන ප්‍රායෝගික පියවර හතරක් (සෝතාපන්න අංග) හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "බාහිර පරිසරයේ බලපෑම (සත්පුරුෂ ආශ්‍රය) සහ අභ්‍යන්තර මානසික මෙහෙයවීම (යෝනිසෝ මනසිකාරය) යන අංග දෙකෙහි සුසංයෝගයෙන් සෝවාන් ඵලය උදා වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සෝතාපන්න අංග (Four factors for Stream-entry).",
+            "how_it_aids_liberation": "සම්මා දිට්ඨිය (Right View) ඇති කරගැනීම මගින් සක්කාය දිට්ඨිය දුරු කර නිවනේ පළමු පියවර තැබීමට මග පාදයි.",
+            "practical_renunciation": "වැරදි ආකල්ප සහ අකුසල පක්ෂපාතී ඇසුර අත්හැරීම (Letting go of unwholesome associations and biases)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Attention (අවධානය)",
+                "Analytical Thinking (විමර්ශනශීලී චින්තනය)",
+                "Social Influence (සාමාජීය බලපෑම)"
+            ],
+            "cognitive_impact": "යෝනිසෝ මනසිකාරය මගින් පුද්ගලයාගේ සංජානන දෝෂ (Cognitive Distortions) ඉවත් කර යථාර්ථවාදී ලෝක දෘෂ්ටියක් ගොඩනගයි.",
+            "modern_psychology_parallel": "සත්පුරුෂ ආශ්‍රය සහ ධර්ම ශ්‍රවණය 'Modeling' සහ 'Psycho-education' යන මනෝවිද්‍යාත්මක සංකල්ප වලට අනුකූල වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Executive Control Network (Prefrontal Cortex)",
+                "Salience Network (Anterior Cingulate Cortex)",
+                "Default Mode Network (DMN) inhibition"
+            ],
+            "neuroplasticity_and_habit": "ධම්මානුධම්ම පටිපත්තිය (Practicing accordingly) මගින් මොළයේ පවතින පැරණි අකුසල සහගත ස්නායුක පථ (Neural pathways) දුර්වල කර නව සදාචාරාත්මක පුරුදු ඇති කරන ස්නායු ප්ලාස්ටිසිතාව (Neuroplasticity) උත්තේජනය කරයි.",
+            "stress_reduction_mechanism": "නිවැරදි විමසීම (Yoniso Manasikara) මගින් Amygdala හි ක්‍රියාකාරිත්වය පාලනය කර (Emotional regulation), ආතතිය ඇති කරන චින්තන රටා (Rumination) අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Information Processing (ධර්ම ශ්‍රවණය)",
+            "Critical Reflection (යෝනිසෝ මනසිකාරය)",
+            "Social Learning (සප්පුරිස සංසේවය)",
+            "Behavioral Reinforcement (ධම්මානුධම්ම පටිපත්තිය)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශ්‍රද්ධාව (Equanimity and Clarity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "මාර්ගය හඳුනාගැනීමෙන් ඇතිවන මනෝවිද්‍යාත්මක සහනය.",
+            "mood_keywords": [
+                "නිශ්චිතභාවය",
+                "අභිප්‍රේරණය",
+                "පැහැදීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Social Learning Theory",
+                "parallel_description": "සත්පුරුෂ ආශ්‍රය (Satsang/Sabburisa-sansewa) යනු ආදර්ශවත් චරිත නිරීක්ෂණය මගින් චර්යාත්මක වෙනස්කම් ඇති කරගැනීමයි.",
+                "confidence_score": 95
+            },
+            {
+                "field": "Cognitive Behavioral Therapy (CBT)",
+                "theory_name": "Cognitive Restructuring",
+                "parallel_description": "යෝනිසෝ මනසිකාරය යනු වැරදි සංජානනයන් නිවැරදි කරමින් තාර්කිකව සහ යථාර්ථවාදීව කරුණු විමසා බැලීමේ ක්‍රියාවලියට (Reframing) සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සෝතාපන්න අංග (Factors for Stream-entry)",
+                "related_teachings": [
+                    "සප්පුරිස සූත්‍රය",
+                    "යෝනිසෝමනසිකාර සම්පදා"
+                ],
+                "connection_type": "ධර්ම කරුණු අනුපූරක වීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ ඇසුරු කරන පිරිස ගැන සැලකිලිමත් වන්න, හොඳ දෙය අසන්න, එය ගැඹුරින් විමසා බලා ප්‍රායෝගිකව ක්‍රියාත්මක කරන්න.",
+        "daily_practice_steps": [
+            "සෑම දිනකම අවම වශයෙන් විනාඩි 15ක් ධර්මය ශ්‍රවණය කරන්න හෝ කියවන්න.",
+            "සිදුවන සෑම සිදුවීමක් දෙසම 'යෝනිසෝ මනසිකාරයෙන්' (හේතු-ඵල දෘෂ්ටියෙන්) බැලීමට පුරුදු වන්න.",
+            "තමාව යහපත් මගට යොමු කරන පුද්ගලයන් සමඟ වැඩිපුර කාලය ගත කරන්න.",
+            "ඉගෙන ගත් එක් දහම් කරුණක් හෝ දිනපතා ප්‍රායෝගිකව ජීවිතයට එකතු කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චත්තාරෝ මේ භික්ඛවේ, ධම්මා භාවිතා බහුලීකතා සෝතාපත්ති ඵලසච්ඡිකිරියාය සංවත්තන්ති. කතමේ චත්තාරෝ: සප්පුරිසසංසේවෝ, සද්ධම්මසවනං, යෝනිසෝමනසිකාරෝ, ධම්මානුධම්මපටිපත්ති. ඉමේ ඛෝ භික්ඛවේ, චත්තාරෝ ධම්මා භාවිතා බහුලීකතා සෝතාපත්තිඵලසච්ඡිකිරියාය සංවත්තන්තීති.",
+            "sinhala": "මහණෙනි, මේ සතරක් වූ ධර්මයෝ වැඩූ විට, බහුල ව ප්‍රගුණ කරගත් විට සෝවාන් ඵලය සාක්ෂාත් කිරීම පිණිස පවතියි. ඒ කවර සතරක් ද යත්; සත්පුරුෂයන් ඇසුරු කිරීම ය. සද්ධර්ම ශ්‍රවණය ය. යෝනිසෝ මනසිකාරය ය. ධර්මානුධර්ම ප්‍රතිපදාව ය. මහණෙනි, මේ වනාහී වැඩූ විට, බහුල ව ප්‍රගුණ කරගත් විට සෝවාන් ඵලය සාක්ෂාත් කිරීම පිණිස පවතින සතරක් වූ ධර්මයෝ ය."
+        }
+    ]
+}

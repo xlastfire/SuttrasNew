@@ -1,0 +1,85 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "අභිඤ්ඤෙය්‍ය සුත්තං",
+    "sutta_title": "විශේෂ නුවණකින් අවබෝධ කළ යුතු දේ ගැන වදාළ දෙසුම",
+    "id": "4345",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අභිඤ්ඤා (Higher Knowledge / Wisdom)",
+        "complexity_rating": 8,
+        "analysis_confidence": 100,
+        "short_summary": "සකලවිධ සංස්කාර ලෝකය පිළිබඳව සාමාන්‍ය දැනුමෙන් ඔබ්බට ගිය විශේෂ ප්‍රඥාවකින් (අභිඤ්ඤා) විනිවිද දැකිය යුතු බව මෙම දේශනාවේ හරයයි.",
+        "long_summary": "මෙම දේශනාව මගින් අවධාරණය කරනු ලබන්නේ සමස්ත සංස්කාර ලෝකය පිළිබඳව ඇති අසම්පූර්ණ දැක්ම දුරු කිරීම සඳහා සුවිශේෂී වූ ප්‍රඥාවක් අවශ්‍ය වන බවයි. සියලු දේ (සියලු සංස්කාර) යනු හේතූන් මත හටගත් දේ බවත්, ඒවායේ අනිත්‍ය, දුක්ඛ, අනාත්ම ස්වභාවය හුදු තර්කයකින් තොරව සෘජු අත්දැකීමක් ලෙස විශේෂ නුවණකින් අවබෝධ කරගැනීම නිදහස් වීම සඳහා අත්‍යවශ්‍ය වේ.",
+        "main_discovery": "සියලු සංස්කාරයන්ගේ (All Conditioned Phenomena) පවතින සැබෑ ස්වභාවය හුදු දැනුමකින් ඔබ්බට ගිය සුවිශේෂී ප්‍රඥාවකින් (Abhiññā) විනිවිද දැකිය යුතු බව.",
+        "core_truth_of_sutta": "සංස්කාරයන්ගේ සැබෑ තත්ත්වය විශේෂ වූ ප්‍රඥාවකින් (අභිඤ්ඤා පරීඤ්ඤා) අවබෝධ කර නොගැනීම සසර පැවැත්මට හේතුවන අතර, එය අවබෝධ කර ගැනීම විමුක්තියේ මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අභිඤ්ඤා (Special Insight) මගින් සංස්කාරයන්හි ඇති 'අනිත්‍ය' බව දැකීම.",
+            "how_it_aids_liberation": "සංස්කාර පිළිබඳ පවතින මුළාව (Avijja) දුරු කරමින් තණ්හාව නිරුද්ධ කිරීමට මග පාදයි.",
+            "practical_renunciation": "වස්තූන් හෝ පුද්ගලයන් කෙරෙහි ඇති 'මමය' යන හැඟීම (I-making) සංස්කාර විශ්ලේෂණය මගින් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අමෝහ (Non-delusion)",
+                "සම්පජඤ්ඤ (Clarity of consciousness)",
+                "විමංසා (Investigation)"
+            ],
+            "cognitive_impact": "සිතේ පවතින ස්වයංක්‍රීය පූර්ව නිගමන (Cognitive biases) බිඳ දමා තොරතුරු විනිවිද දැකීමට (Deep processing) පුහුණු කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' මගින් සිතුවිලි සමග පවතින අනන්‍යතාවය බිඳ දැමීම මෙයට සමාන කළ හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Dorsolateral Prefrontal Cortex (DLPFC)",
+                "Default Mode Network (DMN) Deactivation",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "විශේෂ නුවණින් යුතුව නැවත නැවත බැලීම (Contemplation) මගින් මොළයේ පවතින ස්වයංක්‍රීය සිතුවිලි රටා (Neuronal firing patterns) වෙනස් කර නව අවබෝධාත්මක සබඳතා ඇති කරයි.",
+            "stress_reduction_mechanism": "විශේෂ නුවණ නිසා වස්තූන්ගේ අනන්තය දැකීමෙන් ඇමිග්ඩලා (Amygdala) මගින් ඇති කරන 'බිය' හෝ 'ආශාව' පාලනය වී මොළයේ සන්සුන් ස්වභාවයක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Pattern Recognition",
+            "Attentional Control",
+            "Insight-based Reappraisal"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "විමතියෙන් අවබෝධය කරා (Inquiry to Insight)",
+            "mood_keywords": [
+                "Serene",
+                "Profound",
+                "Analytical"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Science",
+                "theory_name": "Metacognitive Awareness",
+                "parallel_description": "තම සිතීමේ ක්‍රියාවලිය දෙසම පරීක්ෂාකාරීව බැලීම තුළින් පූර්ව නිගමනවලින් තොරව යථාර්ථය හඳුනාගැනීම (Higher-order cognition).",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සම්මා දිට්ඨි (Right View)",
+                "related_teachings": [
+                    "සබ්බ සූත්‍රය (Sabba Sutta)",
+                    "ගිරිමානන්ද සූත්‍රය (Girimananda Sutta)"
+                ],
+                "connection_type": "ධර්ම සමගාමී (Thematic Alignment)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම සිදුවීමකදී හෝ වස්තුවකදී එහි බාහිර පෙනුමට රැවටෙන්නේ නැතිව, එය වෙනස්වන සුළු සංස්කාරයක් ලෙස ගැඹුරින් බැලීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම තමාගේ සිරුර සහ සිත සංස්කාරයක් (සැකසුණු දෙයක්) ලෙස විමසා බලන්න.",
+            "බාහිර ගැටුමකදී එය සිතේ ඇති වූ වේගවත් සිතුවිලි දාමයක ප්‍රතිඵලයක් ලෙස විග්‍රහ කරන්න (Functional Analysis).",
+            "දිනකට විනාඩි 10ක් නිහඬව සිටිමින් සිතට එන අරමුණු විශේෂ නුවණින් නිරීක්ෂණය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සබ්බං භික්ඛවේ අභිඤ්ඤෙය්‍යං ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල විශේෂ නුවණකින් අවබෝධ කළ යුතු යි ….(පෙ)…."
+        }
+    ]
+}

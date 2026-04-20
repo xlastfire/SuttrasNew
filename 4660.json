@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "පඤ්චම පාචීනනින්න සුත්තං",
+    "sutta_title": "පෙරදිගට නැමී තිබීම ගැන වදාළ පස්වෙනි දෙසුම",
+    "id": "4660",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සම්මා සමාධි සහ නිවනට නැඹුරු වීම (Spiritual Orientation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "මහී නදිය පෙරදිගට ගලා බසින්නා සේම, භික්ෂුව සිය ජීවිතය සහ සිත නිවනටම නැඹුරු කර (Nibbana-inclined) පවත්වා ගත යුතුය.",
+        "long_summary": "බුදුරජාණන් වහන්සේ භික්ෂූන්ට දේශනා කරන්නේ මහී නදිය ස්වභාවිකවම පෙරදිගට නැමී, පෙරදිගට බර වී ගලා යන්නාක් මෙන්ම, සැබෑ ශ්‍රාවකයාද සිය ආධ්‍යාත්මික ශික්ෂණය සහ මානසික අවධානය නිවන කෙරෙහිම තැබිය යුතු බවයි. මෙය හුදු අහඹු ක්‍රියාවක් නොව, සමස්ත ජීවන රටාවම නිවීමේ අරමුණ මත පෙළගැස්වීමකි.",
+        "main_discovery": "සිතේ දිශානතිය නිවන වෙත ස්ථාවරව යොමු කිරීම (Intentional Alignment) මගින් ස්වයංක්‍රීයවම විමුක්තිය කරා ගලා යාම සිදු වේ.",
+        "core_truth_of_sutta": "මානසික දිශානතිය (Mental Orientation) නිවැරදිව පිහිටුවා ගත් කල, නිවන කරා යන ගමන ස්වභාවික හා නොවැලැක්විය හැකි ක්‍රියාවලියක් බවට පත්වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සිත නිවනට නැඹුරු කිරීම (Nibbana-ninna, Nibbana-pona, Nibbana-pabbhara).",
+            "how_it_aids_liberation": "සිතේ විසිරුණු ස්වභාවය පාලනය කර, එක් අරමුණක් (නිවන) කරා අවධානය යොමු කිරීමෙන් භව සංයෝජන දුර්වල වේ.",
+            "practical_renunciation": "ලෞකික බැඳීම් වලට බර වනු වෙනුවට, අත්හැරීමේ (Viraga) දිශාවට සිත හුරු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සති (Mindfulness)",
+                "අධිෂ්ඨාන (Determination)",
+                "අවිසිරුණු බව (Non-distraction)"
+            ],
+            "cognitive_impact": "සිතේ ස්වයංක්‍රීය ක්‍රියාකාරීත්වය (Automaticity) නිවන කෙරෙහි හැඩගැසීමෙන්, අකුසල සහගත උත්තේජනයන්ට දක්වන ප්‍රතිචාර (Reactivity) අඩු වේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Values Alignment' සංකල්පය මගින් ජීවිතයේ ප්‍රධාන අරමුණට අනුකූලව හැසිරීම හැඩගැස්වීමට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) පාලනය",
+                "Executive Control Network (ECN)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "නිරන්තරයෙන් නිවන ගැන සිහිය පිහිටුවීමෙන් මස්තිෂ්කයේ ස්නායුක සම්බන්ධතා (Synaptic pathways) ශක්තිමත් වී, නව පුරුදු (Neuroplasticity) ගොඩනැගෙයි.",
+            "stress_reduction_mechanism": "ඉලක්කය පැහැදිලි වන විට (Goal Clarity), Amygdala වේගවත් බව අඩු වී Prefrontal Cortex මගින් සිතේ ස්ථාවරත්වය ඇති කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Priming",
+            "Selective Attention",
+            "Goal-Directed Behavior"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 4,
+            "emotional_arc": "ලෞකික විසිරීම් වල සිට ලෝකෝත්තර අරමුණක් දක්වා වූ ඒකායන ගලා යාම.",
+            "mood_keywords": [
+                "සාමකාමී",
+                "අචල",
+                "ධෛර්යසම්පන්න"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Implementation Intentions",
+                "parallel_description": "යම් නිශ්චිත ඉලක්කයක් කරා සිත නිරන්තරයෙන් හුරු කිරීමෙන් (Priming), බාහිර බාධක මධ්‍යයේ වුවද එම ඉලක්කය කරා ස්වයංක්‍රීයව ක්‍රියා කිරීමට මනස හැඩගැසීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නැඹුරු වීම (Inclination)",
+                "related_teachings": [
+                    "සම්මුඛීභූත සති",
+                    "චේතනා සූත්‍රය"
+                ],
+                "connection_type": "ධර්මයේ ගලායාම (Law of Momentum)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ගංගාවක් මුහුදට ගලා යන්නා සේ, ඔබගේ එදිනෙදා සෑම සිතිවිල්ලක්ම සහ ක්‍රියාවක්ම 'නිවීමට' හෝ 'සංසිඳීමට' අදාළ දැයි නිරන්තරයෙන් පරීක්ෂා කරන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ සැනින් දවසේ අරමුණ නිවන/සංසිඳීම බවට අධිෂ්ඨාන කරන්න (Priming).",
+            "කරන සෑම කාර්යයකදීම මෙය 'අත්හැරීමට' ද 'බැඳීමට' ද උපකාරී වන්නේ දැයි විමසන්න.",
+            "බාහිර කරදර මධ්‍යයේ වුවද සිතේ දිශානතිය වෙනස් වීමට ඉඩ නොදී නැවත ප්‍රධාන අරමුණට යොමු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, මහී නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, මහී නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

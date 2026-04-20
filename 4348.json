@@ -1,0 +1,82 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "පහාතබ්බ සුත්තං",
+    "sutta_title": "ප්‍රහාණය කළ යුතු දෙය ගැන වදාළ දෙසුම",
+    "id": "4348",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Anicca and Prahana (Impermanence and Abandonment)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සියලු සංස්කාර ලෝකයන්හි අනිත්‍ය ස්වභාවය අවබෝධ කරගෙන, අනාගතයේදී ඒ සියල්ල අත්හැරිය යුතු (ප්‍රහාණය කළ යුතු) බව මෙම දේශනාව පෙන්වා දෙයි.",
+        "long_summary": "සංස්කාර ලෝකයෙහි පවතින කිසිදු දෙයක් ස්ථිර නොවන බවත්, ඒවා අනිත්‍ය ධර්මතාවයට යටත් බවත් මෙහිදී පැහැදිලි කෙරේ. මෙම අනිත්‍ය ස්වභාවය අවබෝධ කර ගැනීම තුළින්, අප බැඳී සිටින දේවල් අනාගතයේදී අනිවාර්යයෙන්ම ප්‍රහාණය කළ යුතු බවත්, ඒ තුළින් විමුක්තිය උදාකරගත හැකි බවත් දේශනාවේ හරයයි.",
+        "main_discovery": "සියලු සංස්කාරයන්ගේ (Constructs) අනිත්‍ය ස්වභාවය දැකීමෙන් ඒවා කෙරෙහි ඇති බැඳීම අත්හැරිය යුතු බව.",
+        "core_truth_of_sutta": "සියලු සංස්කාරයන් අනිත්‍ය බැවින් ඒවායේ ග්‍රහණයෙන් මිදීම (ප්‍රහාණය) විමුක්තියේ මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනිත්‍ය සංඥාව (Perception of Impermanence) වැඩීම සහ ප්‍රහාණය (Abandoning).",
+            "how_it_aids_liberation": "තෘෂ්ණාවට (Craving) වස්තු වන සංස්කාරයන්ගේ සැබෑ තත්ත්වය දැකීමෙන් බැඳීම් ලිහිල් කර නිවනට මග පාදයි.",
+            "practical_renunciation": "භෞතික සහ මානසික වස්තූන්ගේ තාවකාලික බව නිරන්තරයෙන් මෙනෙහි කරමින් ඒවා අත්හැරීමට හිත පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "උපාදානය (Clinging)",
+                "අනිත්‍ය අවබෝධය (Realization of Impermanence)"
+            ],
+            "cognitive_impact": "යථාර්ථවාදී නොවන ස්ථිරත්වය පිළිබඳ විශ්වාසයන් (Cognitive Distortions) ඉවත් කර සිත යථාර්ථයට අනුගත කරයි.",
+            "modern_psychology_parallel": "අනිත්‍යතාවය අවබෝධ කර ගැනීම 'Cognitive Reframing' ක්‍රියාවලියට සමාන වන අතර එය අවිපරීත දැක්මකට මග පාදයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ස්ථිරත්වය ගැන ඇති ස්නායුක රටාවන් (Neural pathways) බිඳ දමමින්, අත්හැරීම සඳහා නව ස්නායුක සම්බන්ධතා (Neuroplasticity) ගොඩනැගීමට උපකාරී වේ.",
+            "stress_reduction_mechanism": "අනිත්‍යතාවය පිළිගැනීම මගින් Amygdala හි ක්‍රියාකාරීත්වය අඩු කර (Fear response reduction) මානසික ආතතිය පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal of Impermanence",
+            "Radical Acceptance",
+            "Decentering from Attachments"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "බැඳීමෙන් මිදීම හරහා සහනය කරා (From attachment to relief)",
+            "mood_keywords": [
+                "නිසල බව",
+                "ප්‍රඥාව",
+                "අත්හැරීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "අනිත්‍ය ස්වභාවය පිළිගැනීම (Acceptance) සහ මනෝවිද්‍යාත්මක නම්‍යශීලීභාවය (Psychological Flexibility) වැඩි දියුණු කිරීම.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සියලු සංස්කාරයන්ගේ අනිත්‍යතාවය",
+                "related_teachings": [
+                    "Anicca Sutta",
+                    "Pancavaggiya Sutta"
+                ],
+                "connection_type": "Thematic Consistency"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ කිසිවක් සදාකාලික නොවන බව වටහාගෙන, අනවශ්‍ය බැඳීම් සහ අතීත පසුතැවීම් අත්හැරීමට පුහුණු වන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ විට 'අද දින මා අත්විඳින සියල්ල අනිත්‍ය වේ' යැයි මෙනෙහි කරන්න.",
+            "යම් වස්තුවකට හෝ පුද්ගලයෙකුට ඇති බැඳීම දැඩි වන විට එහි වෙනස් වන ස්වභාවය සිහිපත් කරන්න.",
+            "දිනය අවසානයේ අත්හැරීමෙන් ලබන මානසික නිදහස අගය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සබ්බං භික්ඛවේ පහාතබ්බං ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල ප්‍රහාණය කළ යුතු යි ….(පෙ)…."
+        }
+    ]
+}

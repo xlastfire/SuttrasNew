@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "චූලවච්ඡ තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15314",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "නිවන සහ සංස්කාර නිරෝධය",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ආයුෂ්මත් චූලවච්ඡ රහතන් වහන්සේ විසින් සියලු සංස්කාරයන් නිරුද්ධ කර අමා නිවන අවබෝධ කරගැනීම සහ ශ්‍රී සද්ධර්මයේ උත්තරීතර භාවය මෙහි ප්‍රකාශ වේ.",
+        "long_summary": "මෙම දේශනාව ආයුෂ්මත් චූලවච්ඡ නම් රහත් මුනිඳුන් විසින් දේශනා කරන ලද්දකි. බුදුරජාණන් වහන්සේ වදාළ ශ්‍රී සද්ධර්මය පිළිබඳ පවතින ගැඹුරු අවබෝධයත්, ඒ ඔස්සේ යහපත් හා අයහපත් යන සියලු සංස්කාරයන් (Volitional Formations) සම්පූර්ණයෙන්ම නිරුද්ධ කිරීමේ හැකියාවත් මෙහි අවධාරණය කෙරේ. සංස්කාර නිරුද්ධ වීම හරහා ලැබෙන සුවපත් වූ අමා නිවන අවබෝධ කරගැනීම බුද්ධ ධර්මයේ උසස්ම ඵලය ලෙස මෙහි විස්තර වේ.",
+        "main_discovery": "සංස්කාරයන්ගේ නිරුද්ධ වීමෙන් ලබන අමා නිවනේ සුවය සහ ඒ සඳහා ශ්‍රී සද්ධර්මයේ ඇති මග පෙන්වීම.",
+        "core_truth_of_sutta": "සියලු සංස්කාරයන්ගේ නිරුද්ධ වීම (නිවන) පරම සැපත වන අතර එය බුද්ධ දේශනාව තුළින්ම සාක්ෂාත් කරගත හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සංස්කාර නිරෝධය (Cessation of volitional formations)",
+            "how_it_aids_liberation": "කුසල් අකුසල් සියලු සංස්කාරවලින් මිදීමෙන් භව ගමන නතර වී අමා නිවන සාක්ෂාත් වේ.",
+            "practical_renunciation": "ක්‍රියාවන් කෙරෙහි ඇති තෘෂ්ණාව සහ බැඳීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සංස්කාර (Conditioning)",
+                "සුවය (Well-being)",
+                "අවබෝධය (Cognitive Insight)"
+            ],
+            "cognitive_impact": "මනස විසින් නිර්මාණය කරනු ලබන 'යහපත්/අයහපත්' යන ද්වෛතමය සංකල්පවලින් (Dualistic thinking) ඔබ්බට ගොස් පරම සමතුලිතතාවයට පත්වීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "සංස්කාර නිරෝධය හරහා මොළයේ ස්වයංසිද්ධව ක්‍රියාත්මක වන සිතුවිලි ජාලය (DMN) නිශ්ශබ්ද වීම සහ නව මානසික නිදහසක් ඇතිවීම (Neuro-quiescence).",
+            "stress_reduction_mechanism": "සංස්කාර රහිත වීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අවම වී Cortisol මට්ටම ශුන්‍ය තත්ත්වයට පත්වීමෙන් පරම ශාන්තිය උදාවේ."
+        },
+        "cognitive_mechanisms": [
+            "සංස්කාර නිරෝධය (Cessation of volitional formations)",
+            "විපස්සනා ප්‍රඥාව (Insight Wisdom)",
+            "සංජානනමය නිදහස (Cognitive Liberation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Tranquility)",
+            "emotional_intensity": 5,
+            "emotional_arc": "සංස්කාර පීඩනයෙන් මිදී පරම සුවයට පත්වීම",
+            "mood_keywords": [
+                "නිවුණු",
+                "සුවපත්",
+                "නිසල",
+                "සැහැල්ලු"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive De-shaping",
+                "parallel_description": "පුද්ගලයා සතු අතීත අත්දැකීම් සහ සංස්කෘතික හැඩගැස්වීම් (Conditioning) මගින් ඇතිවන චර්යාත්මක රටා නිරෝධය කිරීමේ ක්‍රියාවලිය.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සර්ව සංස්කාර සමථය",
+                "related_teachings": [
+                    "සංඛාරුපෙක්ඛා ඥානය",
+                    "අනිච්චා වත සංඛාරා"
+                ],
+                "connection_type": "ධර්ම අවබෝධය සඳහා සංස්කාරවල ස්වභාවය දැකීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකය පිළිබඳ අප සතු විනිශ්චයන් සහ මානසික නිර්මාණ (සංස්කාර) අතහැරීම තුළින් සැබෑ මානසික සුවය ලබාගත හැක.",
+        "daily_practice_steps": [
+            "තමා කරන සෑම ක්‍රියාවකම ඇති 'බැඳීම' නිරීක්ෂණය කරන්න.",
+            "මානසික නිර්මාණ (සංස්කාර) දෙස උපේක්ෂාවෙන් බැලීමට පුරුදු වන්න.",
+            "සිතුවිලි නිරුද්ධ වන කෙටි නිහඬ අවස්ථා අත්විඳින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "පාමොජ්ජබහුලෝ භික්ඛු ධම්මේ බුද්ධප්පවේදිතේ\nඅධිගච්ඡේ පදං සන්තං සංඛාරූපසමං සුඛන්ති",
+            "sinhala": "බුදු සමිඳාණන් වදාළ ශ්‍රී සද්ධර්මය ගැන ඒ භික්ෂුව තුළ පුදුමාකාර ප්‍රමුදිතභාවයක් තියෙනවා. පින් පව් ආදී සංස්කාරයන් සංසිඳී ගිය සැපය වූ ඒ අමා නිවන අවබෝධ කරගන්ට ඔහුටත් පුළුවන් වුණා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා චූළවච්ඡෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් චූලවච්ඡ නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "මුත්තා ථේරීගාථා",
+    "sutta_title": "මුත්තා තෙරණියගේ ගාථාව",
+    "id": "14657",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "විමුක්තිය සහ ස්ත්‍රී විමුක්තිය (Liberation and Emancipation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "භෞතික ජීවිතයේ බන්ධන (වංගෙඩිය, මෝල්ගහ) සහ ආධ්‍යාත්මික බන්ධන (තෘෂ්ණාව, කෝපය) යන සියල්ලෙන් මිදී පරම නිදහස ලැබීම මෙහි හරයයි.",
+        "long_summary": "මුත්තා තෙරණිය තමන් ලැබූ අසිරිමත් විමුක්තිය මෙම ගාථාවෙන් ප්‍රකාශ කරයි. ඇය එදිනෙදා ගෘහස්ථ ජීවිතයේ පීඩාවන් වූ වංගෙඩිය, මෝල්ගහ සහ ස්වාමියා කෙරෙහි වූ බැඳීම්වලින් පමණක් නොව, සිත තුළ ඇතිවන කෝපය සහ ලෝභය වැනි අකුසල මූලයන්ගෙන් ද නිදහස් වී ඇත. උපත සහ මරණය සහිත සංසාර චක්‍රයෙන් මිදී, භවයේ රැහැන වූ තෘෂ්ණාව සහමුලින්ම කපා හැර රහත් භාවයට පත්වීම මෙහි විස්තර කෙරේ.",
+        "main_discovery": "භෞතික වහල්භාවයෙන් (ගෘහස්ථ ජීවිතයේ පීඩනය) සහ අධ්‍යාත්මික වහල්භාවයෙන් (තෘෂ්ණාව සහ භවය) එකවර මිදීම පරම සුවය බව.",
+        "core_truth_of_sutta": "බාහිර වස්තූන්ගෙන් සහ අභ්‍යන්තර කෙලෙස්වලින් නිදහස් වීමම පරම දුක්ඛ නිරෝධයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සියලු සංස්කාරයන්ගෙන් මිදීම (Release from all conditioned things).",
+            "how_it_aids_liberation": "තෘෂ්ණාව (Tanha) ක්ෂය කිරීම මගින් පුනර්භවය නතර කර අතිශය සාමකාමී නිවන කරා යොමු කරයි.",
+            "practical_renunciation": "එදිනෙදා වැඩකටයුතු සහ පුද්ගල බැඳීම් කෙරෙහි ඇති ඇලීමත්, ඉන් ජනිත වන මානසික ගැටුම් (කෝපය/ලෝභය) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ලෝභය (Attachment)",
+                "කෝපය (Aversion)",
+                "විමුක්තිය (Psychological Liberation)"
+            ],
+            "cognitive_impact": "සිත දේවල් හසුරුවන ආකාරය (Schemas) වෙනස් වීම; එනම් තෘෂ්ණාව මත පදනම් වූ චින්තන රටාවෙන් මිදී උපේක්ෂා සහගත චින්තනයකට මාරු වීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Psychological Flexibility' සහ 'Defusion' සංකල්පයට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - ස්වයං-කේන්ද්‍රීය චින්තනය අඩුවීම",
+                "Amygdala - බිය සහ කෝපය පාලනය වීම",
+                "Prefrontal Cortex - විධායක පාලනය සහ සතිමත් බව"
+            ],
+            "neuroplasticity_and_habit": "වංගෙඩිය, මෝල්ගහ වැනි පුරුදු වූ උත්තේජක කෙරෙහි දක්වන ස්නායුක ප්‍රතිචාර (Neural responses) අත්හැරීමෙන් නව සන්සුන් ස්නායුක පථ (Neural pathways) නිර්මාණය වීම.",
+            "stress_reduction_mechanism": "තෘෂ්ණාව අඩුවීම හරහා Cortisol මට්ටම පහත වැටීම සහ Amygdala හි අධි-සක්‍රියතාවය අඩුවීම නිසා මානසික ආතතිය සහමුලින්ම තුරන් වීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Dissonance Resolution",
+            "Attentional Shift",
+            "Self-Referential Processing Reduction"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්තෘප්තිය (Contentment)",
+            "emotional_intensity": 9,
+            "emotional_arc": "පීඩිත භාවයෙන් (Oppression) පරම නිදහස (Total Freedom) කරා.",
+            "mood_keywords": [
+                "නිදහස",
+                "සැනසීම",
+                "ප්‍රමෝදය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Role Exit Theory",
+                "parallel_description": "සමාජීය භූමිකාවන්ගෙන් (බිරිඳක්, මෙහෙකාරියක්) මිදී තමාගේ අනන්‍යතාවය නැවත අර්ථකථනය කරගැනීම සහ ඉන් ලැබෙන මානසික නිදහස.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සංස්කාරයන්ගෙන් මිදීම",
+                "related_teachings": [
+                    "Therigatha Collection"
+                ],
+                "connection_type": "Thematic Alignment"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ මනස පීඩාවට පත් කරන බාහිර වගකීම් සහ අභ්‍යන්තර ආශාවන් හඳුනාගෙන ඒවා කෙරෙහි ඇති ඇලීම අත්හරින්න.",
+        "daily_practice_steps": [
+            "තමා දෛනිකව කරන වැඩකටයුතුවලදී ඇතිවන කෝපය සහ අතෘප්තිය නිරීක්ෂණය කරන්න.",
+            "බාහිර පුද්ගලයන් හෝ වස්තූන් මත තම සතුට රඳා පවතින බව සිතන සිතුවිලි අත්හරින්න.",
+            "සෑම රාත්‍රියකම එදින සිදු වූ බැඳීම්වලින් සිත නිදහස් කර නිදාගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සුමුත්තා සාධු මුත්තාම්හි තීහි ඛුජ්ජේහි මුත්තියා,\nඋදුක්ඛලේන මුසලේන පතිනා ඛුජ්ජකේන ච,\nමුත්තාම්හි ජාතිමරණා භවනෙත්ති සමූහතාති",
+            "sinhala": "මං හැම දෙයකින්ම මිදිච්ච එකමයි හොඳ. මං තුන් කුදෙනුත් මිදුණා. ඒ කියන්නෙ, වංගෙඩියෙනුත් මිදුණා, මෝල් ගහෙනුත් මිදුණා. ස්වාමියාගෙනුත් මිදුණා. ඉපදෙන මැරෙන ලෝකයෙනුත් මිදුණා. මේ භව රැහැන වූ තෘෂ්ණාවෙනුත් මිදුණා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං මුත්තා ථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී මුත්තා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

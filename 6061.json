@@ -1,0 +1,87 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "විතක්ක සුත්තං",
+    "sutta_title": "විතර්ක කිරීම ගැන වදාළ දෙසුම",
+    "id": "6061",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Cognitive Purification and Four Noble Truths",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කාම, ව්‍යාපාද, විහිංසා විතර්ක බැහැර කර, දුක සහ එහි නිරෝධය පිළිබඳ චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීමට ප්‍රයත්නය දැරිය යුතු බව මෙම සූත්‍රය උගන්වයි.",
+        "long_summary": "මෙම දේශනාව මගින් පාපී අකුසල විතර්කයන් වන කාම (Lustful), ව්‍යාපාද (Ill-will) සහ විහිංසා (Cruelty) යන සිතුවිලිවල ඇති නිසරු බව පෙන්වා දෙයි. මෙම විතර්කයන් නිවනට බාධා පමුණුවන අතර මනස නොසන්සුන් කරයි. ඒ වෙනුවට, නිවනට උපකාරී වන කලකිරීම (Disenchantment), විරාගය (Dispassion) සහ සංසිඳීම ඇති කරන යහපත් විතර්කයන් වැඩිය යුතුය. අවසාන වශයෙන්, සෑම උත්සාහයක්ම දුක, දුකේ හටගැනීම, දුක නැති කිරීම සහ ඒ සඳහා වූ මාර්ගය වන චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීම සඳහාම යොමු කළ යුතු බව අවධාරණය කෙරේ.",
+        "main_discovery": "අකුසල විතර්ක (Unwholesome thoughts) බැහැර කර චතුරාර්ය සත්‍යය (Four Noble Truths) කෙරෙහි සිත යොමු කිරීම විමුක්තියේ මාවතයි.",
+        "core_truth_of_sutta": "නිවනට බාධා පමුණුවන අකුසල සිතුවිලි ප්‍රහීණය කර, චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීම උදෙසා මනස මෙහෙයවීම විමුක්තියේ එකම මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අකුසල විතර්ක ප්‍රහීණය සහ චතුරාර්ය සත්‍යය (Four Noble Truths) පදනම් කරගත් සම්මා සංකප්ප වැඩීම.",
+            "how_it_aids_liberation": "සංසාරික බැඳීම් ඇති කරන විතර්ක නතර කිරීම මගින් විරාගය (Dispassion) සහ නිරෝධය (Cessation) කරා මනස යොමු කරවයි.",
+            "practical_renunciation": "සිතේ ඇතිවන ආශාවන් සහ ක්‍රෝධයන් (Letting go of sensory and aggressive thoughts) අත්හැරීම මගින් ප්‍රායෝගික අත්හැරීම ආරම්භ වේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාම (Sensory desire)",
+                "ව්‍යාපාද (Malice)",
+                "විහිංසා (Harmfulness)",
+                "සම්මා සති (Right Mindfulness)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන චක්‍රීය අකුසල සිතුවිලි (Negative Rumination) බිඳ දමා සත්‍යාවබෝධය සඳහා වූ තර්කන ශක්තිය (Analytical Wisdom) ගොඩනැගීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' - එනම් අහිතකර සිතුවිලි සමග පටලැවෙන්නේ නැතිව ඒවා බැහැර කිරීමේ ක්‍රමවේදය මෙහි විද්‍යමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "අකුසල විතර්කවලින් වැළකීමෙන් මනස රස්තියාදු වන DMN පද්ධතියේ ක්‍රියාකාරිත්වය අඩු වන අතර, චතුරාර්ය සත්‍යය ගැන මෙනෙහි කිරීම PFC හි 'Top-down' පාලනය ශක්තිමත් කර මොළයේ නව ස්නායුක සම්බන්ධතා (Synaptic plasticity) ඇති කරයි.",
+            "stress_reduction_mechanism": "කාම සහ ව්‍යාපාද විතර්ක අඩුවීමෙන් Amygdala හි උද්දීපනය අඩු වී Cortisol මට්ටම පහත වැටේ. මෙය මොළයේ ශාන්තිදායක බව සහ අවධානය (Focus) වැඩි කිරීමට උපකාරී වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing",
+            "Attentional Control",
+            "Inhibition of Maladaptive Thought Patterns",
+            "Conceptual Proliferation (Papanca) Reduction"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 4,
+            "emotional_arc": "අකුසල විතර්ක මගින් ඇති කරන කැළඹීමෙන් මිදී, සත්‍යාවබෝධය තුළින් ලැබෙන ශාන්තිය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "Peaceful",
+                "Disciplined",
+                "Clarity",
+                "Transcendent"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අකුසල විතර්ක (Maladaptive/Intrusive thoughts) හඳුනාගෙන ඒවා බැහැර කර, වඩාත් යථාර්ථවාදී සහ ඵලදායී සිතුවිලි (Core Beliefs/Four Noble Truths) ස්ථාපනය කිරීමේ ක්‍රියාවලිය මෙහි අන්තර්ගත වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "විතර්ක සංස්ථාන (Stabilizing thoughts)",
+                "related_teachings": [
+                    "Vitakkasanthana Sutta",
+                    "Dhammacakkappavattana Sutta"
+                ],
+                "connection_type": "Methodological and Goal-oriented"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ සිතේ ඇතිවන අනවශ්‍ය ආශාවන් සහ තරහවන් පාලනය කර, ජීවිතයේ ඇතිවන ගැටලු (දුක) සහ ඒවාට විසඳුම් (චතුරාර්ය සත්‍යය) දෙස තාර්කිකව බැලීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "සිතේ නරක සිතුවිල්ලක් ඇති වූ වහාම එය හඳුනාගෙන (Labeling), එය නිවනට බාධාවක් බව තේරුම් ගන්න.",
+            "සිතුවිල්ල දිගින් දිගටම පවත්වා නොගෙන එයින් ඉවත් වී හුස්ම හෝ වර්තමාන මොහොතට අවධානය යොමු කරන්න.",
+            "දිනකට සුළු වෙලාවක් හෝ ජීවිතයේ අනිත්‍ය බව සහ දුක්ඛ සත්‍යය ගැන ගැඹුරින් මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "මා භික්ඛවේ, පාපකේ අකුසලේ විතක්කේ විතක්කේථ. සෙය්‍යථිදං: කාමවිතක්කං ව්‍යාපාදවිතක්කං විහිංසාවිතක්කං. තං කිස්ස හේතු, නේතේ භික්ඛවේ, විතක්කා අත්ථසංහිතා නාදිබ්‍රහ්මචරියකා න නිබ්බිදාය න විරාගාය න නිරෝධාය න උපසමාය න අභිඤ්ඤාය න සම්බෝධාය න නිබ්බානාය සංවත්තන්ති. විතක්කෙන්තෝ ච ඛෝ තුම්හේ භික්ඛවේ, ඉදං දුක්ඛන්ති විතක්කෙය්‍යාථ ....(පෙ).... අයං දුක්ඛනිරෝධගාමිනී පටිපදාති විතක්කෙය්‍යාථ. තං කිස්ස හේතු, ඒතේ භික්ඛවේ, විතක්කා අත්ථසංහිතා ඒතේ ආදිබ්‍රහ්මචරියකා ඒතේ නිබ්බිදාය විරාගාය නිරෝධාය උපසමාය අභිඤ්ඤාය සම්බෝධාය නිබ්බානාය සංවත්තන්ති. තස්මාතිහ භික්ඛවේ, ඉදං දුක්ඛන්ති යෝගෝ කරණීයෝ ....(පෙ).... අයං දුක්ඛනිරෝධගාමිනී පටිපදාති යෝගෝ කරණීයෝති.",
+            "sinhala": "මහණෙනි, පාපී අකුසල විතර්කයන් විතර්ක නොකරව්. එනම්; කාම විතර්කය ය. ව්‍යාපාද විතර්කය ය. විහිංසා විතර්කය ය. එයට හේතුව කුමක් ද? මහණෙනි, මේ විතර්කයෝ යහපතින් යුක්ත නොවෙති. නිවන් මගට මුල් නොවෙති. අවබෝධයෙන් කලකිරීම පිණිස නොපවතිත්. විරාගය පිණිස නොපවතිත්. නිරෝධය පිණිස නොපවතිත්. සංසිඳීම පිණිස නොපවතිත්. විශිෂ්ට ඥානය පිණිස නොපවතිත්. සත්‍යාවබෝධය පිණිස නොපවතිත්. නිවන පිණිස නොපවතිත්."
+        }
+    ]
+}

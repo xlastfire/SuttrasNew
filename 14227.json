@@ -1,0 +1,95 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "සන්ධිතත්ථේරගාථා",
+    "sutta_title": "සන්ධිත තෙරුන්ගේ ගාථා",
+    "id": "14227",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "බුද්ධානුස්සති සහ අර්හත් මාර්ගය",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සන්ධිත තෙරුන් ඇහැටු ගසක් සෙවණේ දීර්ඝ කාලයක් බුද්ධානුස්සති සඤ්ඤාව ප්‍රගුණ කර අරහත්වය ලැබූ ආකාරය මෙම ගාථාවලින් ප්‍රකාශ වේ.",
+        "long_summary": "ආයුෂ්මත් සන්ධිත රහත් තෙරුන් විසින් තමන් වහන්සේ අරහත්වය කරා ළඟා වූ ආකාරය මෙහිදී විස්තර කරයි. ඇහැටු ගසක සෙවණෙහි සිට බුදුරජාණන් වහන්සේගේ ගුණාංග සිහිකිරීම හෙවත් බුද්ධානුස්සති සඤ්ඤාව වර්ධනය කිරීම ප්‍රධාන වශයෙන් සිදු කර ඇත. මෙම පුහුණුව කල්ප තිස් එකක කාලයක් පුරා අඛණ්ඩව සිත තුළ මුල් බැස තිබූ බවත්, එම දීර්ඝකාලීන භාවනා අභ්‍යාසය නිසා ඇති වූ මානසික ශක්තිය හා ප්‍රගතිය මත පදනම්ව යථාර්ථය අවබෝධ කර ගනිමින් සියලු කෙලෙසුන් නසා අරහත්වය සාක්ෂාත් කළ බවත් මෙහි අන්තර්ගත වේ.",
+        "main_discovery": "බුද්ධානුස්සති සඤ්ඤාව දීර්ඝකාලීන පුහුණුව තුළින් අරහත්වය කරා මෙහෙයවන ප්‍රබල මානසික මෙවලමක් බව හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "අඛණ්ඩව පවත්වන ලද උසස් සඤ්ඤාවක (බුද්ධානුස්සති) ප්‍රතිඵලයක් ලෙස භවයේ කෙළවර අරහත්වය උදා වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "බුද්ධානුස්සති සඤ්ඤාව (Perception of the Buddha's qualities)",
+            "how_it_aids_liberation": "සිතේ ඇති නීවරණ යටපත් කර, චිත්ත ඒකග්ගතාවය ඔස්සේ යථාභූත ඥානය ලැබීමට මග පාදයි.",
+            "practical_renunciation": "බුදුගුණ කෙරෙහි සිත බැඳීමෙන් ලෞකික ආශාවන් (Sensual desires) වෙත ඇති නැඹුරුව ක්‍රමයෙන් අත්හැරේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සති (Mindfulness)",
+                "සමාධි (Concentration)",
+                "සඤ්ඤා (Perception)"
+            ],
+            "cognitive_impact": "සෘණාත්මක සිතුවිලි රටාවන් (Maladaptive thought patterns) වෙනුවට උතුම් ගුණාංග සිතේ තැන්පත් කිරීමෙන් මානසික නිරවුල් බව ඇති කරයි.",
+            "modern_psychology_parallel": "Cognitive Reframing හා බැඳුණු Positive Psychology අභ්‍යාස වලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Default Mode Network (DMN)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "කල්ප තිස් එකක් වැනි දීර්ඝ කාලයක් පුහුණු කිරීමෙන්, මොළයේ ස්නායු පථ (Neural pathways) බුද්ධානුස්සතියට අදාළව ස්ථිර ලෙස හැඩගැසීම (Long-term potentiation) සිදු වී ඇත.",
+            "stress_reduction_mechanism": "බුද්ධානුස්සතිය හරහා Amygdala හි ක්‍රියාකාරිත්වය අඩු වී මොළයේ සන්සුන් බව ඇති කරන Parasympathetic පද්ධතිය උත්තේජනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Priming",
+            "Positive Reinforcement",
+            "Sustained Attention",
+            "Mental Image Categorization"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "භාවනාමය අවධානයෙන් පරම නිදහස කරා (Focused attention to ultimate liberation)",
+            "mood_keywords": [
+                "නිසලතාවය",
+                "ප්‍රසන්නභාවය",
+                "නිරවුල් බව",
+                "ශ්‍රද්ධාව"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Priming and Neural Anchoring",
+                "parallel_description": "නිරන්තරයෙන්ම උසස් ගුණාංග කෙරෙහි සිත යොමු කිරීමෙන් (බුද්ධානුස්සති), සිතේ ඇති වන අනවශ්‍ය සිතුවිලි පාලනය කිරීමේ හැකියාව ලැබෙන බව මෙහිදී දැකිය හැක.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බුද්ධානුස්සති (Recollection of Buddha)",
+                "related_teachings": [
+                    "ධජග්ග සූත්‍රය",
+                    "අනුස්සතිට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "Direct Methodological Parallel"
+            }
+        ],
+        "practical_takeaway_sinhala": "යම් කිසි උතුම් අරමුණක් කෙරෙහි අඛණ්ඩව සිත පුහුණු කිරීමෙන් ඕනෑම දුෂ්කර මානසික තත්ත්වයකින් මිදී උසස් ජයග්‍රහණ ලබා ගත හැක.",
+        "daily_practice_steps": [
+            "දිනපතා නිශ්ශබ්ද ස්ථානයක හිඳ බුදුරජාණන් වහන්සේගේ ගුණයක් කෙරෙහි අවධානය යොමු කරන්න.",
+            "එම සිතුවිල්ල සිතේ රඳවා ගැනීමට උත්සාහ කරමින් ඒ හා බැඳුණු ප්‍රීතිය අත්විඳින්න.",
+            "වෙනත් අරමුණකට සිත ගියහොත් නැවත මෘදු ලෙස බුදුගුණ අරමුණට සිත ගෙන එන්න.",
+            "මෙය පුරුද්දක් ලෙස දිනපතා අවම වශයෙන් විනාඩි 10ක් පුහුණු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අස්සත්ථේ හරිතෝකාසේ සංවිරූළ්හම්පි පාදපේ\nඒකං බුද්ධගතං සඤ්ඤං අලභිත්ථං පතිස්සතෝ",
+            "sinhala": "ඒ ඇහැටු ගස තද කොළ පාට පත්‍ර හොඳින් වැඩුණු ගහක්. ඉතින් මං ඒ ගස් සෙවණෙ තමයි භාවනා කළේ. බුද්ධානුස්සති සඤ්ඤාව එතැනදි මං ඇති කරගත්තේ."
+        },
+        {
+            "pali": "ඒකතිංසේ ඉතෝ කප්පේ යං සඤ්ඤමලභිං තදා\nතස්සා සඤ්ඤාය වාහසා පත්තෝ මේ ආසවක්ඛයෝ’ති",
+            "sinhala": "මීට කල්ප තිස් එකකට කලින් මං දියුණු කරල තියෙන්නෙ බුද්ධානුස්සති සඤ්ඤාවයි. ඉතින් ඒ භාවනාවම මුල් කර ගෙන අරහත්වයට පත්වෙන්ට මට පුළුවන් වුණා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා සන්ධිතෝ ථේරෝ ගාථායෝ අභාසිත්ථා‘ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් සන්ධිත නම් රහත් මුනිඳුන් වදාළ ගාථාවන්ය."
+        }
+    ]
+}

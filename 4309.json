@@ -1,0 +1,88 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "සෝකධම්ම සුත්තං",
+    "sutta_title": "ශෝක වීම ස්වභාව කොට ඇති දෙය ගැන වදාළ දෙසුම",
+    "id": "4309",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Sankhara Dhamma / Impermanence",
+        "complexity_rating": 7,
+        "analysis_confidence": 95,
+        "short_summary": "සෑම සංස්කාරයක්ම ශෝකය උරුම කොට ඇති බවත්, එය ලෝකයේ වළක්වාලිය නොහැකි ස්වභාවයක් බවත් අවබෝධ කර ගැනීම මෙහි හරයයි.",
+        "long_summary": "උපතේ පටන් මරණය දක්වා වන සියලු සංස්කාර ධර්මයන් ලෝක ස්වභාවයෙන්ම ශෝකයට යටත් වේ. විවිධ හේතු සාධක මත මතුවන මෙම ශෝකී ස්වභාවයෙන් මිදීමට කිසිදු සත්වයෙකුට නොහැකි බවත්, එම යථාර්ථය හඳුනා ගැනීම විමුක්තියේ මූලික පියවර බවත් මෙහි විස්තර කෙරේ.",
+        "main_discovery": "සංස්කාර ලෝකයේ (Sankhara Loka) ස්වභාවික ලක්ෂණයක් ලෙස ශෝකය (Sorrow) හඳුනා ගැනීම සහ එයින් පලා යාමට උත්සාහ කරනවා වෙනුවට එහි යථාර්ථය අවබෝධ කර ගැනීම.",
+        "core_truth_of_sutta": "සියලු සංස්කාර ධර්මයන් ස්වභාවයෙන්ම ශෝකයට යටත්ය (Sankhara are inherently sorrowful).",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සංස්කාරයන්ගේ ශෝකී බව (Dukkha) සහ අනිත්‍ය බව (Anicca) ප්‍රත්‍යක්ෂ කිරීම.",
+            "how_it_aids_liberation": "සංස්කාර ලෝකය කෙරෙහි පවතින තෘෂ්ණාව සහ ඇලීම (Attachment) අත්හැරීම මගින් නිවනට මඟ පාදයි.",
+            "practical_renunciation": "ලෝකයේ පවතින වෙනස්වන සුළු ස්වභාවය කෙරෙහි ඇති අත්කර ගැනීමේ ආශාව අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ශෝකය (Sorrow)",
+                "ඇලීම (Attachment)",
+                "අවබෝධය (Insight)"
+            ],
+            "cognitive_impact": "සංස්කාර කෙරෙහි පවතින 'ස්ථිරයි' යන වැරදි වැටහීම (Cognitive Distortion) ඉවත් කර, යථාර්ථවාදී දැක්මක් (Realistic Perception) ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'පිළිගැනීම' (Acceptance) හරහා මානසික නම්‍යශීලීභාවය වර්ධනය කිරීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "ශෝකය ලෝක ස්වභාවයක් ලෙස පිළිගැනීම මගින් අමිග්ඩලා (Amygdala) හි ක්‍රියාකාරීත්වය පාලනය වන අතර, නව සිතීමේ රටා (Neural pathways) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "අනිවාර්ය ශෝකය කෙරෙහි දක්වන ප්‍රතිරෝධය (Resistance) නැතිවීම නිසා කෝටිසෝල් (Cortisol) මට්ටම පහත වැටී මානසික ආතතිය අවම වේ."
+        },
+        "cognitive_mechanisms": [
+            "Acceptance of Reality",
+            "Cognitive Restructuring",
+            "Insight into Impermanence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ශෝකය පිළිගැනීමේ සිට එයින් නිදහස් වීමේ මානසික නිශ්චලතාවය දක්වා.",
+            "mood_keywords": [
+                "යථාර්ථවාදී",
+                "නිසල",
+                "අවබෝධාත්මක"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Radical Acceptance (Dialectical Behavior Therapy - DBT)",
+                "parallel_description": "ලෝකයේ දුක්ඛිත ස්වභාවය හෝ සංස්කාරයන්ගේ වෙනස්වීම් වලට ප්‍රතිරෝධය නොදක්වා ඒ අයුරින්ම පිළිගැනීම මගින් මානසික පීඩනය අවම කර ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Sabbe Sankhara Anicca",
+                "related_teachings": [
+                    "Dhammapada - Maggavagga",
+                    "Anicca Sutta"
+                ],
+                "connection_type": "Thematic alignment on the nature of conditioned things"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ සිදුවන වෙනස්වීම් සහ ශෝකී අවස්ථාවන් පෞද්ගලිකව නොගෙන, එය ලෝක ස්වභාවයක් ලෙස දැකීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම 'සංස්කාර ධර්මයන් වෙනස් වන සුළුයි' යන සිහිය පිහිටුවා ගන්න.",
+            "ශෝකී සිතුවිල්ලක් ආ විට එයට ප්‍රතිරෝධය නොදක්වා එහි ස්වභාවය නිරීක්ෂණය කරන්න.",
+            "බාහිර වස්තූන් හා පුද්ගලයන් කෙරෙහි ඇති දැඩි බැඳීම ක්‍රමයෙන් ලිහිල් කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …."
+        },
+        {
+            "pali": "සබ්බං භික්ඛවේ, සෝකධම්මං ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල ශෝක වීම ස්වභාව කොටයි තියෙන්නේ ….(පෙ)…."
+        }
+    ]
+}

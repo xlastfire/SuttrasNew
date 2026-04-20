@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "ඣාන සුත්තං",
+    "sutta_title": "ධ්‍යාන ගැන වදාළ දෙසුම",
+    "id": "6961",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සතිපට්ඨාන සහ සමාධි භාවනා (Mindfulness and Concentration)",
+        "complexity_rating": 8,
+        "analysis_confidence": 95,
+        "short_summary": "සතර සතිපට්ඨානය ප්‍රගුණ කිරීමෙන් ධ්‍යාන හා සමාධි අවස්ථාවන්හි සියුම් විපර්යාසයන් පිළිබඳ පූර්ණ අවබෝධය ලැබෙන බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+        "long_summary": "සතර සතිපට්ඨානයන් (කාය, වේදනා, චිත්ත, ධම්ම) ක්‍රමානුකූලව සහ බහුලව පුහුණු කිරීම තුළින්, යෝගාවචරයා හට ධ්‍යාන (Meditative absorptions), විමෝක්ෂ, සමාධි සහ සමාපත්තීන්ගේ ස්වභාවය අවබෝධ වේ. මෙහිදී එම මානසික මට්ටම්වල පවතින ඉතා කුඩා අංගයන්, ඒවායේ පිරිසිදු වන ආකාරය සහ ඒවා හටගෙන පවතින ආකාරය (නැගී සිටීම) පිළිබඳව අතිශය සූක්ෂ්ම වූත්, නිරවුල් වූත් ඥානයක් ඇති වන බව තහවුරු කෙරේ.",
+        "main_discovery": "සතිපට්ඨානය වැඩීම තුළින් ධ්‍යාන හා සමාධි අවස්ථාවන්හි සියුම් විපර්යාසයන් සහ පිරිසිදු වීම් හඳුනාගත හැකි සූක්ෂ්ම ප්‍රඥාව උදා කර ගැනීම.",
+        "core_truth_of_sutta": "සතිපට්ඨානය යනු සමාධිය හා ප්‍රඥාව අතර පවතින සජීවී සබඳතාවයයි; එය මානසික ඒකාග්‍රතාවයේ සියුම් වෙනස්වීම් පවා හඳුනාගත හැකි විනිවිද දකින සුළු අවබෝධය ලබා දෙයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ධ්‍යාන හා සමාධි අවයවයන්ගේ උදය-වැය සහ පිරිසිදු වීම දැකීම.",
+            "how_it_aids_liberation": "සමාධිය තුළ පවා පවතින සංඛත (Conditioned) ස්වභාවය අවබෝධ කර ගැනීමෙන් බැඳීම් ප්‍රහීණ කර විමුක්තිය කරා යොමු කරයි.",
+            "practical_renunciation": "මානසික සුවයන් (ධ්‍යාන ආස්වාදයන්) කෙරෙහි පවා පවතින තෘෂ්ණාව අතහැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමෝක්ෂය (Liberation)",
+                "සමාධිය (Concentration)",
+                "සමාපත්තිය (Attainment)"
+            ],
+            "cognitive_impact": "සිතේ අවධානය (Attention control) ඉහළ මට්ටමකට පත් කරමින්, මානසික දත්ත වර්ගීකරණය කිරීමේ හැකියාව (Cognitive granularity) වර්ධනය කරයි.",
+            "modern_psychology_parallel": "Mindfulness-Based Cognitive Therapy (MBCT) හි එන සිතුවිලි සහ හැඟීම් වෙන් කොට හඳුනාගැනීමේ (Decentering) ක්‍රියාවලියට මෙය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN) suppression"
+            ],
+            "neuroplasticity_and_habit": "සතිපට්ඨානය පුහුණුව මගින් අවධානය පවත්වා ගැනීම සඳහා මොළයේ ව්‍යුහාත්මක සම්බන්ධතා (Structural connectivity) ශක්තිමත් කර, විසිරෙන ස්වභාවය (Mind-wandering) පාලනය කරයි.",
+            "stress_reduction_mechanism": "Amygdala හි ක්‍රියාකාරිත්වය අවම කර පූර්ව ලලාට බාහිකය (PFC) මගින් හැඟීම් පාලනය කිරීම (Top-down regulation) මගින් මානසික සමතුලිතතාවය ඇති කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සති (Mindfulness)",
+            "සම්පජඤ්ඤ (Clear Comprehension)",
+            "විවෙක (Detachment)",
+            "ඒකග්ගතා (One-pointedness)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "විසිරුණු මනසෙහි සිට ස්ථාවර ඒකාග්‍රතාවය දක්වා",
+            "mood_keywords": [
+                "ශාන්ත",
+                "ප්‍රභාස්වර",
+                "නිරවුල්",
+                "විනයගත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Metacognitive Awareness",
+                "parallel_description": "තම සිතුවිලි සහ මානසික ක්‍රියාවලීන් පිළිබඳව පිටත සිට නිරීක්ෂණය කරන්නෙකු ලෙස (Observer perspective) මනාව අවබෝධ කර ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සතර සතිපට්ඨානය සහ සමාධිය අතර සහසම්බන්ධය",
+                "related_teachings": [
+                    "මහා සතිපට්ඨාන සූත්‍රය",
+                    "ආනාපානසති සූත්‍රය"
+                ],
+                "connection_type": "Functional dependency (සතිපට්ඨානය මත සමාධිය පදනම් වීම)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ කරන ඕනෑම කාර්යයකදී හෝ භාවනාවකදී, එහි සිදුවන සියුම් වෙනස්කම් ගැන අවධානයෙන් සිටීමෙන් මානසික විනය සහ පැහැදිලි බව උදා කරගත හැක.",
+        "daily_practice_steps": [
+            "එදිනෙදා වැඩ කටයුතු වලදී සිරුරේ ඉරියව් පිළිබඳව සිහිය පවත්වන්න (කායානුපස්සනා).",
+            "සිතේ ඇතිවන විවිධ සිතුවිලි සහ හැඟීම් මතු වී නිරුද්ධ වන ආකාරය දෙස උපේක්ෂාවෙන් බලා සිටින්න.",
+            "භාවනාවේදී සිත සමාධිමත් වන විට දැනෙන සියුම් සුවය හෝ ඒකාග්‍රතාවය පිළිබඳව විමසිලිමත් වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඉමේසඤ්ච පනා’හං ආවුසෝ, චතුන්නං සතිපට්ඨානානං භාවිතත්තා බහුලීකතත්තා ඣානවිමොක්ඛසමාධිසමාපත්තීනං සංකිලේසං වෝදානං වුට්ඨානං යථාභූතං පජානාමීති.",
+            "sinhala": "“ඇවැත්නි, මම මේ සතර සතිපට්ඨානයන් දියුණු කළ බැවින්, බහුල ව ප්‍රගුණ කළ බැවින් ධ්‍යාන, විමෝක්ෂ, සමාධි, සමාපත්තීන්ගේ කිළුටු වීම්, පිරිසිදු වීම්, නැගී සිටීම් ආදිය ගැන ඒ වූ සැටියෙන් ම දනිමි.”"
+        }
+    ]
+}

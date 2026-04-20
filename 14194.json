@@ -1,0 +1,95 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "උසභත්ථේරගාථා",
+    "sutta_title": "උසභ තෙරුන්ගේ ගාථා",
+    "id": "14194",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අවබෝධය සහ විමුක්තිය (Insight and Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "උසභ තෙරුන් තමා දුටු සිහිනයක් බඳු අත්දැකීමකදී ඇතිවූ අහංකාරය සහ ඉන්පසු ඇතිවූ කලකිරීම පාදක කරගනිමින් ආසවයන්ගෙන් මිදී අරහත්වය ලැබූ ආකාරය මෙහි දැක්වේ.",
+        "long_summary": "මෙම ගාථාවන් මගින් උසභ තෙරුන්ගේ අද්විතීය අත්දැකීමක් විස්තර වේ. එහිදී උන්වහන්සේ අඹ දළු පැහැති සිවුරක් හැඳ, ඇතෙකු පිට නැගී පිණ්ඩපාතයට වඩිනා සිහිනයක් බඳු මානසික තත්ත්වයක් අත්විඳිති. එහිදී මහජනයා මැද ඇතාගෙන් බැසීමට සිදුවීමෙන් ඇතිවූ ලැජ්ජාව සහ තමා තුළ තිබූ අහංකාරය (Māna) පිළිබඳව දැඩි කලකිරීමක් ඇති කරගනිති. මෙම සංවේගය ඔස්සේ උන්වහන්සේ ආසවයන් ක්ෂය කරන ඥානය (Asavakkhaya Gnana) ලබා අරහත්වය සාක්ෂාත් කළ බව මෙහි සාරාංශයයි.",
+        "main_discovery": "අහංකාරය (Māna) සහ මායාවී සිතුවිලි බිඳවැටීම හරහා ඇතිවන චිත්තවේගීය කම්පනය (Samvega), සත්‍යාවබෝධය සඳහා උත්ප්‍රේරකයක් කරගැනීම.",
+        "core_truth_of_sutta": "තමා පිළිබඳව ඇති කරගන්නා මෝහය සහ අහංකාරය (Delusion and Pride) දුරු කිරීමෙන් පමණක් සදාකාලික විමුක්තිය සහ ආසවයන්ගෙන් මිදීම සිදුවේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආසවක්ඛය ඥානය (Knowledge of the destruction of cankers).",
+            "how_it_aids_liberation": "සිතේ ඇතිවන මානය සහ අහංකාරය තෘෂ්ණාවේ බැඳීමක් ලෙස හඳුනාගෙන එය අත්හැරීම (Viraga) හරහා නිවනට මග පාදයි.",
+            "practical_renunciation": "තමාට හිමිවිය යුතු ගෞරවය හෝ සමාජ තත්ත්වය (Social Status) පිළිබඳ බැඳීම සහ ස්වයං-ප්‍රතිරූපය (Self-image) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අහංකාරය (Pride/Narcissism)",
+                "ලැජ්ජාව (Shame)",
+                "කලකිරීම (Disenchantment)",
+                "අවබෝධය (Insight)"
+            ],
+            "cognitive_impact": "තමා පිළිබඳ තිබූ වැරදි වැටහීම් (Cognitive Bias) නිවැරදි කරමින් වඩාත් යථාර්ථවාදී ලෝක දෘෂ්ටියක් කරා සිත යොමු කිරීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Self as Context' සංකල්පය - එනම් සිතුවිලි සහ භූමිකාවන් යනු තමා නොවන බව වටහා ගැනීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Salience Network",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "තමා පිළිබඳ ස්වයං-කේන්ද්‍රීය සිතුවිලි ජනනය කරන DMN පද්ධතියේ ක්‍රියාකාරිත්වය අඩුවීමෙන්, පැරණි අහංකාර සහගත පුරුදු (Mental Habits) බිඳී නව සවිඥානික රටාවන් ගොඩනැගීම.",
+            "stress_reduction_mechanism": "ලැජ්ජාව නිසා උත්තේජනය වූ Amygdala පද්ධතිය, පසුව ඇතිවූ ප්‍රඥාන්විත අවබෝධය (Executive Function) මගින් පාලනය වී Cortisol මට්ටම අඩු කරමින් චිත්තවේගීය සමතුලිතතාවය ලබා ගැනීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Dissonance",
+            "Self-Monitoring",
+            "Mindfulness of Mental States",
+            "Disenchantment (Nibbida)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Samvega)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අභිමානය සහ මායාවී අත්දැකීමක සිට දැඩි කලකිරීම හරහා පරම ශාන්තිය දක්වා (Delusion to Disillusionment to Peace)",
+            "mood_keywords": [
+                "කලකිරීම",
+                "ප්‍රඥාව",
+                "නිහතමානී බව",
+                "නිදහස"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Ego Dissolution",
+                "parallel_description": "තමා පිළිබඳව තිබූ අධික මානය (Inflation of Ego) බිඳ වැටීම හරහා වඩාත් නිවැරදි යථාර්ථයක් දැකීමට සිත යොමුවීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "මානය ප්‍රහාණය (Elimination of Pride)",
+                "related_teachings": [
+                    "මඟමාන සූත්‍රය",
+                    "අනුසය සූත්‍ර"
+                ],
+                "connection_type": "ධර්ම කරුණු අතර සබඳතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "අපගේ ස්වයං-ප්‍රතිරූපයට හෝ අහංකාරයට හානි වන අවස්ථාවන් කලකිරීමට නොව, අපගේ සැබෑ ස්වභාවය අවබෝධ කරගැනීමට අවස්ථාවක් කරගන්න.",
+        "daily_practice_steps": [
+            "තමා ගැන අහංකාරයක් හෝ ආඩම්බරයක් දැනෙන විට එය මොහොතක් නිරීක්ෂණය කරන්න.",
+            "සමාජය ඉදිරියේ ඇතිවන ලැජ්ජාව හෝ අවමනය සිතේ ස්වභාවය තේරුම් ගැනීමට උපකරණයක් කරගන්න.",
+            "බාහිර පෙනුම හෝ තත්ත්වයන් (Status) තාවකාලික බව නිතර මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අම්බපල්ලව සංකාසං අංසේ කත්වාන චීවරං\nනිසින්නෝ හත්ථි ගීවාය ගාමං පිණ්ඩාය පාවිසිං",
+            "sinhala": "මං දැක්කෙ අමුතුම හීනයක්. මං කරේ දාගෙන හිටියෙ අඹ දළු පාට සිවුරක්. ඇතෙකු පිටේ වාඩිවෙලයි ගමට පිණ්ඩපාතෙ ගියේ."
+        },
+        {
+            "pali": "හත්ථික්ඛන්ධතෝ ඕරුය්හ සංවේගං අලභිං තදා\nසෝහං දිත්තෝ තදා සන්තෝ පත්තෝ මේ ආසවක්ඛයෝ’ති",
+            "sinhala": "මහා ජනකාය ඉදිරියේ ලැජ්ජාවට පත්වෙලා ඇතාගේ පිටෙන් බිමට බහින කොටම මට ඇහැරුණා. ඒ වෙලාවෙ මට මං ගැන ම විශාල කලකිරීමක් ඇති වුණා. මං එතකොට අහංකාරකමින් මත් වෙලා හිටියේ. එහෙත් දැන් මා ආසවක්ඛය ඤාණය නම් වූ අරහත්වයට පත් වූ කෙනෙක්."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා උසභෝ ථේරෝ ගාථායෝ අභාසිත්ථා‘ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් උසභ නම් රහත් මුනිඳුන් වදාළ ගාථාවන්ය."
+        }
+    ]
+}

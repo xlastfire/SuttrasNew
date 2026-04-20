@@ -1,0 +1,99 @@
+{
+    "nikaya": "නවක නිපාතෝ",
+    "vagga": "සඤ්ඤා සුත්තං",
+    "sutta_title": "සංඥාව ගැන වදාළ දෙසුම",
+    "id": "11264",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංඥා භාවනා (Perception Training)",
+        "complexity_rating": 8,
+        "analysis_confidence": 100,
+        "short_summary": "සංඥා නවයක් (අසුභ, මරණ, අනිත්‍ය ආදිය) ප්‍රගුණ කිරීමෙන් මහානිශංස සහ අමෘතය නම් වූ නිවන සාක්ෂාත් කරගත හැකි බව මෙම සූත්‍රය උගන්වයි.",
+        "long_summary": "සැවැත් නුවරදී දේශනා කරන ලද මෙම සූත්‍රය මගින් පුද්ගලයෙකුගේ මානසික සංකල්ප හෙවත් සංඥා නවයක් දියුණු කිරීමේ වැදගත්කම පෙන්වා දෙයි. අසුභ සංඥාව, මරණ සංඥාව, ආහාරයෙහි පිළිකුල් සංඥාව, ලෝකයෙහි නොඇලෙන සංඥාව, අනිත්‍ය සංඥාව, අනිත්‍යයෙහි දුක්ඛ සංඥාව, දුකෙහි අනාත්ම සංඥාව, පහාණ (අත්හැරීමේ) සංඥාව සහ විරාග සංඥාව යන මේවා නිරන්තරයෙන් පුහුණු කිරීමෙන් භික්ෂුවකට හෝ ශ්‍රාවකයෙකුට මහත්ඵල ලැබිය හැකිය. මෙම පුහුණුව අවසානයේ අමෘතය නම් වූ අමා නිවනින් කෙළවර වන බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "මානසික සංකල්ප (Perceptions) නවයක් ක්‍රමානුකූලව වෙනස් කිරීම මගින් අනිත්‍යය අවබෝධ කරගෙන විමුක්තිය ලබා ගත හැකි බව.",
+        "core_truth_of_sutta": "වැරදි සංඥා (Perceptions) නිවැරදි සංඥා මගින් ප්‍රතිස්ථාපනය කිරීම විමුක්තියේ මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සප්ත බොජ්ඣංග හා බැඳුණු සංඥා මගින් විපල්ලාස (Distortions) ඉවත් කිරීම.",
+            "how_it_aids_liberation": "සෑම සංස්කාරයක්ම අනිත්‍ය, දුක්ඛ, අනාත්ම ලෙස දැකීමෙන් තණ්හාව සහ උපාදානය ක්ෂය වී නිවන උදා වේ.",
+            "practical_renunciation": "ලෝකයෙහි නොඇලෙන සංඥාව (Non-delight in the world) මගින් බාහිර අරමුණු කෙරෙහි ඇති බැඳීම ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සතිමත්බව (Mindfulness)",
+                "විරාගය (Dispassion)",
+                "අනිත්‍ය අවබෝධය (Realization of Impermanence)"
+            ],
+            "cognitive_impact": "සංඥා වෙනස් කිරීම මගින් පුද්ගලයාගේ සංජානන දෝෂ (Cognitive Distortions) ඉවත් වී යථාර්ථවාදී දැක්මක් ඇති වේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන Cognitive Defusion සහ යථාර්ථය පිළිගැනීමේ ක්‍රමවේදයන්ට මෙය බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Prefrontal Cortex (PFC) activation",
+                "Amygdala downregulation"
+            ],
+            "neuroplasticity_and_habit": "භාවනාව මගින් මොළයේ Gray matter ඝනත්වය වෙනස් වන අතර (Structural Neuroplasticity), පවතින සාවද්‍ය මානසික රටාවන් (Mental Schemas) වෙනස් කර නව අවබෝධයන් ස්ථාපිත කරයි.",
+            "stress_reduction_mechanism": "මරණ සංඥාව වැනි දේ මගින් පැවැත්මේ අස්ථිර බව වටහා ගන්නා විට, ලෞකික බිය සම්බන්ධ Amygdala ප්‍රතිචාර අඩු වී Cortisol මට්ටම සමතුලිත වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing",
+            "Perceptual Restructuring",
+            "Metacognitive Awareness",
+            "Attentional Bias Modification"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 9,
+            "emotional_arc": "ඇලීමෙන් (Attachment) මිදී නිසලතාවයට (Tranquility) පත්වීම.",
+            "mood_keywords": [
+                "නිසල",
+                "ප්‍රඥාවන්ත",
+                "විවේකී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Reappraisal",
+                "parallel_description": "අත්දැකීම් දෙස බලන ආකාරය වෙනස් කිරීම මගින් එමගින් ඇතිවන චිත්තවේගීය බලපෑම පාලනය කිරීමේ හැකියාව මෙහි සංඥා වෙනස් කිරීමේ ක්‍රියාවලියට සමාන වේ.",
+                "confidence_score": 95
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Experience-Dependent Neuroplasticity",
+                "parallel_description": "සංඥා නැවත නැවත මෙනෙහි කිරීම (භාවනාව) මගින් මොළයේ ස්නායුක සම්බන්ධතා ප්‍රතිසංවිධානය වී පැරණි පුරුදු දුර්වල වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනිත්‍ය සංඥාව (Perception of Impermanence)",
+                "related_teachings": [
+                    "ගිරිමානන්ද සූත්‍රය",
+                    "සංඥා සූත්‍ර"
+                ],
+                "connection_type": "ධර්ම කරුණු අතිපිහිත වීම (Conceptual Overlap)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකයේ සහ තමාගේ අස්ථිර බව (අනිත්‍යය) නිරන්තරයෙන් මෙනෙහි කිරීමෙන් මානසික පීඩනය අඩු කරගෙන සැනසීම උදාකර ගත හැකිය.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම තමාගේ ශරීරයේ සහ ලෝකයේ අනිත්‍ය බව විනාඩි 5ක් මෙනෙහි කරන්න.",
+            "ආහාර ගන්නා විට එය ශරීරයේ පැවැත්මට පමණක් බවත්, එහි ඇති පිළිකුල් සහගත බවත් මෙනෙහි කර ආශාව පාලනය කරන්න.",
+            "ඕනෑම ප්‍රිය හෝ අප්‍රිය අරමුණකදී එය වෙනස් වන සුළු බව (අනිත්‍ය සංඥාව) සිහිපත් කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "නව ඉමා භික්ඛවේ, සඤ්ඤා භාවිතා බහුලීකතා මහප්ඵලා හොන්ති මහානිංසා අමතෝගධා අමතපරියෝසානා. කතමා නව?",
+            "sinhala": "මහණෙනි, මේ සංඥා නවයකි. මේවා භාවිතා කිරීමෙන්, බහුල ව ප්‍රගුණ කිරීමෙන් මහත්ඵල ද, මහානිශංස ද ලැබේ. අමෘතයෙහි බැසගෙන ඇත්තේ ය. අමෘතයෙන් කෙළවර වන්නේ ය. ඒ කවර නවයක් ද යත්;"
+        },
+        {
+            "pali": "අසුභසඤ්ඤා, මරණසඤ්ඤා, ආහාරේ පටික්කූලසඤ්ඤා, සබ්බලෝකේ අනභිරතසඤ්ඤා, අනිච්චසඤ්ඤා, අනිච්චේ දුක්ඛසඤ්ඤා, දුක්ඛේ අනත්තසඤ්ඤා, පහානසඤ්ඤා, විරාග සඤ්ඤා. ඉමා ඛෝ භික්ඛවේ, නව සඤ්ඤා භාවිතා බහුලීකතා මහප්ඵලා හොන්ති මහානිසංසා අමතෝගධා අමතපරියෝසානාති.",
+            "sinhala": "අසුභ සංඥාව ය, මරණ සංඥාව ය, ආහාරයෙහි පිළිකුල් සංඥාව ය, සියළු ලෝකයෙහි නොඇලෙන සංඥාව ය, අනිත්‍ය සංඥාව ය, අනිත්‍යයෙහි දුක්ඛ සංඥාව ය, දුකෙහි අනාත්ම සංඥාව ය, පහාණ සංඥාව ය, විරාග සංඥාව ය."
+        }
+    ]
+}

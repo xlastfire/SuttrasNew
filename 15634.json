@@ -1,0 +1,93 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "ජාතරූප සූත්‍රය",
+    "id": "15634",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සීල සහ විමුක්ති මාර්ගය",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "භෞතික ධනය (රන් රිදී) කෙරෙහි ඇති ඇලීම අත්හරින පිරිස ඉතා අල්ප බවත්, දුක් නිරෝධය සඳහා එම අත්හැරීම සහ දැඩි උත්සාහය අත්‍යවශ්‍ය බවත් මෙහි දැක්වේ.",
+        "long_summary": "ජාතරූප සූත්‍රය මගින් පෙන්වා දෙන්නේ රන්, රිදී වැනි භෞතික සම්පත් හා මුදල් පරිහරණයෙන් සහ ඒවාට ඇති ගිජුකමෙන් වැළකී සිටින්නේ ඉතා සුළු පිරිසක් බවයි. බහුතරයක් සත්වයන් මෙම භෞතික බැඳීම්වලින් මිදීමට අසමත් වන අතර, දුක් නිරෝධය කරා යන සැබෑ මාර්ගය විවෘත වන්නේ මෙම භෞතික බැඳීම් කෙරෙහි ඇති තෘෂ්ණාව පාලනය කිරීමෙනි. ඒ සඳහා සවිඥානිකව මහත් ශ්‍රමයක් සහ වීර්යයක් දැරිය යුතු බව බුදුදහම මෙහිදී අවධාරණය කරයි.",
+        "main_discovery": "භෞතික සම්පත් කෙරෙහි ඇති තෘෂ්ණාව අත්හැරීම දුක් නිරෝධය සඳහා වූ මාර්ගයේ මූලික සහ අසීරු පියවරක් බව.",
+        "core_truth_of_sutta": "භෞතික සම්පත් කෙරෙහි ඇති බැඳීම දුක් නිරෝධයට බාධාවක් වන අතර, එයින් මිදීමට සවිඥානික වීර්යය අත්‍යවශ්‍ය වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අල්පේච්ඡතාව සහ තෘෂ්ණාව ක්ෂය කිරීම (Elimination of Craving).",
+            "how_it_aids_liberation": "භෞතික වස්තූන් කෙරෙහි ඇති 'මම' සහ 'මගේ' යන මමත්වය (Identity View) ලිහිල් කිරීම මගින් උපාදානය දුරු කිරීමට මග පාදයි.",
+            "practical_renunciation": "භෞතික ධනය කෙරෙහි පවතින මානසික ඇලීම (Attachment) අවබෝධයෙන් යුතුව ප්‍රහීණය කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ලෝභය (Greed)",
+                "වීර්යය (Effort)",
+                "අවබෝධය (Insight)"
+            ],
+            "cognitive_impact": "ධනය යනු සැපතේ මූලාශ්‍රය යන සංජානන දෝෂය (Cognitive Distortion) නිවැරදි කරමින්, සැබෑ සතුට අභ්‍යන්තර විමුක්තිය තුළ පවතින බව වටහා දෙයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන බැඳීම්වලින් වෙන්වීම (Defusion) සහ වටිනාකම් මත පදනම් වූ ජීවිතයකට යොමු වීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Mesolimbic Reward Pathway (Dopamine)",
+                "Prefrontal Cortex (Executive Control)",
+                "Default Mode Network (Self-referential processing)"
+            ],
+            "neuroplasticity_and_habit": "ධනය පසුපස හඹායෑමේ ස්වයංක්‍රීය පුරුද්ද (Habitual reward seeking) පාලනය කිරීමේදී Prefrontal Cortex ශක්තිමත් වී නව ස්නායුක පථ (Neural pathways) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "අත්හැරීම පුහුණු කිරීමේදී Amygdala හි ක්‍රියාකාරීත්වය අඩු වීමෙන් භෞතික සම්පත් අහිමි වේ යැයි පවතින පැවැත්මේ බිය (Survival anxiety) සමනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Bias (Value attribution to money)",
+            "Dopaminergic reward processing",
+            "Selective Attention toward spiritual goals",
+            "Self-regulation of impulses"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 7,
+            "emotional_arc": "තෘෂ්ණාවෙන් බැඳී සිටීමේ අන්තරාය පෙන්වා දීමෙන් මුදා ගැනීම දක්වා.",
+            "mood_keywords": [
+                "Detachment",
+                "Serenity",
+                "Discipline",
+                "Urgency"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Incentive Salience Theory",
+                "parallel_description": "මුදල් සහ වස්තුව කෙරෙහි මොළයේ ඇති වන දැඩි ආකර්ෂණය සහ එය පාලනය කිරීමේ අපහසුතාව සූත්‍රයේ 'අල්ප සත්ව ප්‍රමාණය' යන විස්තරයට අනුරූප වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Reward System Modulation",
+                "parallel_description": "ධනය කෙරෙහි ඇති උත්තේජනය (Reward stimulation) ස්වයං පාලනයකින් යටපත් කිරීම තුළින් ප්‍රීතිමත් මනසක් ඇති කර ගැනීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "දුක් නිරෝධය (Cessation of Suffering)",
+                "related_teachings": [
+                    "අරියවංස සූත්‍රය",
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය"
+                ],
+                "connection_type": "මාර්ගානුගත සබඳතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "භෞතික වස්තූන් මතම සතුට තීරණය නොකර, සැබෑ මානසික නිදහස සඳහා තෘෂ්ණාව පාලනය කිරීමට දිනපතා උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "තමන් සතු භෞතික වස්තූන් කෙරෙහි ඇති බැඳීම දිනකට සුළු වේලාවක් මෙනෙහි කරන්න.",
+            "අත්‍යවශ්‍ය නොවන පරිභෝජනයන් අවම කරමින් අල්පේච්ඡතාව පුහුණු කරන්න.",
+            "භෞතික ලාභාපේක්ෂාවෙන් තොරව අත්හැරීමේ (දානය) චේතනාව වර්ධනය කරන්න.",
+            "ධනය කෙරෙහි සිත ඇදී යන මොහොතේදී එය හුදෙක් උපාදානයක් බව සතිමත්ව හඳුනා ගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ ජාතරූපරජතපටිග්ගහණා පටිවිරතා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ ජාතරූපරජතපටිග්ගහණා අප්පටිවිරතා ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ රන් රිදී මිල පිළිගැනීමෙන් වැළකී සිටිත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ රන් රිදී මිල පිළිගැනීමෙන් නොවැළකී සිටිත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "ජරා මරණාදී සූත්‍ර",
+    "sutta_title": "-  විරිය වර්ගය",
+    "id": "2375",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Viriya (Effort) and Satipatthana",
+        "complexity_rating": 7,
+        "analysis_confidence": 100,
+        "short_summary": "ජරා මරණ නිරුද්ධ කරන ප්‍රතිපදාව සහ චතුරාර්ය සත්‍යය යථා පරිදි තේරුම් ගැනීමට නම් සතර සතිපට්ඨානය වැඩීමට දැඩි වීර්යයක් (Viriya) ගත යුතුය.",
+        "long_summary": "මෙම සූත්‍රය මගින් ජරා මරණය පිළිබඳව සහ එය නිරුද්ධ කරන මාර්ගය පිළිබඳව නිවැරදි අවබෝධයක් (Yathabhuta Gnanaya) නොමැති පුද්ගලයා විසින් කළ යුතු කාර්යය පෙන්වා දෙයි. ඒ සඳහා සතර සතිපට්ඨානය වැඩීම අත්‍යවශ්‍ය වන අතර, එමගින් චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීමට මග පෑදේ. ජරා මරණයෙන් මිදීමට පවතින ප්‍රතිපදාව ප්‍රායෝගිකව අත්දැකීමට නම් වීර්යය මුල් කරගත් සතිපට්ඨාන භාවනාවම අනුගමනය කළ යුතු බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "ජරා මරණ ක්ෂය කිරීම සහ චතුරාර්ය සත්‍යය අවබෝධය සඳහා සතර සතිපට්ඨානය පදනම් කරගත් දැඩි වීර්යයක අවශ්‍යතාවය.",
+        "core_truth_of_sutta": "දුක (ජරා මරණ) සහ එය නිරුද්ධ කරන මග (චතුරාර්ය සත්‍යය) අවබෝධ කර ගැනීමේ එකම ප්‍රායෝගික ක්‍රමය සතිපට්ඨානය වැඩීම සඳහා යොදන වීර්යයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සතර සතිපට්ඨානය (Four Foundations of Mindfulness) සහ චතුරාර්ය සත්‍යය (Four Noble Truths).",
+            "how_it_aids_liberation": "ජරා මරණ කෙරෙහි ඇති නොදැනුවත්කම ඉවත් කර යථාභූත ඥානය ලබා දීමෙන් සංසාර බැඳීම් ලිහිල් කරයි.",
+            "practical_renunciation": "ජරා මරණ නිරුද්ධ වීමේ ප්‍රතිපදාව අවබෝධ කර ගැනීමෙන් පංච උපාදානස්කන්ධය කෙරෙහි ඇති ඇලීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Ignorance (Avijja)",
+                "Effort (Viriya)",
+                "Mindfulness (Sati)"
+            ],
+            "cognitive_impact": "යථාභූත ඥානය මගින් යථාර්ථය විකෘති කර දකින මානසික රටා (Cognitive biases) නිවැරදි කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන වර්තමාන මොහොතට අවධානය යොමු කිරීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - reduction in self-referential thinking",
+                "Prefrontal Cortex (PFC) - enhanced executive control during Viriya",
+                "Anterior Cingulate Cortex (ACC) - attention regulation"
+            ],
+            "neuroplasticity_and_habit": "සතිපට්ඨානය නිරන්තරයෙන් වැඩීමෙන් 'අනිත්‍ය' සහ 'දුක්ඛ' වැනි සංකල්ප ස්නායුක මට්ටමින් ස්ථාවර වී (Long-term Potentiation), පැරණි අවිද්‍යා සහගත පුරුදු වෙනස් වේ.",
+            "stress_reduction_mechanism": "ජරා මරණය පිළිබඳ යථාර්ථවාදී අවබෝධය Amygdala හි ක්‍රියාකාරිත්වය අඩු කරමින් මරණ බිය (Thanatophobia) සහ ආතතිය පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Mindfulness-Based Stress Reduction",
+            "Reality Testing (Yathabhuta Gnanaya)",
+            "Attentional Control"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Urgency (Samvega)",
+            "emotional_intensity": 9,
+            "emotional_arc": "Ignorance to Enlightenment",
+            "mood_keywords": [
+                "Determined",
+                "Focused",
+                "Transformative"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "යථාභූත ඥානය ලබා ගැනීම යනු මෝහය හෝ වැරදි සංජානනයන් (Cognitive Distortions) ඉවත් කර සත්‍යය අවබෝධ කර ගැනීමයි.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Neuroplasticity",
+                "parallel_description": "නිරන්තර සතිපට්ඨාන අභ්‍යාසය (Repetitive Training) හරහා මොළයේ ස්නායුක සම්බන්ධතා නව මාවත් ඔස්සේ හැඩගැසීම.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Four Noble Truths",
+                "related_teachings": [
+                    "Dhammacakkappavattana Sutta",
+                    "Satipatthana Sutta"
+                ],
+                "connection_type": "Direct Application"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ දිරායාම සහ මරණය දෙස බියෙන් තොරව බැලීමට නම්, එදිනෙදා වැඩ කටයුතු අතරතුර සතිමත් බව සහ වීර්යය පුහුණු කළ යුතුය.",
+        "daily_practice_steps": [
+            "තමාගේ කය, වේදනා, සිත සහ ධර්මයන් පිළිබඳව අවධානයෙන් සිටීමට වීර්යය කිරීම.",
+            "ජරා මරණ යනු ස්වාභාවික ධර්මතාවයක් බව සිහිපත් කරමින් චතුරාර්ය සත්‍යයට සිත යොමු කිරීම.",
+            "කුසල ධර්මයන් වැඩීමට සහ අකුසලයන් ප්‍රහීණ කිරීමට නිරන්තර උත්සාහය (Viriya) පවත්වා ගැනීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "159 - 169. ජරාමරණං භික්ඛවේ අජානතා අපස්‌සතා යථාභූතං ජරාමරණේ යථාභූතං ඤාණාය විරියං කරණීයන්ති.",
+            "sinhala": "159-169. පින්වත් මහණෙනි, ජරා මරණ ගැන ඒ ආකාරයෙන්ම නොදන්නා, නොදක්නා තැනැත්තා විසින් ඒ ජරා මරණ පිළිබඳව යථාභූත ඤාණය ලබා ගැනීම පිණිසයි සතර සතිපට්ඨානය වැඩීමට වීරිය ගත යුත්තේ .....(පෙ).... ජරා මරණ නිරුද්ධ වීම පිණිස පවතින ප්‍රතිපදාව ගැන ඒ ආකාරයෙන්ම නොදන්නා, නොදක්නා තැනැත්තා විසින් ඒ ජරා මරණ නිරුද්ධ වීම පිණිස පවතින ප්‍රතිපදාව පිළිබඳව යථාභූත ඤාණය ලබාගැනීම පිණිසයි සතර සතිපට්ඨානාදී භාවනා වැඩීමට වීරියක් ගත යුත්තේ.(සියල්ලම චතුරාර්ය සත්‍යයට ගලපා තේරුම් ගත යුතුය.)"
+        }
+    ]
+}

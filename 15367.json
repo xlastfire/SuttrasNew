@@ -1,0 +1,87 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "විමල කොණ්ඩඤ්ඤ තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15367",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ප්‍රඥාව සහ මානය දුරු කිරීම (Wisdom and Eradication of Conceit)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "විමල කොණ්ඩඤ්ඤ රහතන් වහන්සේ ප්‍රඥාව නමැති ධජය ඔසවා, මානය සහ මාරයාගේ බලපෑම පරාජය කළ අයුරු මෙහි විස්තර වේ.",
+        "long_summary": "අම්බපාලියගේ පුත් විමල කොණ්ඩඤ්ඤ තෙරුන් වහන්සේ තමන් සතු වූ උසස් ප්‍රඥාව මෙහෙයවා මානය (Conceit) නමැති කොඩිය බිම හෙළූ ආකාරයත්, ඒ ඔස්සේ මාරයාගේ මහා කොඩිය හෙවත් කෙලෙස් බලවේගයන් පරාජය කළ ආකාරයත් මෙම ගාථාවෙන් ප්‍රකාශ වේ.",
+        "main_discovery": "ප්‍රඥාව වර්ධනය කිරීම (Cultivation of Wisdom) තුළින් පුද්ගල මානය (Conceit) සහ මාරයාගේ බලපෑම සහමුලින්ම පරාජය කළ හැකි බව.",
+        "core_truth_of_sutta": "සැබෑ විමුක්තිය උදා වන්නේ ප්‍රඥාව මතු කර ගැනීමෙන් සහ 'මම' යන මානය සහමුලින්ම අත්හැර දැමීමෙනි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ප්‍රඥාව (Panna) මගින් මානය (Mana) සහ අවිද්‍යාව දුරු කිරීම.",
+            "how_it_aids_liberation": "සක්කාය දිට්ඨිය හා බැඳුණු මානය බිඳ දැමීමෙන් සංසාර බැඳීම් ලිහිල් වී නිර්වාණයට මග පෑදේ.",
+            "practical_renunciation": "තමාගේ තරාතිරම හෝ තත්ත්වය පිළිබඳ ඇති උඩඟු බව (මානය) දැනුවත්ව අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ප්‍රඥාව (Wisdom)",
+                "මානය (Conceit/Ego)",
+                "ජයග්‍රහණය (Self-mastery)"
+            ],
+            "cognitive_impact": "තමා පිළිබඳව ඇති ස්ථාවර ප්‍රතිරූපය (Fixed Identity) බිඳ දමා නම්යශීලී සහ යථාර්ථවාදී මනසක් ගොඩනැගීම.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) තුළ මමත්වය පිළිබඳ ඇති වැරදි සහගත වැටහීම් නිවැරදි කිරීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "මානය අත්හැරීම මගින් ස්වයං-කේන්ද්‍රීය චින්තනයට වගකියන DMN හි ක්‍රියාකාරීත්වය අඩු වී අලුත් ස්නායුක සම්බන්ධතා (Neuroplasticity) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "අහංකාරය (Ego-threat) නිසා ඇතිවන Amygdala ප්‍රතිචාර (ආතතිය සහ බිය) පාලනය වී ප්‍රීතිමත් මානසික තත්ත්වයක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Self-identity devaluation",
+            "Cognitive restructuring",
+            "Mindfulness of conceit"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Serenity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "මානය නමැති උඩඟු බවින් පටන් ගෙන ප්‍රඥාව නමැති විමුක්තියෙන් අවසන් වේ.",
+            "mood_keywords": [
+                "අකම්පිත",
+                "ජයග්‍රාහී",
+                "නිරවුල්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Reframing / Ego-dissolution",
+                "parallel_description": "පුද්ගලයාගේ මානය (Ego/Conceit) බිම හෙළීම යනු තමා පිළිබඳ ඇති අතිශයෝක්ති ප්‍රතිරූපයන් ඉවත් කර යථාර්ථවාදී දැක්මක් ලබා ගැනීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "මානය දුරු කිරීම (Abandoning Conceit)",
+                "related_teachings": [
+                    "මධුපිණ්ඩික සූත්‍රය",
+                    "අනුසය සූත්‍ර"
+                ],
+                "connection_type": "ධර්ම කරුණුවල සමානත්වය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ දියුණුවත් සමග ඇතිවන මානය ප්‍රඥාවෙන් හඳුනාගෙන එය පාලනය කිරීම මානසික නිදහසට මගයි.",
+        "daily_practice_steps": [
+            "තමා අන් අයට වඩා උසස්, පහත් හෝ සමාන යයි සිතෙන අවස්ථා (මානය) පිළිබඳ අවධානයෙන් සිටින්න.",
+            "සියලු තත්ත්වයන් අනිත්‍ය බව මෙනෙහි කරමින් නිහතමානී බව පුහුණු කරන්න.",
+            "බාහිර ජයග්‍රහණවලට වඩා අභ්‍යන්තර ප්‍රඥාව වර්ධනයට ප්‍රමුඛත්වය දෙන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "දුමව්හයාය උප්පන්නෝ ජාතෝ පණ්ඩරකේතුනා\nකේතුහා කේතුනායේව මහාකේතුං පධංසයීති",
+            "sinhala": "සුදු කොඩි ඇති බිම්බිසාර රජු නිසයි අම්බපාලියගේ කුසින් ඔහු ඉපදුණේ. ඔහුට පුළුවන් වුණා ප්‍රඥාව නැමැති කොඩිය ඔසවා මානය නැමැති කොඩිය බිම හෙලන්ට. මාරයා සතුව තිබුණ මහා කොඩිය ද ඔහු බිම දැම්මා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා විමලෝ කොණ්ඩඤ්ඤෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් විමල කොණ්ඩඤ්ඤ නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

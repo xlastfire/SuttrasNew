@@ -1,0 +1,92 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "බුද්ධි සුත්තං",
+    "sutta_title": "බුද්ධිය ගැන වදාළ දෙසුම",
+    "id": "5974",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Cognitive Development & Spiritual Awakening",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "සප්ත බොජ්ඣංගයන් පුහුණු කිරීම සහ බහුල කිරීම බුද්ධිය පිරිහීම වළක්වා ගැනීමට ඇති එකම මගයි.",
+        "long_summary": "බුද්ධිය පිරිහීම වළක්වා ගැනීමට නම් සප්ත බොජ්ඣංගයන් වන සති (Mindfulness), ධම්මවිචය (Investigation), විරිය (Energy), පීති (Rapture), පස්සද්ධි (Tranquility), සමාධි (Concentration) සහ උපෙක්ඛා (Equanimity) යන අංගයන් ජීවිතය තුළ නිරන්තරයෙන් ප්‍රගුණ කළ යුතු බව මෙම දේශනාව අවධාරණය කරයි.",
+        "main_discovery": "සප්ත බොජ්ඣංග වැඩීම තුළින් බුද්ධිය පිරිහීම (Cognitive Decline) වැළැක්විය හැකි බව.",
+        "core_truth_of_sutta": "බුද්ධිය පිරිහීම වැළැක්වීමේ රහස රඳා පවතින්නේ සප්ත බොජ්ඣංග වැඩීම මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සප්ත බොජ්ඣංග යනු නිවන කරා මෙහෙයවන අවබෝධයේ අංගයන්ය.",
+            "how_it_aids_liberation": "සතිමත්බව සහ උපේක්ෂාව තුළින් තෘෂ්ණාව සහ බැඳීම දුරු කර විමුක්තිය ලබා දෙයි.",
+            "practical_renunciation": "මානසික අවුල් සහගත තත්ත්වයන් (Hindrances) අත්හැර පිරිසිදු අවබෝධයට අවතීර්ණ වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Mindfulness (සති)",
+                "Tranquility (පස්සද්ධි)",
+                "Equanimity (උපේක්ෂාව)"
+            ],
+            "cognitive_impact": "සිතුවිලි ක්‍රියාවලිය වඩාත් පැහැදිලි සහ තර්කානුකූල වීම (Cognitive Clarity).",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) මගින් පුද්ගලයාගේ සිතීමේ රටාව නිවැරදි කිරීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (Executive function)",
+                "Default Mode Network (Decreased rumination)",
+                "Anterior Cingulate Cortex (Attention)"
+            ],
+            "neuroplasticity_and_habit": "බොජ්ඣංග වැඩීමෙන් මොළයේ ස්නායු සම්බන්ධතා ශක්තිමත් වී බුද්ධිමය මට්ටම ස්ථාවර වේ (Synaptic Plasticity).",
+            "stress_reduction_mechanism": "උපේක්ෂාව මගින් Amygdala හි අධි-සංවේදීතාව අඩු කර Cortisol මට්ටම පාලනය කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Control",
+            "Self-Regulation",
+            "Equanimity (Upekkha)",
+            "Analytical Investigation (Dhamma-vicaya)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity",
+            "emotional_intensity": 7,
+            "emotional_arc": "From agitation to peaceful clarity",
+            "mood_keywords": [
+                "Tranquil",
+                "Focused",
+                "Wise",
+                "Stable"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Mindfulness-Based Cognitive Therapy (MBCT)",
+                "parallel_description": "සති (Mindfulness) සහ උපෙක්ඛා (Equanimity) මගින් මානසික පීඩනය පාලනය කර බුද්ධිමය ක්‍රියාකාරිත්වය ස්ථාවර කිරීම.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Cognitive Reserve Theory",
+                "parallel_description": "නිරන්තර මානසික අභ්‍යාස මගින් මොළයේ ක්‍රියාකාරිත්වය ආරක්ෂා කරමින් බුද්ධිය පිරිහීම වළක්වා ගැනීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Bojjhanga",
+                "related_teachings": [
+                    "Satipatthana Sutta",
+                    "Anapanasati Sutta"
+                ],
+                "connection_type": "Procedural path to awakening"
+            }
+        ],
+        "practical_takeaway_sinhala": "මොළයේ සහ සිතේ සෞඛ්‍යය ආරක්ෂා කර ගැනීමට දිනපතා සතිමත් බව සහ මධ්‍යස්ථ බව පුහුණු කරන්න.",
+        "daily_practice_steps": [
+            "සෑම ක්‍රියාවකදීම සිහියෙන් (Sati) සිටින්න.",
+            "අත්දැකීම් විචාරාත්මකව (Dhamma-vicaya) විමසා බලන්න.",
+            "චිත්තවේගීය ගැටලු හමුවේ මධ්‍යස්ථව (Upekkha) සිටීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සත්තිමේ භික්ඛවේ, බොජ්ඣංගා භාවිතා බහුලීකතා බුද්ධියා අපරිහානාය සංවත්තන්ති. කතමේ සත්ත: සතිසම්බොජ්ඣංගෝ ....(පෙ).... උපේඛාසම්බොජ්ඣංගෝ. ඉමේ ඛෝ භික්ඛවේ, සත්ත බොජ්ඣංගා භාවිතා බහුලීකතා බුද්ධියා අපරිහානාය සංවත්තන්තීති.",
+            "sinhala": "මහණෙනි, මේ සප්ත බොජ්ඣංගයන් භාවිත කරන ලදු ව, බහුල කරන ලදු ව, බුද්ධිය නොපිරිහීම පිණිස පවතින්නේ ය. ඒ කවර සතක් ද යත්, සති සම්බොජ්ඣංගය ….(පෙ)…. උපෙක්ඛා සම්බොජ්ඣංගය ය. මහණෙනි, මේ සප්ත බොජ්ඣංගයන් භාවිත කරන ලදු ව, බහුල කරන ලදු ව, බුද්ධිය නොපිරිහීම පිණිස පවතින්නේ ය."
+        }
+    ]
+}

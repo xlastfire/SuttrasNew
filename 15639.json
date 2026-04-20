@@ -1,0 +1,84 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "අජේළක සූත්‍රය",
+    "id": "15639",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සීල සහ අත්හැරීම (Ethical Restraint & Renunciation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "භෞතික සම්පත් හා සතුන් පිළිගැනීමේ බැඳීමෙන් මිදුණු පිරිස ඉතා අල්ප බවත්, දුක් නිරෝධය සඳහා එම බැඳීම්වලින් මිදීමට දැඩි වීර්යයක් අවශ්‍ය බවත් මෙහි දැක්වේ.",
+        "long_summary": "අජේළක සූත්‍රයට අනුව, එළුවන් සහ බැටළුවන් වැනි සතුන් හෝ සම්පත් පිළිගැනීමෙන් වැළකී අල්පේච්ඡ ජීවිතයක් ගත කරන සත්ත්වයන් ප්‍රමාණයෙන් ඉතා අල්පය. එහෙත්, එවැනි භෞතික බැඳීම්වලින් නොවැළකී සංසාරික බැඳීම්වල නිරත වන පිරිස ඉතා විශාලය. මේ නිසා, භෞතික වස්තූන් කෙරෙහි ඇති බැඳීම දුකට හේතුවන බව වටහාගෙන, එම දුක නැති කිරීමේ මාර්ගය (දුක්ඛ නිරෝධය) අවබෝධ කර ගැනීම උදෙසා අතිශය දැඩි උත්සාහයක් සහ වීර්යයක් අනුගමනය කළ යුතු බව බුදුරජාණන් වහන්සේ අවධාරණය කරති.",
+        "main_discovery": "භෞතික සම්පත් හා සත්ව පරිභෝජනය මත පදනම් වූ බැඳීම්වලින් නිදහස් වූ පිරිස අල්ප බවත්, එම බැඳීම්වලින් මිදී දුක් නිරෝධය උදෙසා දැඩි වීර්යයක් අවශ්‍ය බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "බහුතරය ලෞකික බැඳීම්වල ගැලී සිටින බැවින්, ඉන් මිදී දුක් නිරෝධය අවබෝධ කර ගැනීමට අතිශය දුෂ්කර වූත්, දැඩි වූත් ප්‍රයත්නයක් (වීර්යයක්) අත්‍යවශ්‍ය වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා වායාමය (Right Effort) සහ අත්හැරීම (Renunciation).",
+            "how_it_aids_liberation": "භෞතික වස්තූන් කෙරෙහි ඇති උපාදානය (Clinging) දුරු කිරීම මගින් තෘෂ්ණාව ක්ෂය කිරීමට මග පාදයි.",
+            "practical_renunciation": "ලෞකික සම්පත් කෙරෙහි ඇති හිමිකාරීත්වයේ හැඟීම සහ පරිභෝජනවාදී ආශාවන් පාලනය කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "උපාදානය (Attachment)",
+                "වීර්යය (Effort/Determination)",
+                "සංවරය (Restraint)"
+            ],
+            "cognitive_impact": "සම්පත් රැස්කිරීමෙන් සතුට ලැබෙනවා යන වැරදි සහගත 'සංඥාව' (Perception) නිවැරදි කර, අත්හැරීම තුළින් ලැබෙන මානසික නිදහස කෙරෙහි අවධානය යොමු කරවයි.",
+            "modern_psychology_parallel": "පිළිගැනීමේ හා කැපවීමේ චිකිත්සාව (Acceptance and Commitment Therapy - ACT) තුළ එන වටිනාකම් මත පදනම් වූ ක්‍රියාකාරීත්වය (Value-based action)."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Reward System (Dopaminergic pathways)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "භෞතික වස්තූන් ලබා ගැනීමේදී උත්තේජනය වන ඩොපමින් පද්ධතිය (Reward system) පාලනය කරමින්, පූර්ව මස්තිෂ්ක බාහිකය (PFC) හරහා නව ස්නායුක සම්බන්ධතා ගොඩනගා ගැනීමට (Neuroplasticity) මෙම 'දැඩි වීර්යය' උපකාරී වේ.",
+            "stress_reduction_mechanism": "අල්පේච්ඡතාව මගින් සම්පත් අහිමි වේ යැයි ඇතිවන බිය සහ අමිග්ඩලා (Amygdala) සක්‍රිය වීම අඩු කර, දිගුකාලීන මානසික සමතුලිතතාව ඇති කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)",
+            "සංවේදී ග්‍රහණය පාලනය (Sensory Restraint)",
+            "වටිනාකම් පද්ධතිය වෙනස් කිරීම (Value System Shift)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgency/Samvega)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අවබෝධය තුළින් සන්සුන් බවට (From realization of prevalence to calm determination)",
+            "mood_keywords": [
+                "අල්පේච්ඡතාව (Contentment)",
+                "වීර්යය (Effort)",
+                "සංවේගය (Urgency)"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "චර්යාත්මක ආර්ථික විද්‍යාව (Behavioral Economics)",
+                "theory_name": "පාරිභෝගිකවාදී මනෝවිද්‍යාව (Consumerist Psychology)",
+                "parallel_description": "බහුතරයක් මිනිසුන් තාවකාලික භෞතික සම්පත් (එළුවන්/බැටළුවන් වැනි) රැස් කිරීමට පෙළඹීම සහ ඉන් මිදීමට ඇති අපහසුව.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සම්මා වායාමය (Right Effort)",
+                "related_teachings": [
+                    "මහා සතිපට්ඨාන සූත්‍රය",
+                    "අරියපරියෙසන සූත්‍රය"
+                ],
+                "connection_type": "මාර්ගාංග අනුපූරක (Path-component complementarity)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකය පසුපස හඹා යන බහුතරය අතර නොරැඳී, අල්පේච්ඡතාවය පුරුදු කරමින් මානසික නිදහස උදෙසා අදිටනින් යුතුව කටයුතු කරන්න.",
+        "daily_practice_steps": [
+            "අත්‍යවශ්‍ය නොවන භෞතික දේ රැස් කිරීමෙන් වළකින්න (Limit excessive consumption).",
+            "දිනකට සුළු වේලාවක් හෝ බැඳීම්වලින් නිදහස් වීමට 'අත්හැරීම' පුහුණු කරන්න (Daily renunciation practice).",
+            "දුක් නිරෝධය උදෙසා වූ වීර්යය පවත්වා ගැනීමට දිනපතා අධිෂ්ඨාන කරන්න (Strengthen daily resolve)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ අජේළකපටිග්ගහණා පටිවිරතා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ අජේළකපටිග්ගහණා අප්පටිවිරතා ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ එළු බැටළුවන් පිළිගැනීමෙන් වැළකී සිටිත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ එළු බැටළුවන් පිළිගැනීමෙන් නොවැළකී සිටිත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

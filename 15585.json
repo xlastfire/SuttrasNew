@@ -1,0 +1,89 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "වයධම්ම සූත්‍රය",
+    "sutta_title": "නැසී යන ස්වභාවයට අයත් දේ ගැන වදාළ දෙසුම",
+    "id": "15585",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍ය සහ විරාගය (Impermanence and Detachment)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "නැසී යන ස්වභාවය ඇති දේ කෙරෙහි පවතින ආශාව හෙවත් ඡන්දරාගය ප්‍රහාණය කළ යුතු බව මෙම සූත්‍රයෙන් අවධාරණය කෙරේ.",
+        "long_summary": "සැවැත් නුවර ජේතවනාරාමයේදී රාධයන් වහන්සේ අමතා දේශනා කරන ලද්දකි. යම් දෙයක් නැසී යන ස්වභාවයෙන් යුක්ත නම් (පඤ්ච උපාදානස්කන්ධය වැනි), එම දෙය කෙරෙහි පවතින කැමැත්ත, ඇලීම සහ ආශාව (ඡන්දරාගය) මුලිනුපුටා දැමිය යුතු බවත්, එවැනි නැසී යන දේවලින් සිත ඉවත් කර ගැනීම විමුක්තියට මග වන බවත් මෙහි අන්තර්ගත වේ.",
+        "main_discovery": "නැසී යන ස්වභාවයට අයත් දේ පිළිබඳ ඇති ඡන්දරාගය (Chanda-rāga) ප්‍රහාණය කිරීමෙන් දුකෙන් මිදිය හැකි බව.",
+        "core_truth_of_sutta": "අනිත්‍ය වූ හෝ වඳ වී යන ස්වභාවය සහිත දේ කෙරෙහි පවතින තෘෂ්ණාව ප්‍රහාණය කිරීම දුකෙන් මිදීමේ ඒකායන මගයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඡන්දරාග විනය (Discipline of Desire)",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ නැසී යන ස්වභාවය දැකීමෙන් ඒවා කෙරෙහි ඇති තෘෂ්ණාව හෙවත් 'උපාදානය' නැති වී චිත්ත විමුක්තිය උදාවේ.",
+            "practical_renunciation": "නැසී යන දේ තමාගේ යැයි හෝ තමා යැයි අල්ලා නොගෙන සිටීමට පුහුණු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්දරාගය (Lustful desire)",
+                "අනිත්‍ය අවබෝධය (Insight into impermanence)",
+                "විරාගය (Detachment)"
+            ],
+            "cognitive_impact": "යථාර්ථය අවබෝධ කර ගැනීමෙන් සිතේ ඇතිවන 'පැවැත්මේ අවශ්‍යතාවය' (Craving for existence) ලිහිල් වී, මානසික පීඩනය (Stress) අවම වේ.",
+            "modern_psychology_parallel": "සහජාස (Habituation) සහ සංජානන ප්‍රතිනිර්මාණය (Cognitive Appraisal) මගින් සිතේ ඇතිවන බලවත් ඇලීම් පාලනය කිරීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Ventral Striatum"
+            ],
+            "neuroplasticity_and_habit": "ඡන්දරාගය දුරු කිරීමේ පුහුණුව මගින් Reward circuit එකෙහි (Dopaminergic pathways) සිදුවන අධික සක්‍රීයතාවය පාලනය වී මොළයේ ව්‍යුහාත්මක සමතුලිතතාවයක් ඇති වේ.",
+            "stress_reduction_mechanism": "අනිත්‍යය පිළිගැනීම නිසා Amygdala වේ සක්‍රීයතාවය අඩු වී බිය සහ කාංසාව පාලනය වේ (Fear extinction)."
+        },
+        "cognitive_mechanisms": [
+            "සංජානනය වෙනස් කිරීම (Cognitive Restructuring)",
+            "බැඳීම් ලිහිල් කිරීම (Decentering)",
+            "අනිත්‍යය පිළිබඳ අවබෝධය (Recognition of Impermanence)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අසහනයෙන් සහ බැඳීමෙන් මිදී ප්‍රඥාවන්ත නිසලතාවයකට පැමිණීම.",
+            "mood_keywords": [
+                "නිවුණු",
+                "පැහැදිලි",
+                "ප්‍රඥාවන්ත",
+                "විරාගී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "මනෝවිද්‍යාව (Psychology)",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "ලෝකයේ අස්ථිර ස්වභාවය පිළිගැනීම සහ මානසික ඇලීම් වලින් (Cognitive fusion) මිදීම තුළින් මානසික නම්‍යශීලීභාවය ඇති කර ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඡන්දරාග විනය (Removal of Desire)",
+                "related_teachings": [
+                    "රාධ සංයුත්තයේ අනෙකුත් සූත්‍ර",
+                    "අනිච්ච සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම සමානකම්"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ ඕනෑම දෙයක් නැති වී යන බව වටහාගෙන, ඒ කෙරෙහි ඇති අසීමිත බැඳීම අඩු කර ගැනීමෙන් සැබෑ සහනය උදා වේ.",
+        "daily_practice_steps": [
+            "යම් වස්තුවක් හෝ පුද්ගලයෙකු කෙරෙහි අධික ඇලීමක් ඇති වූ විට එය 'නැසී යන ස්වභාවයෙන් යුක්තයි' (Lujjana dhamma) ලෙස මෙනෙහි කරන්න.",
+            "ඇලීම (ඡන්දරාගය) පවතින මොහොතේ එමගින් සිතට දැනෙන පීඩනය නිරීක්ෂණය කරන්න.",
+            "බාහිර දේ කෙරෙහි ඇති අයිතිය ලිහිල් කර සිත අභ්‍යන්තර නිදහස දෙසට යොමු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …………………"
+        },
+        {
+            "pali": "යෝ ඛෝ රාධ, වයධම්මෝ. ….(පෙ)…. ඡන්‌දරාගෝ පහාතබ්බෝ’ති.",
+            "sinhala": "එකත්පස්ව වාඩිවුණ ආයුෂ්මත් රාධයන් හට භාග්‍යවතුන් වහන්සේ මෙකරුණ වදාළා. පින්වත් රාධ, නැසී යන ස්වභාවයට අයත් වූ යමක් ඇද්ද, ඒ කෙරෙහි …. (පෙ) …. ඡන්දරාගය දුරු කළ යුතුයි."
+        }
+    ]
+}

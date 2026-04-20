@@ -1,0 +1,92 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "තිස්ස තෙරුන්ගේ ගාථා",
+    "sutta_title": "",
+    "id": "15442",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අල්පේච්ඡතාව සහ ලාභ සත්කාර පිළිබඳ විනිවිද දැක්ම",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "භෞතික ලාභ සත්කාර සමඟ සතුරන් හා බාධා පැමිණෙන බැවින්, එයින් මිදී සිහි නුවණින් ජීවත් වීමට ලාභය කෙරෙහි බියක් ඇති කර ගත යුතුය.",
+        "long_summary": "ආයුෂ්මත් තිස්ස රහත් මුනිඳුන්ගේ දේශනයට අනුව, පැවිද්දෙකුට බොහෝ ප්‍රත්‍ය ලාභයන් (සිවුරු, පිණ්ඩපාත, සේනාසන) ලැබෙන විට ඒ හා සමගාමීව සතුරන් සහ විරුද්ධවාදීන් ද බිහි වේ. එබැවින් මෙම අනතුර වටහාගෙන ලාභ සත්කාරයන් කෙරෙහි ඇල්ම වෙනුවට බියක් (Fear towards gain) ඇති කර ගත යුතු අතර, භෞතික වස්තූන් කෙරෙහි නොබැඳී සිහි නුවණින් (Mindfulness and Wisdom) යුතුව වාසය කිරීමේ වැදගත්කම මෙහි විස්තර කෙරේ.",
+        "main_discovery": "භෞතික ලාභ සත්කාර (Material gains) සමඟ අනිවාර්යයෙන්ම ගැටුම් හා සතුරන් ඇති වන බවත්, එයින් මිදීමට සිහි නුවණින් යුතුව ලාභය පිළිබඳ බිය උපදවා ගැනීම (Fear of gain) අවශ්‍ය බවත් මෙහිදී අවධාරණය කෙරේ.",
+        "core_truth_of_sutta": "බාහිර ලාභ සත්කාර සැපයට වඩා විපතටත්, නිදහසට වඩා බැඳීමටත් හේතු වන බැවින් ප්‍රඥාවන්තයා ලාභය අනතුරක් ලෙස දකියි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ලාභ සත්කාර කෙරෙහි ආදීනව දැකීම (Anupassana).",
+            "how_it_aids_liberation": "සක්කාය දිට්ඨිය සහ බැඳීම් (Attachment) ලිහිල් කිරීම මගින් සංසාර ගමන කෙටි කිරීමට සහ දුක නැති කිරීමට උපකාරී වේ.",
+            "practical_renunciation": "ලාභ ලැබෙන විට එහි ඇති තාවකාලික බව සහ ඒ හරහා ඇතිවිය හැකි ගැටුම් නුවණින් විමසා අතහැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ලෝභය (Greed)",
+                "සිහි නුවණ (Cognitive awareness)",
+                "භය (Apprehension of danger)"
+            ],
+            "cognitive_impact": "බාහිර වස්තූන් 'සැප' ලෙස දකින සාමාන්‍ය සංජානනය (Perception), 'බිය' හෝ 'අනතුරක්' ලෙස ප්‍රතිව්‍යුහගත කිරීම (Cognitive Restructuring) මෙහිදී සිදුවේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Defusion' තාක්ෂණය මගින් ලාභ සත්කාර කෙරෙහි ඇති ආශාවෙන් ඉවත් වී එහි ස්වභාවය විමසීම හා සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Ventral Striatum (Reward system)",
+                "Amygdala (Threat detection)",
+                "Prefrontal Cortex (Executive control)"
+            ],
+            "neuroplasticity_and_habit": "ලාභය ලැබෙන විට සතුටක් දැනෙන Dopamine පද්ධතිය පාලනය කිරීමට, 'බිය' හෝ 'අනතුර' පිළිබඳ සංඥා හිතාමතා ඇති කිරීමෙන් (Negative Reinforcement) මොළයේ පැරණි පුරුදු වෙනස් කළ හැකිය.",
+            "stress_reduction_mechanism": "ලාභය පසුපස හඹායාම නතර කිරීමෙන් Default Mode Network (DMN) එකෙහි ක්‍රියාකාරිත්වය අඩු වී මානසික පීඩනය (Chronic Stress) අවම වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal (තත්ත්වයන් ඇගයීම)",
+            "Attention Regulation (අවධානය පාලනය කිරීම)",
+            "Fear Conditioning (භය පිළිබඳ හුරුකිරීම)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Dispassion/Urgency)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ලාභයේ ආදීනව දැකීමෙන් ඇතිවන බිය හරහා සිහි නුවණින් යුත් උපේක්ෂාවට (Equanimity) පැමිණීම.",
+            "mood_keywords": [
+                "අල්පේච්ඡතාව",
+                "ප්‍රඥාව",
+                "නොබැඳීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Zero-Sum Game Theory / Status Anxiety",
+                "parallel_description": "සම්පත් සීමිත වූ විට එක් අයෙකුගේ ලාභය තවකෙකුගේ අලාභයක් ලෙස පෙනීම නිසා සමාජීය ගැටුම් හා සතුරුකම් (Inter-personal conflicts) නිර්මාණය වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ලාභ සත්කාරවල ආදීනව",
+                "related_teachings": [
+                    "සක්කාර සූත්‍රය (Sakkara Sutta)",
+                    "ධම්මපදය - නිරය වග්ගය"
+                ],
+                "connection_type": "ධර්ම කරුණු අතිපිහිත වීම (Doctrinal overlapping)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලැබෙන දේ කෙරෙහි ලෝභ නොවී, එයින් ඇතිවිය හැකි කරදර පිළිබඳව අවධියෙන් සිටීම මානසික නිදහසට මගකි.",
+        "daily_practice_steps": [
+            "යමක් ලැබුණු විට එහි ඇති අස්ථිර බව සහ ඒ නිසා ඇතිවිය හැකි ගැටුම් ගැන මොහොතක් සිතන්න.",
+            "සෑම විටම ලබන දේට වඩා සිහිය සහ ප්‍රඥාව (Mindfulness) වර්ධනය කිරීමට මූලිකත්වය දෙන්න.",
+            "භෞතික වස්තූන්ට ඇති ඇල්ම නිසා අනුන් සමඟ ඇතිවන තරඟකාරීත්වය අවම කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "බහූ සපත්තේ ලභති මුණ්ඩෝ සංඝාටිපාරුතෝ\nලාභී අන්නස්ස පානස්ස වත්ථස්ස සයනස්ස ච",
+            "sinhala": "හිස මුඩුකර ගෙන දෙපට සිවුරක් පොරවා ගෙන ඉන්න භික්ෂුවට බොහෝ දානය, සිවුරු, ආවාස ආදිය ලැබුණොත් ඒවත් එක්කම සතුරොත් ලැබෙනවා."
+        },
+        {
+            "pali": "ඒතමාදීනවං ඤත්වා සක්කාරේසු මහබ්භයං\nඅප්පලාභෝ නවස්සුතෝ සතෝ භික්ඛු පරිබ්බජේ’ති",
+            "sinhala": "ඉතින් මේ ආදීනව දකින භික්ෂුව නම් ලාභ සත්කාර ගැන බිය උපදවා ගන්නවා. ටිකක් ලැබුණාම ඇති. එතකොට කෙලෙස් වගුරවන්නේ නැතිව, සිහි නුවණින් ජීවත් වෙන්ට පුළුවන්."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා තිස්සෝ ථේරෝ ගාථායෝ අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් තිස්ස නම් රහත් මුනිඳුන් වදාළ ගාථාවන්ය."
+        }
+    ]
+}

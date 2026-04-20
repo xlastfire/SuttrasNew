@@ -1,0 +1,89 @@
+{
+    "nikaya": "අට්ඨක නිපාතෝ",
+    "vagga": "බල සුත්තං",
+    "sutta_title": "බලය ගැන වදාළ දෙසුම",
+    "id": "11014",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අෂ්ට බල ධර්ම (The Eight Powers)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සමාජයේ විවිධ ස්තරවල පුද්ගලයන් අට දෙනෙකුගේ පවතින සුවිශේෂී බලයන් හඳුනාගැනීම සහ ඒ අතරින් ඉවසීම හා ප්‍රඥාව උතුම්ම බලයන් ලෙස පෙන්වා දීම මෙහි හරයයි.",
+        "long_summary": "මෙම සූත්‍රය මගින් ලෝකය තුළ විවිධ පුද්ගලයන් භාවිතා කරන බලයන් අටක් විස්තර කෙරේ. කුඩා දරුවන් හැඬීමද, ස්ත්‍රීන් ක්‍රෝධයද, සොරුන් ආයුධද, රජවරුන් අධිකාරී බලයද, අඥානයන් කේන්ති ගැනීමද තම බලය ලෙස පෙන්වයි. වඩාත් දියුණු මට්ටමකදී නුවණැත්තන් යහපත හා අයහපත වෙන්කර හඳුනා ගැනීමද, උගතුන් විමසා බැලීමද බලය ලෙස භාවිතා කරයි. අවසාන වශයෙන් ශ්‍රමණ බ්‍රාහ්මණවරුන්ගේ උතුම්ම බලය 'ඉවසීම' බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "විවිධ පුද්ගල ස්තරයන් තමන්ගේ අරමුණු ඉටුකර ගැනීමට හෝ පැවැත්ම තහවුරු කර ගැනීමට භාවිතා කරන මූලික ශක්තීන් අටක් මෙම සූත්‍රය මගින් හෙළිදරව් කරයි.",
+        "core_truth_of_sutta": "පුද්ගලයෙකුගේ පරිණතභාවය මත ඔහු භාවිතා කරන 'බලය' තීරණය වන අතර, ලෝකෝත්තර විමුක්තියට මග පාදන බලවත්ම ශක්තිය වන්නේ අභ්‍යන්තර ඉවසීම (Khanti) යන්න මෙහි පරම සත්‍යයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉවසීම (Khanti) සහ ප්‍රඥාව (Paññā) විමුක්තියේ මූලිකාංග ලෙස හඳුන්වා දීම.",
+            "how_it_aids_liberation": "බාහිර ආයුධ හෝ ක්‍රෝධය මත යැපීම අතහැර, අභ්‍යන්තර ඉවසීම ප්‍රගුණ කිරීම මගින් සසර බැඳීම් ලිහිල් කර නිවනට මග පාදයි.",
+            "practical_renunciation": "ක්‍රෝධය (Anger) සහ ආයුධ (Weaponry) වැනි හානිකර බලවේග අතහැර දමා මානසික සංයමය උදෙසා කැපවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ක්‍රෝධය (Anger)",
+                "ඉවසීම (Patience)",
+                "විමර්ශනය (Investigation)",
+                "මෝහය (Delusion)"
+            ],
+            "cognitive_impact": "පුද්ගලයා ගැටලු දෙස බලන ආකාරය වෙනස් කරයි; ක්ෂණික ප්‍රතිචාර (Reactive behavior) වෙනුවට සවිඥානික ප්‍රතිචාර (Responsive behavior) වර්ධනය කරයි.",
+            "modern_psychology_parallel": "අඥානයන්ගේ උදහස 'Reactive Aggression' ලෙසත්, ශ්‍රමණයන්ගේ ඉවසීම 'Emotional Self-Regulation' සහ 'Resilience' ලෙසත් හැඳින්විය හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Amygdala",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ක්‍රෝධය සහ හැඬීම වැනි චිත්තවේගීය බලයන් Amygdala-driven වේ. ඉවසීම සහ විමර්ශනය පුහුණු කිරීමේදී Prefrontal Cortex ශක්තිමත් වී 'Top-down regulation' හරහා මොළයේ ව්‍යුහය වෙනස් වේ (Neuroplasticity).",
+            "stress_reduction_mechanism": "ඉවසීම පුහුණු කිරීම මගින් Parasympathetic nervous system එක සක්‍රීය වී Cortisol මට්ටම අඩු වන අතර Amygdala හි අධි-සක්‍රීයතාව පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive appraisal",
+            "Emotional regulation",
+            "Social signaling",
+            "Intellectual discernment"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 7,
+            "emotional_arc": "විවිධ පුද්ගලයන්ගේ චිත්තවේගීය ප්‍රකාශනයන්ගේ සිට ශ්‍රමණයන්ගේ ඉවසීමේ ශක්තිය දක්වා වූ විකාශනය.",
+            "mood_keywords": [
+                "විමර්ශනාත්මක",
+                "ධෛර්ය සම්පන්න",
+                "සන්සුන්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Coping Mechanisms",
+                "parallel_description": "සමාජයේ විවිධ පුද්ගලයන් තම අභියෝග ජය ගැනීමට භාවිතා කරන උපායමාර්ග (උදා: හැඬීම, ක්‍රෝධය, නුවණ) මනෝවිද්‍යාවේ හැඩගැසීමේ යාන්ත්‍රණවලට සමාන වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉවසීම (Khanti)",
+                "related_teachings": [
+                    "ධම්මපදය - Khanti paramam tapo titikkha"
+                ],
+                "connection_type": "ධර්මයේ උසස්ම බලය ලෙස ඉවසීම දැක්වීම."
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ අභියෝග හමුවේ කේන්තියෙන් හෝ බලහත්කාරයෙන් පිළිතුරු දෙනවා වෙනුවට, ඉවසීම සහ බුද්ධිමත් විමර්ශනය තම ශක්තිය ලෙස භාවිතයට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "ප්‍රකෝපකාරී අවස්ථාවකදී ක්ෂණිකව ප්‍රතිචාර නොදක්වා අවම වශයෙන් තත්පර 10ක් නිහඬව සිටින්න (Amygdala hijacking පාලනයට).",
+            "ඕනෑම දෙයක් කිරීමට පෙර එහි හොඳ/නරක නුවණින් විමසන්න (PFC සක්‍රීය කිරීම).",
+            "ඉවසීම යනු දුර්වලකමක් නොව ඉහළම ශක්තියක් බව නිතර මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "අට්ඨිමානි භික්ඛවේ, බලානි, කතමානි අට්ඨ: රුණ්ණබලා භික්ඛවේ දාරකා, කෝධබලෝ මාතුගාමෝ, ආවුධබලා චෝරා, ඉස්සරියබලා රාජානෝ, උජ්ඣත්තිබලා බාලා, නිජ්ඣත්තිබලා පණ්ඩිතා, පටිසංඛානබලා බහුස්සුතා, ඛන්තිබලා සමණබ්‍රාහ්මණා, ඉමානි ඛෝ භික්ඛවේ, අට්ඨබලානීති.",
+            "sinhala": "මහණෙනි, මේ බල අටකි. ඒ කවර අට බලයක් ද යත්;"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "උත්තිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15403",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංවේදන සහ ඇල්ම (Sensory Attachment & Craving)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ශබ්දයක් ඇසුණු විට සිහිය නොපිහිටුවා ප්‍රිය දේ පමණක් මෙනෙහි කිරීමෙන් ඇතිවන බැඳීම සංසාර ගමන දීර්ඝ කරන බව උත්තිය රහතන් වහන්සේ පෙන්වා දෙති.",
+        "long_summary": "යම් ශබ්දයක් ශ්‍රවණය වූ විට එම ශබ්දය කෙරෙහි නිවැරදි සිහිය (Mindfulness) නොපිහිටුවන්නේ නම්, පුද්ගලයා ස්වභාවයෙන්ම එම ශබ්දය හා සම්බන්ධ ප්‍රියජනක අත්දැකීම් පමණක් මෙනෙහි කරයි. මෙහිදී එම ශබ්දය විඳීමට (Sensory enjoyment) දැඩි කැමැත්තක් සහ ආශාවක් ඇතිවන අතර, සිත එම ශබ්දයෙහි තදින් බැඳී යයි. මෙම බැඳීම හේතුවෙන් සංසාරික පැවැත්ම තහවුරු කරන තෘෂ්ණාව සහ උපාදානයන් වර්ධනය වන බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "ශබ්දයක් ඇසීමෙන් පසු සිහිය අතපසු වීමෙන් ප්‍රිය සිතුවිලි පමණක් මෙනෙහි කිරීම හරහා සංසාරික බැඳීම (Craving) නිර්මාණය වන ආකාරය.",
+        "core_truth_of_sutta": "අසංවර ලෙස අරමුණු ග්‍රහණය කිරීමෙන් (Unwise attention) හටගන්නා ප්‍රිය අනුභවය කෙරෙහි ඇතිවන ඇල්ම සංසාරික බැඳීමට හේතුවන මූලික සාධකයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඵස්ස පච්චයා වේදනා (Phassa paccaya vedana) - ස්පර්ශයෙන් පසු ඇතිවන වේදනාව උපාදානයක් නොවීමට සිහිය පිහිටුවීම.",
+            "how_it_aids_liberation": "සංවේදන කෙරෙහි ඇතිවන ඇල්ම (Nandi) අත්හැරීම මගින් සංසාර බන්ධනවලින් මිදීමට මග පාදයි.",
+            "practical_renunciation": "ශබ්දය ඇසුණු සැණින් එහි ප්‍රිය හෝ අප්‍රිය බවට ඇලීමෙන් හෝ ගැටීමෙන් තොරව 'ඇසුණු දේ ඇසුණු දේ ලෙස' පමණක් දැකීමට හුරුවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ආශාව (Craving)",
+                "සිහිය ගිලිහීම (Lack of Mindfulness)",
+                "ප්‍රිය සිතුවිලි (Pleasurable Cogitation)"
+            ],
+            "cognitive_impact": "සංජානන ක්‍රියාවලියේදී (Perception) මධ්‍යස්ථභාවය ගිලිහී ගොස්, ප්‍රියජනක කොටස් පමණක් තෝරාගෙන මෙනෙහි කිරීමෙන් (Cognitive Filter) බැඳීම තීව්‍ර වේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Fusion' සංකල්පයට සමානය; එනම් පුද්ගලයා තම සිතුවිලි හෝ සංවේදන සමඟ එකාත්මික වීමයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Ventral Striatum (Reward system)",
+                "Default Mode Network (DMN)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "ප්‍රිය ශබ්ද කෙරෙහි නැවත නැවතත් මනස යොමු කිරීමෙන් මොළයේ Reward Circuit එක ශක්තිමත් වී, ඇබ්බැහි වීම් (Addictions) සහ පුරුදු (Habits) වඩාත් ස්ථාවර වේ.",
+            "stress_reduction_mechanism": "සිහිය පිහිටුවීම මගින් Amygdala හි ක්‍රියාකාරිත්වය පාලනය වන අතර, එමගින් බාහිර උත්තේජකවලට දැඩි ලෙස ප්‍රතිචාර දැක්වීම (Reactivity) අඩු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Selective Attention",
+            "Cognitive Bias (Selective Perception)",
+            "Conditioned Response",
+            "Attentional Capture"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය සහ අවබෝධය (Dispassion/Understanding)",
+            "emotional_intensity": 7,
+            "emotional_arc": "අසංවර භාවයෙන් බැඳීම කරා යන ක්‍රියාවලිය විස්තර කිරීම",
+            "mood_keywords": [
+                "සංවරය",
+                "ඇල්ම",
+                "බැඳීම",
+                "සිහිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Classical Conditioning",
+                "parallel_description": "ප්‍රියජනක උත්තේජනයක් (ශබ්දයක්) ලැබුණු පසු එය කෙරෙහි බැඳීම සහ නැවත නැවතත් එය සෙවීමට සිත යොමුවීම පෝෂණය වන ආකාරය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය සංවරය (Sense Restraint)",
+                "related_teachings": [
+                    "බාහිය සූත්‍රය (Bahiya Sutta)",
+                    "ඡප්පාණක සූත්‍රය (Chappana Sutta)"
+                ],
+                "connection_type": "Direct doctrinal parallel on sensory perception"
+            }
+        ],
+        "practical_takeaway_sinhala": "යම් දෙයක් ඇසුණු විට එය හොඳ හෝ නරක ලෙස විනිශ්චය කරමින් සිතින් තව තවත් ගොඩනැගීමට පෙර, එය ශබ්දයක් පමණක් බව අවබෝධ කරගන්න.",
+        "daily_practice_steps": [
+            "ප්‍රිය හෝ අප්‍රිය ශබ්දයක් ඇසුණු සැණින් මනස ඒ පිටුපස දිව යනවාදැයි නිරීක්ෂණය කරන්න.",
+            "එම ශබ්දය පිළිබඳව අනවශ්‍ය ලෙස විස්තර මෙනෙහි කිරීමෙන් වළකින්න.",
+            "එම ශබ්දය නිසා සිතේ හටගන්නා 'විඳීම' (Feeling) දෙස මධ්‍යස්ථව බැලීමට පුරුදු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සද්දං සුත්වා සති මුට්ඨා පියනිමිත්තං මනසිකරෝතෝ\nසාරත්තචිත්තෝ වේදේති තං ච අජ්ඣෝස තිට්ඨති\nතස්ස වඩ්ඪන්ති ආසවා සංසාරමුපගාමිනෝ’ති",
+            "sinhala": "කනෙන් ශබ්දයක් ඇහුවට පස්සේ ඒ ශබ්දය ගැන සිහි මුලා වුණොත් සිහි කරන්නට තියෙන්නේ ප්‍රිය සටහන් විතරයි. එතකොට ආසාවෙන් ම යි ඒක විඳින්නෙ. ඒ ශබ්දයේ ම හිත බැසගන්නවා. එතකොට සංසාරෙට ම අරගෙන යන ආශ්‍රවයන් විතරයි ඔහු තුළ වැඩෙන්නෙ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා උත්තියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් උත්තිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

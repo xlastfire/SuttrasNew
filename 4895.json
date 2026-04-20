@@ -1,0 +1,85 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "අනාගතානිච්ච සුත්තං",
+    "sutta_title": "අනාගතයේ පහළ වන අනිත්‍ය දේ ගැන වදාළ දෙසුම",
+    "id": "4895",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍ය සහ විමුක්තිය (Impermanence and Liberation)",
+        "complexity_rating": 8,
+        "analysis_confidence": 100,
+        "short_summary": "ඇස ඇතුළු ඉන්ද්‍රියයන් සහ මනස අනාගතයේදී පහළ වන අනිත්‍ය ධර්මයන් ලෙස දැකීමෙන් බැඳීම් ක්ෂය වී නිවන සාක්ෂාත් වේ.",
+        "long_summary": "මෙම සූත්‍රය මගින් පෙන්වා දෙන්නේ ඇස, කන, නාසය, දිව, කය සහ මනස යන ඉන්ද්‍රියයන් සියල්ල අනාගතයේදී පහළ වන්නා වූ අනිත්‍ය ස්වභාවයෙන් යුක්ත බවයි. මෙම පරම සත්‍යය ගැඹුරින් අවබෝධ කරගන්නා ශ්‍රාවකයා තුළ ඉන්ද්‍රිය සංවේදනයන් හා බැඳුණු සියලු ඇලීම් කෙරෙහි කලකිරීමක් (Nibbida) ඇති වේ. එම අවබෝධය පරිපූර්ණ වූ විට, තවදුරටත් කළ යුතු දෙයක් නොමැති බව හඳුනා ගනිමින් නිවන සාක්ෂාත් කරගනී.",
+        "main_discovery": "අනාගතයේ පහළ වන ඉන්ද්‍රියයන් සහ මනස පවා අනිත්‍ය බව දැකීමෙන් ඇතිවන දැඩි කලකිරීම තුළින් විමුක්තිය උදාවීම.",
+        "core_truth_of_sutta": "අනාගත ඉන්ද්‍රිය ක්‍රියාවලිය පවා අනිත්‍ය ලෙස දැකීම තුළින් ඇතිවන නිරෝධය නිවනයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සප්ත ඉන්ද්‍රියන්ගේ (මනස සහිතව) අනාගත අනිත්‍යතාවය අවබෝධ කිරීම.",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ අනිත්‍යතාවය දැකීමෙන් තෘෂ්ණාව සහ උපාදානය දුරුවී සිත මිදීම.",
+            "practical_renunciation": "ඉන්ද්‍රිය අරමුණු කෙරෙහි පවතින අනාගත අපේක්ෂාවන් සහ බැඳීම් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවබෝධය (Insight)",
+                "කලකිරීම (Disenchantment)",
+                "බැඳීම්වලින් මිදීම (Detachment)"
+            ],
+            "cognitive_impact": "අනාගතය පිළිබඳව පවතින මනෝරාජික අපේක්ෂාවන් (Future projections) බිඳවැටී යථාර්ථවාදී දැක්මක් ඇතිවීම.",
+            "modern_psychology_parallel": "Cognitive Restructuring - සිතුවිලි සහ සංවේදනයන් පිළිබඳව පවතින වැරදි සහසම්බන්ධතාවයන් බිඳ දැමීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "අනාගත අනිත්‍යතාවය මෙනෙහි කිරීමෙන් DMN ජාලයේ ක්‍රියාකාරිත්වය අඩුවී, ස්වයං-කේන්ද්‍රීය බැඳීම් (Self-referential processing) ක්ෂය වීම සිදුවේ.",
+            "stress_reduction_mechanism": "අනාගතය පිළිබඳ ඇතිවන අවිනිශ්චිත බිය (Anxiety) Amygdala මගින් පාලනය වන අතර, අනිත්‍යතාවය පිළිගැනීමෙන් Cortisol මට්ටම අඩු වී මොළය උපේක්ෂා සහගත වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing",
+            "Disenchantment (Nibbida)",
+            "Pattern Recognition",
+            "Future Projection analysis"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Equanimity through disenchantment)",
+            "emotional_intensity": 9,
+            "emotional_arc": "ඇලීමෙන් මිදී උපේක්ෂාවට සහ ඉන්පසු පරම නිදහසට (From attachment to liberation).",
+            "mood_keywords": [
+                "කලකිරීම (Dispassion)",
+                "නිසල බව (Stillness)",
+                "නිදහස (Freedom)"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "අනාගත ප්‍රක්ෂේපණයන් කෙරෙහි ඇති බැඳීම ලිහිල් කරමින් (Cognitive Defusion), පවතින සත්‍යය විනිශ්චයකින් තොරව පිළිගැනීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සයතන අනිත්‍යතාවය (Impermanence of Six Sense Bases)",
+                "related_teachings": [
+                    "ආදිත්ත පරියාය සූත්‍රය",
+                    "අනිච්ච සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම සමානතාවය (Doctrinal Congruence)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ ඇසට, කනට හසුවන දේ මෙන්ම ඔබේ සිතුවිලි ද අනාගතයේදී වෙනස් වන, නැති වී යන අනිත්‍ය දේ බව නිතර සිහිපත් කරන්න. එවිට අනවශ්‍ය බැඳීම් සහ මානසික පීඩනය දුරු වේ.",
+        "daily_practice_steps": [
+            "බාහිර රූපයක් දකින විට හෝ ශබ්දයක් ඇසෙන විට එය 'අනාගතයේදී අනිත්‍ය වන දෙයක්' ලෙස හඳුනාගන්න.",
+            "සිතේ ඇතිවන සිතිවිලි ස්ථිර නැති බව මෙනෙහි කරන්න.",
+            "ඉන්ද්‍රිය අරමුණු වල අලිය නොගොස් ඒවායේ වෙනස්වන සුළු බව දෙස උපේක්ෂාවෙන් බලා සිටින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චක්ඛුං භික්ඛවේ අනිච්චං අනාගතං, සෝතං ....(පෙ).... ඝානං ....(පෙ).... ජිව්හා අනිච්චා අනාගතා, කායෝ ....(පෙ).... මනෝ අනිච්චෝ අනාගතෝ. ඒවං පස්සං භික්ඛවේ සුතවා, අරියසාවකෝ චක්ඛුස්මිම්පි නිබ්බින්දති ....(පෙ).... නාපරං ඉත්ථත්තායාති පජානාතීති.",
+            "sinhala": "පින්වත් මහණෙනි, අනාගතයේ පහළ වෙන ඇස අනිත්‍යයි. කන ….(පෙ)…. නාසය ….(පෙ)…. අනාගතයේ පහළ වන දිව අනිත්‍යයි ….(පෙ)…. කය ….(පෙ)…. අනාගතයේ පහළ වන මනස අනිත්‍යයි. පින්වත් මහණෙනි, ශ්‍රැතවත් ආර්ය ශ්‍රාවකයා ඔය අයුරින් දකින විට, ඇස ගැනත් සත්‍ය ස්වභාවය අවබෝධ වීම තුළින් ම කලකිරෙනවා ….(පෙ)…. නිවන පිණිස කළ යුතු වෙන දෙයක් නැත්තේම යැයි අවබෝධයෙන් ම දැනගන්නවා."
+        }
+    ]
+}

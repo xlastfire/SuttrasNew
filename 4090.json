@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "දිට්ඨි සුත්තං",
+    "sutta_title": "දෘෂ්ටි සම්පත් ඇති බව ගැන වදාළ දෙසුම",
+    "id": "4090",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Samma Ditthi (Right View) & The Noble Eightfold Path",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ආර්ය අෂ්ටාංගික මාර්ගය සම්පූර්ණ කිරීම සඳහා අවශ්‍ය වන ප්‍රධානතම සහ අත්‍යවශ්‍යම සාධකය සම්මා දිට්ඨිය හෙවත් නිවැරදි දැක්ම බව මෙම දේශනාව අවධාරණය කරයි.",
+        "long_summary": "මෙම සූත්‍ර දේශනාවට අනුව, ආර්ය අෂ්ටාංගික මාර්ගය අනුගමනය කිරීමේදී සම්මා දිට්ඨිය හෙවත් නිවැරදි දැක්ම මූලිකම පදනම වේ. යමෙකු තුළ මෙම නිවැරදි දැක්ම නමැති සම්පත්තිය ඇති වූ විට, එය අනෙකුත් මාර්ගාංග (සම්මා සංකප්ප සිට සම්මා සමාධි දක්වා) ක්‍රමිකව වර්ධනය කිරීමට සහ ප්‍රගුණ කිරීමට අවශ්‍ය මූලික අඩිතාලම සපයයි. නිවැරදි දැක්ම මගින් මෙහෙයවනු ලබන විට මුළු මාර්ගයම බහුලව ප්‍රගුණ කිරීමේ හැකියාව ලැබෙන අතර, එය සමස්ත මාර්ගයේම ප්‍රගතිය තීරණය කරන ප්‍රධානතම ධර්ම සාධකය ලෙස ක්‍රියා කරයි.",
+        "main_discovery": "සම්මා දිට්ඨිය (Right View) යනු ආර්ය අෂ්ටාංගික මාර්ගයේ අනෙකුත් සියලු අංගයන් නිවැරදිව මෙහෙයවන සහ පෝෂණය කරන මූලිකම පදනමයි.",
+        "core_truth_of_sutta": "ආර්ය අෂ්ටාංගික මාර්ගයේ සමස්ත සාර්ථකත්වය සහ වර්ධනය රඳා පවතින්නේ සම්මා දිට්ඨිය නමැති නිවැරදි පදනම මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා දිට්ඨිය (Right View) යනු ආර්ය අෂ්ටාංගික මාර්ගයේ පළමු අංගය වන අතර එය නිවන කරා යන ගමනේ මාලිමාව ලෙස ක්‍රියා කරයි.",
+            "how_it_aids_liberation": "නිවැරදි දැක්ම මගින් වැරදි මාර්ගයන් බැහැර කර, විමුක්තිය කරා යන නිවැරදි ප්‍රතිපදාව හඳුනා ගැනීමට සලස්වයි.",
+            "practical_renunciation": "ලෝකය දෙස පවතින වැරදි දෘෂ්ටි අත්හැරීම (Letting go of views) තුළින් මානසික නිදහස ආරම්භ වේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නිවැරදි දැක්ම (Right Understanding)",
+                "මඟ පෙන්වීම (Guidance)",
+                "අඩිතාලම (Foundation)"
+            ],
+            "cognitive_impact": "සම්මා දිට්ඨිය මගින් පුද්ගලයෙකුගේ තොරතුරු සැකසීමේ රටාව (Information processing) වෙනස් කර, වඩාත් තාර්කික සහ යථාර්ථවාදී ලෝක දැක්මක් නිර්මාණය කරයි.",
+            "modern_psychology_parallel": "මෙය මනෝවිද්‍යාවේ එන 'Top-down processing' වලට සමානය; එනම් මූලික දැනුම සහ දැක්ම මගින් අපගේ අත්දැකීම් අර්ථකථනය කරන ආකාරය තීරණය කිරීමයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "නිවැරදි දැක්ම පුහුණු කිරීමේදී (Neuroplasticity), මොළයේ Executive function පද්ධතිය සක්‍රීය වී, පැරණි වැරදි චින්තන රටා (Neural pathways) වෙනස් කරමින් නව කුසලතා සහගත සිතීමේ රටා ස්ථාපිත කරයි.",
+            "stress_reduction_mechanism": "යථාර්ථවාදී දැක්ම මගින් අවිනිශ්චිතතාවය අඩු කරන අතර, එමගින් Amygdala හි ක්‍රියාකාරිත්වය (Fear response) පාලනය වී ආතතිය හෙවත් Cortisol මට්ටම අඩු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Perceptual Reframing",
+            "Hierarchical Processing"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අවිනිශ්චිතතාවයෙන් පැහැදිලි දැක්ම සහ විශ්වාසය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "Clarification",
+                "Guidance",
+                "Foundation"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Foundation",
+                "parallel_description": "පුද්ගලයෙකුගේ හැසිරීම් සහ හැඟීම් වෙනස් කිරීමට පෙර ඔහුගේ මූලික විශ්වාසයන් සහ දැක්ම (Core Beliefs) නිවැරදි කළ යුතු බව පෙන්වා දෙයි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Samma Ditthi as the Forerunner",
+                "related_teachings": [
+                    "Mahacattarisaka Sutta",
+                    "Magga-vibhanga Sutta"
+                ],
+                "connection_type": "Thematic Consistency"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම සාර්ථකත්වයකට පෙර තමා කරන දෙය පිළිබඳව නිවැරදි අවබෝධය (සම්මා දිට්ඨිය) ඇති කර ගැනීම අත්‍යවශ්‍ය වේ.",
+        "daily_practice_steps": [
+            "තීරණ ගැනීමට පෙර තමා සතු දැක්ම යථාර්ථවාදී දැයි විමසා බැලීම.",
+            "ධර්ම ශ්‍රවණය සහ පිරික්සීම තුළින් තම වැරදි මත නිවැරදි කර ගැනීම.",
+            "එදිනෙදා ක්‍රියාවන්හිදී එම ක්‍රියාවේ අරමුණ සහ ප්‍රතිඵලය පිළිබඳව අවබෝධයෙන් යුක්ත වීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒකධම්මෝ භික්ඛවේ, බහුකාරෝ අරියස්ස අට්ඨංගිකස්ස මග්ගස්ස උප්පාදාය. කතමෝ ඒකධම්මෝ: යදිදං දිට්ඨිසම්පදා. දිට්ඨිසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, ආර්ය අෂ්ටාංගික මාර්ගය උපදවා ගැනීම පිණිස එක ධර්මයක් බොහෝ සෙයින් උපකාරී වෙයි. ඒ කවර එක ධර්මයක් ද යත්, එනම් නිවැරදි දැක්ම නමැති සම්පත්තිය ඇති බව යි. ….(පෙ)…. ආර්ය අෂ්ටාංගික මාර්ගය බහුල ව ප්‍රගුණ කරන්නේ මේ අයුරිනි."
+        }
+    ]
+}

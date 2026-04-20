@@ -1,0 +1,85 @@
+{
+    "nikaya": "චතුක්ක නිපාතෝ",
+    "vagga": "භය සුත්තං",
+    "sutta_title": "භය ගැන වදාළ දෙසුම",
+    "id": "8718",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංවේගය සහ අවබෝධය (Existential Insight)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "උපත, වයස්ගත වීම, ලෙඩ වීම සහ මරණය යන ජීවිතයේ නොවැලැක්විය හැකි ස්වභාවික භයයන් හතර පිළිබඳ විග්‍රහයකි.",
+        "long_summary": "මෙම දේශනාව මගින් ජීවිතයක අනිවාර්යයෙන්ම අත්විඳීමට සිදුවන මූලික භයයන් හතරක් පෙන්වා දෙයි. එනම් උපත ලැබීම (ජාති), වයස්ගත වීම (ජරා), රෝගී තත්ත්වයන්ට පත්වීම (ව්‍යාධි) සහ මරණයට පත්වීම (මරණ) යන කරුණු හතරයි. මේවා ජීවිතයේ ස්වභාවික කොටස් ලෙස හඳුනා ගැනීම මෙහි හරය වේ.",
+        "main_discovery": "උපත, ජරාව, ව්‍යාධිය සහ මරණය යන ස්වභාවික ධර්මතාවයන් පදනම් කරගත් නොවැලැක්විය හැකි භයයන් හතර පිළිබඳව අවබෝධය.",
+        "core_truth_of_sutta": "ජීවිතය යනු ස්වභාවයෙන්ම ජාති, ජරා, ව්‍යාධි, මරණ යන මූලික භයයන්ට යටත් වූවක් බව වටහා ගැනීම.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සතර භය (The Four Fears) - සත්වයා සංසාරයේ බැඳ තබන මූලික දුක්ඛයන් පිළිබඳ යථා අවබෝධය.",
+            "how_it_aids_liberation": "සංවේගය (Spiritual Urgency) ජනිත කිරීම මගින් අනිත්‍යය දැකීමටත්, භවය කෙරෙහි ඇති ආශාව (තණ්හාව) ප්‍රහීණ කිරීමටත් මග පාදයි.",
+            "practical_renunciation": "ශරීරය සහ ජීවිතය කෙරෙහි ඇති 'මමය' යන හැඟීම සහ අමරණීයත්වයේ මායාව (Permanence delusion) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "මරණ බය (Thanatophobia)",
+                "ජීවිතය පිළිබඳ ආශාව (Will to live)",
+                "අනිත්‍යය පිළිගැනීම (Radical Acceptance)"
+            ],
+            "cognitive_impact": "අනාගතයේ සිදුවන ස්වභාවික හායනයන් (Aging/Sickness) ගැන ඇතිවන අතාර්කික බිය (Anxiety) යථාර්ථවාදී අවබෝධයක් බවට පරිවර්තනය කිරීම (Cognitive Restructuring).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන ජීවිතයේ වේදනාකාරී යථාර්ථයන් පිළිගැනීමේ (Acceptance) ක්‍රියාවලියට මෙය අතිශය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Amygdala (Fear response)",
+                "Prefrontal Cortex (Regulation)",
+                "Default Mode Network (Self-referential thought)"
+            ],
+            "neuroplasticity_and_habit": "භය ඇති කරන උත්තේජක (මරණය/ලෙඩවීම) පිළිබඳ නිරන්තර මෙනෙහි කිරීම (Mindfulness) මගින් එම උත්තේජක වලට මොළය දක්වන අධි-ප්‍රතිචාරී බව (Hyper-reactivity) අඩු වී නව ස්නායුක මාර්ග (Neural pathways) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "යථාර්ථය පිළිගැනීම නිසා Amygdala හි ක්‍රියාකාරිත්වය අඩුවන අතර Cortisol මට්ටම පාලනය වී මනස තුළ ස්ථාවර භාවයක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal of Aging",
+            "Mortality Salience",
+            "Threat Perception",
+            "Acceptance of Impermanence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Equanimity-based urgency)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ස්වභාවික භය හඳුනාගැනීමේ සිට යථාර්ථය පිළිගැනීම දක්වා.",
+            "mood_keywords": [
+                "යථාර්ථවාදී",
+                "නිරවුල්",
+                "සංවේගී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Existential Psychology (Terror Management Theory)",
+                "parallel_description": "මනුෂ්‍යයා තම මරණීය ස්වභාවය (Mortality) පිළිබඳ දැනුවත් වීම නිසා ඇතිවන මූලික භය සහ එයින් පලායාමට දරන උත්සාහය පිළිබඳ විද්‍යාත්මක විග්‍රහය මෙයට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ජරා-මරණ (Aging and Death)",
+                "related_teachings": [
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය (Dhammacakkappavattana Sutta)",
+                    "ජරා සූත්‍රය (Jara Sutta)"
+                ],
+                "connection_type": "ධර්මතා සමානත්වය"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෙඩ වීම සහ වයස්ගත වීම ජීවිතයේ ස්වභාවික ධර්මතාවයක් බව වටහාගෙන, ඒ පිළිබඳව අනවශ්‍ය ලෙස තැති නොගෙන වර්තමාන මොහොතේ අර්ථවත් ලෙස ජීවත් වීම.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම තමන් වයස්ගත වන බවත් ලෙඩ විය හැකි බවත් සිහිපත් කරන්න.",
+            "භය ඇතිවන අවස්ථාවලදී එය ජීවිතයේ ස්වභාවික ධර්මතාවයක් ලෙස උපේක්ෂාවෙන් දකින්න.",
+            "මරණය පිළිබඳ බිය මෙනෙහි කරමින් වර්තමාන මොහොතේ කුසල් දහම්හි යෙදීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඉමානි ඛෝ භික්ඛවේ චත්තාරි භයානීති.",
+            "sinhala": "මහණෙනි, මේ භය සතරකි. ඒ කවර සතරක් ද යත්; ඉපදීම නම් වූ භය ය. ජරාවට පත් වීම නම් වූ භය ය. රෝග වැළඳීම නම් වූ භය ය. මරණයට පත්වීම නම් වූ භය ය. මහණෙනි, මේ වනාහී භය සතර යි."
+        }
+    ]
+}

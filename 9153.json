@@ -1,0 +1,95 @@
+{
+    "nikaya": "චතුක්ක නිපාතෝ",
+    "vagga": "අරියවෝහාර සුත්තං",
+    "sutta_title": "ආර්ය ව්‍යවහාරය ගැන වදාළ දෙසුම",
+    "id": "9153",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ආර්ය ව්‍යවහාර (Noble Usage/Communication)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "සංවේදනයන් සහ මානසික අත්දැකීම් වාචිකව ප්‍රකාශ කිරීමේදී අනුගමනය කළ යුතු ආර්ය සම්මත සතරක් මෙහි විස්තර කෙරේ.",
+        "long_summary": "මෙම දේශනය මගින් සංවේදී අවයව (ඇස, කන, නාසය, දිව, කය) මගින් ලබාගන්නා අත්දැකීම් සහ මනසින් දැනගන්නා දේ වාචිකව ප්‍රකාශ කිරීමේදී අනුගමනය කළ යුතු 'ආර්ය ව්‍යවහාර' පද්ධතියක් ඉදිරිපත් කරයි. දුටු දේ දුටු ලෙසත්, ඇසූ දේ ඇසූ ලෙසත්, විඳි දේ විඳි ලෙසත්, දැනගත් දේ දැනගත් ලෙසත් නිවැරදිව ප්‍රකාශ කිරීම මෙහි හරයයි. මීට අමතරව පාපභික්ඛු, ආපත්ති, සික්ඛා ඇතුළු සූත්‍ර 11ක අනුපිළිවෙලක් ද මෙහි සඳහන් වේ.",
+        "main_discovery": "බාහිර ලෝකය සහ අභ්‍යන්තර සිත අවබෝධ කර ගැනීමේදී සහ එය ප්‍රකාශ කිරීමේදී භාවිත වන සත්‍ය ගවේෂණාත්මක 'ආර්ය ව්‍යවහාර' පද්ධතිය හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සංවේදන සහ මානසික දත්තයන් අසත්‍යයෙන් තොරව නිවැරදි ලෙස ව්‍යවහාර කිරීම (Communication of Perceived Reality) ආර්ය විනයෙහි මූලික පදනමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "මුසාවාදයෙන් තොර සත්‍යවාදී බව (Truthfulness) සහ සංවේදන දත්තයන් විකෘති නොකර අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "සංවේදනයන් පවතින ස්වභාවයෙන්ම හඳුනා ගැනීම (Yathabhuta nana) තුළින් මෝහය දුරු වී අවිද්‍යාව නැති වීමට මග පාදයි.",
+            "practical_renunciation": "යථාර්ථය පිළිබඳව ඇති මමත්වය හෝ වැරදි අර්ථකථන අත්හැර දැමීම මෙහිදී පුහුණු කෙරේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Sati (Mindfulness)",
+                "Sampajanna (Clear Comprehension)",
+                "Honesty"
+            ],
+            "cognitive_impact": "සංජානනමය විකෘතිතා (Cognitive Distortions) අවම කරමින් වාචික ප්‍රකාශන සහ අත්දැකීම් අතර ඇති පරතරය නැති කරයි.",
+            "modern_psychology_parallel": "CBT හි එන 'Reality Testing' හෝ ACT හි එන 'Cognitive Defusion' ක්‍රියාවලියට මෙය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Dorsolateral Prefrontal Cortex (Executive Control)",
+                "Broca's Area (Speech Production)",
+                "Sensory Cortex"
+            ],
+            "neuroplasticity_and_habit": "සත්‍යය පමණක් ප්‍රකාශ කිරීමේ පුහුණුව මගින් මොළයේ Prefrontal Cortex කලාපය ශක්තිමත් වී හදිසි ආවේගශීලී අසත්‍ය ප්‍රකාශ පාලනයට (Inhibitory control) මග පාදයි.",
+            "stress_reduction_mechanism": "යථාර්ථයට අනුකූලව ජීවත් වීම නිසා ඇතිවන මානසික සැහැල්ලුව මගින් Cortisol මට්ටම අඩු වී Amygdala හි අධික්‍රියාකාරීත්වය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Perceptual Processing",
+            "Verbal Coding",
+            "Sensory Integration",
+            "Conceptual Categorization"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 4,
+            "emotional_arc": "සංවේදනීය අවුල් සහගත බවින් මිදී ක්‍රමවත් වාචික හා මානසික විනයක් කරා යොමු වීම.",
+            "mood_keywords": [
+                "Clarity",
+                "Discipline",
+                "Objectivity"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Perceptual Cycle Theory",
+                "parallel_description": "බාහිර උත්තේජනයන් සංවේදන (Sensory inputs) ලෙස ලබාගෙන ඒවා සංජානනය කර (Perception) භාෂාත්මකව ප්‍රකාශ කිරීමේ ක්‍රියාවලිය ආර්ය ව්‍යවහාරයන්ට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Discipline in Speech and Mind",
+                "related_teachings": [
+                    "Paapabhikkhu Sutta",
+                    "Aapatti Sutta",
+                    "Sikkha Sutta",
+                    "Vohara Sutta"
+                ],
+                "connection_type": "Sequential/Thematic"
+            }
+        ],
+        "practical_takeaway_sinhala": "තමන් දකින, අසන හෝ දැනගන්නා දේ පවතින පරිදි විකෘති නොකර සත්‍යවාදීව ප්‍රකාශ කිරීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "යමක් ප්‍රකාශ කිරීමට පෙර 'මා මෙය ඇත්තටම දුටුවාද/ඇසුවාද?' යන්න සතිමත්ව පරීක්ෂා කිරීම.",
+            "සංවේදනයන් සහ තමන්ගේ අර්ථකථන (Interpretations) අතර වෙනස හඳුනා ගැනීම.",
+            "සූත්‍රයේ දක්වා ඇති ශික්ෂාවන් අනුගමනය කරමින් වාචික සංවරය ඇති කර ගැනීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චත්තාරෝමේ භික්ඛවේ අරියවෝහාරා. කතමේ චත්තාරෝ?",
+            "sinhala": "මහණෙනි, මේ ආර්ය ව්‍යවහාර සතරකි. ඒ කවර සතරක් ද යත්;"
+        },
+        {
+            "pali": "දිට්ඨේ දිට්ඨවාදිතා, සුතේ සුතවාදිතා, මුතේ මුතවාදිතා, විඤ්ඤාතේ විඤ්ඤාතවාදිතා.",
+            "sinhala": "දුටු දේ දුටු බව කියන්නේ වෙයි. ඇසූ දේ ඇසූ බව කියන්නේ වෙයි. ආඝ්‍රාණය කළ දේ ආඝ්‍රාණය කළ බව කියන්නේ වෙයි, අනුභව කළ දේ අනුභව කළ බව කියන්නේ වෙයි, ස්පර්ශය ලැබූ දේ ස්පර්ශය ලැබූ බව කියන්නේ වෙයි. සිතෙන් දැන ගත් දේ සිතෙන් දැන ගත් බව කියන්නේ වෙයි."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ චත්තාරෝ අරියවෝහාරාති.",
+            "sinhala": "මහණෙනි, මේ වනාහී ආර්ය ව්‍යවහාර සතර යි."
+        }
+    ]
+}

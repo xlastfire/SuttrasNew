@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "- වස්සික සූත්‍රයෝ",
+    "sutta_title": "- දෑසමන් ගැන වදාළ දෙසුම්",
+    "id": "5715",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ආර්ය අෂ්ටාංගික මාර්ගය (Noble Eightfold Path)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "මල් සුවඳ අතර දෑසමන් මල් සුවඳ අග්‍ර වන්නා සේ, සියලු කුසල ධර්මයන් අතර ආර්ය අෂ්ටාංගික මාර්ගය අග්‍රස්ථානය ගන්නා බව මෙම සූත්‍රය උගන්වයි.",
+        "long_summary": "ලොව පවතින විවිධ මල් සුවඳවල් අතරින් දෑසමන් මල් සුවඳ ශ්‍රේෂ්ඨතම වන්නා සේම, යම්තාක් කුසල ධර්මයන් පවතීද ඒ සියල්ල පරදවා ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රමුඛ වන බව බුදුරජාණන් වහන්සේ වදාරති. එබැවින් බුද්ධ ශ්‍රාවකයා විසින් සෙසු කුසලයන් පිළිබඳ අවබෝධය තබාගනිමින්ම, විමුක්තිය උදෙසා වූ මෙම අෂ්ටාංගික මාර්ගයම තෝරාගෙන එය තීව්‍ර ලෙසත්, බහුල ලෙසත් ප්‍රගුණ කිරීමේ (භාවනා) අත්‍යවශ්‍යතාවය මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "සියලු කුසල ධර්මයන් අභිබවා ආර්ය අෂ්ටාංගික මාර්ගය අග්‍රස්ථානය ගන්නා බව දෑසමන් මල් සුවඳ උපමාවෙන් තහවුරු කිරීම.",
+        "core_truth_of_sutta": "ආර්ය අෂ්ටාංගික මාර්ගය යනු සියලු කුසලයන්ගේ කූටප්‍රාප්තිය සහ විමුක්තියේ ඒකායන මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආර්ය අෂ්ටාංගික මාර්ගයේ අග්‍රගන්‍ය බව (Supremacy of the Noble Eightfold Path).",
+            "how_it_aids_liberation": "සෙසු කුසලයන් අතර අතරමං නොවී, දුක නැති කිරීමේ සෘජු මාවත වන අෂ්ටාංගික මාර්ගය කෙරෙහි අවධානය යොමු කරවීමෙන් විමුක්තිය වේගවත් කරයි.",
+            "practical_renunciation": "මාර්ගය ප්‍රගුණ කිරීමේදී ලෞකික බැඳීම් කෙරෙහි ඇති තෘෂ්ණාව අතහැරීම (Letting go of mundane attachments) සහ මාර්ගාංග කෙරෙහි සිත මෙහෙයවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ධර්ම විජය (Wholesome discernment)",
+                "ඒකාග්‍රතාවය (Focus)",
+                "අධිමොක්ඛ (Firm conviction)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු කුසල චේතනාවන් වඩාත් විධිමත් වූත්, ඉලක්කගත වූත් පද්ධතියකට (Systematic framework) ගොනු කිරීම මගින් තීරණ ගැනීමේ හැකියාව වැඩි දියුණු කරයි.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) තුළ ඉලක්කගත චර්යා වෙනස්කම් සඳහා භාවිතා කරන 'Hierarchical Goal Setting' ක්‍රමවේදය මෙහි කුසල් දහම් අතරින් අග්‍ර දහම තෝරාගැනීමට සමාන කළ හැකිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - ලිහිල් කිරීම",
+                "Executive Control Network (ECN) - සක්‍රීය කිරීම",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "ආර්ය අෂ්ටාංගික මාර්ගය 'බහුලීකතා' (Frequent practice) කිරීමේදී, මොළයේ පූර්ව මස්තිෂ්ක බාහිකයේ (Prefrontal Cortex) ස්නායුක සම්බන්ධතා ශක්තිමත් වී අකුසල් සහගත ස්වයංක්‍රීය ප්‍රතිචාර (Habitual loops) වෙනස් වේ.",
+            "stress_reduction_mechanism": "නිශ්චිත මාර්ගයක සිත පිහිටුවීම මගින් Amygdala හි අධි-ප්‍රතිචාරීතාවය පාලනය වී Cortisol මට්ටම අඩු වන අතර, එය මානසික සමබරතාවයට (Equanimity) හේතු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Hierarchical Classification",
+            "Pattern Recognition",
+            "Selective Attention",
+            "Value Attribution"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සැදැහැවත් ප්‍රසාදය (Serene Confidence)",
+            "emotional_intensity": 8,
+            "emotional_arc": "පෘථුල කුසලයන් කෙරෙහි වූ ඇගයීමේ සිට පරම නිශ්චිත ආර්ය මාර්ගය කෙරෙහි වූ ඒකාග්‍රතාවයට.",
+            "mood_keywords": [
+                "අග්‍රගන්‍ය",
+                "ප්‍රසාදජනක",
+                "නිශ්චිත",
+                "ගැඹුරු"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Peak-End Rule / Salience Bias",
+                "parallel_description": "මනස විසින් බොහෝ උත්තේජක අතරින් වඩාත් වැදගත් සහ උසස්ම (Salient) දෙයට ප්‍රමුඛතාවය ලබා දෙන ක්‍රියාවලිය මෙහි මල් සුවඳ උපමාවට සමානය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අග්‍ර ධර්ම (Supremacy of Teachings)",
+                "related_teachings": [
+                    "අග්ගප්පසාද සූත්‍රය",
+                    "ධම්මපද - මග්ග වග්ග"
+                ],
+                "connection_type": "ධර්මයේ උත්කෘෂ්ටභාවය තහවුරු කිරීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ විවිධ කුසල් කටයුතු අතරින් ඔබේ ප්‍රමුඛතාවය ආර්ය අෂ්ටාංගික මාර්ගය (නිවැරදි දැකීම, නිවැරදි සිතුවිලි ආදිය) ප්‍රගුණ කිරීම සඳහා යොදවන්න.",
+        "daily_practice_steps": [
+            "සෑම දිනකම උදෑසන තමාගේ දැකීම සහ සිතුවිලි ආර්ය මාර්ගයට අනුකූලදැයි විමසා බැලීම.",
+            "කුඩා කුසල් කටයුතු වලදී පවා එය නිවන හෝ මාර්ගාංග සම්පූර්ණ කිරීමට උපකාරී වන අයුරින් මෙහෙයවීම.",
+            "දවස පුරා සතිමත්භාවය (Right Mindfulness) පවත්වා ගැනීමට උත්සාහ කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, යේ කේචි පුප්ඵගන්ධා, වස්සිකං තේසං අග්ගමක්ඛායති. ඒවමේව ඛෝ භික්ඛවේ, ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, යම් සේ කිසියම් මල් සුවඳ ඇද්ද, ඒ මල් සුවඳ අතර දෑ සමන් මල් සුවඳ අග්‍ර යැයි කියනු ලැබේ. එසෙයින් ම මහණෙනි, යම්කිසි කුසල් දහම් ඇද්ද, ….(පෙ)…. මෙසේ ආර්ය අෂ්ටාංගික මාර්ගය බහුල ව ප්‍රගුණ කරයි."
+        }
+    ]
+}

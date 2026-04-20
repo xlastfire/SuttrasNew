@@ -1,0 +1,85 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "ආමකමංස සූත්‍රය",
+    "id": "15636",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Viriya (Effort) and Ethical Restraint",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "අමු මස් පිළිගැනීමෙන් වැළකෙන පිරිස ඉතා අල්ප බවත්, එම තත්ත්වයෙන් මිදී දුක නිරුද්ධ කිරීමට දැඩි වීර්යයක් අවශ්‍ය බවත් පෙන්වා දෙන සූත්‍රයකි.",
+        "long_summary": "ආමකමංස සූත්‍රය මගින් ලෝකයේ සත්වයන්ගේ ස්වභාවය පිළිබඳ සංසන්දනයක් ඉදිරිපත් කරයි. අමු මස් (ආමකමංස) පිළිගැනීමෙන් වැළකී සිටින පිරිස ඉතා සීමිත වන අතර, බහුතරය එවැනි අකුසල සහගත හෝ ලෞකික බැඳීම්වල ගැලී සිටිති. ජීවිතයේ සැබෑ ස්වභාවය අවබෝධ කර ගැනීමත්, දුක සහමුලින්ම නැති කරන නිවන සාක්ෂාත් කර ගැනීමත් උදෙසා සාමාන්‍ය ප්‍රවාහයට එරෙහිව යන අතිශය දැඩි වීර්යයක් සහ ප්‍රයත්නයක් අත්‍යවශ්‍ය බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "දුක නිරුද්ධ කිරීම සඳහා අත්‍යවශ්‍ය වන දුර්ලභ වූ ශීලමය සංවරය සහ ඒ සඳහා අවශ්‍ය වන අධිෂ්ඨානශීලී වීර්යය හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "නිර්වාණගාමී මාර්ගය යනු බහුතරයක් අනුගමනය කරන ස්වභාවයෙන් බැහැර වූ, දැඩි වීර්යයකින් යුතුව සපුරා ගත යුතු දුර්ලභ ශීලමය සහ ප්‍රඥාමය ක්‍රියාවලියකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අකුසලයෙන් වැළකීම (සීල) සහ එම මාර්ගයේ ස්ථාවරව සිටීමට අවශ්‍ය වන වීර්යය (විරිය).",
+            "how_it_aids_liberation": "සත්වයා සංසාරයට බඳින 'ආමකමංස' වැනි ලෞකික ඇලීම්වලින් මිදීම තුළින් තෘෂ්ණාව ප්‍රහීණ කර දුක නිරෝධ කිරීමට මග පාදයි.",
+            "practical_renunciation": "සමාජය සාමාන්‍යයෙන් අනුමත කරන නමුත් අධ්‍යාත්මික පිරිහීමට හේතු වන 'අමු මස් පිළිගැනීම' වැනි ක්‍රියාවලින් ස්වයංව වැළකීම පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "වීර්යය (Effort)",
+                "අප්‍රමාදය (Heedfulness)",
+                "සංවරය (Restraint)"
+            ],
+            "cognitive_impact": "සමාජ සම්මතයන් (Social norms) මත පදනම් නොවී තමාගේ සදාචාරාත්මක මාලිමාව (Moral compass) අනුව තීරණ ගැනීමේ හැකියාව වර්ධනය කරයි.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) තුළ හැසිරීම් වෙනස් කිරීම සඳහා යොදාගන්නා Impulse Control තාක්ෂණයන් මෙහි සංවරය ප්‍රගුණ කිරීමට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "දැඩි වීර්යය මගින් මොළයේ 'Top-down control' ශක්තිමත් වන අතර, අකුසලයට නැඹුරු පැරණි ස්නායුක රටා (Habitual loops) වෙනස් කර නව කුසලතාවාදී ස්නායුක පථ (Neuroplasticity) ගොඩනැගීමට උපකාරී වේ.",
+            "stress_reduction_mechanism": "වීර්යය මගින් අත්කර ගන්නා මානසික විනය, බිය සහ ආතතිය ඇති කරන Amygdala හි ක්‍රියාකාරිත්වය පාලනය කරමින් චිත්තවේගීය ස්ථාවරත්වය (Emotional regulation) ලබා දෙයි."
+        },
+        "cognitive_mechanisms": [
+            "Ethical Decision Making",
+            "Inhibitory Control",
+            "Cognitive Dissonance Reduction",
+            "Selective Attention"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Urgency (සංවේගය)",
+            "emotional_intensity": 8,
+            "emotional_arc": "නිර්වාණගාමී මාර්ගය කෙරෙහි දැඩි උනන්දුවක් සහ වීර්යයක් ඇති කරවන ස්වරූපයකි.",
+            "mood_keywords": [
+                "Determination",
+                "Discipline",
+                "Clarity"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Conformity and Minority Influence",
+                "parallel_description": "බහුතරයක් පිරිස (Majority) පොදු සම්මත හෝ තෘෂ්ණාධික ක්‍රියාවල නිරත වෙද්දී, සුළුතරයක් පිරිස (Minority) ඉන් බැහැරව ශික්ෂණයක යෙදීම මෙහි දැක්වෙන 'අල්ප වූ සත්ව' සංකල්පයට සමානය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Appamada (Heedfulness)",
+                "related_teachings": [
+                    "Dhammapada - Appamada Vagga",
+                    "Maha-parinibbana Sutta"
+                ],
+                "connection_type": "Thematic reinforcement of urgency in practice"
+            }
+        ],
+        "practical_takeaway_sinhala": "බහුතරය යන මග නොබලා, දුකෙන් මිදීම සඳහා අවශ්‍ය වන සදාචාරාත්මක හික්මීම සහ අභ්‍යන්තර වීර්යය අදම ආරම්භ කරන්න.",
+        "daily_practice_steps": [
+            "අන් අය අනුගමනය කරන පමණින් අකුසල සහගත දේට පෙළඹීමෙන් වළකින්න.",
+            "දිනපතා තමාගේ සිල්වත්භාවය පරීක්ෂා කර බැලීමට සුළු වේලාවක් වෙන් කරන්න.",
+            "කුසල් වැඩීමේදී ඇති වන පසුබෑම පාලනය කිරීමට 'වීර්යය' නමැති අධිෂ්ඨානය පුහුණු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ ආමකමංසපටිග්ගහණා පටිවිරතා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ ආමකමංසපටිග්ගහණා අප්පටිවිරතා ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ අමු මස් පිළිගැනීමෙන් වැළකී සිටිත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ අමු මස් පිළිගැනීමෙන් නොවැළකී සිටිත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "nikaya": "තිස්ස තෙරුන්ගේ ගාථාව",
+    "vagga": "තිස්සත්ථේරගාථා",
+    "sutta_title": "",
+    "id": "15342",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Viriya and Mindfulness (Sati)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කාමරාගය යනු හිස ගිනි ගැනීමක් හෝ බරපතල තුවාලයක් ලෙස සලකා, උපරිම සිහියෙන් හා වීර්යයෙන් එය වහාම ප්‍රහීණ කළ යුතුය.",
+        "long_summary": "සිතෙහි නිරන්තර අවධානය යොමු කිරීමෙන් සංස්කාර ලෝකය දුරු කිරීමේ වැදගත්කම මෙහි අවධාරණය කෙරේ. ආයුධයකින් තුවාල ලැබූවෙකු වහාම බෙහෙත් සොයන්නා සේත්, හිස ගිනිගත් අයෙකු එම ගින්න වහාම නිවීමට දැඩි වෙහෙසක් ගන්නා සේත්, භික්ෂුවක් (යෝගාවචරයෙක්) තම සිතෙහි ඇති වන කාමරාගය මුලිනුපුටා දැමීමට උපරිම වීර්යය සහ සතිය (Mindfulness) පවත්වා ගත යුතුය. කාමරාගය යනු ශරීරයට සිදුවන මාරාන්තික තුවාලයක් හෝ ගින්නක් බඳු විපතක් ලෙස මෙහි අර්ථ දක්වා ඇත.",
+        "main_discovery": "කාමරාගය (Sensual Desire) යනු හදිසි වෛද්‍ය ප්‍රතිකාර අවශ්‍ය වන බරපතල තුවාලයක් හෝ ගින්නක් ලෙස හඳුනාගෙන, එය දුරු කිරීමට උපරිම වීර්යය සහ සතිය යෙදවීම.",
+        "core_truth_of_sutta": "කාමරාගය යනු පමා නොවී වහාම නිවා දැමිය යුතු දැවෙන ගින්නකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කාමරාගය ප්‍රහීණ කිරීම (Eradication of Sensual Lust).",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ ඇලීම හදිසි අනතුරක් ලෙස දැකීමෙන්, භව ගමන නතර කිරීමට අවශ්‍ය 'සංවේගය' සහ 'අප්‍රමාදය' ජනිත කරවයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය පිනවීමට ඇති ආශාව තුවාලයක් ලෙස සලකා, එයට ප්‍රතිකාර කිරීම (සිහිය පිහිටුවීම) මගින් බැඳීම් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාමරාගය (Sensual Desire)",
+                "සතිය (Mindfulness)",
+                "වීර්යය (Effort)",
+                "ප්‍රජානනය (Appraisal)"
+            ],
+            "cognitive_impact": "කාමරාගය 'සතුටක්' ලෙස දකින සාමාන්‍ය සංජානනය (Perception), 'තුවාලයක්' හෝ 'ගින්නක්' ලෙස ප්‍රතිසංස්කරණය (Reframing) කිරීම මගින් හැසිරීම් වෙනස් කිරීම.",
+            "modern_psychology_parallel": "Cognitive Reframing සහ Impulse Control Therapy (පෙළඹවීම් පාලනය කිරීමේ ප්‍රතිකාර)."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Salience Network (වැදගත්කම හඳුනාගැනීම)",
+                "Prefrontal Cortex (විධායක පාලනය)",
+                "Amygdala (තර්ජන හඳුනාගැනීම)"
+            ],
+            "neuroplasticity_and_habit": "කාමරාගය 'අනතුරක්' ලෙස පුන පුනා සිතීමෙන් (Mental rehearsal), ලිම්බික් පද්ධතියේ (Limbic system) ඇති වන ක්ෂණික තෘප්ති අවශ්‍යතාවය පාලනය කිරීමට ප්‍රීෆ්‍රොන්ටල් කෝටෙක්ස් (PFC) ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "හිස ගිනි ගත් කලෙක මෙන් සියලු අවධානය එක් අරමුණක පිහිටුවීමෙන් (Focused Attention), අනවශ්‍ය මානසික විසිරීම් (DMN activity) අවම වී මානසික ඒකාග්‍රතාවය වර්ධනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Focus",
+            "Cognitive Urgency",
+            "Metaphorical Framing",
+            "Inhibition of Impulsive Drives"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Urgency (සංවේගය/හදිසි බව)",
+            "emotional_intensity": 9,
+            "emotional_arc": "විපතක් හඳුනාගැනීමේ සිට එය වහාම නිවා දැමීමට අවශ්‍ය දැඩි උත්සාහය දක්වා.",
+            "mood_keywords": [
+                "හදිසි බව",
+                "අවධානය",
+                "දැඩි උත්සාහය",
+                "සිහිබුද්ධිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Emergency Motivation System",
+                "parallel_description": "හිස ගිනි ගත් අයෙකුගේ උපමාව, මොළයේ ඇති වන තර්ජනයකට (Threat) එරෙහිව ක්‍රියාත්මක වන ප්‍රමුඛතාවය ලබා දීමේ පද්ධතියට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Appamada (අප්‍රමාදය)",
+                "related_teachings": [
+                    "Adittapariyaya Sutta",
+                    "Satipatthana Sutta"
+                ],
+                "connection_type": "Thematic Urgency"
+            }
+        ],
+        "practical_takeaway_sinhala": "සිතේ ඇතිවන ඕනෑම කෙලෙස් සහගත ආශාවක්, තමන්ගේ ඇඟේ ගින්නක් ඇවිලෙනවා වැනි බරපතල අනතුරක් ලෙස සලකා වහාම ඉන් ඉවත් වීමට සිහිය පිහිටුවා ගන්න.",
+        "daily_practice_steps": [
+            "සිතේ රාගයක් හෝ තද ආශාවක් ඇති වූ සැණින් එය 'තුවාලයක්' ලෙස හඳුනාගන්න (Identification).",
+            "එම ආශාව නිසා ඇතිවන මානසික පීඩනය (ගින්න) නිරීක්ෂණය කරන්න (Observation).",
+            "වෙනත් විනෝදාංශ වලට නොගොස්, එම මොහොතේම සිහියෙන් යුතුව එම සිතුවිල්ල දෙස බලා සිට එය දුරු කරන්න (Urgent Dismissal).",
+            "නිරන්තරයෙන් සිත දෙස අවධානයෙන් සිටීම පුරුද්දක් කරගන්න (Continuous Vigilance)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සත්තියා විය ඕමට්ඨෝ ඩය්හමානෝ’ව මත්ථකේ\nකාමරාගප්පහානාය සතෝ භික්ඛු පරිබ්බජේ’ති",
+            "sinhala": "ආයුධයෙන් පහර ලැබුණ කෙනෙක් වහ වහා බෙහෙත් සොයා ගෙන යනව වගේ, හිස ගිනි ගත්ත කෙනා වහ වහා ඒ ගින්න නිවන විදිහට ම යි මහන්සි වෙන්ට ඕනෙ. භික්ෂුවත් ඉතා හොඳින් සිහිය පිහිටුවාගෙන මේ කාමරාගය නැති කර දමන්නට මහන්සි වෙන්ට ඕනෙ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා තිස්සෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් තිස්ස නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

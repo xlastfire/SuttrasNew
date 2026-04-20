@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "නීත තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15388",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සම්මා දිට්ඨි සහ ප්‍රඥා (Right View and Wisdom)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "භෞතික සැප සහ සමාජීය ඇසුරෙන් පමණක් සෑහීමකට පත් නොවී, සංසාර දුක අවසන් කිරීමේ සැබෑ නුවණ විමසන දේශනාවකි.",
+        "long_summary": "රාත්‍රී කාලයේ නිදාගැනීම, දහවල් කාලය ගත කිරීම සහ පිරිස සමඟ එක්ව කාලය ගෙවීම පමණක් සැබෑ නුවණ නොවන බවත්, සංසාරයේ පවත්නා අතිශය දුක්ඛිත ස්වභාවය අවසන් කිරීමේ මාර්ගය සොයා ගැනීම සැබෑ ප්‍රඥාව බවත් මෙම දේශනාව අවධාරණය කරයි. රහත් මුනිඳුන්ගේ ප්‍රකාශයක් ලෙස ඉදිරිපත් වන මෙය, ජීවිතයේ මූලික අරමුණ සංසාර විමුක්තිය විය යුතු බව පෙන්වා දෙයි.",
+        "main_discovery": "භෞතික පැවැත්මේ සාමාන්‍ය ක්‍රියාවලිය (නින්ද සහ සමාජශීලීත්වය) ඉක්මවා ගිය සංසාර විමුක්තිය උදෙසා වන ප්‍රඥාවේ අවශ්‍යතාවය.",
+        "core_truth_of_sutta": "සාමාන්‍ය ලෞකික චර්යාවන්ගෙන් ඔබ්බට ගොස් සංසාර දුක කෙළවර කරන ප්‍රඥාව උදාකර ගැනීම ජීවිතයේ පරම අවශ්‍යතාවයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "භව නිරෝධය සහ ප්‍රඥා භාවනාව.",
+            "how_it_aids_liberation": "හුදෙක් ජීව විද්‍යාත්මක පැවැත්මේ ඇලී සිටීමෙන් (Samsaric cycle) මිදී, දුක පිළිබඳ යථාර්ථය විමසීම හරහා තෘෂ්ණාව ප්‍රහීණය කිරීමට මග පාදයි.",
+            "practical_renunciation": "සමූහයා සමඟ කාලය නාස්ති කිරීමෙන් (පැපංච) සහ අධික නින්දෙන් මිදී විවේකය සහ විදර්ශනාව පුරුදු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "මෝහය (Delusion)",
+                "ප්‍රඥාව (Wisdom)",
+                "සාමාජීය ඇලීම (Social Attachment)"
+            ],
+            "cognitive_impact": "ස්වයංක්‍රීය චර්යාවන් (Automatic behaviors) පිළිබඳව ප්‍රශ්න කිරීම මගින් සිතේ පවත්නා 'අවිද්‍යා' සහගත රටා බිඳ දමයි (Cognitive Reframing).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'පෞද්ගලික අගයයන් හඳුනාගැනීම' (Values Clarification) හරහා අර්ථවත් ජීවිතයක් කරා යොමු වීම මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Ascending Reticular Activating System (ARAS)"
+            ],
+            "neuroplasticity_and_habit": "හුදු පුරුද්දට කරන ක්‍රියාවලින් (Basal Ganglia dominance) බැහැර වී, විඥානික අවධානය (PFC) යොමු කිරීම හරහා මොළයේ නව ස්නායුක සම්බන්ධතා ගොඩනැගීම (Neuroplasticity) උත්තේජනය වේ.",
+            "stress_reduction_mechanism": "ජීවිතයේ අනිත්‍යතාවය සහ සංසාර දුක තේරුම් ගැනීමෙන්, අනාගතය පිළිබඳ පවතින අනියත බිය (Amygdala activity) පාලනය වී උපේක්ෂාව වර්ධනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Metacognition",
+            "Existential Inquiry",
+            "Pattern Recognition Break"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgancy/Samvega)",
+            "emotional_intensity": 8,
+            "emotional_arc": "සාමාන්‍ය ලෞකික සැපයෙන් මිදී ගැඹුරු විමර්ශනාත්මක විමුක්තියක් කරා යොමු වීම.",
+            "mood_keywords": [
+                "අවදිමත් බව",
+                "විරාගී බව",
+                "ගැඹුරු විමර්ශනය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Actualization vs Biological Maintenance",
+                "parallel_description": "Maslow ගේ අවශ්‍යතා ධූරාවලියට අනුව මූලික ජීව විද්‍යාත්මක අවශ්‍යතා (නින්ද, ආහාර) සහ සමාජ අවශ්‍යතා සපුරා ගැනීමෙන් පමණක් පුද්ගලයෙකු පූර්ණ නොවන බවත්, ඉන් ඔබ්බට ගිය අර්ථයක් (Self-transcendence) සෙවිය යුතු බවට ඇති අදහස මෙයට සමාන වේ.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සංසාර දුක අවසන් කිරීම",
+                "related_teachings": [
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය",
+                    "රතන සූත්‍රය"
+                ],
+                "connection_type": "අවසාන ඉලක්කය පිළිබඳ එකඟතාවය"
+            }
+        ],
+        "practical_takeaway_sinhala": "නින්දට සහ විනෝදයට පමණක් කාලය නොදමා, දවසේ යම් කාලයක් ජීවිතයේ අරමුණ සහ දුකෙන් මිදෙන මග ගැන සිතීමට යොදාගන්න.",
+        "daily_practice_steps": [
+            "දිනපතා නින්දට පෙර සහ අවදි වූ පසු ජීවිතයේ අස්ථිර බව මෙනෙහි කරන්න.",
+            "පිරිස සමඟ කරන හිස් කතාබහ (සම්ඵප්පලාප) අවම කර සතිමත් බව පුරුදු කරන්න.",
+            "සෑම ක්‍රියාවකදීම මෙය සංසාර දුකෙන් මිදීමට උපකාරී වන්නේ කෙසේදැයි විමසන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සබ්බරත්තිං සුපිත්වාන දිවා සංගණිකේ රතෝ\nකුදස්සු නාම දුම්මේධෝ දුක්ඛස්සන්තං කරිස්සතී’ති",
+            "sinhala": "මුළු රාත්‍රියේ ම හොඳට නිදාගෙන, දවල් කාලය තිස්සේ ම පිරිසත් එක්ක එකතුවෙලා කල් ගෙවයි නම්, එයාට නුවණක් නෑ. ඉතින් එයා කවදාද මේ සංසාර දුක අවසන් කරන්නේ?"
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා නීතෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් නීත නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

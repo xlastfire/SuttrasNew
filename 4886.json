@@ -1,0 +1,96 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "අනිච්චඡන්ද සුත්තං",
+    "sutta_title": "අනිත්‍ය දේ කෙරෙහි ඇති ඡන්දය දුරු කිරීම ගැන වදාළ දෙසුම",
+    "id": "4886",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍යතා අනුපස්සනා (Contemplation of Impermanence)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ඇස ප්‍රමුඛ ආයතන හය අනිත්‍ය බව අවබෝධ කරගෙන, ඒවා කෙරෙහි ඇති ආශාව (ඡන්දය) අත්හැරිය යුතු බව මෙම සූත්‍රය උගන්වයි.",
+        "long_summary": "මෙම දේශනාව මගින් පුද්ගලයාගේ අත්දැකීම්වලට පාදක වන ඇස, කන, නාසය, දිව, කය සහ මනස යන සියලු මානසික හා භෞතික අංගයන්හි පවතින අනිත්‍ය ස්වභාවය පෙන්වා දෙයි. අනිත්‍ය වූ යමක් ඇත්ද, ඒ කෙරෙහි පවතින ඇල්ම හෝ කැමැත්ත (ඡන්දය) දුරු කළ යුතු බව මෙහි ප්‍රධාන උපදේශයයි. සංස්කාරයන්ගේ වෙනස් වන සුළු බව වටහා ගැනීම තුළින් ඇතිවන ප්‍රහාණය, සත්‍ය අවබෝධය සහ විමුක්තිය සඳහා අත්‍යවශ්‍ය පදනම වන බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "අභ්‍යන්තර ආයතන (ඇස, කන, නාසය, දිව, කය, මනස) අනිත්‍ය බව දැක ඒවා කෙරෙහි පවතින ඡන්දය හෙවත් ඇල්ම (Desire) ප්‍රහාණය කිරීම විමුක්තියේ මගයි.",
+        "core_truth_of_sutta": "සියලු ආයතන අනිත්‍ය බැවින්, එම අනිත්‍ය දේ කෙරෙහි පවතින මානසික ඇල්ම (ඡන්ද රාගය) ප්‍රහාණය කිරීමම දුක කෙළවර කිරීමේ මාර්ගයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනිච්ච සඤ්ඤාව (Perception of Impermanence) වැඩීම.",
+            "how_it_aids_liberation": "වස්තූන් කෙරෙහි පවතින උපාදානය (Clinging) ලිහිල් කිරීම මගින් භව ගමන නතර කිරීමට උපකාරී වේ.",
+            "practical_renunciation": "ආයතන මගින් ලබන අත්දැකීම් තමාගේ හෝ නිත්‍ය දේ ලෙස නොගෙන, ඒවායේ නැසෙන සුළු බව දැක ඇල්ම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්දය (Desire/Lust)",
+                "අනිත්‍යාවබෝධය (Insight into impermanence)",
+                "ප්‍රහාණය (Elimination of attachment)"
+            ],
+            "cognitive_impact": "යථාර්ථය වටහා ගැනීම හරහා 'මම, මගේ' යන මමත්වයේ දැඩි බැඳීම (Ego-identity) ලිහිල් වේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි අන්තර්ගත වන 'Cognitive Defusion' හෙවත් සිතුවිලි හා හැඟීම් සමඟ ඇති අනන්‍යතාවය බිඳ දැමීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Insula"
+            ],
+            "neuroplasticity_and_habit": "ඡන්දය ප්‍රහාණය කිරීමේදී මොළයේ Reward System එක (Dopaminergic pathways) වෙනස් වන අතර, අනිත්‍යතාව මෙනෙහි කිරීමේදී DMN ජාලයේ ක්‍රියාකාරිත්වය අඩුවී මමත්වය පිළිබඳ හැඟීම (Self-referential processing) ක්ෂය වේ.",
+            "stress_reduction_mechanism": "අනිත්‍යතාව පිළිගැනීම මගින් අමිග්ඩලා (Amygdala) මගින් ඇති කරන බිය සහ ආතතිය පාලනය වේ (Cortisol reduction)."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Attentional Control",
+            "Pattern Recognition of Change",
+            "Disidentification"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය සහ උපේක්ෂාව (Equanimity through Urgency)",
+            "emotional_intensity": 8,
+            "emotional_arc": "බැඳීමෙන් ඇතිවන පීඩනයෙන් (Stress) මිදී අත්හැරීමේ සහනය (Liberation) කරා.",
+            "mood_keywords": [
+                "Detachment",
+                "Clarity",
+                "Peace",
+                "Urgency"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අනිත්‍ය දේ නිත්‍ය ලෙස දැකීමේ වැරදි සහගත සංජානනය (Cognitive Distortion) නිවැරදි කිරීම හරහා දුක පාලනය කිරීම.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Experience-Dependent Neuroplasticity",
+                "parallel_description": "අනිත්‍යතාව නිරතුරුව මෙනෙහි කිරීමෙන් මොළයේ පවතින ඇබ්බැහිවීම් රටා (Neural pathways of craving) දුර්වල කර නව ස්නායුක සම්බන්ධතා ඇති කිරීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ආයතන අනිත්‍යතාව (Impermanence of the Sense Bases)",
+                "related_teachings": [
+                    "සළායතන සංයුත්තය (Salayatana Samyutta)",
+                    "අනිච්ච සූත්‍රය (Anicca Sutta)"
+                ],
+                "connection_type": "Direct doctrinal overlap"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකයේ කිසිවක් සදාකාලික නොවන බවත්, එබැවින් වෙනස් වන දේ මත සතුට පදනම් කර නොගෙන බැඳීම් ලිහිල් කර ජීවත් වීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ මොහොතේ සිට පසිඳුරන්ගෙන් ලබන අත්දැකීම් (රූප, ශබ්ද ආදිය) වෙනස් වන සුළු බව සිහි කරන්න.",
+            "යම් වස්තුවක් හෝ පුද්ගලයෙක් කෙරෙහි දැඩි ඇල්මක් ඇති වූ විට, එහි අනිත්‍යතාව ගැන ස්වයං විමර්ශනයක යෙදෙන්න.",
+            "අත්හැරීම තුළින් දැනෙන මානසික සැහැල්ලුව (Mental freedom) නිරීක්ෂණය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං....",
+            "sinhala": "සැවැත් නුවර දී ……"
+        },
+        {
+            "pali": "යං භික්ඛවේ අනිච්චං, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ. කිඤ්ච භික්ඛවේ අනිච්චං: චක්ඛුං භික්ඛවේ අනිච්චං, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ. සෝතං අනිච්චං ....(පෙ).... ඝානං අනිච්චං ....(පෙ).... ජිව්හා අනිච්චා ....(පෙ).... කායෝ අනිච්චෝ ....(පෙ).... මනෝ අනිච්චෝ, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝ. යං භික්ඛවේ අනිච්චං, තත්‍ර වෝ ඡන්දෝ පහාතබ්බෝති.",
+            "sinhala": "පින්වත් මහණෙනි, අනිත්‍ය වූ යමක් ඇත්ද, ඒ කෙරෙහි ඔබගේ ඇති කැමැත්තයි ප්‍රහාණය කළ යුත්තේ. පින්වත් මහණෙනි, අනිත්‍ය දේ යනු කුමක්ද? පින්වත් මහණෙනි, ඇස අනිත්‍යයි. ඒ කෙරෙහි ඔබගේ ඇති කැමැත්තයි ප්‍රහාණය කළ යුත්තේ. කන අනිත්‍යයි ….(පෙ)…. නාසය අනිත්‍යයි ….(පෙ)…. දිව අනිත්‍යයි ….(පෙ)…. කය අනිත්‍යයි ….(පෙ)…. මනස අනිත්‍යයි. ඒ කෙරෙහි ඔබගේ ඇති කැමැත්තයි ප්‍රහාණය කළ යුත්තේ. පින්වත් මහණෙනි, අනිත්‍ය වූ යමක් ඇත්ද, ඒ කෙරෙහි ඔබගේ ඇති කැමැත්තයි ප්‍රහාණය කළ යුත්තේ."
+        }
+    ]
+}

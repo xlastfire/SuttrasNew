@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "පරිපුණ්ණකත්ථේරගාථා",
+    "sutta_title": "",
+    "id": "15395",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අමා නිවන් රසය (The Essence of Nibbana)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ලෞකික හෝ දිව්‍යමය භෝජනයන්ගෙන් ලැබිය නොහැකි අසමසම අමා නිවන් රසය සහ එහි ඇති ලෝකෝත්තර ශාන්තිය පිළිබඳව කෙරෙන පැහැදිලි කිරීමකි.",
+        "long_summary": "ගෞතම බුදුරජාණන් වහන්සේ විසින් දේශිත, පරිපුණ්ණක රහත් මුනිඳුන් ගාථා මගින් තහවුරු කළ මෙම ධර්මය තුළින් ලෞකික ලෝකයේ හෝ දිව්‍ය ලෝකවල පවතින කිසිදු සැප සම්පතකින් හෝ භෝජනයකින් ලබාගත නොහැකි අසීමිත අමා නිවන් රසය පිළිබඳව විස්තර කෙරේ. සංසාරික සැපයන්ට වඩා අතිශය උතුම් වූ මෙම විමුක්ති සැපයෙහි පවතින සත්‍ය ස්වභාවයත්, එමඟින් ලැබෙන ලෝකෝත්තර ශාන්තියත් මෙහි මූලික හරයයි.",
+        "main_discovery": "ලෞකික සහ දිව්‍යමය සැපයන්ට වඩා අතිශය උතුම් වූ, අසීමිත වූ අමා නිවන් රසයේ ශාන්ත බව.",
+        "core_truth_of_sutta": "සියලු ලෞකික සැපයන් ඉක්මවා ගිය අසමසම සහ අකම්පිත සුවය වන්නේ අමා නිවන් රසයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ලෝකෝත්තර විමුක්ති රසය (Supramundane Bliss).",
+            "how_it_aids_liberation": "සංසාරික සැපයන්හි ඇති අස්ථිර බව සහ නිසරු බව වටහා දී, පරම නිශ්චලතාවය කෙරෙහි සිත යොමු කරවීමෙන්.",
+            "practical_renunciation": "ලෞකික ආශ්වාදයන් (Sensory Gratification) කෙරෙහි ඇති තෘෂ්ණාව අතහැර නිරාමිස සුවය විඳීමට හුරුවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමුක්ති සුවය",
+                "නිරාමිස සතුට",
+                "උපේක්ෂාව"
+            ],
+            "cognitive_impact": "බාහිර වස්තූන් මත රඳා පවතින සතුට (Extrinsic reward) වෙනුවට අභ්‍යන්තර සාමය (Intrinsic peace) අගය කිරීමට මනස හැඩගැස්වීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන අගයන් (Values) මත පදනම් වූ ජීවිතයක් සහ තාවකාලික ආවේගයන්ගෙන් මිදීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Ventral Striatum modulation",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ලෞකික ආශාවන් පසුපස හඹායන මොළයේ Reward Circuitry පද්ධතිය ප්‍රශමනය වී, ස්ථිර මානසික තැන්පත්භාවය ඇති කරන නව ස්නායුක පථ (Neural pathways) ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "නිවන් රසයේ ශාන්තභාවය මගින් Amygdala හි ක්‍රියාකාරීත්වය අඩු කර Cortisol මට්ටම පහත හෙළමින් ගැඹුරු ස්නායුක ලිහිල් වීමක් (Deep neural relaxation) ඇති කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal (තක්සේරුකරණය)",
+            "Comparison of Hedonic vs Eudaimonic Wellbeing",
+            "Attentional Focus shift (අවධානය යොමු කිරීමේ වෙනස)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "ලෞකික ආශාවන්ගෙන් මිදී පරම විමුක්ති රසය කරා යොමු වීම.",
+            "mood_keywords": [
+                "අකම්පිත",
+                "ශාන්ත",
+                "නිරාමිස",
+                "අසමසම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Eudaimonia vs Hedonia",
+                "parallel_description": "ලෞකික ආහාර සහ සැප (Hedonia) කෙටි කාලීන වන අතර, නිවන් සැපය (Eudaimonia/Liberation) ස්ථිර සහ අර්ථවත් පරම සතුටක් ලබා දීම.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අමා නිවන (Deathless)",
+                "related_teachings": [
+                    "අමත පද"
+                ],
+                "connection_type": "ධර්ම රසය පිළිබඳ සංසන්දනය"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර දේවල් හෝ ආහාරපාන මගින් ලබන සතුට තාවකාලික බව වටහාගෙන, සිතේ සන්සුන්කම තුළින් ලැබෙන උතුම් සැනසීම අගය කරන්න.",
+        "daily_practice_steps": [
+            "බාහිර ආශ්වාදයන්ගෙන් ලැබෙන සතුටේ අනිත්‍ය බව මෙනෙහි කරන්න.",
+            "දිනකට සුළු වේලාවක් හෝ බාහිර ලෝකයෙන් මිදී සිතේ නිශ්චලතාවය අත්දකින්න (භාවනාව).",
+            "ලෞකික දේවලට දක්වන ඇලීම පාලනය කරමින් නිරාමිස සතුට පුරුදු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "න තථා‘මතං සතරසං සුධන්නං යං මයජ්ජ පරිභුත්තං\nඅපරිමිත දස්සිනා ගෝතමේන බුද්ධේන දේසිතෝ ධම්මෝ’ති",
+            "sinhala": "අද මා වළඳින්නේ අමා නිවන් රසය යි. එවැනි රසයක් මේ මිනිස් ලොව කිසිම ආහාරයක නෑ. දිව්‍ය ලෝකයේ ‘ක්‍ෂුධා’ භෝජනයේ වත් එවැනි රසයක් නෑ. අසීමිත අවබෝධයකින් යුතු ගෞතම බුදුසමිඳාණන් තමයි මේ අමා දහම් වදාළේ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා පරිපුණ්ණකෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් පරිපුණ්ණක නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

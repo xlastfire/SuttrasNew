@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "උත්තිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15333",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අප්‍රමාදය (Diligence/Heedfulness)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "රෝගී බව මධ්‍යයේ වුවද ජීවිතයේ අස්ථාවරත්වය පසක් කොට ගෙන, ප්‍රමාද නොවී ධර්මයේ හැසිරීමෙන් විමුක්තිය සලසා ගත හැකි බව මෙහි හරයයි.",
+        "long_summary": "ආයුෂ්මත් උත්තිය රහතන් වහන්සේ රෝගී වූ අවස්ථාවක, එම රෝගී බව පදනම් කරගෙන තමා තුළ සිහිනුවණ උපදවා ගත්හ. රෝගය නිසා තමාගේ ආයු කාලය හෝ ශක්තිය සීමිත බව වටහා ගන්නා උන්වහන්සේ, තවදුරටත් කල්පනා කරමින් කාලය නාස්ති නොකර වහාම ධර්මය ප්‍රගුණ කිරීමට තීරණය කළහ. අසනීපය යනු බාධාවක් නොව, නිවන කරා යන ගමන වේගවත් කරන උත්තේජකයක් ලෙස උන්වහන්සේ භාවිත කළ ආකාරය මෙහි විස්තර වේ.",
+        "main_discovery": "රෝගී බව හෝ මරණාසන්න තත්ත්වයක් වැනි අර්බුදකාරී මොහොතක පවා සිහිනුවණ (Awareness) උපදවා ගැනීමෙන් ධර්ම මාර්ගයෙහි ශීඝ්‍ර දියුණුවක් ලැබිය හැකි බව.",
+        "core_truth_of_sutta": "බාහිර හෝ අභ්‍යන්තර බාධක (රෝගී බව) ඉදිරියේ පසුබට නොවී, ඒවා අනිත්‍යය මෙනෙහි කිරීමට අවස්ථාවක් කරගෙන ධර්ම මාර්ගයේ යෙදීම.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "මරණානුස්සතිය සහ අප්‍රමාදය (Diligence).",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ අනිත්‍ය ස්වභාවය සෘජු අත්දැකීමක් ලෙස (රෝගය හරහා) දැකීමෙන් තෘෂ්ණාව සහ මමත්වය දුරු කිරීමට මග පාදයි.",
+            "practical_renunciation": "ශරීරය කෙරෙහි ඇති බැඳීම සහ ජීවත් වීමේ තෘෂ්ණාව අත්හැර පිරිසිදු විදර්ශනාවකට යොමු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සිහිනුවණ (Mindfulness)",
+                "වීර්යය (Effort)",
+                "කලකිරීම (Disenchantment)"
+            ],
+            "cognitive_impact": "අනාගතය පිළිබඳ අනවශ්‍ය කල්පනා (Rumination) නවත්වා වර්තමාන මොහොතේ සතිය (Present-moment focus) පිහිටුවීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) - වේදනාව පිළිගනිමින් වටිනාකම් මත පදනම් වූ ක්‍රියාමාර්ග ගැනීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Salience Network activation",
+                "Prefrontal Cortex regulation"
+            ],
+            "neuroplasticity_and_habit": "මරණාසන්න මොහොතක වුවද තීව්‍ර අවධානය (Focused attention) මගින් මොළයේ පැරණි සිතුවිලි රටා අභිබවා අලුත් ස්නායුක සම්බන්ධතා (Synaptic plasticity) ඇති කරගත හැක.",
+            "stress_reduction_mechanism": "අමිග්ඩලා (Amygdala) මගින් ජනනය කරන මරණ බිය, පූර්ව මස්තිෂ්කයේ (Prefrontal Cortex) තාර්කික මැදිහත් වීමෙන් පාලනය කර සන්සුන් මනසක් ඇති කිරීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal of Impermanence",
+            "Metacognitive Awareness",
+            "Attentional Focus shift"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgency)",
+            "emotional_intensity": 9,
+            "emotional_arc": "භීතියේ සිට අධිෂ්ඨානය සහ විමුක්තිය දක්වා",
+            "mood_keywords": [
+                "කලබලයකින් තොර අවධිය",
+                "අධිෂ්ඨානශීලී",
+                "ප්‍රායෝගික"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Post-Traumatic Growth (PTG)",
+                "parallel_description": "දරුණු අසනීපයක් වැනි කම්පන සහගත අත්දැකීමකින් පසුව පුද්ගලයෙකු සතු අධ්‍යාත්මික සහ මනෝවිද්‍යාත්මක පරිණතභාවය ශීඝ්‍රයෙන් වර්ධනය වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අප්‍රමාදය (Appamada)",
+                "related_teachings": [
+                    "මහා පරිනිබ්බාන සූත්‍රය",
+                    "ආදිත්ත සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම මාර්ගයේ හදිසි අවශ්‍යතාවය (Sense of urgency)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ අපහසු අවස්ථාවන් පවා පසුතැවිලි වීමට යොදා නොගෙන, ධර්මය අවබෝධ කරගැනීමට ලැබුණු අවස්ථාවක් ලෙස භාවිත කරන්න.",
+        "daily_practice_steps": [
+            "සුළු හෝ රෝගාබාධයක් වැළඳුණු විට එය අනිත්‍යය මෙනෙහි කිරීමට අවස්ථාවක් කරගන්න.",
+            "පසුතැවීම හෝ බිය වෙනුවට 'දැන් මා කුමක් කළ යුතුද?' යන ප්‍රශ්නය නගන්න.",
+            "දිනපතා සුළු වේලාවක් හෝ මරණානුස්සතිය වැඩීම මගින් ජීවිතයේ අස්ථාවරත්වය හුරු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ආබාධේ මේ සමුප්පන්නේ සති මේ උපපජ්ජථ\nආබාධෝ මේ සමුප්පන්නෝ කාලෝ මේ නප්පමජ්ජිතුන්ති",
+            "sinhala": "මට ලෙඩ වුණ ගමන් සිහිනුවණ ඉපදුණා. ‘මං දැන් ලෙඩ වෙලා ඉන්නෙ. දැන් ඉතින් පමා නො වී මේ ධර්මයේ හැසිරෙන්ට යි කාලය උදාවුණේ.’"
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා උත්තියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් උත්තිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

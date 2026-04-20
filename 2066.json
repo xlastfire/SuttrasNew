@@ -1,0 +1,83 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "කකුසන්ධ සුත්තං",
+    "sutta_title": "කකුසන්ධ බුදු සමිඳුන් මුල් කොට වදාළ දෙසුම",
+    "id": "2066",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "බුද්ධත්වයේ අනුභවය සහ ස්වයං-අවබෝධය (Enlightenment and Self-Realization)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "කකුසන්ධ බුදුරජාණන් වහන්සේ බෝධි මූලයේදී සම්බුද්ධත්වයට පත්වීමට පෙර සිටම එම අවබෝධය පිළිබඳ පූර්ව අදහසක් ඇති කරගත් ආකාරය මෙහි විස්තර වේ.",
+        "long_summary": "කකුසන්ධ නම් වූ අරහත් සම්මා සම්බුදුරජාණන් වහන්සේ, තමන් වහන්සේ සම්බුද්ධත්වයට පත්වීමට පෙර බෝධි මූලයේ වැඩ වෙසෙන අවධියේදී (බෝධිසත්ව කාලයේදී), පූර්ණ අවබෝධය ලැබීමේ ක්‍රියාවලිය හා ඒ පිළිබඳ පූර්ව අදහසක් ඇති කරගෙන තිබුණි. මෙය බුද්ධත්වයට පත්වීමේ මාර්ගයේදී සිදුවන සුවිශේෂී මානසික අනුභවයකි.",
+        "main_discovery": "කකුසන්ධ බුදුරජාණන් වහන්සේ සම්බුද්ධත්වයට පෙර බෝධි මූලයේදී ම, එම උත්තරීතර අවබෝධය පිළිබඳ මූලික අදහස හා අනුභවය ඇති කර ගැනීම.",
+        "core_truth_of_sutta": "පූර්ණ අවබෝධය (Full Enlightenment) යනු අහඹු සිදුවීමක් නොව, බෝධි මූලයේදී ක්‍රමිකව ගොඩනැගෙන ගැඹුරු මානසික විප්ලවයක ප්‍රතිඵලයකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්බුද්ධත්වයට පූර්වගාමී වූ මානසික ප්‍රවේශය (Anticipatory Path).",
+            "how_it_aids_liberation": "අවසාන ඉලක්කය පිළිබඳව පවතින පැහැදිලි දැක්ම (Vision and Insight) විමුක්තිය කරා යන ගමන වේගවත් කරයි.",
+            "practical_renunciation": "බෝධි මූලයේදී ලෞකික සිතුවිලි අත්හැර පරම අවබෝධය කෙරෙහි සිත යොමු කිරීම මෙහි ප්‍රායෝගික අත්හැරීමයි."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "බෝධිසත්ව චිත්තය (Bodhisatta Consciousness)",
+                "අධිෂ්ඨානය (Resolution)",
+                "සංවේගය (Spiritual Urgency)"
+            ],
+            "cognitive_impact": "මනස තුළ ඇති වන පූර්ව සැලසුම් සහගත සිතුවිලි රටාවන් (Mental models) පරම සත්‍යය අවබෝධ කර ගැනීමට මනස සූදානම් කරයි.",
+            "modern_psychology_parallel": "Cognitive Reappraisal: ලෝකය දකින ආකාරය වෙනස් කිරීමට පෙර තමාගේ අභ්‍යන්තර චින්තනය වෙනස් කරගැනීමේ ක්‍රියාවලිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විධායක ක්‍රියාකාරීත්වය)",
+                "Default Mode Network (DMN - ආත්මීය චින්තනය පාලනය)",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "බෝධි මූලයේදී කරන ලද අඛණ්ඩ මෙනෙහි කිරීම් මගින් මොළයේ ස්නායුක සම්බන්ධතා (Synaptic connections) පරම අවබෝධය සඳහා සකස් වීම (Neural rewiring).",
+            "stress_reduction_mechanism": "අරමුණ කෙරෙහි පවතින දැඩි අවධානය මගින් Amygdala හි ක්‍රියාකාරිත්වය අවම වී බිය සහ සැකය තුරන් වීම."
+        },
+        "cognitive_mechanisms": [
+            "පූර්ව අවබෝධය (Anticipatory Insight)",
+            "මානසික පෙරහුරුව (Mental Simulation)",
+            "සංජානන පරිවර්තනය (Cognitive Transformation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උද්යෝගය සහ අධිෂ්ඨානය (Determination and Zeal)",
+            "emotional_intensity": 9,
+            "emotional_arc": "බෝසත් අවධියේ සිට සම්බුද්ධත්වය දක්වා වූ මානසික පරිණාමය.",
+            "mood_keywords": [
+                "ශාන්ත",
+                "අධිෂ්ඨානශීලී",
+                "පැහැදිලි"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Peak Experience (Abraham Maslow)",
+                "parallel_description": "උත්තරීතර අවබෝධයකට පෙර පුද්ගලයෙකු අත්විඳින ගැඹුරු ස්වයං-තෘප්තිමත් තත්ත්වය හා මෙම බෝසත් අනුභවය සමාන වේ.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බුද්ධත්වයට පෙර අවබෝධය (Pre-Enlightenment Reflection)",
+                "related_teachings": [
+                    "මහාපදාන සූත්‍රය (Mahapadana Sutta)"
+                ],
+                "connection_type": "Historical and Procedural Similarity"
+            }
+        ],
+        "practical_takeaway_sinhala": "යම් උතුම් ඉලක්කයක් කරා යාමේදී, එය සාක්ෂාත් කර ගැනීමට පෙර ඒ පිළිබඳ නිවැරදි මානසික අවබෝධයක් සහ දැක්මක් ඇති කර ගැනීම අත්‍යවශ්‍ය වේ.",
+        "daily_practice_steps": [
+            "දවසේ ආරම්භයේදී තම අධ්‍යාත්මික ඉලක්කය මෙනෙහි කරන්න.",
+            "බාහිර කරදර හමුවේ නොසැලී තම අරමුණ කෙරෙහි සිත එකඟ කරගන්න.",
+            "තමා අත්කර ගැනීමට බලාපොරොත්තු වන මානසික නිදහස ගැන පූර්ව අදහසක් ඇති කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "කකුසන්‌ධස්‌ස භික්ඛවේ භගවතෝ අරහතෝ සම්‌මාසම්‌බුද්‌ධස්‌ස පුබ්බේව සම්බෝධා අනභිසම්බුද්ධස්ස බෝධිසත්තස්ස ඒව සතෝ ඒතදහෝසි ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, කකුසන්ධ නම් වූ භාග්‍යවත් අරහත් සම්මා සම්බුදුරජාණන් වහන්සේට සම්බුදු බව ලබන්නට පෙර සිටම සම්බුදු නොවී සිටියදීම, බෝසත්ව සිටියදීම (බෝධි මූලයේදී) මේ අදහස ඇතිවුණා. .... (පෙ) ...."
+        }
+    ]
+}

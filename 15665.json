@@ -1,0 +1,85 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "ඡට්ඨ නිරයචුති සූත්‍රය",
+    "id": "15665",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංසාරික ස්වභාවය සහ වීර්යය (Samsaric Nature and Effort)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "නිරයෙන් චුතවන්නන්ගෙන් බහුතරය ප්‍රේත ලෝකයට යන බවත් සුගතියට යන්නන් විරල බවත් පෙන්වා දී, දුක නිවීමට දැඩි වීර්යය වඩන ලෙස කරන මඟ පෙන්වීමකි.",
+        "long_summary": "සංසාර චක්‍රය තුළ සත්වයන්ගේ ගමන් මග විශ්ලේෂණය කරමින් බුදුන් වහන්සේ වදාරන්නේ නිරයෙන් චුත වන සත්වයන් අතරින් දෙව්ලෝකයක උපත ලබන්නේ අතිශය සුළු පිරිසක් බවයි. බහුතරයක් දෙනා නිරයෙන් පසු ප්‍රේත ලෝකවල උපත ලබති. මෙම අන්තරායකාරී පැවැත්ම තේරුම් ගෙන, දුක නැති කිරීමේ මාර්ගය (දුක්ඛ නිරෝධී මාර්ගය) අවබෝධ කර ගැනීම සඳහා අතිශය දැඩි වීර්යයක් (Samma Vayama) ගත යුතු බව සූත්‍රය අවධාරණය කරයි.",
+        "main_discovery": "නිරයෙන් චුතවන සත්වයින්ගෙන් බහුතරය ප්‍රේත ලෝකයට ඇදී යන බවත්, සුගතියට පැමිණීම අතිශය දුර්ලභ බවත් හඳුනාගෙන දුක නිවීමේ මාර්ගයට දැඩි වීර්යය යෙදවීම.",
+        "core_truth_of_sutta": "සංසාරික පැවැත්මේ ඇති අන්තරායකාරී බව සහ අගතිගාමී නැඹුරුව තේරුම් ගෙන, නිවන උදෙසා අප්‍රමාදීව වීර්යය වැඩිය යුතු බව.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා වායාමය (Right Effort) සහ දුක්ඛ නිරෝධ ගාමිණී පටිපදාව කෙරෙහි අවධානය යොමු කිරීම.",
+            "how_it_aids_liberation": "සත්වයාගේ ස්වභාවික පිරිහීම (Falling into lower realms) පෙන්වා දීමෙන් සතර සතිපට්ඨානය වැඩීමට අවශ්‍ය මූලික පෙළඹවීම (Urgency) ඇති කරයි.",
+            "practical_renunciation": "සංසාරික සැප පිළිබඳ ඇති මෝහය අත්හැර, මාර්ගය අවබෝධයට බාධා කරන අකුසලයන්ගෙන් වැළකීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "භය (Fear/Dread)",
+                "මෝහය (Delusion)",
+                "වීර්යය (Persistence)"
+            ],
+            "cognitive_impact": "සිතේ පවතින 'සදාකාලික සුරක්ෂිතභාවය' පිළිබඳ මායාව (Optimism Bias) බිඳ දමා, යථාර්ථවාදී තර්ජන තක්සේරුවක් (Risk Assessment) ලබා දෙයි.",
+            "modern_psychology_parallel": "CBT හි භාවිත වන 'Cognitive Restructuring' මගින් ස්වයං-විනාශකාරී චර්යා රටාවන් හඳුනාගෙන ඒවා නිවැරදි කිරීමට ගන්නා උත්සාහයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "ප්‍රේත හෝ නිරයගාමී චර්යාවන් යනු මොළයේ ස්ථාපිත (Rooted) වූ අකුසල පුරුදු (Habit loops) වේ. වීර්යය වැඩීම මගින් Prefrontal Cortex සක්‍රීය වී, එම පැරණි ස්නායු පද්ධති (Neural pathways) වෙනස් කර නව කුසල පථ නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "සංසාරික බිය (Amygdala activation) හඳුනාගෙන, එය මාර්ගය අවබෝධය (Problem-solving via PFC) සඳහා පරිවර්තනය කිරීමෙන් දිගුකාලීන මානසික පීඩනය දුරු වේ."
+        },
+        "cognitive_mechanisms": [
+            "සංවේගය (Urgency/Samvega)",
+            "යෝනිසෝ මනසිකාරය (Systematic Attention)",
+            "වීර්යය (Conative Effort)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Samvega)",
+            "emotional_intensity": 9,
+            "emotional_arc": "බිය සහ අවදානම හඳුනාගැනීමේ සිට වීර්යය වැඩීම හරහා සහනය දක්වා.",
+            "mood_keywords": [
+                "කලකිරීම",
+                "අවදිවීම",
+                "සීරුවෙන් සිටීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Evolutionary Psychology",
+                "theory_name": "Negativity Bias",
+                "parallel_description": "සිත ස්වභාවයෙන්ම පහත් තලයන්ට හෝ අකුසලයට නැඹුරු වීම (Entropy of the mind), ඉහළ මානසික තලයකට ඒම සඳහා සවිඥානික වීර්යයක් අවශ්‍ය වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සංසාරයේ අස්ථිර බව සහ දුර්ලභ උපත",
+                "related_teachings": [
+                    "නඛසිඛා සූත්‍රය (Nakhasikha Sutta)",
+                    "ඡිග්ගළ සූත්‍රය (Chiggala Sutta)"
+                ],
+                "connection_type": "සංඛ්‍යාත්මක උපමා සහ සම්භාවිතාව (Probability and Statistical Rarity)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතය සුරක්ෂිත යැයි නොසිතා, පිරිහීමට ඇති සම්භාවිතාව වැඩිබව තේරුම් ගෙන, සිත දියුණු කරන මාර්ගයට අදම වීර්යය යොදන්න.",
+        "daily_practice_steps": [
+            "සංසාරික අන්තරාය ගැන උදෑසන මෙනෙහි කරන්න (Samvega).",
+            "අකුසලයට සිත නැඹුරු වන විට එය වහා හඳුනාගන්න (Mindfulness).",
+            "දහම් මග ප්‍රගුණ කිරීමට දිනකට නිශ්චිත කාලයක් වෙන් කරන්න (Right Effort).",
+            "චතුරාර්ය සත්‍යය පිළිබඳ අවබෝධය පරීක්ෂා කර බලන්න (Wisdom/Dhamma-vicaya)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ නිරයා චුතා දේවේසු පච්චාජායන්ති. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ නිරයා චුතා පෙත්තිවිසයේ පච්චාජායන්ති. ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ නිරයෙන් චුත ව දෙවියන් අතර උපදිත් ද, ඔවුහු අල්පයක් වෙති. එසේ නමුත් නිරයෙන් චුත ව ප්‍රේත ලෝකයෙහි උපදින යම් සත්වයෝ වෙත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

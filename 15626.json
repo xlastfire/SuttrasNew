@@ -1,0 +1,85 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "පිසුණවාචා සූත්‍රය",
+    "id": "15626",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Moral Discipline (Sila) and Mindfulness",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කේළාම් කීමෙන් වැළකී සිටින සත්වයන්ගේ දුර්ලභත්වය පෙන්වා දෙමින්, දුක් නිරෝධය සඳහා වාග් සංවරය සහ වීර්යය අත්‍යවශ්‍ය බව මෙම සූත්‍රය අවධාරණය කරයි.",
+        "long_summary": "මෙම සූත්‍රයට අනුව ලෝකයේ කේළාම් කීමෙන් වැළකී සිටින සත්වයන් ප්‍රමාණය ඉතා අල්ප වන අතර, කේළාම් කීමේ නිරත වන පිරිස අතිමහත්ය. වාචසික අකුසලයෙන් වැළකී සිටීම දුක්ඛ නිරෝධය හෙවත් නිවන කරා යන ගමනේ මූලික පදනමකි. එබැවින් දුක් නිරෝධ මාර්ගය (චතුරාර්ය සත්‍යය) අවබෝධ කර ගැනීම සඳහා මහත් වූ වීර්යයක් සහ ප්‍රයත්නයක් දැරිය යුතු බව බුදුරජාණන් වහන්සේ මෙහිදී අවධාරණය කරති.",
+        "main_discovery": "කේළාම් කීමෙන් වැළකී සිටින පුද්ගලයන් ලෝකයේ ඉතා අල්ප බවත්, දුක් නිරෝධය සඳහා වාග් සංවරය සහ දැඩි උත්සාහය අත්‍යවශ්‍ය බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "වාග් සංවරය තුළින් අකුසලයෙන් වැළකීම සහ දුක නැති කිරීමේ මාර්ගය අවබෝධ කර ගැනීමට දරන අඛණ්ඩ උත්සාහය විමුක්තියේ මාවතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්මා වාචා (Samma Vaca) සහ වීර්ය ඉන්ද්‍රිය (Viriya Indriya) මගින් සීල ශික්ෂාව සම්පූර්ණ කිරීම.",
+            "how_it_aids_liberation": "සිතේ විසිරුණු ස්වභාවය පාලනය කර, අකුසල මූලයන් දුරු කරමින් ප්‍රඥාව අවදි කිරීමට අවශ්‍ය මානසික පසුබිම සකසයි.",
+            "practical_renunciation": "අනුන්ගේ දෝෂ සෙවීම සහ කේළාම් කීමෙන් ලැබෙන තාවකාලික සමාජීය තෘප්තිය (Social Validation) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ද්වේෂය (Aversion)",
+                "ඊර්ෂ්‍යාව (Envy)",
+                "සතිමත්බව (Mindfulness)"
+            ],
+            "cognitive_impact": "කේළාම් කීමෙන් වැළකීම මගින් ප්‍රජානන පාලනය (Cognitive Control) ශක්තිමත් වන අතර, සමාජීය ආවේගයන්ට ක්ෂණිකව ප්‍රතිචාර දැක්වීම පාලනය වේ.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි ඉගැන්වෙන ආවේග පාලනය (Impulse Control) සහ අන්තර් පුද්ගල සන්නිවේදන කුසලතා (Interpersonal Effectiveness) සමඟ මෙය මැනවින් ගැලපේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "කේළාම් කීමේ පුරුද්ද නතර කිරීමේදී, මොළයේ පහළ මට්ටමේ ආවේග පාලනය කරන ප්‍රදේශ වෙනුවට ඉහළ මට්ටමේ විධායක ක්‍රියාකාරීත්වයට (Executive Function) අදාළ ස්නායුක මාර්ග ශක්තිමත් වේ (Neuroplasticity).",
+            "stress_reduction_mechanism": "සමාජීය ගැටුම් අවම වීම නිසා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහළ යන අතර, එය මානසික සාමය පවත්වා ගැනීමට උපකාරී වේ."
+        },
+        "cognitive_mechanisms": [
+            "Inhibitory Control",
+            "Social Cognition",
+            "Metacognition",
+            "Attentional Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Urgency (සංවේගය/උත්සාහය)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Serious to Empowering",
+            "mood_keywords": [
+                "Vigilance",
+                "Restraint",
+                "Determination"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Social Identity Theory",
+                "parallel_description": "කේළාම් කීම (Gossip) බොහෝ විට කණ්ඩායම් අතර සහසම්බන්ධතාවය ඇති කිරීමට යොදාගත්තද, එය පෞද්ගලික සදාචාරය සහ විශ්වාසවන්තභාවය පිරිහීමට ලක් කරයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Samma Vaca (සම්මා වාචා)",
+                "related_teachings": [
+                    "Maha-cattarisaka Sutta",
+                    "Ambalatthika-rahulovada Sutta"
+                ],
+                "connection_type": "Thematic Alignment on Noble Eightfold Path"
+            }
+        ],
+        "practical_takeaway_sinhala": "අනුන්ගේ අඩුපාඩු හෝ කේළාම් කීමෙන් වැළකී, තමාගේ වචනය සංවර කරගනිමින් දුක්ඛ නිරෝධය සඳහා අධිෂ්ඨානශීලීව ක්‍රියා කරන්න.",
+        "daily_practice_steps": [
+            "ඕනෑම දෙයක් කතා කිරීමට පෙර එය සත්‍යයක්ද සහ ප්‍රයෝජනවත්ද යන්න මොහොතක් සිතන්න (Wait-before-speak).",
+            "අනුන් ගැන කේළාම් කීමට සිතෙන අවස්ථාවක එම මානසික ආවේගය දෙස උපේක්ෂාවෙන් බලන්න.",
+            "දිනකට අවම වශයෙන් මිනිත්තු කිහිපයක් දුක්ඛ නිරෝධය සහ චතුරාර්ය සත්‍යය ගැන මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ පිසුනාය වාචාය පටිවිරතා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ පිසුනාය වාචාය අප්පටිවිරතා ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ කේළාම් කීමෙන් වැළකී සිටිත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ කේළාම් කීමෙන් නොවැළකී සිටිත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

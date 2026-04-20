@@ -1,0 +1,82 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "වෙස්සභූ සුත්තං",
+    "sutta_title": "වෙස්සභූ බුදු සමිඳුන් මුල් කොට වදාළ දෙසුම",
+    "id": "2065",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "බුද්ධත්වයට පූර්වාවබෝධය (Pre-Enlightenment Insight)",
+        "complexity_rating": 8,
+        "analysis_confidence": 95,
+        "short_summary": "වෙස්සභූ බුදුරජාණන් වහන්සේ බුද්ධත්වයට පෙර බෝධි මූලයේදීම අත්විඳි සුවිශේෂී චින්තන විප්ලවය සහ පූර්ව අවබෝධය පිළිබඳ විස්තරයකි.",
+        "long_summary": "පින්වත් මහණෙනි, වෙස්සභූ නම් වූ භාග්‍යවත් අරහත් සම්මා සම්බුදුරජාණන් වහන්සේ සම්බුද්ධත්වයට පත්වීමට පෙර, බෝධි මූලයේ වැඩ වසන අවධියේදී (බෝසත් අවධියේදී) උන්වහන්සේ තුළ බුද්ධත්වය පිළිබඳ නිවැරදි දැක්ම සහ අවබෝධය උදා විය. සම්බුදු බව ලැබීමට ආසන්නව සිටියදීම, තවමත් සම්බුදු නොවූ කාල වකවානුවක පවා මෙම ගැඹුරු දාර්ශනික අදහස උන්වහන්සේගේ සිත තුළ ජනිත වූ බව මෙම දේශනයෙන් පැහැදිලි කෙරේ.",
+        "main_discovery": "සම්බුද්ධත්වය ලැබීමට පෙර බෝධි මූලයේදීම ඇතිවන සුවිශේෂී ප්‍රජානන අවබෝධය (Cognitive Insight).",
+        "core_truth_of_sutta": "සත්‍යාවබෝධය යනු අහම්බයක් නොව, දීර්ඝ කාලීන විමර්ශනයක සහ පූර්ව චින්තන සූදානමක (Preparatory Insight) ප්‍රතිඵලයකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සම්බුද්ධත්වයට පෙර ඇතිවන පූර්ව නිමිති සහ ප්‍රඥා ලක්ෂණ (Pre-enlightenment wisdom).",
+            "how_it_aids_liberation": "නිවැරදි දැක්ම (Samma Ditthi) මෝරා යන ආකාරය වටහා ගැනීමෙන් විමුක්තිය සඳහා සිත සකස් කර ගැනීමට උපකාරී වේ.",
+            "practical_renunciation": "සත්‍යය සොයා යන ගමනේදී ලෞකික බාධාවන්ගෙන් සිත ඉවත් කර අභ්‍යන්තර විමර්ශනයට (Yoniso Manasikara) යොමු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "උච්ච විඥානය (Higher Consciousness)",
+                "අපේක්ෂා සහගත අවබෝධය (Anticipatory Insight)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන විසිරුණු සිතුවිලි එක්තැන් වී ගැඹුරු දාර්ශනික සත්‍යයක් කෙරෙහි ඒකාග්‍ර වීම (Cognitive integration).",
+            "modern_psychology_parallel": "Metacognition (තම සිතීමේ රටාව පිළිබඳවම සිතීම) හරහා ගැටලු නිරාකරණය කරගැනීමේ ක්‍රියාවලියට සමාන කළ හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Salience Network",
+                "Executive Control Network",
+                "Default Mode Network (DMN) Inhibition"
+            ],
+            "neuroplasticity_and_habit": "ගැඹුරු මෙනෙහි කිරීම හරහා පූර්ව-සංජානන පරිපථ (Pre-cognitive circuits) ශක්තිමත් වීමෙන් ස්ථිර බුද්ධිමය වෙනසක් (Structural neuroplasticity) ඇති වීම.",
+            "stress_reduction_mechanism": "Prefrontal Cortex මගින් Amygdala පාලනය කිරීම නිසා ඇතිවන අචල මානසික ඒකාග්‍රතාවය සහ ආතතිය ශූන්‍ය වීම."
+        },
+        "cognitive_mechanisms": [
+            "සංකල්පීය අවබෝධය (Conceptual Clarity)",
+            "පූර්වාවබෝධය (Anticipatory Insight)",
+            "අභ්‍යන්තර විමර්ශනය (Internal Investigation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "විමර්ශනයේ සිට ස්ථාවර අවබෝධය දක්වා",
+            "mood_keywords": [
+                "සන්සුන්",
+                "අධිෂ්ඨානශීලී",
+                "ප්‍රඥාවන්ත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Aha-Moment (Insight learning)",
+                "parallel_description": "සංකීර්ණ ගැටලුවකට විසඳුම් සෙවීමේදී, විසඳුම ලැබීමට මොහොතකට පෙර ඇතිවන මනෝවිද්‍යාත්මක පැහැදිලිකම මෙයට සමාන කළ හැකිය.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බෝධි සත්ත (Bodhisatta) අවධියේ චින්තනය",
+                "related_teachings": [
+                    "මහාපදාන සූත්‍රය"
+                ],
+                "connection_type": "ඓතිහාසික හා දාර්ශනික සමානකම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම විශාල ජයග්‍රහණයකට පෙර ඒ පිළිබඳව මනා සූදානමක් සහ පැහැදිලි දැක්මක් ඇති කර ගැනීම සාර්ථකත්වයේ පදනමයි.",
+        "daily_practice_steps": [
+            "දවසේ ආරම්භයේදී ඔබ ලඟා වීමට අපේක්ෂා කරන ඉලක්කය පිළිබඳ පැහැදිලි අවබෝධයක් ඇති කර ගන්න.",
+            "බාහිර බාධා අවම කරගෙන සිත අභ්‍යන්තරයට යොමු කරන්න (Daily Introspection).",
+            "වැදගත් තීරණ ගැනීමට පෙර ඒ පිළිබඳව යෝනිසෝ මනසිකාරයෙන් (Analytical Reflection) යුතුව විමසන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "වෙස්‌සභුස්‌ස භික්ඛවේ භගවතෝ අරහතෝ සම්‌මාසම්‌බුද්‌ධස්‌ස පුබ්බේව සම්බෝධා අනභිසම්බුද්ධස්ස බෝධිසත්තස්ස ඒව සතෝ ඒතදහෝසි ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, වෙස්සභූ නම් වූ භාග්‍යවත් අරහත් සම්මා සම්බුදුරජාණන් වහන්සේට සම්බුදු බව ලබන්නට පෙර සිටම සම්බුදු නොවී සිටියදීම, බෝසත්ව සිටියදීම (බෝධි මූලයේදී) මේ අදහස ඇතිවුණා. .... (පෙ) ...."
+        }
+    ]
+}

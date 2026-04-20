@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "දුතිය සමුද්දනින්න සුත්තං",
+    "sutta_title": "සමුද්‍රයට නැමී තිබීම ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "4153",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "නිවන දෙසට නැඹුරු වීම (Orientation towards Nibbana)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "යමුනා නදිය සයුරට නැඹුරු වන්නා සේ, භික්ෂුවක් නිවනට නැඹුරු වී ලෞකික බැඳීම් අත්හළ යුතු බව මෙහි ඉගැන්වේ.",
+        "long_summary": "යමුනා නදිය සාගරය දෙසටම නැමී, සාගරය දෙසටම නැඹුරු වී, සාගරයටම බර වී ගලා යන්නාක් මෙන්, බුද්ධ ශ්‍රාවකයාද තම චිත්ත සන්තානය සහ ජීවන පැවැත්ම නිවන (Nibbana) නමැති අරමුණ දෙසටම යොමු කළ යුතුය. එවැනි ස්ථාවර නැඹුරුවක් ඇති කර ගැනීමෙන් ලෞකික බැඳීම් (Sensual Fetters) කෙරෙහි ඇති ඇලීම ක්‍රමයෙන් ලිහිල් වී විමුක්තිය උදාවේ.",
+        "main_discovery": "සිතේ දිශානතිය (Intentional Orientation) නිවන දෙසට යොමු කිරීමෙන් ස්වභාවිකවම ලෞකික බැඳීම්වලින් මිදීම සිදුවේ.",
+        "core_truth_of_sutta": "සිතේ මූලික දිශානතිය නිවන වෙත ස්ථාවරව යොමු කිරීම හරහා සංසාරික බැඳීම්වලින් මිදීම ස්වභාවික ක්‍රියාවලියක් බවට පත්වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "විවේක නිස්සිත, විරාග නිස්සිත, නිරෝධ නිස්සිත භාවය (Dependence on seclusion and dispassion).",
+            "how_it_aids_liberation": "සිතේ ප්‍රවණතාවය ලෞකිකත්වයෙන් ඉවත් කර අසංඛතය (Unconditioned) දෙසට හැරවීමෙන් භව ගමන නතර වේ.",
+            "practical_renunciation": "ලෞකික දේවල් කෙරෙහි ඇති තෘෂ්ණාව, නිවන කෙරෙහි ඇති දැඩි නැඹුරුව මගින් ප්‍රතිස්ථාපනය කිරීම (Substitution of aim)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අධිෂ්ඨානය (Resolution)",
+                "අපේක්ෂාව (Aspiration)",
+                "විරාගය (Dispassion)"
+            ],
+            "cognitive_impact": "සිතේ 'Cognitive Maps' ලෞකික ලාභ ප්‍රයෝජනවල සිට අධ්‍යාත්මික නිදහස දක්වා ප්‍රතිසංවිධානය වේ.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි 'Committed Action' සංකල්පය මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) පාලනය වීම",
+                "Executive Control Network (ECN) ක්‍රියාකාරී වීම"
+            ],
+            "neuroplasticity_and_habit": "දිගින් දිගටම නිවන අරමුණු කිරීමෙන් සිතේ පැරණි 'ලෞකික' ස්නායුක පථ (Neural Pathways) දුර්වල වී අලුත් 'විමුක්තිගාමී' පථ ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අරමුණක ස්ථාවර වීම නිසා Amygdala හි ක්‍රියාකාරීත්වය හෙවත් බිය සහ ආතතිය අඩු වී මානසික සමතුලිතතාවය (Homeostasis) ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "සංකල්පමය නැඹුරුව (Cognitive Orientation)",
+            "අභිප්‍රාය (Intention)",
+            "නැඹුරුතාව (Propensity)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Serenity)",
+            "emotional_intensity": 4,
+            "emotional_arc": "ලෞකික කලබලකාරීත්වයෙන් නිදහස් වී ස්ථාවර මනෝභාවයකට පත්වීම.",
+            "mood_keywords": [
+                "සන්සුන්",
+                "අකම්පිත",
+                "අරමුණු සහගත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Goal-Setting Theory",
+                "parallel_description": "යම් නිශ්චිත ඉලක්කයක් (Goal) වෙත සිතේ අවධානය සහ ශක්තිය අඛණ්ඩව යොමු කිරීම මගින් අදාළ නොවන බාහිර උත්තේජක (Distractions) ස්වයංක්‍රීයව බැහැර වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නිවනට බර වීම (Inclining towards Nibbana)",
+                "related_teachings": [
+                    "සප්ත බොජ්ඣංග",
+                    "විවේක නිස්සිත",
+                    "විරාග නිස්සිත"
+                ],
+                "connection_type": "මාර්ග ප්‍රායෝගිකත්වය (Practical Path)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ දෛනික සෑම ක්‍රියාවක්ම අවසානයේ අධ්‍යාත්මික නිදහස (නිවන) අරමුණු කරගන්නා එකක් බවට පත් කරගන්න.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ පසු සිත නිවන දෙසට නැඹුරු කිරීමට අධිෂ්ඨානයක් ඇති කරගන්න.",
+            "බාහිර බැඳීම්වලට සිත ඇදී යන විට, නදිය මුහුදට ගලන්නා සේ සිත නැවත නිවනට යොමු කරන්න.",
+            "රාත්‍රියේ නින්දට පෙර දවස තුළ සිත කොතරම් දුරට නිවනට බරව තිබුණේ දැයි ආවර්ජනය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, යමුනා නදී සමුද්දනින්නා සමුද්දපෝණා සමුද්දපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, යමුනා නදිය සමුද්‍රයට නැමී, සමුද්‍රයට නැඹුරු වී, සමුද්‍රයට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

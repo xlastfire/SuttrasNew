@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "අධිමුත්ත තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15418",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ප්‍රායෝගික පැවිදි ප්‍රතිපදාව සහ කාය විවේකය",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "ශාරීරික සැපයට සහ කය පෝෂණයට ඇලී සිටින පුද්ගලයාට වයසට යන විට පැවිදි ජීවිතයේ උතුම් ඵල ලැබීම අසීරු බව අධිමුත්ත රහතන් වහන්සේ මෙහිදී පෙන්වා දෙති.",
+        "long_summary": "ආයුෂ්මත් අධිමුත්ත රහතන් වහන්සේ විසින් දේශනා කරන ලද මෙම ගාථාව මගින්, ශාරීරික සැපය කෙරෙහි පවතින ඇබ්බැහිය සහ ජීවිතයේ අධ්‍යාත්මික ඉලක්ක අතර පවතින ගැටුම විග්‍රහ කරයි. යමෙකු තම ශරීරය පෝෂණය කිරීම සහ කායික සුවපහසුව අත්‍යවශ්‍ය කොට සලකන්නේ නම්, ජීවිතයේ සැඳෑ සමයේදී පැවිදි ජීවිතයක උත්තරීතර ඵල ලබා ගැනීම ඔහුට අභියෝගයක් වේ. ශාරීරික බැඳීම් ලිහිල් කරමින් උතුම් පැවිදි ප්‍රතිපදාවට පිවිසීමේ වැදගත්කම මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "ශාරීරික සැපයට ඇති ඇබ්බැහිය (Body Gratification) ආධ්‍යාත්මික ප්‍රගතියට බාධාවක් වන බවත්, වයසට යාමේදී එය වඩාත් තීරණාත්මක වන බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "කායික සැපයට ඇති තෘෂ්ණාව (Body-centered craving) පවත්වා ගනිමින් විමුක්ති සාධනය කළ නොහැකි බව.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කාය විරාගය (Dispassion towards the body) සහ පඤ්ච උපාදානස්කන්ධය කෙරෙහි පවතින බැඳීම ලිහිල් කිරීම.",
+            "how_it_aids_liberation": "කය කෙරෙහි ඇති 'මමත්වය' සහ 'සැපය' පිළිබඳ දෘෂ්ටිය බිඳ දැමීමෙන් අනිත්‍යාවබෝධය පහසු කරයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය දමනය (Indriya Samvara) සහ ශරීරය නඩත්තු කිරීමක් ලෙස පමණක් සලකා (Paccaya Sannissita Sila) සැපයට ඇති ඇලීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාමච්ඡන්දය (Sensual desire)",
+                "මෝහය (Delusion regarding body beauty/permanence)",
+                "ඇබ්බැහිය (Addiction to comfort)"
+            ],
+            "cognitive_impact": "සිතේ ඇති වන 'සුවය පතා දිවීම' නම් වූ චර්යාත්මක රටාව (Conditioned behavior) වෙනස් කර, බාහිර සැප මත රඳා නොපවතින මානසික ස්වාධීනත්වයක් ඇති කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි සඳහන් වන 'Discomfort Intolerance' තත්ත්වයෙන් මිදී මානසික ඔරොත්තු දීමේ හැකියාව (Resilience) වර්ධනය කිරීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Reward System (Dopaminergic pathways)",
+                "Default Mode Network (DMN)",
+                "Insula"
+            ],
+            "neuroplasticity_and_habit": "කය පෝෂණයට ඇති ඇබ්බැහිය නිසා ශක්තිමත් වී ඇති ස්නායුක ජාල (Neural circuits) භාවනාව සහ විනය තුළින් දුර්වල කර, නව සිහිය කේන්ද්‍ර කරගත් ජාල (Attentional networks) ගොඩනැගීම.",
+            "stress_reduction_mechanism": "ශාරීරික අපහසුතාවලදී පවා Amygdala හි ක්‍රියාකාරීත්වය පාලනය කරමින් Cortisol මට්ටම අඩු කරගැනීමේ හැකියාව (Affective regulation) වර්ධනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Rigidity (බුද්ධිමය නොනැමෙන බව)",
+            "Sensory Attachment (ඉන්ද්‍රිය පිනවීමට ඇති බැඳීම)",
+            "Identity Fusion (ශරීරය හා තදින් අනන්‍ය වීම)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "කායික බැඳීමේ අස්ථාවරත්වය පෙන්වා දී, එතැන් සිට විමුක්තියේ සැනසීම කරා මෙහෙයවීම.",
+            "mood_keywords": [
+                "සංවේගය",
+                "අධිෂ්ඨානය",
+                "ප්‍රඥාව"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Delayed Gratification",
+                "parallel_description": "ශාරීරික සැපය ක්ෂණිකව සපුරා ගැනීමට ඇති පෙළඹවීම පාලනය කර (Impulse Control), දිගුකාලීන ආධ්‍යාත්මික ඉලක්ක සපුරා ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "කායගතා සති",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය",
+                    "විජය සූත්‍රය"
+                ],
+                "connection_type": "ශරීරයේ ස්වභාවය අවබෝධ කර ගැනීම තුළින් ඇලීම දුරු කිරීම."
+            }
+        ],
+        "practical_takeaway_sinhala": "ශාරීරික සැප පහසුකම් වලට වහල් නොවී, කය යනු ජීවත් වීමට ඇති මෙවලමක් පමණක් ලෙස සලකා ආධ්‍යාත්මික පුහුණුවට මුල් තැන දිය යුතුය.",
+        "daily_practice_steps": [
+            "අවම පහසුකම් සහිතව ජීවත් වීමට සිත හුරු කරවීම.",
+            "ශරීරය කෙරෙහි ඇති අසීමිත ඇල්ම පාලනය කිරීමට 'පටික්කූල මනසිකාරය' වැනි භාවනාවක් කෙටි වේලාවක් පුහුණු කිරීම.",
+            "ඉන්ද්‍රිය සැපයක් ලැබුණු සැණින් එය අනිත්‍ය බවත් ඒ මත මානසික සුවය රඳා නොපවතින බවත් මෙනෙහි කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "කායදුට්ඨුල්ලගරුනෝ හීයමානම්හි ජීවිතේ\nසරීරසුඛගිද්ධස්ස කුතෝ සමණ සාධුතා’ති",
+            "sinhala": "කය පෝෂණය කිරීම ම වැදගත් කොට සලකන, ශරීර සැපයට ම ගිජු වෙලා ඉන්න කෙනෙකුට ජීවිතේ ගෙවිලා වයසට යද්දී පැවිදි ජීවිතේක උතුම් ඵලයක් කොහොම ලබාගන්ට ද?"
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා අධිමුත්තෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් අධිමුත්ත නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

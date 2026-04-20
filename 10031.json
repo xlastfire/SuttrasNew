@@ -1,0 +1,103 @@
+{
+    "nikaya": "පඤ්චක නිපාතෝ",
+    "vagga": "පඨම කුලූපග සුත්තං",
+    "sutta_title": "කුලුපග භික්ෂුව ගැන වදාළ පළමු දෙසුම",
+    "id": "10031",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "විනය සහ ඉන්ද්‍රිය සංවරය (Discipline and Sense Restraint)",
+        "complexity_rating": 3,
+        "analysis_confidence": 5,
+        "short_summary": "දායක පවුල් සමඟ අනුචිත ලෙස සමීප වෙමින් (කුලුපග බව), විනය නීති උල්ලංඝනය කරන සහ කාම සංකල්පවලට යටත් වන භික්ෂුවකගේ වැරදි හැසිරීම් පහක් මෙහි විස්තර කෙරේ.",
+        "long_summary": "මෙම සූත්‍රය මගින් දායක පවුල් සමඟ අතිශය සමීපව කටයුතු කරන භික්ෂුවකගේ විනය විරෝධී ක්‍රියා පහක් පෙන්වා දෙයි. සංඝයාගේ අවසරයකින් තොරව ගම් වැදීම, රහසිගතව හෝ ආවරණය වූ තැන්වල නුසුදුසු පුද්ගලයන් සමඟ අසුන් ගැනීම, කාන්තාවන් සමඟ දීර්ඝ වේලාවක් තනිව සිටීම සහ කාම සංකල්පවලින් යුක්තව වාසය කිරීම එම වැරදි වේ. භික්ෂු ජීවිතයේ පිරිසිදුකම රැකගැනීමට මෙම අනුචිත සමාජ සම්බන්ධතා සහ මානසික පිරිහීම වළක්වා ගත යුතු බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "දායක පවුල් සමඟ පවත්වන අතිශය සමීප සබඳතා (Intimacy) භික්ෂුවකගේ විනය පිරිහීමට සහ කාම සංකල්ප වර්ධනය වීමට සෘජුවම බලපාන ආකාරය.",
+        "core_truth_of_sutta": "අධික සමාජීය සමීපතාවය (Intimacy) සහ විනය විරෝධී හැසිරීම් භික්ෂුවකගේ කාම සංකල්ප වර්ධනය වීමටත්, ශාසනික පිරිහීමටත් සෘජුවම හේතු වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉන්ද්‍රිය සංවරය සහ විනය ආරක්ෂා කිරීම (Discipline and Sense Restraint).",
+            "how_it_aids_liberation": "බාහිර ලෝකය සමඟ ඇති අනුචිත බැඳීම් (Social Attachment) අවම කිරීමෙන් චිත්ත ඒකාග්‍රතාවයට සහ විවේකයට මග පාදයි.",
+            "practical_renunciation": "කාම සංකල්ප (Sensual thoughts) ඇති කරන පරිසරයන්ගෙන් සහ පුද්ගලයන්ගෙන් ඈත් වීම (Physical and Mental Seclusion)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාම සංකල්ප (Sensual thoughts)",
+                "ප්‍රමාදය (Negligence)",
+                "අනුචිත බැඳීම (Inappropriate Attachment)"
+            ],
+            "cognitive_impact": "රහසිගත සහ අනුචිත හැසිරීම් මගින් සදාචාරාත්මක පිරිහීමක් සහ සංජානනීය විකෘතිතා (Cognitive Distortions) ඇති කරයි.",
+            "modern_psychology_parallel": "මෙය නූතන මනෝවිද්‍යාවේ 'Impulse Control' සහ වෘත්තීය සදාචාරය (Professional Ethics) පවත්වා ගැනීම පිළිබඳ ඉගැන්වීම්වලට බෙහෙවින් සමාන ය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Reward System (Ventral Striatum)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "නිරන්තරයෙන් කාම සංකල්පවල නිරත වීමෙන් මොළයේ Dopaminergic pathways වැරදි ලෙස හැඩගැසෙන අතර, විනය ආරක්ෂා කිරීම මගින් Prefrontal Cortex එක ශක්තිමත් වී ස්වයං පාලනය (Self-regulation) වර්ධනය වේ.",
+            "stress_reduction_mechanism": "විනයානුකූලව හැසිරීම මගින් වරදකාරී හැඟීම් (Guilt) සහ සමාජීය බිය අවම වන අතර, එමගින් Cortisol මට්ටම පාලනය වී මානසික සුවය සැලසේ."
+        },
+        "cognitive_mechanisms": [
+            "සංජානනීය පිරිහීම (Cognitive Decline in Discipline)",
+            "සීමා මායිම් උල්ලංඝනය (Boundary Violation)",
+            "කාම සංකල්ප උත්තේජනය (Sensual Thought Stimulation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "අවවාදාත්මක (Cautionary)",
+            "emotional_intensity": 4,
+            "emotional_arc": "විනය විරෝධී හැසිරීම් පෙන්වා දීමේ සිට කාම සංකල්පවල ඇති භයානකත්වය දක්වා.",
+            "mood_keywords": [
+                "සංවරය",
+                "විනය",
+                "අවධානය",
+                "පිරිසිදුකම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Boundary Violations Theory",
+                "parallel_description": "වෘත්තීය හෝ ආධ්‍යාත්මික සබඳතාවලදී සීමා මායිම් උල්ලංඝනය කිරීම (Crossing boundaries) පුද්ගලයාගේ සදාචාරාත්මක පිරිහීමට සහ චර්යාත්මක ගැටලුවලට මග පාදන ආකාරය මෙහි විස්තර වන 'කුලුපග' බවට සමාන වේ.",
+                "confidence_score": 5
+            },
+            {
+                "field": "Behavioral Neuroscience",
+                "theory_name": "Incentive Salience",
+                "parallel_description": "අනුචිත පරිසරයන් සහ පුද්ගලයන් ඇසුර නිසා මොළයේ Reward System එක උත්තේජනය වී කාම සංකල්ප (Sensual thoughts) කෙරෙහි ඇති වන දැඩි ආශාව සහ නැඹුරුව.",
+                "confidence_score": 4
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඉන්ද්‍රිය සංවරය (Restraint of Faculties)",
+                "related_teachings": [
+                    "සංවර සීලය",
+                    "භික්ෂු ප්‍රාතිමෝක්ෂය"
+                ],
+                "connection_type": "සෘජු අනුපූරක (Direct Complementary)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම වෘත්තීය හෝ ආධ්‍යාත්මික ජීවිතයකදී සීමා මායිම් (Boundaries) පවත්වා ගැනීම සහ කාම සංකල්පවලින් මිදීම අත්‍යවශ්‍ය වේ.",
+        "daily_practice_steps": [
+            "තමා ඇසුරු කරන පුද්ගලයන් සහ ස්ථාන පිළිබඳව සතිමත්ව (Mindful) සිටීම.",
+            "රහසිගත හෝ අනුචිත හමුවීම්වලින් වැළකීම.",
+            "සිතේ ඇතිවන කාම සංකල්ප හඳුනාගෙන ඒවා පාලනය කිරීමට උත්සාහ කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "පඤ්චිමේ භික්ඛවේ ආදීනවා කුලූපගේ. කතමේ පඤ්ච:",
+            "sinhala": "මහණෙනි, දායක පවුල් හා කුලුපග ව හැසිරෙන භික්ෂුව කෙරෙහි මේ ආදීනව පසකි. ඒ කවර පසක් ද යත්;"
+        },
+        {
+            "pali": "අනාමන්තචාරේ ආපජ්ජති, රහෝ නිසජ්ජාය ආපජ්ජති, පටිච්ඡන්නේ ආසනේ ආපජ්ජති, මාතුගාමස්ස උත්තරිං ඡප්පඤ්ච වාචාහි ධම්මං දේසෙන්තෝ ආපජ්ජති, කාමසංකප්පබහුලෝ විහරති.",
+            "sinhala": "සංඝයාට නොදන්වා ගමට යෑමෙහි ඇවතට පත් වෙයි. රහසේ නුසුදුසු උදවිය හා වාඩිවීමෙහි ඇවතට පත්වෙයි. ආවරණය වූ අසුනෙහි නුසුදුසු උදවිය හා වාඩිවීමෙහි ඇවතට පත්වෙයි. ස්ත්‍රියකට පස් හය වචනයකට වඩා තනි ව සිට ධර්මය දෙසීමෙහි ඇවතට පත්වෙයි. කාම සංකල්ප බහුල ව වාසය කරයි."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ පඤ්ච ආදීනවා කුලූපගේ’ති.",
+            "sinhala": "මහණෙනි, දායක පවුල් හා කුලුපග ව හැසිරෙන භික්ෂුව කෙරෙහි මේ ආදීනව පස යි."
+        }
+    ]
+}

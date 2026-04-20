@@ -1,0 +1,83 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "සුද්ධිකවේදනා සුත්තං",
+    "sutta_title": "පිරිසිදු ලෙස වේදනාව ගැන වදාළ දෙසුම",
+    "id": "5211",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "වේදනා අනුපස්සනාව (Contemplation of Feelings)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සෑම අත්දැකීමක්ම සැප, දුක් හෝ මධ්‍යස්ථ (අදුක්ඛමසුඛ) යන වේදනා තුනෙන් එකකට අයත් වන බව මෙම සූත්‍රය උගන්වයි.",
+        "long_summary": "මෙම දේශනාව මගින් පුද්ගලයෙකු ලබන සියලු අත්දැකීම්වල පදනම වන වේදනා (Feelings) විග්‍රහ කරයි. එහිදී ප්‍රධාන වශයෙන් වේදනා තුනක් හඳුනාගෙන ඇත: 1. සැප වේදනාව (Pleasant feeling), 2. දුක් වේදනාව (Painful feeling), සහ 3. සැප හෝ දුක් නොවන මධ්‍යස්ථ වේදනාව (Neither-pleasant-nor-painful feeling). මෙම වර්ගීකරණය තේරුම් ගැනීම සංවේදනයන් කෙරෙහි ඇති බැඳීම පාලනය කිරීමට මූලික පියවර වේ.",
+        "main_discovery": "මානසික සහ කායික අත්දැකීම්වල මූලික ස්වභාවය වන වේදනා වර්ගීකරණය හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සියලු විඳීම් සැප, දුක් හෝ මධ්‍යස්ථ යන ත්‍රිවිධ රාමුව තුළ පවතින බව වටහා ගැනීම.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "වේදනාවන්හි අනිත්‍ය ස්වභාවය දැකීමට පෙර ඒවායේ ස්වභාවය (Nature) නිවැරදිව හඳුනා ගැනීම.",
+            "how_it_aids_liberation": "වේදනාවන් වර්ගීකරණය කිරීමෙන්, ඒවා 'මම' හෝ 'මගේ' ලෙස ගැනීම වෙනුවට හුදු ස්වභාවික ක්‍රියාවලියක් ලෙස දැකීමට මග පාදයි.",
+            "practical_renunciation": "සැප වේදනාවට ඇලීමත්, දුක් වේදනාවට ගැටීමත්, මධ්‍යස්ථ වේදනාවේදී මුළා වීමත් (අනුසය ධර්ම) වැළැක්වීමට මෙම අවබෝධය උපකාරී වේ."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සුඛ (Pleasure)",
+                "දුක්ඛ (Pain)",
+                "අදුක්ඛමසුඛ (Neutrality)"
+            ],
+            "cognitive_impact": "සංවේදනයක් හඳුනාගත් සැණින් (Cognitive Appraisal) එයට ප්‍රතික්‍රියා නොකර, එහි ස්වභාවය ලේබල් කිරීමට (Affective Labeling) හුරු වීමෙන් චිත්තවේගීය නියාමනය (Emotional Regulation) ඇති වේ.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) සහ Mindfulness-Based Stress Reduction (MBSR) වල එන 'Non-judgmental awareness' ක්‍රියාවලියට මෙය බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Insular Cortex",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "වේදනාව දෙස විමර්ශනාත්මකව බැලීමෙන්, උත්තේජනයන්ට ක්ෂණිකව ප්‍රතිචාර දක්වන ස්වයංක්‍රීය ස්නායුක රටාවන් (Habit Loops) දුර්වල වී ප්‍රඥාගෝචර තීරණ ගැනීමේ හැකියාව වර්ධනය වේ.",
+            "stress_reduction_mechanism": "වේදනාව වෛෂයිකව නිරීක්ෂණය කිරීමෙන් Amygdala හි ක්‍රියාකාරිත්වය (Emotional reactivity) අඩු වී, Prefrontal Cortex මගින් සිත පාලනය කිරීමේ හැකියාව (Top-down regulation) වැඩි වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal",
+            "Affective Labeling",
+            "Sensory Processing"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 4,
+            "emotional_arc": "විසිරුණු සංවේදනයන්ගෙන් සංවිධානාත්මක අවබෝධයක් කරා.",
+            "mood_keywords": [
+                "සන්සුන්",
+                "පැහැදිලි",
+                "විමර්ශනාත්මක"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Affective Science",
+                "theory_name": "Valence in Emotion",
+                "parallel_description": "මනෝවිද්‍යාවේදී ඕනෑම අත්දැකීමක් 'Valence' (ධන, ඍණ හෝ මධ්‍යස්ථ) ලෙස බෙදා දැක්වීම බුදුදහමේ ත්‍රිවිධ වේදනාවට සමාන වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ත්‍රිවිධ වේදනා",
+                "related_teachings": [
+                    "වේදනා සංයුක්තය",
+                    "සතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "මූලික ධර්ම කරුණු පැහැදිලි කිරීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ ඕනෑම අවස්ථාවකදී දැනෙන හැඟීම කුමක්දැයි (සැපද, දුකද, මධ්‍යස්ථද?) විමසිලිමත් වීමෙන් ක්ෂණික කෝපය හෝ දැඩි ඇලීම පාලනය කළ හැකිය.",
+        "daily_practice_steps": [
+            "ශරීරයට හෝ සිතට යම් සංවේදනයක් දැනෙන විට එය 'සැප වේදනාවක්', 'දුක් වේදනාවක්' හෝ 'මධ්‍යස්ථ වේදනාවක්' ලෙස නිහඬව නම් කරන්න.",
+            "එම වේදනාවට අදාළව සිත තුළ ඇතිවන ඇලීම හෝ ගැටීම දෙස උපේක්ෂාවෙන් බලා සිටින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "තිස්සෝ ඉමා භික්ඛවේ වේදනා. කතමා තිස්සෝ: සුඛා වේදනා දුක්ඛා වේදනා අදුක්ඛමසුඛා වේදනා. ඉමා ඛෝ භික්ඛවේ තිස්සෝ වේදනාති.",
+            "sinhala": "පින්වත් මහණෙනි, මේ වේදනා තුනක් තියෙනවා. කවර වේදනා තුනක් ද? සැප වේදනාව, දුක් වේදනාව හා දුක් සැප රහිත වේදනාව යි. පින්වත් මහණෙනි, වේදනා තුන යනු මෙයයි."
+        }
+    ]
+}

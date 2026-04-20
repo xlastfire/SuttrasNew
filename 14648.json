@@ -1,0 +1,90 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "මුත්තා ථේරීගාථා",
+    "sutta_title": "මුත්තා තෙරණියගේ ගාථාව",
+    "id": "14648",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "විමුක්තිය සහ මානසික නිදහස",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "සිතේ කෙලෙස් බර සහ බාහිර ග්‍රහණයන්ගෙන් මිදී පූර්ණ මානසික නිදහස අත්පත් කර ගැනීම මෙහි හරයයි.",
+        "long_summary": "මුත්තා රහත් තෙරණිය විසින් වදාළ මෙම ගාථාවෙන්, මාරයාගේ සහ රාහුගේ ග්‍රහණයන්ගෙන් මිදුණු සඳක් බඳු වූ කෙලෙස්වලින් තොර සිතක අගය විස්තර කෙරේ. කිසිදු බැඳීමක් හෝ බරක් නොමැතිව, නිදහස් වූ සිතින් යුතුව ලබන පිණ්ඩපාතය (පරිභෝජනය) සැබෑ නිදහස බව මෙහිදී පෙන්වා දෙයි.",
+        "main_discovery": "කෙලෙස් බරින් තොරව සහ බාහිර බලපෑම්වලින් (මාර/රාහු) මිදී පූර්ණ නිදහස අත්පත් කරගත් සිතක ස්වභාවය.",
+        "core_truth_of_sutta": "සිතේ ඇති සියලු කෙලෙස් බර සහ සංයෝජන ප්‍රහීණ කිරීමෙන් ලබන අසිරිමත් මානසික නිදහස.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කෙලෙස් ක්ෂය කිරීම (Asavakkhaya) සහ උපාදානයන්ගෙන් මිදීම.",
+            "how_it_aids_liberation": "සිතේ පවත්නා 'බර' හෙවත් උපාදාන අත්හැරීම කෙලින්ම සසර දුක කෙළවර කිරීමට මග පාදයි.",
+            "practical_renunciation": "තමා සතු දෑ කෙරෙහි පවතින අභ්‍යන්තර බැඳීම් සහ බලපෑම් කෙරෙහි පවතින ග්‍රහණය ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමුක්තිය (Liberation)",
+                "අකෝප්ප්‍ය සිත (Unshakable mind)",
+                "අනලස බව (Focus)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන බාධාකාරී සිතුවිලි (Cognitive Intrusions) හඳුනාගෙන ඒවා කෙරෙහි දක්වන ප්‍රතිචාරාත්මක බැඳීම නතර කිරීම.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Defusion' - සිතුවිලි සමඟ පවතින ගැට ගැසීමෙන් මිදීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) හීන වීම",
+                "Amygdala පාලනය",
+                "Anterior Cingulate Cortex"
+            ],
+            "neuroplasticity_and_habit": "කෙලෙස් මුල් (Neural Pathways of Craving) දුර්වල වී, සන්සුන් බව තහවුරු වන ස්නායුක සම්බන්ධතා ශක්තිමත් වීම.",
+            "stress_reduction_mechanism": "මාර ග්‍රහණය (Stress Response) පාලනය කරමින්, Cortisol මට්ටම අඩු කර Prefrontal Cortex මගින් සිතේ පාලනය නතු කර ගැනීම."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Control",
+            "Cognitive De-shackling",
+            "Non-attachment (Alobha)",
+            "Meta-awareness"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සැනසීම සහ නිදහස (Equanimity and Liberation)",
+            "emotional_intensity": 9,
+            "emotional_arc": "බන්ධනයෙන් මිදීම හරහා පරම ශාන්තියට පැමිණීම.",
+            "mood_keywords": [
+                "නිදහස",
+                "නිවුණු",
+                "නිරාමිස",
+                "සැහැල්ලුව"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Self-Determination Theory (Autonomy)",
+                "parallel_description": "බාහිර බලපෑම්වලින් තොරව සිත පාලනය කිරීමේ හැකියාව (Intrinsic Autonomy) සතුට සඳහා මූලික වේ.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සියලු බැඳීම්වලින් නිදහස් වීම",
+                "related_teachings": [
+                    "මහා මංගල සූත්‍රය (ඵුට්ඨස්ස ලෝකධම්මේහි චිත්තං යස්ස න කම්පති)",
+                    "ධම්මපදය (රාහුගෙන් මිදුණු සඳ මෙන්)"
+                ],
+                "connection_type": "ධර්ම සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "කිසිදු මානසික බරක් හෝ පීඩනයක් නොමැතිව වර්තමාන මොහොතේ ජීවත් වීම පුහුණු කරන්න.",
+        "daily_practice_steps": [
+            "සිතේ පවතින බර සහ පීඩාවන් හඳුනා ගැනීම.",
+            "බාහිර දේ ගැන පවතින අධික ඇලීම (බැඳීම) ක්‍රමයෙන් ලිහිල් කිරීම.",
+            "සෑම ක්‍රියාවක්ම (ආහාර ගැනීම වැනි) පූර්ණ සතිමත් භාවයෙන් සිදු කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "මුත්තේ මුච්චස්සු යෝගේහි චන්දෝ රාහුග්ගහා ඉව,\nවිප්පමුත්තේන චිත්තේන අනණා භුඤ්ජ පිණ්ඩකන්ති",
+            "sinhala": "පින්වත් මුත්තා, මාරයාගේ ග්‍රහණයෙන් ඔයත් ගැලවිලා යන්ට ඕන. රාහුගේ ග්‍රහණයෙන් පුන්සඳ මිදිල යනවා වගෙයි. කෙලෙස් වලින් නිදහස් වෙලා ගිය සිතින් ණයක් නැතිවයි පිණ්ඩපාතෙ වළඳන්න ඕන."
+        },
+        {
+            "pali": "ඉත්ථං සුදං භගවා මුත්තං සික්ඛමානං ඉමාය ගාථාය අභිණ්හං ඕවදතී’ති.",
+            "sinhala": "මේ වනාහී මුත්තා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

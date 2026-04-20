@@ -1,0 +1,86 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "උග්ග තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15383",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "කර්මක්ෂය සහ විමුක්තිය (Cessation of Kamma and Liberation)",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "උග්ග රහත් මුනිඳුන් විසින් සියලු කුසල් අකුසල් කර්මයන් වර්තමාන මොහොතේ අවසන් කළ බවත්, එම නිසා නැවත උපතක් නොමැති බවත් ප්‍රකාශ කළ ගාථාවකි.",
+        "long_summary": "මෙම දේශනය මගින් පෙන්වා දෙන්නේ ආයුෂ්මත් උග්ග රහත් මුනිඳුන් තම අතීතයේ කරන ලද කුඩා හෝ විශාල සියලු කර්මයන් වර්තමාන මොහොතේදී ක්ෂය කර අවසන් කර ඇති ආකාරයයි. කර්මයේ විපාක අවසන් වීමත් සමඟ නැවත සසරේ ඉපදීමට ඇති හැකියාව මුළුමනින්ම නැති වී ගොස් ඇති බවත්, ඒ හරහා උන්වහන්සේ අත්කර ගත් උත්තරීතර විමුක්තියත් මෙහි සාරාංශය වේ.",
+        "main_discovery": "සියලු කර්මයන් වර්තමාන මොහොතේදී අවසන් වී ඇති බැවින් පුනර්භවයක් ඇති නොවන බව අවබෝධ කර ගැනීම.",
+        "core_truth_of_sutta": "කර්මයන් අවසන් වීම යනු පුනර්භවය වැළකීමයි; සියලු කර්ම වර්තමානයේ නිරුද්ධ කළ තැනැත්තාට නැවත උපතක් නැත.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කර්මක්ෂය (End of Volitional Formations) හරහා සංසාර චක්‍රය නතර කිරීම.",
+            "how_it_aids_liberation": "අතීතය පිළිබඳ බැඳීම (Upadana) අත්හැරීමෙන් තණ්හාව නිරුද්ධ කර සෘජුවම අරහත් ඵලයට මඟ පෙන්වයි.",
+            "practical_renunciation": "තමා විසින් කරන ලද ක්‍රියාවන් (කර්ම) 'මගේ' යැයි උපාදානය කරගැනීමෙන් වැළකීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමුක්ති ඥානය (Insight of Liberation)",
+                "සංස්කාරයන්ගෙන් මිදීම"
+            ],
+            "cognitive_impact": "අතීතය පිළිබඳ පවතින මානසික බර (Psychological burden) ඉවත් කර, 'මම' යන සංකල්පය කර්ම විපාකයන්ගෙන් වෙන් කර හඳුනා ගැනීමට සලස්වයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Self-as-Context' සංකල්පයට සමානයි; එනම් අතීත කථාන්තරවලින් තොරව වර්තමාන මොහොතේ නිදහස් වීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) නිරුද්ධ වීම",
+                "Prefrontal Cortex (PFC) සක්‍රීය වීම"
+            ],
+            "neuroplasticity_and_habit": "කර්ම විපාක කෙරෙහි දක්වන ස්නායුක ප්‍රතිචාර (Neural responses) අඩපණ වීමෙන්, මොළයේ අතීත මතකයන් සමඟ බැඳුණු චිත්තවේගීය ජාලයන් (Synaptic pruning) නැවත සකස් වේ.",
+            "stress_reduction_mechanism": "අතීතය පිළිබඳ පසුතැවීම් හෝ අනාගතය පිළිබඳ බිය (Amygdala arousal) නැති වීමෙන් කෝටිසෝල් (Cortisol) මට්ටම පහත වැටී මොළය පූර්ණ සමතුලිතතාවයකට පත්වේ."
+        },
+        "cognitive_mechanisms": [
+            "Retrospective Closure",
+            "Temporal Anchoring",
+            "Conceptual Disentanglement"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 10,
+            "emotional_arc": "කර්ම බරින් නිදහස් වීම හරහා ලැබෙන පරම ශාන්තිය.",
+            "mood_keywords": [
+                "නිදහස",
+                "ශාන්තිය",
+                "නිසැකබව"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Closure Theory",
+                "parallel_description": "අතීත සිදුවීම්වල මානසික බරින් නිදහස් වී වර්තමානය තුළ සම්පූර්ණ අත්හැරීමක් (Resolution) සිදු කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "කර්මක්ෂය (Ending of Kamma)",
+                "related_teachings": [
+                    "නිබ්බේධික සූත්‍රය",
+                    "කම්ම සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "අතීත වැරදි හෝ කර්මයන් ගැන පසුතැවෙමින් සිටීම අත්හැර, වර්තමානය තුළ සතිමත් වෙමින් එම බැඳීම්වලින් නිදහස් වන්න.",
+        "daily_practice_steps": [
+            "සෑම රාත්‍රියකම එදින සිදු වූ දේවල් කෙරෙහි ඇති මානසික ඇලීම වර්තමානය තුළ අත්හැරීමට පුහුණු වන්න.",
+            "අතීතය පිළිබඳ මතකයන් පැනනගින විට 'එය අවසන් වී ඇත' (It is finished) යන සතිය පිහිටුවා ගන්න.",
+            "ක්‍රියාවන් කෙරෙහි පවතින 'මමත්වය' ඉවත් කිරීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යං මයා පකතං කම්මං අප්පං වා යදි වා බහුං\nසබ්බමේතං පරික්ඛීණං නත්ථි දානි පුනබ්භවෝ’ති",
+            "sinhala": "සුළුවෙන් හෝ ලොකුවට හෝ මං කරගත්තු කර්ම තිබුණා නම් දැන් ඒ ඔක්කොම කර්ම ඉවරයි. දැන් ඉතින් මට ආයෙමත් පුනර්භවයක් නෑ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා උග්ගෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් උග්ග නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

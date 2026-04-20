@@ -1,0 +1,85 @@
+{
+    "nikaya": "දුක නිපාතෝ",
+    "vagga": "සුක්කසුත්තං",
+    "sutta_title": "කුසල් ගැන වදාළ දෙසුම",
+    "id": "7306",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Moral Psychology & Ethics",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "අකුසලයට ඇති ලැජ්ජාව (හිරි) සහ අකුසලයට ඇති බිය (ඔත්තප්ප) යන කුසල ධර්ම දෙක පුද්ගලයාගේ සදාචාරාත්මක පදනම ශක්තිමත් කරයි.",
+        "long_summary": "මෙම සූත්‍රය මගින් ශ්‍රාවකයෙකු තුළ තිබිය යුතු ප්‍රධාන කුසල් ධර්ම දෙකක් අවධාරණය කෙරේ. එනම්, අකුසල් කිරීමට ඇති අභ්‍යන්තර ලැජ්ජාව (Hiri) සහ අකුසල් කිරීමේ විපාක කෙරෙහි ඇති බිය (Ottappa) වේ. සදාචාරාත්මක ජීවිතයක් පවත්වා ගැනීමටත්, පවින් වැළකී කුසල් පක්ෂයෙහි පිහිටීමටත් මෙම ගුණාංග දෙක අත්‍යවශ්‍ය සාධක ලෙස බුදු දහම පෙන්වා දෙයි.",
+        "main_discovery": "ලෝකය පාලනය කරන ධර්මතාවන් ලෙස හඳුන්වන හිරි (පවට ඇති ලැජ්ජාව) සහ ඔත්තප්ප (පවට ඇති භය) පුද්ගල සදාචාරයේ සහ මනෝවිද්‍යාත්මක ස්වයං-නියාමනයේ පදනම වේ.",
+        "core_truth_of_sutta": "පුද්ගල විනය සහ සමාජ ආරක්ෂාව රඳා පවතින්නේ අකුසලයට ඇති අභ්‍යන්තරික පිළිකුල සහ එහි ආදීනව කෙරෙහි ඇති බිය මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සීල පාරිශුද්ධිය සඳහා මූලික වන හිරි-ඔත්තප්ප යන කුසල ධර්මයන්.",
+            "how_it_aids_liberation": "අකුසලයෙන් සිත ඉවත් කර ගැනීම (Renunciation of unwholesome states) මගින් සමාධියට සහ ප්‍රඥාවට අවශ්‍ය පදනම වන සීලය ආරක්ෂා කරයි.",
+            "practical_renunciation": "වැරදි සිතුවිලි සහ ක්‍රියා කෙරෙහි ඇති ආශාව, ඒවායේ ඇති අශෝභන බව දැකීමෙන් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "හිරි (Moral Shame)",
+                "ඔත්තප්ප (Moral Dread)",
+                "සංවරය (Restraint)"
+            ],
+            "cognitive_impact": "වැරදි චර්යාවන් පිළිබඳව කල්තියා සිතා (Metacognition) ඒවායේ ඇති අහිතකර ප්‍රතිඵල තක්සේරු කිරීමේ හැකියාව වර්ධනය වේ.",
+            "modern_psychology_parallel": "Self-Regulation Theory සහ Cognitive Dissonance පාලනය කිරීමේ ක්‍රමවේදයන්ට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Ventromedial Prefrontal Cortex (vmPFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "නිරන්තරයෙන් හිරි-ඔත්තප්ප මෙනෙහි කිරීමෙන්, ප්‍රීෆ්‍රොන්ටල් කෝටෙක්ස් (PFC) මගින් ආවේග පාලනය කිරීමේ (Impulse control) ස්නායුක සම්බන්ධතා ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අකුසලයෙන් වැළකීම නිසා ඇතිවන 'සදාචාරාත්මක නිරවුල්භාවය' (Moral clarity) මගින් Amygdala හි ඇතිවන පසුතැවිල්ල හෝ බිය (Guilt-induced stress) අවම කර සිත සන්සුන් කරයි."
+        },
+        "cognitive_mechanisms": [
+            "ස්වයං-විමර්ශනය (Self-monitoring)",
+            "සදාචාරාත්මක විනිශ්චය (Moral Judgment)",
+            "ප්‍රතිඵල අපේක්ෂාව (Anticipatory Anxiety regarding negative outcomes)",
+            "සමාජීය සංජානනය (Social Cognition)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Equanimity mixed with moral conscience)",
+            "emotional_intensity": 8,
+            "emotional_arc": "පවෙහි ඇති භයානක බව වටහා ගැනීමෙන් විමුක්තිය සහ ආරක්ෂාව කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "විනය",
+                "සංවරය",
+                "පරෙස්සම",
+                "පාරිශුද්ධත්වය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Social Psychology",
+                "theory_name": "Social Control Theory",
+                "parallel_description": "පුද්ගලයෙකු වැරදි ක්‍රියාවලින් වැළකී සිටීමට බලපාන අභ්‍යන්තර ලැජ්ජාව (Internal constraints) සහ බාහිර ප්‍රතිවිපාක කෙරෙහි ඇති බිය හිරි-ඔත්තප්ප සංකල්පයට අනුරූප වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ලෝකපාලක ධර්ම (World-protecting Dhamma)",
+                "related_teachings": [
+                    "අංගුත්තර නිකාය - ලෝකපාල සූත්‍රය"
+                ],
+                "connection_type": "Direct doctrinal continuation"
+            }
+        ],
+        "practical_takeaway_sinhala": "කිසියම් වැරදි ක්‍රියාවක් කිරීමට පෙර එය තමාට නොගැලපෙන බව සිතා ලැජ්ජා වන්න, එහි විපාක ගැන සිතා බිය වන්න.",
+        "daily_practice_steps": [
+            "කිසියම් දෙයක් කතා කිරීමට හෝ කිරීමට පෙර 'මෙය සදාචාරාත්මකද?' යන්න තත්පර කිහිපයක් සිතන්න.",
+            "තමාගේ අභ්‍යන්තර ගෞරවය (Self-respect) ගැන සිතා පහත් ක්‍රියාවලින් වළකින්න.",
+            "වැරදි ක්‍රියාවක ප්‍රතිඵලයක් ලෙස ලැබිය හැකි මානසික සහ සමාජීය පීඩාව ගැන සිහිය පවත්වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ද්වේමේ භික්ඛවේ ධම්මා සුක්කා. කතමේ ද්වේ: හිරි ච ඔත්තප්පඤ්ච. ඉමේ ඛෝ භික්ඛවේ ද්වේ ධම්මා සුක්කාති.",
+            "sinhala": "පින්වත් මහණෙනි, මේ කුසල් දහම් දෙකක් තියෙනවා. මොනවාද ඒ දෙක? පවට ලැජ්ජා ඇති බවත්, පවට භය ඇති බවත්. පින්වත් මහණෙනි, මේ තමයි ඒ කුසල් දහම්."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "nikaya": "චතුක්ක නිපාතෝ",
+    "vagga": "තතිය බල සුත්තං",
+    "sutta_title": "බල ගැන වදාළ තෙවෙනි දෙසුම",
+    "id": "8904",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Spiritual Strengths (Bala)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "ප්‍රඥාව, වීරිය, නිවැරදි බව (අනවජ්ජ) සහ සංග්‍රහය යන බල හතර පුද්ගල දියුණුවට හා සමාජ සම්බන්ධතාවලට බලපාන අයුරු මෙහි විස්තර වේ.",
+        "long_summary": "මහණෙනි, බලයන් හතරක් පවතී. එනම් ප්‍රඥා බලය (නුවණ), වීරිය බලය (උත්සාහය), අනවජ්ජ බලය (වැරදි රහිත නිවැරදි බව) සහ සංග්‍රහ බලය (අන්‍යයන්ට උපකාර කිරීම) වේ. මෙම බලයන් හතර එකිනෙකට බද්ධ වූ, පුද්ගලයෙකුගේ අභ්‍යන්තර ශක්තිය සහ බාහිර සමාජීය සම්බන්ධතාවය තහවුරු කරන සුවිශේෂී ගුණාංග සමූහයක් ලෙස බුදුරජාණන් වහන්සේ වදාළ සේක.",
+        "main_discovery": "ප්‍රඥාව, වීරිය, අනවජ්ජ (නිවැරදි බව) සහ සංග්‍රහය යන සතර බලයන් පෞද්ගලික විමුක්තිය හා සමාජීය යහපැවැත්ම අතර පාලමක් ලෙස ක්‍රියා කිරීම.",
+        "core_truth_of_sutta": "අභ්‍යන්තර ප්‍රඥාව සහ ක්‍රියාශීලී වීරිය, පෞද්ගලික චරිත පාරිශුද්ධත්වය හා සමාජීය ඒකාබද්ධතාවය සමඟ මුසු වූ විට එය නොසැලෙන බලයක් බවට පත්වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "චතුරාර්ය බලයන් වර්ධනය කිරීම.",
+            "how_it_aids_liberation": "ප්‍රඥාවෙන් යථාර්ථය දැකීමත්, වීරියෙන් අකුසල ප්‍රහීණය කිරීමත්, නිවැරදි බවින් මානසික පසුතැවීම (Remorse) නැති කිරීමත් හරහා සිත නිවනට යොමු වේ.",
+            "practical_renunciation": "නිවැරදි පිළිවෙත (අනවජ්ජ) මගින් අයහපත් මානසික නැඹුරුවාවන් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Wisdom (Cognitive Clarity)",
+                "Persistence (Effort)",
+                "Integrity (Moral Health)",
+                "Empathy (Social Connection)"
+            ],
+            "cognitive_impact": "සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring) හරහා පුද්ගලයා තුළ ස්වයං-විශ්වාසය සහ චර්යාත්මක ස්ථාවරත්වය ඇති කරයි.",
+            "modern_psychology_parallel": "ධනාත්මක මනෝවිද්‍යාවේ (Positive Psychology) එන 'Character Strengths' සහ සමාජ බුද්ධිය (Social Intelligence) පිළිබඳ සංකල්පයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Dorsolateral Prefrontal Cortex",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "වීරිය සහ නිවැරදි චර්යාවන් පුහුණු කිරීමේදී මොළයේ උපාගමික සම්බන්ධතා ශක්තිමත් වී ස්වයං-පාලන (Self-regulation) හැකියාව වර්ධනය වේ.",
+            "stress_reduction_mechanism": "අනවජ්ජ බලය (Integrity) මගින් මොළයේ Amygdala හි ක්‍රියාකාරිත්වය අඩුවන අතර, තීරණ ගැනීමේදී PFC මගින් චිත්තවේග පාලනය කර ආතතිය අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Analytical Processing (ප්‍රඥාව)",
+            "Motivational Regulation (වීරිය)",
+            "Moral Evaluation (අනවජ්ජ)",
+            "Social Integration (සංග්‍රහය)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Empowerment",
+            "emotional_intensity": 8,
+            "emotional_arc": "Guidance to Stability",
+            "mood_keywords": [
+                "Confident",
+                "Disciplined",
+                "Balanced"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Executive Function",
+                "parallel_description": "ප්‍රඥාව සහ වීරිය මොළයේ විධායක ක්‍රියාකාරිත්වයට (Executive Function) සමාන වන අතර එමගින් තීරණ ගැනීම සහ ඉලක්ක සපුරා ගැනීම පාලනය කරයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Strengths (Bala)",
+                "related_teachings": [
+                    "Saddha, Viriya, Sati, Samadhi, Panna"
+                ],
+                "connection_type": "Sequential Development"
+            }
+        ],
+        "practical_takeaway_sinhala": "බුද්ධිමත්ව සිතා, උත්සාහයෙන් යුතුව, නිවැරදි දේ කරමින් අන් අයට උදවු කිරීමෙන් ජයග්‍රාහී ජීවිතයක් ගොඩනගා ගත හැකිය.",
+        "daily_practice_steps": [
+            "ප්‍රඥාව: දිනපතා කරන වැඩවල සැබෑ ප්‍රයෝජනය ගැන මොහොතක් සිතන්න.",
+            "වීරිය: කම්මැලිකම පසෙකලා ආරම්භ කළ වැඩ නිම කිරීමට උත්සාහ කරන්න.",
+            "අනවජ්ජ: තමාගේ හෘද සාක්ෂියට එකඟව නිවැරදි දේ පමණක් කිරීමට වගබලා ගන්න.",
+            "සංග්‍රහය: අවම වශයෙන් එක් අයෙකුට හෝ දිනකට උපකාරයක් හෝ කරුණාවන්ත වචනයක් පවසන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චත්තාරිමානි භික්ඛවේ බලානි. කතමානි චත්තාරි?",
+            "sinhala": "මහණෙනි, මේ බලයෝ සතරකි. ඒ කවර සතරක් ද යත්;"
+        },
+        {
+            "pali": "සතිබලං, සමාධිබලං, අනවජ්ජබලං, සංගාහබලං.",
+            "sinhala": "ප්‍රඥාව නම් වූ බලය ය. වීරිය නම් වූ බලය ය. නිවැරදි බව නම් වූ බලය ය. සංග්‍රහය නම් වූ බලය ය."
+        },
+        {
+            "pali": "ඉමානි ඛෝ භික්ඛවේ චත්තාරි බලානීති.",
+            "sinhala": "මහණෙනි, මේ වනාහී සතරක් වූ බලයෝ ය."
+        }
+    ]
+}

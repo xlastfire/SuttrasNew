@@ -1,0 +1,104 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "ගංගා පෙය්‍යාල වර්ගය",
+    "sutta_title": "- පාචීනනින්නාදිසුත්තානි",
+    "id": "15684",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සම්මා සමාධි සහ මාර්ග ප්‍රගුණ කිරීම (Path Cultivation)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ගංගා නදිය පෙරදිගට සහ සාගරයට නැඹුරු වන්නා සේ, සතර ඉර්ධිපාද වැඩීමෙන් යෝගියාගේ සිත ස්වයංක්‍රීයවම නිවන දෙසට නැඹුරු වී ඒ දෙසටම ගලා යයි.",
+        "long_summary": "පාචීනනින්නාදි සූත්‍ර දේශනාව මගින් විවිධ සූත්‍ර දොළොසක එකතුවක් ඉදිරිපත් කරයි. මෙහිදී ගංගා නදිය උදාහරණයට ගනිමින් එය පෙරදිගට නැඹුරු වීම (නින්න), පෙරදිගට යොමු වීම (පෝණ) සහ පෙරදිගට බර වීම (පබ්භාර) යන සංකේත භාවිත කෙරේ. මෙලෙසම සතර ඉර්ධිපාද (ඡන්ද, චිත්ත, විරිය, වීමංසා) නිවැරදිව ප්‍රගුණ කිරීමෙන් ආර්ය ශ්‍රාවකයාගේ සිත නිවන නමැති සාගරයටම නැඹුරු වන බවත්, එය වැළැක්විය නොහැකි ස්වභාවික ක්‍රියාවලියක් බවත් මෙම සූත්‍ර දේශනා දොළොස හරහා පැහැදිලි කරයි.",
+        "main_discovery": "ගංගා නදිය ස්වභාවිකවම සාගරය දෙසට ගලා බසින්නා සේ, ඉර්ධිපාද (Four Bases of Power) වැඩීමෙන් සිත නිරායාසයෙන්ම නිවන දෙසට නැඹුරු වන බව.",
+        "core_truth_of_sutta": "මාර්ගය ප්‍රගුණ කිරීමේ අවසාන ප්‍රතිඵලය වන්නේ සිත නිරායාසයෙන්ම (Effortless state) අත්හැරීම හා නිවන දෙසට යොමු වීමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉර්ධිපාද (Bases of Success) වැඩීම හරහා නිවන කෙරෙහි ඇති නැඹුරුව (Nibbana-inclined mind) ස්ථාවර කිරීම.",
+            "how_it_aids_liberation": "සිතේ ඇති විසිරුණු ස්වභාවය ඉවත් කර, නිවන නමැති එකම ඉලක්කය වෙත චිත්ත ශක්තිය නාභිගත කිරීමෙන් විමුක්තිය ඉක්මන් කරයි.",
+            "practical_renunciation": "ලෞකික බැඳීම්වලින් මිදී, ගලා යන ගංගාවක් මෙන් බාධාවන්ගෙන් තොරව අත්හැරීමේ ගුණය ප්‍රගුණ කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අධිෂ්ඨානය (Determination)",
+                "ඡන්දය (Intention)",
+                "අවිසිරුණු බව (Non-distraction)"
+            ],
+            "cognitive_impact": "සිතේ 'Default setting' එක ලෝභ, දෝෂ, මෝහයන්ගෙන් ඉවත් කර නිවන කෙරෙහි නැඹුරු වූ නව 'Cognitive bias' එකක් නිර්මාණය කරයි.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) වලදී සිදුකරන චින්තන රටාවන් වෙනස් කිරීමේ (Cognitive restructuring) උපරිම අවස්ථාව මෙහි දැකගත හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - අඩුවීම",
+                "Executive Control Network (ECN) - ශක්තිමත් වීම",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "ඉර්ධිපාද වැඩීමේදී සිදුවන පුනරාවර්තනය හේතුවෙන් මොළයේ ස්නායු පථ (Neural pathways) නිවනට අදාළ කුසල් සිතිවිලි සඳහා වඩාත් වේගවත් හා ශක්තිමත් ලෙස සකස් වේ (Long-term Potentiation).",
+            "stress_reduction_mechanism": "සිත එක් අරමුණක (නිවන) ස්ථාවර වීමත් සමඟ Amygdala වේගවත් බව අඩු වී, Cortisol මට්ටම පහළ බැස ගැඹුරු මානසික සහනයක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Priming",
+            "Goal-Oriented Behavior",
+            "Mental Framing",
+            "Attention Bias modification"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "විසිරුණු මනසක සිට ඒකාග්‍ර වූ සහ නිදහස් මනසක් කරා යොමු වීම.",
+            "mood_keywords": [
+                "නිරායාසය",
+                "නැඹුරුතාව",
+                "සැහැල්ලුව",
+                "විමුක්තිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Automaticity & Habit Loops",
+                "parallel_description": "නිරන්තර පුහුණුව (Repetition) මගින් සිත යම්කිසි ඉලක්කයක් වෙත නිරායාසයෙන් (Automatic process) යොමු වීම, ගංගා නදියේ ස්වභාවික ගලා යාමට සමාන වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Physics",
+                "theory_name": "Gravitational Gradient",
+                "parallel_description": "ස්කන්ධයක් වැඩි දිශාවට වස්තූන් ආකර්ෂණය වන්නා සේ, කුසල් ශක්තිය හා වීර්යය වැඩි තැනට මානසික ශක්තිය (Mental energy) ගලා යයි.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නිවනට නැඹුරු වීම (Inclination towards Nibbana)",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය",
+                    "බොජ්ඣංග සංයුත්තය"
+                ],
+                "connection_type": "ධර්ම සමගාමීත්වය (Thematic consistency)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබගේ දෛනික කටයුතුවලදී පවා 'නිවන' අරමුණු කරගනිමින් කටයුතු කිරීමෙන්, කාලයත් සමඟ ඔබේ සිත නිරායාසයෙන්ම යහපත් දෙයටම නැඹුරු වන ස්වභාවයක් ඇති කරගත හැක.",
+        "daily_practice_steps": [
+            "උදෑසන අවදි වූ සැනින් දවසේ අරමුණ නිවනට අනුකූලව තබා ගැනීම (Priming).",
+            "කරන සෑම කුසල් ක්‍රියාවක්ම 'නිවන පිණිසම හේතු වේවා' යි අධිෂ්ඨාන කිරීම.",
+            "සිත අකුසලයකට නැඹුරු වන විට එය වහා හඳුනාගෙන නැවත කුසලයට යොමු කිරීම (Neuro-feedback)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, ගංගා නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, යම් සේ ගංගා නදිය පෙරදිගට නැඹුරු වූයේ, පෙරදිගට යොමු වූයේ, පෙරදිගට බර වූයේ ....(පෙ).... නිවනට බර වූයේ වෙයි."
+        },
+        {
+            "pali": "(ඉද්ධිපාදවසේන විත්ථාරේතබ්බානි)",
+            "sinhala": "(ඉර්ධිපාද වශයෙන් විස්තර කළ යුත්තේ ය.)"
+        },
+        {
+            "pali": "තත්‍රැද්දානං:",
+            "sinhala": "එහි පිළිවෙල උද්දානයයි :"
+        },
+        {
+            "pali": "ඡ පාචීනතෝ නින්නා ඡ ච නින්නා සමුද්දතෝ,\nඒතේ ද්වේ ද්වාදස හොන්ති වග්ගෝ තේන පවුච්චතීති",
+            "sinhala": "පාචීනනින්න සූත්‍ර සයකි. සමුද්දනින්න සූත්‍ර සූත්‍ර සයකි. මෙසේ සය බැගින් සූත්‍ර දොළොසකි. එයින් වර්ගය යැයි කියනු ලැබේ."
+        }
+    ]
+}

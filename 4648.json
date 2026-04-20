@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "පඤ්චම සමුද්දනින්න සුත්තං",
+    "sutta_title": "සමුද්‍රයට නැමී තිබීම ගැන වදාළ පස්වෙනි දෙසුම",
+    "id": "4648",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සත්ත බොජ්ඣංග / විවේක නිස්සිත (Orientation towards Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "මහී නදිය සමුද්‍රයට ගලා බසින්නාක් මෙන්, නිවැරදි පුහුණුව තුළින් භික්ෂුවකගේ සිත ස්වයංක්‍රීයවම නිවන වෙත නැඹුරු වී ගලා යා යුතුය.",
+        "long_summary": "මහී නදිය ස්වභාවිකවම සමුද්‍රය දෙසට නැඹුරු වී, සමුද්‍රය දෙසට බර වී, සමුද්‍රය වෙතටම ගලා බසින්නාක් මෙන්, බුදුදහමේ මඟ අනුගමනය කරන භික්ෂුව සිය මානසික නැඹුරුව නිවන (Nibbana) වෙත පවත්වා ගත යුතුය. මෙය සිතේ පවතින සසර බැඳීම්වලින් මිදී විමුක්තිය දෙසට ගලා යන අඛණ්ඩ මානසික ක්‍රියාවලියකි.",
+        "main_discovery": "මානසික නැඹුරුව (Cognitive orientation) මගින් ස්වයංක්‍රීයව විමුක්තිය කරා මනස මෙහෙයවීම.",
+        "core_truth_of_sutta": "විමුක්තිය උදෙසා කෙරෙන අඛණ්ඩ වීර්යය සහ අවධානය, මනසෙහි ස්වභාවික 'ගලායෑම' (Propensity) නිවන දෙසට හැඩගස්වයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සිතේ ස්වභාවික නැඹුරුව (Inclination) සසරෙන් නිවන දෙසට හැරවීම.",
+            "how_it_aids_liberation": "සිත නිවනට බර වූ විට (Nibbana-ninna), අකුසල පක්ෂයට ඇති ආකර්ෂණය දුර්වල වී විමුක්තිය කරා යෑම ස්වයංක්‍රීය වේ.",
+            "practical_renunciation": "සිත බැඳී ඇති ලෞකික අරමුණුවලින් ඉවත් කර, අත්හැරීමේ (Viraga) දිශාවට සිත නැඹුරු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සතිමත්බව (Mindfulness)",
+                "අත්හැරීම (Detachment)",
+                "එකාග්‍රතාවය (Focus)"
+            ],
+            "cognitive_impact": "සිතේ තීරණ ගැනීමේ රටාව (Cognitive framing) 'පැවැත්ම' වෙනුවට 'මිදීම' මත පදනම්ව හැඩගැසීම.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) වලදී සිදුකරන චින්තන රටා වෙනස් කිරීමේ (Cognitive restructuring) ක්‍රියාවලියට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "අඛණ්ඩ මෙනෙහි කිරීම මගින් මොළයේ සිනැප්ටික් ශක්තිය (Synaptic strength) නිවනට අදාළ 'අත්හැරීමේ' ස්නායුක පථ වෙත යොමු වේ.",
+            "stress_reduction_mechanism": "නිවන දෙසට සිත නැඹුරු වීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, බිය සහ ආතතිය සමනය වන Cortisol පාලන යාන්ත්‍රණයක් ගොඩනැගීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Priming",
+            "Goal-Directed Attention",
+            "Mental Stream Continuity",
+            "Self-Correction Mechanism"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් භාවය (Serenity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "සසරේ අවුල් සහගත බවෙන් මිදී නිවනේ නිසලතාවය දෙසට ගලා යෑම.",
+            "mood_keywords": [
+                "නැඹුරුව (Inclination)",
+                "ගලායෑම (Flow)",
+                "සන්සුන් (Calm)",
+                "නිශ්චල (Steady)"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Flow State (Mihaly Csikszentmihalyi)",
+                "parallel_description": "අඛණ්ඩ පුහුණුව තුළින් මනස නිශ්චිත අරමුණක් වෙත අවම වෙහෙසකින් (Effortless ease) ගලා යාමට සැලැස්වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නැඹුරුව (Orientation)",
+                "related_teachings": [
+                    "සත්ත බොජ්ඣංග",
+                    "විවේක නිස්සිත විරාග නිස්සිත"
+                ],
+                "connection_type": "ධර්ම ස්වභාවය (Natural Law)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ දෛනික සිතුවිලි සහ ක්‍රියාවන් නිරන්තරයෙන් අත්හැරීම සහ සන්සුන් බව දෙසට නැඹුරු කරන්න; එවිට ජීවිතයේ ගැටලු හමුවේ නොසැලී සිටීමට සිත ස්වයංක්‍රීයව හැඩගැසෙනු ඇත.",
+        "daily_practice_steps": [
+            "දවස පුරා සෑම සිතුවිල්ලක්ම 'මෙය මාව බැඳීමටද මිදීමටද යොමු කරන්නේ?' යන්න විමසන්න.",
+            "බාහිර ගැටුම් හමුවේ සිතේ සන්සුන් බව (Equanimity) පවත්වා ගැනීමට උත්සාහ කරන්න.",
+            "මහී නදිය මෙන් බාධක මගහරිමින් නිවන නම් වූ විවේකය දෙසටම සිත මෙහෙයවන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, මහී නදී සමුද්දනින්නා සමුද්දපෝණා සමුද්දපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, මහී නදිය නදිය සමුද්‍රයට නැමී, සමුද්‍රයට නැඹුරු වී, සමුද්‍රයට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

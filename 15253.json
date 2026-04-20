@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "චතුත්ථ සමුද්දනින්න සුත්තං",
+    "sutta_title": "සමුද්‍රයට නැමී තිබීම ගැන වදාළ සිව්වෙනි දෙසුම",
+    "id": "15253",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සෝතාපන්න/නිවනට ඇති නැඹුරුව",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සරභූ නදිය ස්වභාවිකවම සමුද්‍රයට ගලා බසින්නා සේම, නිවැරදි ප්‍රතිපදාවක නියැලි භික්ෂුවකගේ ජීවිතයද නිවන වෙතම නැඹුරු වී ගලා යා යුතු බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+        "long_summary": "සමහර නදීන් (උදා: සරභූ නදිය) ස්වභාවිකවම සමුද්‍රය දෙසට ඇල වී (Ninna), සමුද්‍රය දෙසට නැඹුරු වී (Ponna), සමුද්‍රය දෙසටම බර වී (Pabbhara) ගලා බසින්නා සේම, ආර්ය අෂ්ටාංගික මාර්ගය වඩන භික්ෂුවගේ ජීවිතයද නිවන වෙතම ඇදී යා යුතුය. භෞතික නදියක් මුහුදට එකතු වීම ස්වභාවික ධර්මතාවක් වන්නා සේම, නිවැරදි දහම් මාවතේ ගමන් කරන තැනැත්තාගේ චේතනාවන් සහ සමස්ත පැවැත්ම අවසානයේ නිවන නම් වූ අතිශය ගැඹුරු සාමය තුළට කිඳා බැසීමට සූදානම් විය යුතු බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "භික්ෂුවකගේ අධ්‍යාත්මික ගමන සරභූ නදිය මෙන් ස්වභාවිකවම නිවන (Nibbana) දෙසට නැඹුරු විය යුතු බවත්, එය බලහත්කාරයෙන් සිදු කරන්නක් නොව ක්‍රමික පරිණාමීය ගමනක් බවත් හෙළිවීම.",
+        "core_truth_of_sutta": "නිවැරදි ප්‍රතිපදාව යනු නිවන දෙසට ස්වභාවිකව සිදුවන නැඹුරුවක් සහ බර වීමකි (Natural gravitational pull towards Nibbana).",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සප්ත බොජ්ඣංග හෝ ආර්ය අෂ්ටාංගික මාර්ගය වැඩීම හරහා සිත නිවන දෙසට හැඩගැසීම.",
+            "how_it_aids_liberation": "සිතේ ඇති විසිරුණු ස්වභාවය පාලනය කර, එය නිවන නම් වූ එකම ඉලක්කයක් වෙත යොමු කිරීමෙන් විමුක්තිය පහසු කරයි.",
+            "practical_renunciation": "ලෞකික බැඳීම්වලින් ඉවත් වී සිත ස්වභාවිකවම අත්හැරීම (Viraga) දෙසට ගලා යාමට ඉඩ හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නිවනට ඇති නැඹුරුව (Propensity for Cessation)",
+                "ඒකාග්‍රතාව (Focus)",
+                "නිශ්චලතාව (Tranquillity)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන අනවශ්‍ය සිතුවිලි වල දිශානතිය වෙනස් කර, සියලු සංජානනයන් (Perceptions) 'අත්හැරීම' යන පොදු අරමුණ වෙත යොමු කිරීම (Cognitive Restructuring).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) - තම වටිනාකම් (Values) දෙසට ජීවිතය මෙහෙයවීම සහ ප්‍රතිරෝධයකින් තොරව අත්දැකීම් භාරගැනීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Salience Network",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "නිරන්තරයෙන් නිවන පිළිබඳ මෙනෙහි කිරීමෙන් මොළයේ ස්නායු පථ (Neural pathways) අලුතින් සැකසී, ලෞකික ආශාවන් (Lust) වෙනුවට අත්හැරීමේ පුරුද්ද තහවුරු වේ (Strengthening pro-social and inhibitory pathways).",
+            "stress_reduction_mechanism": "සිතේ දිශානතිය නිශ්චල අරමුණක් වෙත යොමු වීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී, Cortisol මට්ටම පහත වැටීමෙන් මානසික ආතතිය දුරු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Bias (අවධානයේ නැඹුරුව)",
+            "Goal-Directed Behavior (අරමුණක් කරා මෙහෙයවන චර්යාවන්)",
+            "Mental Models (මානසික ආකෘති)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 7,
+            "emotional_arc": "ස්වභාවික ගලායාමේ සිට පරම නිශ්චලතාව දක්වා (Flow to Stillness)",
+            "mood_keywords": [
+                "සන්සුන්",
+                "නැඹුරු වූ",
+                "අකම්පිත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Flow Theory",
+                "parallel_description": "නදියක් ගලා යනවාක් මෙන් පුද්ගලයා සිය අරමුණ සමඟ පූර්ණව ඒකාත්මික වීම (Immersion).",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "නදී උපමාව (The River Simile)",
+                "related_teachings": [
+                    "අරිය අට්ඨංගික මග්ග (Noble Eightfold Path)",
+                    "ගංගා පේයාල (Ganga PeYYala)"
+                ],
+                "connection_type": "Metaphorical Consistency"
+            }
+        ],
+        "practical_takeaway_sinhala": "ගලා යන නදියක් මෙන් ඔබේ ජීවිතයේ සෑම ක්‍රියාවක්ම සහ චින්තනයක්ම අත්හැරීම සහ මානසික නිදහස (නිවන) දෙසටම හුරු කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා උදෑසන 'මගේ අද දවසේ සියලු ක්‍රියා මානසික නිදහස උදෙසාම වේවා' යි අධිෂ්ඨාන කරන්න.",
+            "බාහිර ලෝකය සමඟ ගැටෙන විට නදියක් ගල්පර මඟහැර යන්නා සේ උපේක්ෂාවෙන් කටයුතු කරන්න.",
+            "රාත්‍රියේදී දවස පුරා සිත කොතරම් නිදහස දෙසට නැඹුරු වූවාදැයි ස්වයං විමර්ශනයක යෙදෙන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, සරභූ නදී සමුද්දනින්නා සමුද්දපෝණා සමුද්දපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, සරභූ නදිය සමුද්‍රයට නැමී, සමුද්‍රයට නැඹුරු වී, සමුද්‍රයට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+        }
+    ]
+}

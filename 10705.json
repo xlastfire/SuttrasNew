@@ -1,0 +1,93 @@
+{
+    "nikaya": "සත්තක නිපාතෝ",
+    "vagga": "අනත්තානුපස්සී සුත්තං",
+    "sutta_title": "අනාත්මය අනුව බැලීම ගැන වදාළ දෙසුම",
+    "id": "10705",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Anatta and Meritorious Qualities",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "සියලු ධර්මයන්ගේ අනාත්ම ස්වභාවය විදර්ශනා කරන පුද්ගලයන් පස් දෙනෙකු ලෝකයාගේ අනුත්තර පින්කෙතක් වන බව මෙහි දැක්වේ.",
+        "long_summary": "සැවැත් නුවරදී දේශනා කරන ලද මෙම සූත්‍රය මගින් සියලු ධර්මයන්ගේ අනාත්ම ස්වභාවය (Nature of Non-self) අවබෝධ කරගත් පුද්ගලයන් පස් දෙනෙකු පිළිබඳව විස්තර කෙරේ. සියලු සංස්කාරයන් අස්ථිර බවත්, ඒවායේ පාලනය කළ හැකි ස්ථිර හරයක් නොමැති බවත් වටහාගෙන අනාත්ම සංඥාව වඩන මෙම පුද්ගලයන්, ලෝකයාට අතිශයින්ම උතුම් පින්කෙතක් ලෙස බුදුරජාණන් වහන්සේ හඳුන්වා දෙති.",
+        "main_discovery": "සියලු ධර්මයන් අනාත්ම වශයෙන් දැකීම ලෝකයාගේ අනුත්තර පින්කෙතක් බවට පත්වන උතුම් ගුණයකි.",
+        "core_truth_of_sutta": "සියලු ධර්මයන් අනාත්ම (Non-self) ලෙස දැකීම පරම සත්‍යය අවබෝධ කර ගැනීම වන අතර එය පුද්ගලයෙකු උත්තරීතර තත්ත්වයට පත් කරයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සියලු ධර්මයන් අනාත්ම ලෙස දැකීම (Anatta-sanna).",
+            "how_it_aids_liberation": "සංස්කාරයන් කෙරෙහි පවතින මමත්වය සහ 'ආත්ම' දෘෂ්ටිය ඉවත් කිරීමෙන් තෘෂ්ණාව ක්ෂය වී නිවන කරා යොමු කරයි.",
+            "practical_renunciation": "කිසිදු සංස්කාරයක් තමාගේ වසඟයේ පවතින ස්ථිර දෙයක් ලෙස නොසලකා අත්හැරීම (Letting go of self-identification)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Anatta-sanna (Perception of non-self)",
+                "Vipassana (Insight)",
+                "Upekkha (Equanimity)"
+            ],
+            "cognitive_impact": "සිතෙහි ඇතිවන 'මම' යන මධ්‍යගත සංකල්පය (Self-referential processing) බිඳ දමමින් මානසික නිදහස ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන Self-as-context සංකල්පයට සමානව සිතුවිලි හා හැඟීම් වලින් වෙන්වී ඒවා දෙස බැලීමේ හැකියාව."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Posterior Cingulate Cortex (PCC)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "අනාත්ම සංඥාව පුහුණු කිරීමේදී, 'මම' කේන්ද්‍ර කරගත් සිතුවිලි ජනනය කරන Default Mode Network (DMN) හි ක්‍රියාකාරිත්වය අඩු වී මොළය නව ස්නායුක සම්බන්ධතා (Synaptic pruning of egoistic habits) ගොඩනගයි.",
+            "stress_reduction_mechanism": "ආත්මීය බැඳීම් ලිහිල් වීම නිසා Amygdala හි ක්‍රියාකාරිත්වය පාලනය වී Cortisol මට්ටම අඩු වෙමින් ආතතිය දුරු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Non-Self Perception",
+            "Pattern Recognition of Impermanence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity",
+            "emotional_intensity": 8,
+            "emotional_arc": "From mundane attachment to profound spiritual liberation",
+            "mood_keywords": [
+                "Peace",
+                "Detachment",
+                "Clarity",
+                "Reverence"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අහංකාරය සහ මමත්වය මත පදනම් වූ වැරදි විශ්වාස (Maladaptive Schemas) දුරු කරමින් යථාර්ථය විග්‍රහ කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Anatta-lakkhana",
+                "related_teachings": [
+                    "Anattalakkhana Sutta",
+                    "Samyutta Nikaya - Khandha Samyutta"
+                ],
+                "connection_type": "Direct doctrinal foundation"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ සිදුවන වෙනස්කම් හා ලැබීම්-දැරීම් දෙස 'මගේ' කියා නොගෙන ඒවා ස්වභාවික ක්‍රියාවලීන් ලෙස දැකීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "සිතේ ඇතිවන සිතුවිලි දෙස 'මම සිතමි' යන්න වෙනුවට 'සිතුවිල්ලක් හටගත්තේය' ලෙස නිරීක්ෂණය කරන්න.",
+            "බාහිර වස්තූන් හා ශරීරයේ වෙනස්වීම් අනාත්ම ස්වභාවයෙන් යුක්ත බව මෙනෙහි කරන්න.",
+            "කිසිවක් ස්ථිරව පාලනය කළ නොහැකි බව වටහාගෙන උපේක්ෂාව පුහුණු කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "සත්තිමේ භික්ඛවේ, පුග්ගලා ආහුනෙය්‍යා ....(පෙ).... අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්ස. කතමේ සත්ත:",
+            "sinhala": "මහණෙනි, මේ පුද්ගලයෝ සත් දෙනා ආහුනෙය්‍ය වෙති. ….(පෙ)…. ලෝකයාගේ අනුත්තර පින් කෙත වෙති. ඒ කවර සත් දෙනෙක් ද යත්;"
+        },
+        {
+            "pali": "ඉධ භික්ඛවේ, ඒකච්චෝ පුග්ගලෝ සබ්බධම්මේසු අනත්තානුපස්සී විහරති ....(පෙ).... ඉමේ ඛෝ භික්ඛවේ, සත්ත පුග්ගලා ආහුනෙය්‍යා ....(පෙ).... අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්සාති.",
+            "sinhala": "මහණෙනි, මෙහිලා ඇතැම් පුද්ගලයෙක් සියලු ධර්මයන් පිළිබඳ ව අනාත්මය අනුව බලමින්, ….(පෙ)…. මහණෙනි, මේ පුද්ගලයෝ සත් දෙනා ආහුනෙය්‍ය වෙති. ….(පෙ)…. ලෝකයාගේ අනුත්තර පින් කෙත වෙති."
+        }
+    ]
+}

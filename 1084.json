@@ -1,0 +1,104 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "ඒකමූල සුත්තං",
+    "sutta_title": "පටන් ගැනීම ගැන අනුමත කොට වදාළ දෙසුම",
+    "id": "1084",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංසාර විමුක්තිය සහ අවිද්‍යා නිරෝධය",
+        "complexity_rating": 8,
+        "analysis_confidence": 100,
+        "short_summary": "අවිද්‍යාව මුල් කරගත්, දෘෂ්ටිමය සහ කෙලෙස්මය අගාධයන්ගෙන් පිරුණු බිහිසුණු සංසාර සාගරයෙන් එතෙර වීමේ මාර්ගය මෙම සූත්‍රයෙන් විස්තර කෙරේ.",
+        "long_summary": "අවිද්‍යාව පදනම් කරගත් සංසාරය කිසිදා නොපිරෙන මහා සාගරයකට උපමා කරන මෙම දේශනාව, එහි ඇති දෘෂ්ටිමය අගාධ (සදාතනික සහ උච්ඡේදවාදය) සහ කෙලෙස් අගාධ (රාග, ද්වේෂ, මෝහ) පෙන්වා දෙයි. පංච කාමගුණයන් ගල්කඳු ලෙසත්, දොළොස් ආයතනයන් පාතාලයක් ලෙසත් හඳුන්වමින් සංසාරයේ ඇති අනතුරුදායක බව අවධාරණය කරන අතර, බුදුරජාණන් වහන්සේ මෙම දුෂ්කර සාගරය සම්පූර්ණයෙන් තරණය කර නිවන් අවබෝධ කරගත් ශ්‍රේෂ්ඨතම උත්තමයා බව මෙහි දක්වා ඇත.",
+        "main_discovery": "අවිද්‍යාව පදනම් කරගත් සංසාරයේ බිහිසුණු බව සහ ආයතන/කාමගුණ හරහා ඇතිවන බැඳීම්වලින් මිදීමේ අවශ්‍යතාවය.",
+        "core_truth_of_sutta": "සංසාරය යනු අවිද්‍යාව මත පදනම් වූ, දෘෂ්ටි සහ කෙලෙස් නමැති අගාධයන්ගෙන් ගහණ වූ, ආයතන නමැති පාතාලයකින් යුතු අතිශය බිහිසුණු ගමනකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අවිද්‍යාව ප්‍රහීණය කරමින් ආයතන සහ කාමගුණයන්හි බැඳීමෙන් මිදීම.",
+            "how_it_aids_liberation": "සංසාරයේ ඇති බිහිසුණු බව (ආදීනව) දැකීමෙන් ඒ කෙරෙහි ඇති ඇලීම (තෘෂ්ණාව) දුරු කර විමුක්තිය කරා යොමු කරයි.",
+            "practical_renunciation": "ආයතන දොළොස කෙරෙහි ඇති 'මම' සහ 'මගේ' යන හැඟීම අත්හැරීම සහ කාමගුණයන්හි ආශ්වාදයට වඩා ආදීනවය මෙනෙහි කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවිද්‍යාව (Ignorance)",
+                "රාගය (Lust)",
+                "ද්වේෂය (Hatred)",
+                "මෝහය (Delusion)",
+                "දෘෂ්ටි (Views)"
+            ],
+            "cognitive_impact": "අන්තගාමී දෘෂ්ටි (Extremist views) මගින් ඇති කරන මානසික පටු බව ඉවත් කර යථාභූත ඥානය ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන සංජානනීය විලග්නතාවය (Cognitive Defusion) හරහා දෘෂ්ටි සහ හැඟීම්වලින් වෙන්වී බැලීම මෙහි අගාධ හඳුනාගැනීමට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Mesolimbic Reward System",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "ආයතන සහ කාමගුණයන්හි නැවත නැවත ඇලීමෙන් ඇතිවන ස්නායුක පථ (Neural pathways) අවිද්‍යාව දුරු කිරීමේ භාවනාමය අභ්‍යාස මගින් දුර්වල කර (Synaptic pruning) නව විමුක්තිදායක පථ නිර්මාණය කරයි.",
+            "stress_reduction_mechanism": "සංසාරයේ බියකරු බව අවබෝධ කරගැනීමෙන්, ලෞකික අස්ථිර දේවල් මත යැපීම අඩුවන විට Amygdala හි අධි-ප්‍රතික්‍රියාකාරීත්වය පාලනය වී Prefrontal Cortex මගින් ලැබෙන විචාරාත්මක බුද්ධිය වර්ධනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Perceptual Distortion (අවිද්‍යාව)",
+            "Cognitive Biases (සදාතනික සහ උච්ඡේද දෘෂ්ටි)",
+            "Affective Reactivity (රාග, ද්වේෂ, මෝහ)",
+            "Sensory Processing (ආයතන)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Spiritual Urgency)",
+            "emotional_intensity": 9,
+            "emotional_arc": "සංසාරයේ බියකරු බවේ සිට නිවනේ සුරක්ෂිතභාවය දක්වා",
+            "mood_keywords": [
+                "භයානක",
+                "අගාධය",
+                "නිවන",
+                "බිහිසුණු"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Distortions",
+                "parallel_description": "සදාතනිකවාදය සහ උච්ඡේදවාදය යනු යථාර්ථය වැරදි ලෙස අර්ථකථනය කරන අන්තගාමී සංජානනීය විකෘති කිරීම් (Cognitive Distortions) වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Reward System (Dopaminergic Pathways)",
+                "parallel_description": "පංච කාමගුණයන් (ගල්කඳු) මගින් මොළයේ ත්‍යාග පද්ධතිය උත්තේජනය කරමින් ඇබ්බැහි වීම් සහ චක්‍රීය චර්යාවන් (Samsaric loops) නිර්මාණය කරයි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අවිද්‍යාව (Ignorance)",
+                "related_teachings": [
+                    "පටිච්චසමුප්පාදය (Dependent Origination)"
+                ],
+                "connection_type": "Root Cause Analysis"
+            },
+            {
+                "shared_concept": "ආයතන (Sense Bases)",
+                "related_teachings": [
+                    "සළායතන සංයුත්තය"
+                ],
+                "connection_type": "Structural Framework of Experience"
+            }
+        ],
+        "practical_takeaway_sinhala": "ලෝකය දෙස ආයතන සහ කාමගුණ නමැති උගුල්වලින් මිදී, අවිද්‍යාවෙන් තොරව යථාර්ථවාදීව බැලීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "ආයතන දොළොස හරහා ලැබෙන අත්දැකීම් දෙස උපේක්ෂාවෙන් බැලීම.",
+            "කාමගුණයන්හි තාවකාලික බව සහ ආදීනව මෙනෙහි කිරීම.",
+            "අන්තගාමී අදහස්වලින් (සදාතනික/උච්ඡේද) තොරව මධ්‍යස්ථව සිතීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "ඒකමූලං ද්‌විරාවට්‌ටං තිමලං පඤ්‌චපත්‌ථරං\nසමුද්‌දං ද්‌වාදසාවට්‌ටං පාතාලං අතරී ඉසීති",
+            "sinhala": "“කිසිදා නොපිරෙන මහසයුරක් ඇත්තේය. ඒ සයුර පටන් ගන්නේ අවිද්‍යාවෙනි. එහි ඇත - නැත යන අන්ත දෙකින් සැදුණු අගාධ දෙකක් ඇත්තේය. රාග, ද්වේෂ, මෝහයෙන් සැදුණු තව අගාධ තුනක් ඇත්තේය. පංච කාමගුණය නමැති ගල්කඳු පසක් ඇත්තේය. ආධ්‍යාත්මික ආයතන හය සහ බාහිර ආයතන හය යන දොළොස් පාතාලයක් ඇත්තේය. මහර්ෂි වූ සම්බුදුරජාණන් වහන්සේ ඒ බිහිසුණු සමුද්‍රය තරණය කළ සේක.”"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "- බලකරණීය වග්ගෝ",
+    "sutta_title": "- බලකරණීය වර්ගය",
+    "id": "15280",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "බලකරණීය වර්ගය (Classification of Strength and Action)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "කායික ශක්තියෙන් සිදුකරන ක්‍රියාකාරකම් විවේකය, විරාගය සහ නිරෝධය පදනම් කරගනිමින් වර්ගීකරණය කිරීම මෙහි හරයයි.",
+        "long_summary": "බලකරණීය වර්ගයට අයත් මෙම දේශනා මාලාව මගින් කායික සවිය (Strength) යොදා කරනු ලබන විවිධ කර්මාන්ත සහ ක්‍රියාකාරකම් පිළිබඳව විමසා බලයි. එහිදී එම ක්‍රියාකාරකම් විවේක නිස්සිත (Dependent on seclusion), විරාග නිස්සිත (Dependent on dispassion) සහ නිරෝධ නිස්සිත (Dependent on cessation) යන ගැඹුරු අධ්‍යාත්මික පදනම් අනුව වර්ගීකරණය කළ යුතු බව අවධාරණය කෙරේ. බල, බීජ, නාග, රුක්ඛ ඇතුළු සූත්‍ර දොළොසක් හරහා මෙම සංවිධානාත්මක ව්‍යුහය විස්තර කෙරේ.",
+        "main_discovery": "කායික ශක්තිය යොදවන ක්‍රියාකාරකම් විවේකය (Seclusion) සහ නිරෝධය (Cessation) පදනම් කරගත් විවේචනාත්මක වර්ගීකරණයකට ලක් කිරීම.",
+        "core_truth_of_sutta": "ඕනෑම කායික හෝ ප්‍රයත්නමය ක්‍රියාවක් (Action), එය ලෝකෝත්තර විමුක්තියට (විවේක/නිරෝධ) ඇති නැඹුරුව මත පදනම්ව අගය කළ යුතුය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "විවේක නිස්සිත, විරාග නිස්සිත සහ නිරෝධ නිස්සිත යන තත්ත්වයන් මත පදනම්ව වීර්යය වැඩීම.",
+            "how_it_aids_liberation": "බාහිර ලෝකය සමඟ ඇති බැඳීම්වලින් වෙන්වී (Viveka), ඇලීම් දුරුකර (Viraga), දුක නැති කිරීමේ (Nirodha) ඉලක්කය කරා ශක්තිය යොමු කිරීමෙන් නිවනට මඟ පෑදේ.",
+            "practical_renunciation": "සියලු කායික ක්‍රියාවන්හිදී ඒවායේ ඇති පලක් නොමැති බව දැක අත්හැරීමට (Vossagga) නැඹුරු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "වීර්යය (Effort/Strength)",
+                "විවේකය (Mental Seclusion)",
+                "නිරෝධය (Cessation of Stress)"
+            ],
+            "cognitive_impact": "පුද්ගලයාගේ එදිනෙදා ක්‍රියාකාරකම්වල ඉලක්කය (Purpose/Intention) සාංසාරික බැඳීම්වල සිට විමුක්තිය දක්වා වෙනස් කිරීමට (Cognitive Restructuring) මඟ පෙන්වයි.",
+            "modern_psychology_parallel": "සමකාලීන මනෝවිද්‍යාවේ ඇති 'Value-based Action' (ACT ප්‍රතිකාරය) මගින් තම ක්‍රියාවන් ගැඹුරු වටිනාකම් මත පදනම් කිරීම මෙහි බෞද්ධ පදනමයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "විවේකය සහ විරාගය නැවත නැවත මෙනෙහි කිරීමෙන් මොළයේ ස්වයං-කේන්ද්‍රීය සිතුවිලි ජනනය කරන DMN පද්ධතියේ ක්‍රියාකාරීත්වය අඩු වී, වඩාත් සන්සුන් ස්නායුක රටාවන් (Neural pathways) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "නිරෝධ නිස්සිත භාවය වැඩීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, බිය සහ ආතතිය පාලනය කරන Prefrontal Cortex ශක්තිමත් වේ."
+        },
+        "cognitive_mechanisms": [
+            "වර්ගීකරණය (Classification)",
+            "විවේක සඤ්ඤාව (Perception of Seclusion)",
+            "විරාග සඤ්ඤාව (Perception of Dispassion)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "කායික ක්‍රියාකාරීත්වයේ සිට මානසික විවේකය දක්වා ස්ථාවර වීම",
+            "mood_keywords": [
+                "විවේකය",
+                "නිස්සිත",
+                "ශක්තිය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Reframing",
+                "parallel_description": "භෞතික ක්‍රියාකාරකම් හුදෙක් කායික වෙහෙසක් ලෙස නොව, මානසික විවේකය (Seclusion) උදෙසා වන අරමුණු මත පදනම්ව නැවත අර්ථකථනය කිරීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බලකරණීය (Exertion of power/energy)",
+                "related_teachings": [
+                    "බීජ සූත්‍රය",
+                    "නදී සූත්‍රය",
+                    "මේඝ සූත්‍රය"
+                ],
+                "connection_type": "Sequentially structured grouping in the Balakaraniya Vagga"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ කුමන කායික වැඩක් කළත්, එය මානසික සන්සුන්භාවය සහ අත්හැරීම සඳහා පදනමක් කරගන්න.",
+        "daily_practice_steps": [
+            "කරන සෑම ක්‍රියාවකදීම 'මම මෙය කරන්නේ ඇයි?' යන අරමුණ විමසන්න (Mindful Intention).",
+            "කාර්යබහුලත්වය අතරතුර කෙටි මොහොතක් මානසිකව හුදකලා වී විවේකය අත්විඳින්න (Micro-meditation).",
+            "අනවශ්‍ය බැඳීම් සහ ආශාවන් අවම කරගැනීමට දිනකට එක් වරක්වත් සිතන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, යේ කේචි බලකරණීයා කම්මන්තා කයිරන්ති ....(පෙ).... බහුලීකරෝතීති. (බලකරණීයවග්ගෝ විවේකනිස්සිතාදිවසේන විත්ථාරේතබ්බෝ.)",
+            "sinhala": "මහණෙනි, යම් සේ කායික සවියෙන් යුතු ව කළ යුතු යම්කිසි කර්මාන්ත ආදිය ඇද්ද, ….(පෙ)…. බහුල ව ප්‍රගුණ කරයි."
+        },
+        {
+            "pali": "තත්‍රැද්දානං:",
+            "sinhala": "එහි පිළිවෙල උද්දානයයි :"
+        },
+        {
+            "pali": "බලං බීජඤ්ච නාගෝ ච රුක්ඛං කුම්භේන සූකිනං\nආකාසේන ච ද්වේ මේඝා නාවා ආගන්තුකා නදීති",
+            "sinhala": "බල, බීජ, නාග, රුක්ඛ, කුම්භ, සූක, ආකාස, මේඝ සූත්‍ර දෙක, නාවා, ආගන්තුක, නදී සූත්‍රය වශයෙන් සූත්‍ර දොළොසකි. එයින් වර්ගය යැයි කියනු ලැබේ."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "අප්පමාද සුත්තං",
+    "sutta_title": "අප්‍රමාදය ගැන වදාළ දෙසුම",
+    "id": "4092",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Appamada and Magga",
+        "complexity_rating": 7,
+        "analysis_confidence": 95,
+        "short_summary": "ආර්ය අෂ්ටාංගික මාර්ගය සාර්ථකව ප්‍රගුණ කිරීම සඳහා අවශ්‍ය මූලිකම පදනම අප්‍රමාද සම්පත්තිය (Appamada) බව මෙම දේශනාව පෙන්වා දෙයි.",
+        "long_summary": "ආර්ය අෂ්ටාංගික මාර්ගය නැමති විමුක්ති මාර්ගය අනුගමනය කිරීමේදී අප්‍රමාදය හෙවත් නොපමාව කටයුතු කිරීම අතිශයින්ම වැදගත් වේ. යමෙකු තුළ අප්‍රමාදය පිහිටා තිබේ නම්, ඔහුට සම්මා දිට්ඨි ආදී අංග අටකින් යුත් ආර්ය මාර්ගය ක්‍රමානුකූලව සහ සාර්ථකව දියුණු කිරීමට හැකි වන බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "ආර්ය අෂ්ටාංගික මාර්ගය වැඩීමේ මූලිකම සහ තීරණාත්මක සාධකය අප්‍රමාදය (Diligent Mindfulness) බව හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "සියලු කුසල ධර්මයන්ට සහ ආර්ය අෂ්ටාංගික මාර්ගයේ සම්පූර්ණත්වයට මූලික වන්නේ අප්‍රමාදයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කිරීමේ ගාමක බලවේගය (Driving force) අප්‍රමාදයයි.",
+            "how_it_aids_liberation": "සෑම මොහොතකම සිහියෙන් සහ වීර්යයෙන් යුක්ත වීම (අප්‍රමාදය) හරහා කෙලෙස් දුරු කිරීමටත්, මාර්ගඵල අවබෝධයටත් මග පාදයි.",
+            "practical_renunciation": "තණ්හාව සහ මෝහය නිසා ඇතිවන ප්‍රමාදය හෙවත් අලස බව අත්හැර දැමීම මෙහි ප්‍රායෝගික අත්හැරීමයි."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අප්‍රමාදය (Appamada)",
+                "සති (Mindfulness)",
+                "වීර්යය (Effort)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය පාලනය කර, එක් අරමුණක (Goal-directed) සිත රඳවා තබා ගැනීමේ හැකියාව වර්ධනය කරයි.",
+            "modern_psychology_parallel": "අප්‍රමාදය යනු නූතන මනෝවිද්‍යාවේ එන 'Mindfulness-Based Stress Reduction (MBSR)' වලට වඩා ගැඹුරු, සදාචාරාත්මක සහ අරමුණු සහගත සිහියකි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)",
+                "Default Mode Network (DMN) suppression"
+            ],
+            "neuroplasticity_and_habit": "අප්‍රමාදය පුහුණු කිරීමේදී, මොළයේ Prefrontal Cortex ශක්තිමත් වන අතර (Structural Neuroplasticity), එමගින් ක්ෂණික ආවේගයන් පාලනය කිරීමේ ස්නායුක පථ (Neural circuits) දියුණු වේ.",
+            "stress_reduction_mechanism": "අප්‍රමාදය තුළින් සිත අනාගතය හෝ අතීතය ගැන සිතමින් සැරිසැරීම (Mind-wandering) නතර කරන බැවින්, Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහත වැටේ."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Control",
+            "Metacognition",
+            "Goal-Oriented Behavior",
+            "Cognitive Flexibility"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Steady Focus and Clarity",
+            "mood_keywords": [
+                "Serene",
+                "Urgent",
+                "Focused",
+                "Resolute"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Executive Functioning",
+                "parallel_description": "අප්‍රමාදය යනු ඉලක්කයක් සපුරා ගැනීම සඳහා වැඩ කරන මතකය (Working Memory) සහ අවධානය මෙහෙයවීම (Attention Regulation) මනෝවිද්‍යාත්මකව භාවිත කිරීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Appamada (Non-negligence)",
+                "related_teachings": [
+                    "Maha-parinibbana Sutta",
+                    "Dhamma-pada (Appamada Vagga)"
+                ],
+                "connection_type": "Foundational requirement for practice"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ සෑම ක්‍රියාවකදීම සිහියෙන් සහ උනන්දුවෙන් යුක්තව (නොපමාව) කටයුතු කිරීම මානසික නිදහසට ඇති එකම මගයි.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම දවස සැලසුම් කර අප්‍රමාදීව කටයුතු කිරීමට අධිෂ්ඨාන කරන්න.",
+            "කරන සෑම කාර්යයකදීම අවධානය වෙනතක යාමට ඉඩ නොදී එම කාර්යය කෙරෙහිම සිත රඳවන්න.",
+            "දවස අවසානයේදී තමා තුළ වූ ප්‍රමාදය (අලසකම) සහ අප්‍රමාදය පිළිබඳ විමසා බලන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒකධම්මෝ භික්ඛවේ, බහුකාරෝ අරියස්ස අට්ඨංගිකස්ස මග්ගස්ස උප්පාදාය. කතමෝ ඒකධම්මෝ: යදිදං අප්පමාදසම්පදා. අප්පමාදසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, ආර්ය අෂ්ටාංගික මාර්ගය උපදවා ගැනීම පිණිස එක ධර්මයක් බොහෝ සෙයින් උපකාරී වෙයි. ඒ කවර එක ධර්මයක් ද යත්, එනම් අප්‍රමාද සම්පත්තිය ඇති බව යි. ….(පෙ)…. ආර්ය අෂ්ටාංගික මාර්ගය බහුල ව ප්‍රගුණ කරන්නේ මේ අයුරිනි."
+        }
+    ]
+}

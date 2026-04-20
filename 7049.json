@@ -1,0 +1,85 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "අද්ධාන සුත්තං",
+    "sutta_title": "කාලය ගැන වදාළ දෙසුම",
+    "id": "7049",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "භාවනා සහ මනෝවිද්‍යාත්මක පුහුණුව (Meditation and Psychological Training)",
+        "complexity_rating": 7,
+        "analysis_confidence": 95,
+        "short_summary": "ආනාපානසති සමාධිය මගින් කාලයට අයත් සංසිද්ධීන්ගේ සැබෑ ස්වභාවය පිරිසිඳ දැක මනස පිරිසිදු කරන ආකාරය මෙහි විස්තර වේ.",
+        "long_summary": "මහණෙනි, ආනාපානසති සමාධිය යනු මනස පිරිසිදු කර ගැනීම සඳහා ඇති ප්‍රධාන මාර්ගයකි. එමගින් කාලය තුළ සිදුවන සියලු සංස්කාරයන් සහ කාලයට අයත් දේවල ඇති වෙනස් වන සුළු බව නිරවුල්ව අවබෝධ කර ගැනීමටත්, එම අවබෝධය තුළින් මනසේ පවත්නා කිලුටු ඉවත් කර පිරිසිදු මනසක් ඇති කර ගැනීමටත් හැකි බව බුදුරජාණන් වහන්සේ මෙම දේශනය හරහා පෙන්වා දෙති.",
+        "main_discovery": "ආනාපානසති සමාධිය (Mindfulness of Breathing) හරහා කාලයේ ස්වභාවය සහ කාලය තුළ සිදුවන වෙනස්වීම් (Temporal perception) අවබෝධ කරගැනීම මගින් මනස පිරිසිදු කර ගැනීම.",
+        "core_truth_of_sutta": "කාලයට අදාළ සංසිද්ධීන් ආනාපානසති සමාධියෙන් පිරිසිඳ දැකීම මගින් මනස පිරිසිදු කරගත හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ආනාපානසති සමාධිය (Mindfulness of In-and-Out Breathing).",
+            "how_it_aids_liberation": "කාලයට අයත් දේ අනිත්‍ය ලෙස දැකීමෙන් (Anicca-visualisation) උපාදානයන් (Clinging) දුරු වී විමුක්තිය උදා වේ.",
+            "practical_renunciation": "ආශ්වාස ප්‍රශ්වාසය මුල් කරගෙන වර්තමාන මොහොතට සිත පමුණුවා ගැනීමෙන් අතීත/අනාගත බැඳීම් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සමාධිය (Concentration)",
+                "ප්‍රඥාව (Insight)",
+                "කාලීන අවබෝධය (Temporal Awareness)"
+            ],
+            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය (Cognitive fragmentation) පාලනය කර, තනි අරමුණක සිත රඳවා ගැනීමෙන් සංජානන නම්‍යශීලීභාවය (Cognitive Flexibility) ඇති කිරීම.",
+            "modern_psychology_parallel": "අවධානය පදනම් කරගත් ප්‍රතිකාර (Mindfulness-Based Stress Reduction - MBSR) සහ සංජානන චර්යාත්මක ප්‍රතිකාර (CBT) වලට අතිශය සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "හුස්ම කෙරෙහි අවධානය යොමු කිරීමෙන් (Focused Attention), සිත ඒ මේ අත දිවීමේ පුරුද්දට (Mind-wandering) වගකියන DMN පද්ධතියේ ක්‍රියාකාරිත්වය අඩු වී මොළයේ ව්‍යුහාත්මක ඒකාග්‍රතාවය වර්ධනය වේ.",
+            "stress_reduction_mechanism": "හුස්ම පාලනය සහ නිරීක්ෂණය මගින් පාරවේගී ස්නායු පද්ධතිය (Parasympathetic Nervous System) සක්‍රීය වී, ඇමිග්ඩලා (Amygdala) හි ක්‍රියාකාරිත්වය අඩු වීමෙන් ආතතිය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "සතිමත්බව (Mindfulness)",
+            "සමාධිය (Concentration)",
+            "කාල ප්‍රත්‍යක්ෂය (Time Perception)",
+            "සංජානන පිරිසිදු කිරීම (Cognitive Clearing)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අසහනයෙන් සහ මනෝභ්‍රාන්තියෙන් නිදහස් වීම දක්වා ගලායන සන්සුන් ස්වභාවය.",
+            "mood_keywords": [
+                "සන්සුන්",
+                "පැහැදිලි",
+                "විවේකී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "මනෝවිද්‍යාව (Psychology)",
+                "theory_name": "කාල සංජානන විශ්ලේෂණය (Temporal Cognition)",
+                "parallel_description": "වර්තමාන මොහොතේ සිදුවන සංසිද්ධීන් කෙරෙහි අවධානය යොමු කිරීමෙන් පුද්ගලයා අතීත පසුතැවීම් හා අනාගත බියෙන් නිදහස් වීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ආනාපානසති භාවනාව (Anapanasati Meditation)",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය (Mahasatipatthana Sutta)",
+                    "ආනාපානසති සූත්‍රය (Anapanasati Sutta)"
+                ],
+                "connection_type": "මූලික භාවනා ක්‍රමය (Core Meditation Technique)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ හුස්ම ගැන අවධානයෙන් සිටීම හුදු ව්‍යායාමයක් නොව, කාලය විසින් මවන මායාවන්ගෙන් මිදී ඔබේ සිත පිරිසිදු කර ගැනීමට ඇති ප්‍රායෝගික මගයි.",
+        "daily_practice_steps": [
+            "සෑම දිනකම අවම වශයෙන් විනාඩි 10ක් නිහඬව වාඩි වී ඔබේ ආශ්වාස ප්‍රශ්වාසය දෙස බලා සිටින්න.",
+            "සිත අතීතයට හෝ අනාගතයට යන සෑම අවස්ථාවකම, එය වර්තමාන හුස්මට රැගෙන එන්න.",
+            "කාලය කෙතරම් වේගයෙන් ගෙවී ගියත්, ඒ තුළ සිදුවන වෙනස්වීම් දෙස උපේක්ෂාවෙන් බැලීමට පුරුදු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ආනාපානසතිසමාධි භික්ඛවේ ....(පෙ).... අද්ධානපරිඤ්ඤාය සංවත්තතීති.",
+            "sinhala": "මහණෙනි, ආනාපානසති සමාධිය ….(පෙ)…. කාලයට අයත් දේ පිරිසිඳ දැකීම පිණිස පවතියි."
+        }
+    ]
+}

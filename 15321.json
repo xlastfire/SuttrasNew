@@ -1,0 +1,88 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "සිඟාලපිතු තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15321",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "භාවනා සහ විරාගය (Meditation and Detachment)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "සිඟාලපිතු තෙරුන් විසින් ඇටසැකිල්ල අරමුණු කරගනිමින් භාවනා කර කාමරාගය ප්‍රහීණ කිරීම මෙහි දැක්වේ.",
+        "long_summary": "භේසකලාවනයේ වාසය කළ සිඟාලපිතු රහතන් වහන්සේ ඇටසැකිල්ල (අටසැකිල්ල) විෂයෙහි ගැඹුරු භාවනාවක යෙදුණු ආකාරය මෙහි විස්තර වේ. උන්වහන්සේ මුළු මහත් පොළොවම සිය භාවනා අරමුණ සඳහා උපයෝගී කරගත් අතර, එමගින් සංවේදී ආශාවන් හෙවත් කාමරාගය සම්පූර්ණයෙන්ම විනාශ කිරීමට සමත් වන බවත්, එය උසස් විමුක්ති මාර්ගයක් බවත් මෙම ගාථාවෙන් අවධාරණය කෙරේ.",
+        "main_discovery": "අටසැකිල්ල (ඇටසැකිල්ල) පිළිබඳ භාවනාව හරහා මුළු මහත් පෘථිවියම අරමුණක් ලෙස ගෙන කාමරාගය ප්‍රහීණ කිරීම.",
+        "core_truth_of_sutta": "කායික රූපයේ යථාර්ථය (ඇටසැකිල්ලක් ලෙස) දැකීමෙන් කාමරාගය නැමැති බැඳීමෙන් නිදහස් විය හැක.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අශුභ භාවනාව (Asubha Bhavana) මගින් පඤ්ච කාමයන් කෙරෙහි ඇති ඇලීම දුරු කිරීම.",
+            "how_it_aids_liberation": "සංස්කාරයන්හි පිළිකුල් සහගත බව සහ අනිත්‍ය බව දැකීමෙන් තණ්හාව නිරුද්ධ වී නිවනට මග පාදයි.",
+            "practical_renunciation": "ශරීරය කෙරෙහි ඇති 'මම' සහ 'මගේ' යන මමත්වය (Sakkaya Ditthi) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාමරාගය (Sensual Desire)",
+                "සතිමත්බව (Mindfulness)",
+                "විරාගය (Detachment)"
+            ],
+            "cognitive_impact": "රූපය පිළිබඳව පවතින 'සුභ' සංඥාව (Perception of beauty) වෙනුවට 'අසුභ' සංඥාව ආදේශ කිරීමෙන් මානසික විකෘතිතා (Cognitive distortions) නිවැරදි කරයි.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි යොදාගන්නා 'De-catastrophizing' සහ බැඳීම් ලිහිල් කිරීමේ ක්‍රමවේදවලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "ඇටසැකිල්ල භාවනාව නැවත නැවත පුහුණු කිරීමෙන් (Neural repetition), කාම වස්තූන් දැකීමේදී ඇතිවන ක්ෂණික ඩොපමින් (Dopamine) ප්‍රතිචාරය දුර්වල වී මොළයේ නව ස්නායුක මාර්ග (Neural pathways) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "Amygdala හි ක්‍රියාකාරීත්වය පාලනය කිරීම මගින් ආශාවන් නිසා ඇතිවන නොසන්සුන්බව (Restlessness) අඩු කර මානසික සමතුලිතතාව ඇති කරයි."
+        },
+        "cognitive_mechanisms": [
+            "සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)",
+            "අනිත්‍යාවබෝධය (Perception of Impermanence)",
+            "විෂය මූලික අවධානය (Focused Attention)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "කාමරාගයෙන් මිදී පරම සාමය කරා ගමන් කිරීම.",
+            "mood_keywords": [
+                "නිශ්චල",
+                "අත්හැරීම",
+                "විවේකය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Aversion Therapy / Exposure Therapy",
+                "parallel_description": "අශුභ භාවනාව තුළින් ඉන්ද්‍රිය ගෝචර ආශාවන් (Sensory desires) කෙරෙහි ඇති බැඳීම ලිහිල් කිරීම සඳහා අදාළ වස්තූන්ගේ යථාර්ථවාදී ස්වභාවය නිරාවරණය කිරීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අශුභ භාවනාව (Asubha Bhavana)",
+                "related_teachings": [
+                    "කායගතාසති සූත්‍රය",
+                    "සතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "කමටහන් සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර රූපවල තාවකාලික සුන්දරත්වයට මුලා නොවී, එහි යථාර්ථවාදී අභ්‍යන්තර ස්වභාවය දෙස බැලීමට පුරුදු වීම මානසික නිදහසට මගකි.",
+        "daily_practice_steps": [
+            "ශරීරයේ අස්ථි පද්ධතිය කෙරෙහි අවධානය යොමු කර එය ඇටසැකිල්ලක් ලෙස මෙනෙහි කරන්න.",
+            "ඕනෑම රූපයක් දෙස බැලීමේදී එහි අභ්‍යන්තර යථාර්ථය (අනිත්‍ය බව) සිහි කරන්න.",
+            "කාම ආශාවන් ඇතිවන විට ඒවායේ තාවකාලික බව හඳුනාගෙන උපේක්ෂාවෙන් යුතුව අත්හරින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අහු බුද්ධස්ස දායාදෝ භික්ඛු භේසකලාවනේ\nකේවලං අට්ඨිකසඤ්ඤාය අඵරී පඨවිං ඉමං\nමඤ්ඤේහං කාමරාගං සෝ ඛිප්පමේව පහිස්සතී’ති",
+            "sinhala": "භේසකලාවනයේ ඉන්නේ බුදු සමිඳුන්ගේ දායාදය ලබාගත් භික්ෂුවක්. ඇටසැකිල්ල ගැන භාවනා කරල මේ මුළු පොළොව ම ඒ භාවනා අරමුණින් වසාලන්ට ඔහුට පුළුවන් වුණා. මා හිතන්නේ නම් ඔහු ඉතා ඉක්මනින් කාමරාගය නැති කරන දමන බවයි."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා සිගාලපිතා ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් සිඟාලපිතු නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

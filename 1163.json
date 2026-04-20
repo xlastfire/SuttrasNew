@@ -1,0 +1,96 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "ඉච්ඡා සුත්තං",
+    "sutta_title": "ආශාව ගැන වදාළ දෙසුම",
+    "id": "1163",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "තෘෂ්ණාව සහ විමුක්තිය (Craving and Liberation)",
+        "complexity_rating": 3,
+        "analysis_confidence": 5,
+        "short_summary": "සත්වයා තෘෂ්ණාවෙන් බැඳී සිටින බවත්, එම තෘෂ්ණාව ප්‍රහාණය කිරීමෙන් සියලු බන්ධන සිඳී නිදහස ලැබෙන බවත් මෙම සූත්‍රය පෙන්වා දෙයි.",
+        "long_summary": "ලෝකයේ සත්වයෝ කුමන බලවේගයකින් බැඳී සිටින්නේද සහ කෙසේ නිදහස් විය හැකිද යන පැනයට පිළිතුරු දෙමින් භාග්‍යවතුන් වහන්සේ වදාරන්නේ, සත්වයා තෘෂ්ණාව (Craving) නමැති රැහැනින් බැඳී සිටින බවයි. මෙම තෘෂ්ණාව දුරු කිරීමෙන් සත්වයාට සාපේක්ෂ නිදහසක් ලැබෙන අතර, තෘෂ්ණාව මුළුමනින්ම ප්‍රහාණය කිරීම තුළින් සියලු සංසාරික බැඳීම් සහ දුක් නිමාවකට පත් කළ හැකි බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "ලෝක සත්වයාගේ සියලු බැඳීම් වලට මූලික හේතුව තෘෂ්ණාව (Craving) වන අතර, එය ප්‍රහාණය කිරීමෙන් පමණක් පූර්ණ නිදහස අත්වන බව.",
+        "core_truth_of_sutta": "තෘෂ්ණාව සියලු බන්ධනයන්ගේ මූලය වන අතර, එහි නිරෝධය පරම විමුක්තියයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "තෘෂ්ණාව ප්‍රහාණය (Prahana of Tanha)",
+            "how_it_aids_liberation": "සිත අරමුණු වල ඇලෙන ස්වභාවය නැති කිරීමෙන් උපාදානයන් දුරු වී සංසාර චක්‍රය නතර වේ.",
+            "practical_renunciation": "ඉන්ද්‍රිය ගෝචර අරමුණු කෙරෙහි ඇති වන ආශාව හඳුනාගෙන එය අත්හැරීම පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "තෘෂ්ණාව (Craving)",
+                "බන්ධනය (Attachment)",
+                "විමුක්තිය (Liberation)"
+            ],
+            "cognitive_impact": "අරමුණු ලුහුබැඳීමේ මානසික වෙහෙස (Cognitive load) අඩු වී සිතේ නිරවුල් බවක් සහ සැහැල්ලුවක් ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Defusion' සහ බැඳීම් වලින් මිදීමේ ක්‍රමවේදයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Mesolimbic Dopamine System (Reward pathway)",
+                "Default Mode Network (DMN)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "තෘෂ්ණාව නැවත නැවත ඇතිවීමෙන් ශක්තිමත් වන ස්නායුක පථ (Neural pathways) අත්හැරීමේ පුහුණුව හරහා දුර්වල වී නව 'විරාගී' චර්යා රටා (Inhibitory control) ගොඩනැගේ.",
+            "stress_reduction_mechanism": "යමක් ලබාගැනීමේ දැඩි ආශාව (Wanting) අඩුවීමත් සමඟ Amygdala හි ක්‍රියාකාරිත්වය සහ Cortisol මට්ටම අඩු වී ආතතිය සමනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Attentional Bias towards desire",
+            "Reinforcement of attachment",
+            "Cognitive appraisal of sensory input"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 4,
+            "emotional_arc": "බන්ධනයෙන් නිදහස කරා (From Bondage to Liberation)",
+            "mood_keywords": [
+                "නිදහස",
+                "ප්‍රඥාව",
+                "විරාගය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Reward System & Addiction Theory",
+                "parallel_description": "තෘෂ්ණාව හෙවත් ආශාව මගින් පුද්ගලයා නිරන්තරයෙන් යම් අරමුණකට බැඳ තැබීම, ඇබ්බැහි වීම් වලදී සිදුවන චර්යාත්මක රටාවට (Addictive patterns) සමාන වේ.",
+                "confidence_score": 5
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "තෘෂ්ණාව දුක්ඛ සමුදයයි",
+                "related_teachings": [
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය",
+                    "මහාසතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "සෘජු මූලධර්ම සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ අසහනයට හේතුව බාහිර ලෝකය නොව, ඔබ තුළ පවතින දැඩි ආශාව බව තේරුම් ගෙන එය පාලනය කිරීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "යම් දෙයකට සිත ඇදී යන විට 'මෙය තෘෂ්ණාවක්' ලෙස සිහියෙන් හඳුනාගන්න.",
+            "ආශාව ඇති වූ විට ඉන් ලැබෙන ආතතිය සහ බැඳීම නිරීක්ෂණය කරන්න.",
+            "දිනකට සුළු මොහොතක් හෝ කිසිවක් බලාපොරොත්තු නොවී සිත නිශ්චලව තබා ගැනීමට පුහුණු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "කේනස්‌සු බජ්‌ඣති ලෝකෝ කිස්‌ස විනයාය මුච්‌චති\nකිස්‌සස්‌ස විප්‌පහාණේන සබ්‌බං ඡින්‌දති බන්‌ධනන්‌ති",
+            "sinhala": "“ලෝක සත්වයා කුමකින් බැඳී ඇත්තේ ද? කවර දෙයක් දුරුකිරීමෙන් ඔහු නිදහස් වෙයි ද? කවර දෙයක ප්‍රහාණයෙන් සියලු බැඳීම් සිඳ දමන්නේ ද?”"
+        },
+        {
+            "pali": "(භගවා);",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "ඉච්‌ඡාය බජ්‌ඣති ලෝකෝ ඉච්‌ඡාවිනයාය මුච්‌චති\nඉච්‌ඡාය විප්‌පහාණේන සබ්‌බං ඡින්‌දති බන්‌ධනන්‌ති",
+            "sinhala": "“ලෝක සත්වයා තෘෂ්ණාවෙන් බැඳී ඇත්තේය. තෘෂ්ණාව දුරුකිරීමෙන් ඔහු නිදහස් වෙයි. තෘෂ්ණාව ප්‍රහාණයෙන් සියලු බැඳීම් සිඳ දමන්නේය.”"
+        }
+    ]
+}

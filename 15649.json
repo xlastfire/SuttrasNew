@@ -1,0 +1,85 @@
+{
+    "nikaya": "සංයුත්ත නිකාය",
+    "vagga": "මහා වග්ගෝ",
+    "sutta_title": "දුතිය මනුස්සචුති සූත්‍රය",
+    "id": "15649",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සංසාරික පැවැත්ම සහ අපාය බිය (Samsaric Existence and Fear of Lower Realms)",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "මිනිස් ලෝකයෙන් චුත වූ පසු නැවත මිනිසත් බවක් ලබන්නේ අල්ප පිරිසක් බවත්, බහුතරය තිරිසන් ලෝකයේ උපදින බවත් පෙන්වා දෙන සූත්‍රයකි.",
+        "long_summary": "මෙම සූත්‍රයට අනුව මිනිස් ලෝකයේ මියයන පිරිස අතරින් නැවත මිනිසත් බවක් ලබන්නේ ඉතා අල්ප සංඛ්‍යාවකි. එහෙත් මිනිස් ලෝකයෙන් චුත වී තිරිසන් යෝනියේ උපත ලබන පිරිස අති විශාලය. මේ හේතුව නිසා දුකින් මිදීම සඳහා චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීමට මහත් වූ ප්‍රයත්නයක් (වීරියක්) දැරිය යුතු බව බුදුරජාණන් වහන්සේ අවධාරණය කරති.",
+        "main_discovery": "මිනිස් ආත්මයක් ලබා ගැනීම අතිශය දුර්ලභ බවත්, බහුතරයක් මරණින් මතු තිරිසන් ලෝකයට ඇද වැටෙන බවත් පෙන්වා දෙමින් චතුරාර්ය සත්‍යය අවබෝධ කරගැනීමේ හදිසි අවශ්‍යතාව අවධාරණය කිරීම.",
+        "core_truth_of_sutta": "මිනිස් ආත්මය අස්ථිර මෙන්ම දුර්ලභ වන අතර, තිරිසන් ලෝකයට ඇද වැටීම සාමාන්‍ය ස්වභාවය බැවින් අප්‍රමාදීව දුක්ඛ නිරෝධය උදෙසා ක්‍රියා කළ යුතුය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සතර අපායට වැටීමේ අවදානම සහ මිනිසත් බවේ දුර්ලභත්වය (Dullabho ca Manussatto).",
+            "how_it_aids_liberation": "තිරිසන් ලෝකයේ උපත ලැබීමේ සම්භාවිතාව දැකීමෙන් සංවේගය උපදවාගෙන, චතුරාර්ය සත්‍යය අවබෝධ කර ගැනීමටත්, තණ්හාව ප්‍රහාණය කිරීමටත් යොමු කරවයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය පිනවීමේ තිරිසන් ගතිවලින් (Animalistic instincts) මිදී මානසික සංවර්ධනය උදෙසා සිහිය පිහිටුවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "මෝහය (Delusion)",
+                "අප්‍රමාදය (Diligent Awareness)",
+                "බිය (Heedfulness)"
+            ],
+            "cognitive_impact": "සදාකාලිකව මිනිසෙකු ලෙස සිටිය හැකිය යන සංජානන දෝෂය (Cognitive Bias) ඉවත් කර පවතින අවදානම හඳුනා ගැනීමට මනස හුරු කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) - පවතින යථාර්ථය පිළිගෙන වටිනාකම් මත පදනම් වූ ක්‍රියාවන් (Commited Action) වෙත යොමු වීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Amygdala (Threat detection)",
+                "Prefrontal Cortex (Executive function)",
+                "Default Mode Network (Self-referential processing)"
+            ],
+            "neuroplasticity_and_habit": "සංසාරික බිය අවබෝධ කර ගැනීමෙන්, මොළයේ ක්ෂණික තෘප්තිය සෙවීමේ පුරුදු (Reward-seeking pathways) දුර්වල වී දිගුකාලීන විමුක්තිය උදෙසා ස්නායුක පථ (Long-term goal pathways) ශක්තිමත් වේ.",
+            "stress_reduction_mechanism": "අවිනිශ්චිත බව පිළිබඳ බිය (Existence anxiety), ධර්මයේ හැසිරීම තුළින් ඇතිවන මානසික විනය මගින් පාලනය වී Cortisol මට්ටම අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Probability Perception",
+            "Metacognition",
+            "Existential Urgency"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgency/Spiritual Urgency)",
+            "emotional_intensity": 9,
+            "emotional_arc": "බිය සහ අවබෝධය තුළින් වීර්යය ඇති කිරීම කරා.",
+            "mood_keywords": [
+                "කලකිරීම",
+                "අවබෝධය",
+                "හදිසි බව",
+                "අප්‍රමාදය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Biology/Ecology",
+                "theory_name": "Population Distribution Statistics",
+                "parallel_description": "තිරිසන් සත්ව ගහණය හා සාපේක්ෂව මානව ගහණය ඉතා අවම වීම, සූත්‍රයේ දැක්වෙන අල්ප වූ මිනිස් උපත් පිළිබඳ සංඛ්‍යානමය සත්‍යතාව මනාව පැහැදිලි කරයි.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "මිනිස් ආත්මයක දුර්ලභත්වය (Chiggaḷayuga Sutta - The Blind Turtle Metaphor)",
+                "related_teachings": [
+                    "සිග්ගළ සූත්‍රය",
+                    "බාල පණ්ඩිත සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම කරුණු තහවුරු කිරීම"
+            }
+        ],
+        "practical_takeaway_sinhala": "මිනිසත් බව ලැබී ඇති මේ මොහොතේ, තිරිසන් ගතිවලින් මිදී බුද්ධිමත්ව දුක නිවා ගැනීමට කටයුතු කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා මොහොතක් මිනිසත් බවේ දුර්ලභත්වය මෙනෙහි කරන්න (Maranasati/Samvega).",
+            "සත්ත්ව ගුණාංග (ආහාර, නිද්රා, භය, මෛථුන) වලට පමණක් සීමා නොවී මානසික දියුණුවට කාලය වෙන් කරන්න.",
+            "චතුරාර්ය සත්‍යය පිළිබඳව අවබෝධය වැඩි කර ගැනීමට ධර්මය හදාරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ මනුස්සා චුතා මනුස්සේසු පච්චාජායන්ති, අථ ඛෝ ඒතේව බහුතරා සත්තා යේ මනුස්සා චුතා තිරච්ඡානයෝනියා පච්චාජායන්ති. තං කිස්ස හේතු ....(පෙ).... යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ මිනිස් ලොවින් චුත ව යළි මිනිසුන් අතර උපදිත් ද, ඔවුහු අල්පයක් වෙති. එසේ නමුත් මිනිස් ලොවින් චුත ව තිරිසන් යෝනියෙහි උපදින යම් සත්වයෝ වෙත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ....(පෙ).... මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "අජරසා සුත්තං",
+    "sutta_title": "දිරාපත් නොවීම ගැන වදාළ දෙසුම",
+    "id": "1120",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අභ්‍යන්තර වස්තු සහ සදාකාලික ගුණධර්ම (Internal Wealth and Eternal Virtues)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "වයසට යෑමේදී ජරාවට පත් නොවන දේ ලෙස සීලය, ශ්‍රද්ධාව, ප්‍රඥාව සහ කිසිවෙකුට පැහැරගත නොහැකි වස්තුව ලෙස පින බුදුරජාණන් වහන්සේ පෙන්වා දෙති.",
+        "long_summary": "මෙම දේශනාව මගින් කාලයත් සමඟ දිරාපත් නොවන සහ කිසිවෙකුට සොරාගත නොහැකි අභ්‍යන්තර ගුණාංග සතරක් පිළිබඳව පැහැදිලි කරයි. කාලයත් සමඟ ශරීරය ජරාවට පත් වුවද සීලය (Moral Conduct) පිරිහෙන්නේ නැත. සිතේ ස්ථාවරව පිහිටිය යුතු ප්‍රධාන ගුණය ශ්‍රද්ධාව (Conviction) වන අතර, මිනිසෙකු සතු විය යුතු උතුම්ම සම්පත ප්‍රඥාව (Wisdom) වේ. අවසාන වශයෙන්, කිසිදු සොරෙකුට හෝ සතෙකුට පැහැරගත නොහැකි එකම සැබෑ වස්තුව තමා රැස්කරගත් පින (Merit) බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "බාහිර වස්තූන් හා ශරීරය ජරාවට (Decay) පත් වුවද, සීලය, ශ්‍රද්ධාව, ප්‍රඥාව සහ පින යන මානසික ගුණාංග විනාශ නොවන බවත්, ඒවා සැබෑ අභ්‍යන්තර සම්පත් බවත් හඳුනා ගැනීම.",
+        "core_truth_of_sutta": "බාහිර දේ අස්ථිර වුවත්, සීලය, ශ්‍රද්ධාව, ප්‍රඥාව සහ පින යන අභ්‍යන්තර ගුණාංග ජරාවට පත් නොවන, සදාකාලික වටිනාකමක් ඇති වස්තූන් වේ.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සීල, ශ්‍රද්ධා, ප්‍රඥා යන ගුණාංග වර්ධනය තුළින් සදාකාලික සහනය කරා මඟ පෙන්වීම.",
+            "how_it_aids_liberation": "බාහිර වස්තූන් කෙරෙහි ඇති බැඳීම (Upadana) ලිහිල් කර, අභ්‍යන්තර ස්වයං-විනය සහ අවබෝධය තුළින් දුකෙන් නිදහස් වීමට උපකාරී වේ.",
+            "practical_renunciation": "ශරීරය සහ බාහිර වස්තූන් තමා සතු ස්ථිර දේ ලෙස සලකා අල්ලා ගැනීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සීලය (Moral regulation)",
+                "ශ්‍රද්ධාව (Psychological resilience through faith)",
+                "ප්‍රඥාව (Insightful cognition)",
+                "පින (Positive reinforcement of altruism)"
+            ],
+            "cognitive_impact": "පුද්ගලයාගේ ආරක්ෂාව පිළිබඳ හැඟීම (Sense of security) බාහිර ලෝකයෙන් අභ්‍යන්තර ගුණධර්ම වෙත මාරු කිරීම (Cognitive shift from material to spiritual).",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි අගයයන් (Values) හඳුනාගෙන ඒ අනුව ක්‍රියා කිරීම හා සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (Moral reasoning and executive control)",
+                "Amygdala (Reduction of fear of loss)",
+                "Dorsolateral Prefrontal Cortex (Wise decision making)"
+            ],
+            "neuroplasticity_and_habit": "සීලය සහ ශ්‍රද්ධාව පුහුණු කිරීමේදී Prefrontal cortex සහ Amygdala අතර සම්බන්ධය ශක්තිමත් වීමෙන් චිත්තවේගීය ස්ථාවරත්වය (Emotional stability) ඇතිවේ. මෙය ධනාත්මක ස්නායුක මාර්ග (Neural pathways) ශක්තිමත් කිරීමට දායක වේ.",
+            "stress_reduction_mechanism": "බාහිර වස්තූන් අහිමිවීමේ බිය පාලනය කිරීම මගින් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී, Cortisol මට්ටම පහත වැටීමෙන් මානසික ආතතිය අඩු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Value Re-evaluation",
+            "Internal Locus of Control",
+            "Cognitive Reframing of Wealth",
+            "Self-transcendence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "ජරාව පිළිබඳ බියෙන් අභ්‍යන්තර සුරක්ෂිතභාවය දක්වා (From fear of decay to internal security)",
+            "mood_keywords": [
+                "Peaceful",
+                "Secure",
+                "Wise",
+                "Disciplined"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Intrinsic vs Extrinsic Motivation/Goals",
+                "parallel_description": "බාහිර ලාභ ප්‍රයෝජන (Extrinsic rewards) වලට වඩා අභ්‍යන්තර ගුණධර්ම (Intrinsic values) පුද්ගලයාගේ දිගුකාලීන මානසික සුවතාවයට (Well-being) හේතුවන බව මෙම දේශනාව හා සැසඳේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ආර්ය ධන (Noble Wealth)",
+                "related_teachings": [
+                    "Uggata Sutta",
+                    "Dhana Sutta"
+                ],
+                "connection_type": "Thematic overlap in spiritual assets"
+            }
+        ],
+        "practical_takeaway_sinhala": "වයසට යන විට වැය වී යන රූපය හෝ බාහිර වස්තූන්ට වඩා, කිසිදා දිරාපත් නොවන සීලය සහ ප්‍රඥාව වැනි අභ්‍යන්තර ගුණධර්ම දියුණු කර ගැනීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "සෑම උදෑසනකම සීලය ආරක්ෂා කිරීමට අධිෂ්ඨාන කරගන්න (Morning moral commitment).",
+            "ධර්මය කෙරෙහි ඇති විශ්වාසය (ශ්‍රද්ධාව) මෙනෙහි කරන්න.",
+            "ගැටලුවලදී බුද්ධිමත්ව සිතා බලා තීරණ ගැනීමට (ප්‍රඥාව) පුහුණු වන්න.",
+            "අවස්ථාව ලැබෙන සෑම විටම කුඩා හෝ පින්කමක් (උදව්වක්) සිදුකර එය සිතින් සතුටින් මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "කිංසු අජරසා සාධු කිංසු සාධු අධිට්‌ඨිතං\nකිංසු නරානං රතනං කිංසු චෝරේහි’හාරියන්‌ති",
+            "sinhala": "“ජරාවට පත් නොවන කුමක් යහපති ද? තමා තුළ කුමක් පිහිටියේ යහපති ද? මනුෂ්‍යයන්ට ඇති රත්නය කුමක්ද? සොරුන් විසින් පැහැරගත නොහැක්කේ කුමක්ද?”"
+        },
+        {
+            "pali": "(භගවා);",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "සීලං අජරසා සාධු සද්‌ධා සාධු අධිට්‌ඨිතා\nපඤ්‌ඤා නරානං රතනං පුඤ්‌ඤං චෝරේහි’හාරියන්‌ති",
+            "sinhala": "“ජරාවට පත් නොවන සීලය යහපති. තමා තුළ ශ්‍රද්ධාව පිහිටියේ යහපති. මනුෂ්‍යයන්ට ඇති රත්නය ප්‍රඥාව ය. සොරුන් විසින් පැහැරගත නොහැක්කේ පින ය.”"
+        }
+    ]
+}

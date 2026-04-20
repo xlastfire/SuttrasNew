@@ -1,0 +1,93 @@
+{
+    "nikaya": "පඤ්චක නිපාතෝ",
+    "vagga": "දුතිය සම්පදා සුත්තං",
+    "sutta_title": "සම්පත්ති ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "9589",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සම්පත්ති (Spiritual Success/Accomplishments)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "සීල, සමාධි, ප්‍රඥා, විමුක්ති සහ විමුක්ති ඥානදර්ශනය යන අභ්‍යන්තර මානසික ගුණාංග සැබෑ සම්පත්තීන් ලෙස මෙහි විස්තර කෙරේ.",
+        "long_summary": "සැවැත් නුවරදී දේශිත මෙම සූත්‍රය මගින් සැබෑ සම්පත්තීන් පහක් හඳුන්වා දෙයි. ඒවා නම් සීල සම්පත්තිය (හික්මීම), සමාධි සම්පත්තිය (සිත එකඟ බව), ප්‍රඥා සම්පත්තිය (ගැඹුරු අවබෝධය), විමුක්ති සම්පත්තිය (කෙලෙසුන්ගෙන් මිදීම) සහ විමුක්ති ඥානදර්ශන සම්පත්තිය (මිදුණු බව පිළිබඳ දැනීම) වේ. මෙම ගුණාංග බාහිර ලෝකයෙන් ලැබෙන දේ නොව, අභ්‍යන්තරව ගොඩනගා ගත යුතු, එකිනෙකට අනුපූරක වන මානසික මට්ටම් බව අවධාරණය කෙරේ.",
+        "main_discovery": "සැබෑ සම්පත්තිය යනු බාහිර ලෝකයෙන් ලැබෙන සම්පත් නොව, සීලයේ සිට විමුක්ති ඥානදර්ශනය දක්වා විහිදෙන අභ්‍යන්තර මානසික ගුණාංග සමුදායකි.",
+        "core_truth_of_sutta": "සැබෑ සෞභාග්‍යය පවතින්නේ බාහිර වස්තූන් මත නොව, සීලයේ සිට විමුක්තිය දක්වා ක්‍රමිකව දියුණු කරගන්නා අභ්‍යන්තර මානසික පරිශුද්ධිය මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පංචවිධ සම්පත්ති (The Five Accomplishments)",
+            "how_it_aids_liberation": "සීලයෙන් අකුසල පාලනය කර, සමාධියෙන් සිත ස්ථාවර කර, ප්‍රඥාවෙන් සත්‍යය දැකීමෙන් විමුක්තිය හා එය අවබෝධ කරන ඥානය උදාවේ.",
+            "practical_renunciation": "බාහිර භෞතික සම්පත් කෙරෙහි ඇති තෘෂ්ණාව අත්හැර, අභ්‍යන්තර ගුණධර්ම වර්ධනයට යොමුවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සීලය (Ethical Conduct)",
+                "සමාධිය (Concentration)",
+                "විමුක්තිය (Freedom from mental fetters)"
+            ],
+            "cognitive_impact": "අවුල් සහගත චින්තන රටාවන්ගෙන් මිදී (Cognitive Reframing), ක්‍රමානුකූලව සිත පිරිසිදු කරමින් මානසික නිරවුල්භාවය ඇති කරයි.",
+            "modern_psychology_parallel": "සීලය චර්යාත්මක චිකිත්සාවට (Behavioral Therapy) ද, සමාධිය මනසිකත්වයට (Mindfulness-based interventions) ද, ප්‍රඥාව ප්‍රජානන චිකිත්සාවට (CBT) ද සමාන කළ හැකිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Default Mode Network (DMN)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "සීල සහ සමාධි පුහුණුව මගින් PFC ශක්තිමත් වන අතර, ස්වයං-විවේචනාත්මක DMN ක්‍රියාකාරිත්වය අඩු වී මොළයේ ව්‍යුහාත්මක වෙනස්කම් (Neuroplasticity) සිදුවේ.",
+            "stress_reduction_mechanism": "සමාධිය මගින් Amygdala හි ක්‍රියාකාරිත්වය සමනය කර Cortisol මට්ටම අඩු කරන අතර, එමගින් භීතිය සහ ආතතිය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "සදාචාරාත්මක ස්වයං-නියාමනය (Moral Self-Regulation)",
+            "සමාධිගත අවධානය (Focused Attention)",
+            "ප්‍රජානනමය අවබෝධය (Cognitive Insight)",
+            "විමුක්ති සහගත නිදහස (Experiential Liberation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "හික්මීමේ සිට පරම නිදහස දක්වා (From discipline to ultimate freedom)",
+            "mood_keywords": [
+                "ශාන්ත",
+                "පිබිදුණු",
+                "නිරවුල්",
+                "ස්ථාවර"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Positive Psychology",
+                "theory_name": "Eudaimonia",
+                "parallel_description": "බාහිර සැප සම්පත් මත නොව, අභ්‍යන්තර ගුණධර්ම සහ අර්ථවත් ජීවිතයක් තුළින් ලබන සැබෑ සතුට පිළිබඳ සංකල්පය මෙහි සම්පත්ති විග්‍රහයට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනුපූර්ව ශික්ෂාව (Gradual Training)",
+                "related_teachings": [
+                    "සීල-සමාධි-ප්‍රඥා"
+                ],
+                "connection_type": "අනුපිළිවෙළාත්මක වර්ධනය (Sequential Development)"
+            }
+        ],
+        "practical_takeaway_sinhala": "සැබෑ දියුණුව යනු බාහිර වස්තු රැස් කිරීම නොව, ඔබේ හැසිරීම, මනසේ සාමය සහ අවබෝධය දියුණු කරගැනීමයි.",
+        "daily_practice_steps": [
+            "එදිනෙදා වැඩකටයුතුවලදී සදාචාරාත්මක හික්මීම (සීලය) පවත්වා ගන්න.",
+            "දිනකට සුළු වේලාවක් හෝ සිත එකඟ කිරීමට (සමාධිය) පුහුණු වන්න.",
+            "සිදුවන දේ දෙස විමසුම් සහගතව බලා අවබෝධය (ප්‍රඥාව) වර්ධනය කරගන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථි නිදානං:)",
+            "sinhala": "සැවැත් නුවර දී ය ….."
+        },
+        {
+            "pali": "පඤ්චිමා භික්ඛවේ සම්පදා. කතමා පඤ්ච?",
+            "sinhala": "මහණෙනි, මේ සම්පත්තීහු පසකි. ඒ කවර පසක් ද යත්;"
+        },
+        {
+            "pali": "සීලසම්පදා සමාධිසම්පදා පඤ්ඤාසම්පදා විමුත්තිසම්පදා. විමුත්තිඤාණදස්සනසම්පදා. ඉමා ඛෝ භික්ඛවේ පඤ්ච සම්පදාති.",
+            "sinhala": "සීල සම්පත්තිය, සමාධි සම්පත්තිය, ප්‍රඥා සම්පත්තිය, විමුක්ති සම්පත්තිය, විමුක්ති ඥානදර්ශන සම්පත්තිය ය."
+        }
+    ]
+}

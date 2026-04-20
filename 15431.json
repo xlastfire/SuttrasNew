@@ -1,0 +1,94 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "මේලජින තෙරුන්ගේ ගාථා",
+    "sutta_title": "",
+    "id": "15431",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Saddha (Faith) and Confidence in Enlightenment",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "මේලජින රහත් මුනිඳුන් තමා තුළ බුදුන් වහන්සේ සහ නිවන් මඟ කෙරෙහි පැවති සැක දුරු වී ඇති වූ අචල විශ්වාසය ප්‍රකාශ කිරීම මෙහි හරයයි.",
+        "long_summary": "ආයුෂ්මත් මේලජින රහත් මුනිඳුන් විසින් දේශිත මෙම ගාථාවන්හි සඳහන් වන්නේ, මුලින් බුදුන් වහන්සේ පිළිබඳව යම් සැකයක් ඇති වුවද, පසුව සර්වඥයන් වහන්සේ සසර කතරින් සත්වයන් එතෙර කරවන මහා ගැල්කරුවෙකු (Great Caravan Leader) ලෙසත්, අසදෘශ පුරිසදම්මසාරථියෙකු ලෙසත් හඳුනාගත් බවයි. උන්වහන්සේගේ ශ්‍රී සද්ධර්මය සහ නිවන් මඟ පිළිබඳව තමා තුළ කිසිදු සැකයක් නොමැති බවත්, තමා සැබෑ බුද්ධ ශ්‍රාවකයෙකු ලෙස එම මාර්ගය ස්ථීරවම පිළිගන්නා බවත් මෙහි අන්තර්ගත වේ.",
+        "main_discovery": "බුදුරජාණන් වහන්සේගේ සර්වඥතා ඥානය සහ නිවන පිළිබඳව ඇති වන සැකය දුරු වී ඇති වන නොසැලෙන ශ්‍රද්ධාව (Unwavering Confidence).",
+        "core_truth_of_sutta": "බුදුන් වහන්සේ සසර දුකෙන් එතෙර කරවන මහා ගැල්කරුවා බවත්, එම මාර්ගය පිළිබඳ නිසැක බව ලැබීම විමුක්තියට පදනම බවත්ය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "විචිකිච්ඡාව (Doubt) ප්‍රහීණ කිරීම සහ අචල ශ්‍රද්ධාව පිහිටුවීම.",
+            "how_it_aids_liberation": "සැකය යනු නීවරණයකි. එය දුරු වීමෙන් සිත සමාධිගත වීමටත්, මාර්ගය නිවැරදිව අනුගමනය කිරීමටත් මග පෑදේ.",
+            "practical_renunciation": "තමාගේ පෞද්ගලික වැරදි මත (Views) අත්හැර සත්‍යය අවබෝධ කරගැනීමට යොමුවීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Vichikiccha (Doubt)",
+                "Saddha (Faith)",
+                "Adhimokkha (Decision/Certainty)"
+            ],
+            "cognitive_impact": "සැකය නිසා ඇති වන මානසික ව්‍යාකූලත්වය (Mental Dissonance) ඉවත් වී, පැහැදිලි තීරණාත්මක චින්තනයක් (Decisive Thinking) ඇති වේ.",
+            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) හි සඳහන් වන 'Evidence-based belief' හරහා පුද්ගල අසහනය දුරු කිරීමේ ක්‍රියාවලියට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Anterior Cingulate Cortex (ACC)",
+                "Prefrontal Cortex (PFC)",
+                "Amygdala"
+            ],
+            "neuroplasticity_and_habit": "සැකය පවතින විට ක්‍රියාත්මක වන ACC හි ගැටුම්කාරී ස්වභාවය අඩු වී, නිසැකබව සමඟ ස්නායුක පථ ස්ථාවර වීම (Neural Stabilization) සිදු වේ.",
+            "stress_reduction_mechanism": "අවිනිශ්චිතතාවය (Uncertainty) නිසා ඇති වන Amygdala උත්තේජනය සහ Cortisol මට්ටම අඩු වී, මනසේ සාමකාමී බව තහවුරු වේ."
+        },
+        "cognitive_mechanisms": [
+            "Belief Revision",
+            "Cognitive Certainty",
+            "Conceptual Clarity",
+            "Trust-based Learning"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශ්‍රද්ධාව (Devotional Confidence)",
+            "emotional_intensity": 9,
+            "emotional_arc": "සැකයේ සිට නිසැකබව දක්වා (From Doubt to Certainty)",
+            "mood_keywords": [
+                "Serene",
+                "Confident",
+                "Venerable",
+                "Resolved"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Consistency Theory",
+                "parallel_description": "පුද්ගලයෙකු තුළ පවතින පරස්පර අදහස් (සැකයන්) ඉවත් වී තාර්කික සහ අත්දැකීම් සහිත නිගමනයකට පැමිණීමෙන් ඇති වන මානසික සමබරතාවය.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "The Tathagata as a Guide (Sartavaha)",
+                "related_teachings": [
+                    "Vimmuttimagga",
+                    "Maha-parinibbana Sutta"
+                ],
+                "connection_type": "Metaphorical alignment of the Buddha as the great caravan leader."
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ සාර්ථකත්වය සඳහා සහ අධ්‍යාත්මික දියුණුව සඳහා නිවැරදි මාර්ගෝපදේශකත්වය කෙරෙහි ඇති සැකය දුරු කර, පැහැදිලි අවබෝධයකින් යුතුව කටයුතු කිරීම වැදගත් වේ.",
+        "daily_practice_steps": [
+            "තමා අනුගමනය කරන මාර්ගය පිළිබඳව ඇති සැකයන් ධර්ම සාකච්ඡා මගින් නිරවුල් කරගන්න.",
+            "සෑම දිනකම බුදුන් වහන්සේගේ ගුණ මෙනෙහි කරමින් චිත්ත ඒකාග්‍රතාවය වර්ධනය කරන්න.",
+            "අවිනිශ්චිත බව ඇති වන අවස්ථාවලදී 'සතිමත්බව' (Mindfulness) මගින් සිතේ ස්වභාවය නිරීක්ෂණය කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යදාහං ධම්මමස්සෝසිං භාසමානස්ස සත්ථුනෝ\nන කංඛමභිජානාමි සබ්බඤ්ඤූ අපරාජිතේ",
+            "sinhala": "ශාස්තෘන් වහන්සේ විසින් මේ ශ්‍රී සද්ධර්මය දේශනා කරද්දී මට අහන්ට ලැබුණේ යම් දවසක ද, එදා ඉඳල ඒ අපරාජිත මුනිඳුන් වන සර්වඥයන් වහන්සේ පිළිබඳ මා තුළ සැකයක් ඇති වූ බවත් මා දන්නෙ නෑ."
+        },
+        {
+            "pali": "සත්ථවාහේ මහාවීරේ සාරථීනං වරුත්තමේ\nමග්ගේ පටිපදායං වා කංඛා මය්හං න විජ්ජතී’ති",
+            "sinhala": "උන්වහන්සේ වනාහී සසර කතරින් ලෝ සතුන් එතෙර කරවන මහා ගැල්කරුවාණන්. ඒ මහාවීර වූ පුරිසදම්මසාරථීන් අතර අති උතුම් වූ බුදු සමිඳාණන් පිළිබඳව හෝ මේ උතුම් නිවන් මග පිළිබඳව හෝ මා තුළ කිසියම් සැකයක් නෑ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා මේලජිනෝ ථේරෝ ගාථායෝ අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් මේලජින නම් රහත් මුනිඳුන් වදාළ ගාථාවන් ය."
+        }
+    ]
+}

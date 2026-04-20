@@ -1,0 +1,85 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "අනත්තධම්ම සූත්‍රය",
+    "sutta_title": "අනාත්මයට අයත් දේ ගැන වදාළ දෙසුම",
+    "id": "15583",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනාත්ම ලක්ෂණය සහ විරාගය",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "අනාත්ම වූ දේ කෙරෙහි පවතින දැඩි කැමැත්ත සහ ඇලීම (ඡන්දරාගය) සම්පූර්ණයෙන්ම දුරු කිරීමේ වැදගත්කම මෙම සූත්‍රයෙන් පෙන්වා දෙයි.",
+        "long_summary": "සැවැත් නුවර ජේතවනාරාමයේදී භාග්‍යවතුන් වහන්සේ රාධ හිමියන් අමතා, ලෝකයේ අනාත්ම වූ යම් ධර්මයක් ඇත්නම්, ඒ පිළිබඳව ඇතිවන ඡන්දරාගය හෙවත් බැඳීම ප්‍රහීණ කළ යුතු බව දේශනා කළහ. අනාත්ම ස්වභාවය අවබෝධ කර ගැනීමෙන් සිතේ ඇතිවන සංකීර්ණ බැඳීම් ලිහා දැමිය හැකි බව මෙහිදී අවධාරණය කෙරේ.",
+        "main_discovery": "අනාත්ම වූ දේ පිළිබඳ ඇති ඡන්දරාගය (ඇලීම) ප්‍රහීණ කිරීම විමුක්තියේ මාවතයි.",
+        "core_truth_of_sutta": "තමාගේ යැයි ගත නොහැකි (අනාත්ම) දේ කෙරෙහි ඇති ආශාව අත්හැරීම දුකෙන් මිදීමේ එකම මගයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනාත්ම (Non-self) ස්වභාවය අවබෝධ කර ගැනීම.",
+            "how_it_aids_liberation": "සන්තෘෂ්ටිය පදනම් කරගත් ඡන්දරාගය (Lustful desire) දුරු කිරීමෙන් සංසාරික බැඳීම්වලින් නිදහස් වීම සිදු වේ.",
+            "practical_renunciation": "කිසිදු අනිත්‍ය හෝ අනාත්ම දේක 'මම' හෝ 'මගේ' යනුවෙන් අනන්‍යතාවයක් ගොඩනගා නොගැනීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඡන්දරාගය (Lustful Desire)",
+                "අහංකාරය (Ego-identity)"
+            ],
+            "cognitive_impact": "යථාර්ථය පිළිබඳව ඇති වැරදි වැටහීම් (Cognitive distortions) ඉවත් කර, ලෝකය ඇති සැටියෙන් දැකීමට (Realistic perception) හුරු කරයි.",
+            "modern_psychology_parallel": "අනන්‍යතාවය මත පදනම් වූ මානසික පීඩනය (Identity-based stress) අවම කිරීම සඳහා සායනික මනෝවිද්‍යාවේ භාවිතා වන අහංකාරය ලිහිල් කිරීමේ ක්‍රමවේදයන්ට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Ventral Striatum"
+            ],
+            "neuroplasticity_and_habit": "අනාත්ම මෙනෙහි කිරීම මගින් ස්වයං-කේන්ද්‍රීය චින්තනයට වගකියන DMN ජාලයේ ක්‍රියාකාරිත්වය අඩුවන අතර, එමගින් මොළයේ නව ස්නායුක සම්බන්ධතා (Rewiring) ඇති වී පුරුදුගත ඇලීම් ලිහිල් වේ.",
+            "stress_reduction_mechanism": "ඡන්දරාගය අඩුවීමත් සමඟ Dopamine මගින් මෙහෙයවනු ලබන අධික තෘෂ්ණා චක්‍රය බිඳවැටී, Amygdala හි ඇතිවන බිය සහ ආතතිය සමනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Radical Acceptance",
+            "De-identification"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "ඇලීමෙන් මිදී පරම නිදහස කරා",
+            "mood_keywords": [
+                "ශාන්ත",
+                "ප්‍රඥාගෝචර",
+                "විරාගී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "අනාත්ම සංකල්පය මගින් 'මම' යන හැඟීමෙන් වෙන්වී සිතුවිලි දෙස බැලීම (Cognitive Defusion), ACT හි මූලික සිද්ධාන්තයක් වන ස්වයං-සන්දර්භය (Self-as-context) හා සමාන වේ.",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනාත්ම ස්වභාවය",
+                "related_teachings": [
+                    "අනත්තලක්ඛණ සූත්‍රය",
+                    "රාධ සංයුක්තය"
+                ],
+                "connection_type": "මූලධර්මීය සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "යමක් අනාත්ම බව වැටහෙන විට, එය අයිති කර ගැනීමට ඇති දැඩි ආශාව අත්හැරීමෙන් සැබෑ මානසික නිදහස අත්කර ගත හැකිය.",
+        "daily_practice_steps": [
+            "බාහිර වස්තූන් සහ මනසේ ඇතිවන සිතුවිලි දෙස 'මේවා මම නොවේ, මගේ නොවේ' යන උපේක්ෂා සහගත දෘෂ්ටියෙන් බැලීම.",
+            "කිසියම් දෙයක් කෙරෙහි දැඩි ඇලීමක් ඇතිවන විට, එහි පාලනය කළ නොහැකි අනාත්ම ස්වභාවය මෙනෙහි කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …………………"
+        },
+        {
+            "pali": "යෝ ඛෝ රාධ, අනත්තධම්මෝ. ….(පෙ)…. ඡන්‌දරාගෝ පහාතබ්බෝ’ති.",
+            "sinhala": "එකත්පස්ව වාඩිවුණ ආයුෂ්මත් රාධයන් හට භාග්‍යවතුන් වහන්සේ මෙකරුණ වදාළා. පින්වත් රාධ, අනාත්ම ස්වභාවයට අයත් වූ යමක් ඇද්ද, ඒ කෙරෙහි …. (පෙ) …. ඡන්දරාගය දුරු කළ යුතුයි."
+        }
+    ]
+}

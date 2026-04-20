@@ -1,0 +1,91 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "සීතවනිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15309",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "හුදකලා විවේකය සහ චිත්ත දමනය (Solitude and Mental Mastery)",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "කෙලෙස් සටනින් ජයගෙන, සීත වනයක හුදකලාව කායගතාසතියෙන් වසන රහත් භික්ෂුවකගේ පරම ශාන්තිය මෙහි විස්තර වේ.",
+        "long_summary": "මෙම ගාථාව මගින් සීත වනයේ වසන හුදකලා භික්ෂුවකගේ ජීවිතය විස්තර කෙරේ. උන්වහන්සේ කෙලෙස් සමඟ සටන් කොට ඉන් පූර්ණ ජයග්‍රහණය ලබා ඇති අතර, ලෞකික බැඳීම්වලින් තොර වූ ප්‍රඥාවන්තයෙකි. ශරීරය පිළිබඳ විනයක් පවත්වාගනිමින් කායගතාසතිය අනුගමනය කරන උන්වහන්සේ, ඉතා සතුටින් සහ නුවණින් පිරිපුන්ව වාසය කරති. මෙය ආයුෂ්මත් සීතවනිය රහතන් වහන්සේ අරභයා දේශනා කරන ලද්දකි.",
+        "main_discovery": "බාහිර ලෝකයෙන් හුදකලා වී කායගතාසතිය (Mindfulness of body) පදනම් කරගෙන කෙලෙස් ජයග්‍රහණය කිරීමෙන් ලැබෙන පරම මානසික නිදහස.",
+        "core_truth_of_sutta": "හුදකලාව තුල කෙලෙස් නසා සිරුර පිළිබඳ සතිමත්භාවයෙන් (Body mindfulness) වසන්නා ලෞකික ඇල්මෙන් තොරව උතුම් මානසික සුවයක් ලබයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කායගතාසතිය සහ විවේකය (Seclusion) මගින් කෙලෙස් ප්‍රහාණය කිරීම.",
+            "how_it_aids_liberation": "ශරීරයේ යථා ස්වභාවය දැකීමෙන් තෘෂ්ණාව දුරු කර, ක්ලේශ යුද්ධයෙන් (Battle with defilements) ජය ලබා නිවනට මග පාදයි.",
+            "practical_renunciation": "ලෞකික ඇල්මයන් (Sensual attachments) අත්හැර හුදකලා භාවනාවට යොමු වීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විවේකය (Solitude)",
+                "ප්‍රීතිය (Joy)",
+                "සතිමත්බව (Mindfulness)",
+                "විරාගය (Detachment)"
+            ],
+            "cognitive_impact": "සිත බාහිර අරමුණුවලින් ඉවත් කර කය තුළ රඳවා ගැනීමෙන් සංජානනමය විසිරයාම (Cognitive clutter) පාලනය වේ.",
+            "modern_psychology_parallel": "හුදකලාව සහ සතිමත්භාවය භාවිතා කරන Mindfulness-Based Stress Reduction (MBSR) සහ Acceptance and Commitment Therapy (ACT) වල පදනමට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) පාලනය",
+                "Insula (Interoception)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "කායගතාසතිය පුහුණු කිරීමේදී ඉන්සියුලා (Insula) ප්‍රදේශය සක්‍රීය වන අතර, අතීත හා අනාගත සිතිවිලි නිපදවන DMN ජාලය අකර්මන්‍ය වීමෙන් ස්නායුක විවේකයක් ලැබේ.",
+            "stress_reduction_mechanism": "හුදකලාව සහ සතිමත්භාවය නිසා ඇමිග්ඩලා (Amygdala) සන්සුන් වන අතර, කෝටිසෝල් (Cortisol) මට්ටම පහත වැටීමෙන් ශාන්ත මනෝභාවයක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "කායගතාසතිය (Body Mindfulness)",
+            "හුදකලා වාසය (Selective Solitude)",
+            "ක්ලේශ ප්‍රහාණය (Eradication of Defilements)",
+            "චිත්ත ස්වයං-පාලනය (Self-Regulation)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Equanimity)",
+            "emotional_intensity": 9,
+            "emotional_arc": "ලෞකික ඇල්මෙන් මිදී උතුම් ප්‍රඥාමය සතුටකට (Spiritual Bliss) පත්වීම.",
+            "mood_keywords": [
+                "නිසල",
+                "සතුටුදායක",
+                "ජයග්‍රාහී",
+                "නිරවුල්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Attention Control Theory",
+                "parallel_description": "අවධානය බාහිර උත්තේජනවලින් ඉවත් කර ශරීරය සහ සිත දෙසට (Interoception) යොමු කිරීමෙන් මානසික පීඩනය පාලනය කිරීමේ හැකියාව ලැබීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "කායගතාසතිය (Kāyagatāsati)",
+                "related_teachings": [
+                    "කායගතාසති සූත්‍රය",
+                    "සතිපට්ඨාන සූත්‍රය"
+                ],
+                "connection_type": "මූලික භාවනා ක්‍රමය (Core Practice Method)"
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර ඝෝෂාවෙන් මොහොතකට මිදී තමන්ගේ සිරුර සහ මනස දෙස විමසිල්ලෙන් බැලීම (Self-awareness) මගින් මානසික පීඩනයෙන් මිදිය හැක.",
+        "daily_practice_steps": [
+            "දිනකට සුළු වේලාවක් හෝ නිහඬව තනිව වාසය කරන්න.",
+            "කරන කියන දේ පිළිබඳව සහ ශරීරයේ ඉරියව් පිළිබඳව සිහියෙන් පසුවන්න (කායගතාසතිය).",
+            "මනස තුල ඇතිවන ආශාවන් සහ ගැටීම් දෙස උපේක්ෂාවෙන් බැලීමට පුරුදු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "යෝ සීතවනං උපාග භික්ඛු ඒකෝ සන්තුසිතෝ සමාහිතත්තෝ\nවිජිතාවී අපේතලෝමහංසෝ රක්ඛං කායගතාසතිං ධිතීමා’ති",
+            "sinhala": "ඒ භික්ෂුව සීත වනයේ සිටින කෙනෙක්. වාසය කරන්නේ හුදෙකලාවේ ම යි. ඉතාම සතුටින් කල් ගෙවන්නේ. කෙලෙස් සටනින් ඔහුට ජය ලැබුණා. ලොමුදහගැනීම් කිසිවක් නැති ඒ නුවණැති භික්ෂුව කායගතාසතිය මැනවින් රැකගෙන ඉන්නෙ."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා සීතවනියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් සීතවනිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

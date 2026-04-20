@@ -1,0 +1,86 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "පුණ්ණා ථේරීගාථා",
+    "sutta_title": "පුණ්ණා තෙරණියගේ ගාථාව",
+    "id": "14649",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ප්‍රඥාව සහ අවිද්‍යාව දුරු කිරීම",
+        "complexity_rating": 3,
+        "analysis_confidence": 100,
+        "short_summary": "පුණ්ණා තෙරණිය ප්‍රඥාව සම්පූර්ණ කර ගැනීම තුළින් අවිද්‍යාව නැමැති අන්ධකාරය දුරු කර පසළොස්වක සඳ මෙන් පූර්ණත්වයට පත්වන ලෙස අනුශාසනා කරයි.",
+        "long_summary": "මෙම ගාථාව මගින් පුණ්ණා නම් තෙරණියට, පසළොස්වක පෝය දිනක සඳෙහි පූර්ණත්වය මෙන් තම ජීවිතය උතුම් ගුණධර්මයන්ගෙන් පුරවා ගන්නා ලෙස උපදෙස් දෙයි. මෙහි ප්‍රධාන අරමුණ වන්නේ ප්‍රඥාව (Wisdom) වර්ධනය කර ගැනීමයි. ඒ හරහා අවිද්‍යාව (Ignorance) නැමැති අන්ධකාරය සහමුලින්ම දුරු කර, ආධ්‍යාත්මික පූර්ණත්වය කරා ළඟා වීමට මාර්ගය පෙන්වා දෙයි.",
+        "main_discovery": "පූර්ණ චන්ද්‍රයා මෙන් ප්‍රඥාවෙන් පූර්ණ වීම මගින් මෝහය (අවිද්‍යාව) සහමුලින්ම නැති කළ හැකි බව.",
+        "core_truth_of_sutta": "ප්‍රඥාව මුදුන්පත් කරගැනීමෙන්ම පමණක් අවිද්‍යාව නැමැති අඳුර මකා දැමිය හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අවිද්‍යාව (Avijja) ප්‍රඥාවෙන් (Panna) ප්‍රතිස්ථාපනය කිරීම.",
+            "how_it_aids_liberation": "සංසාර බැඳීම් වලට මුල වන අවිද්‍යාව ප්‍රඥාවෙන් විනිවිද දැකීම මගින් භව ගමන නතර කිරීමට මග පාදයි.",
+            "practical_renunciation": "මෝහය පදනම් කරගත් වැරදි දැකීම් (Miccha Ditthi) අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවිද්‍යාව (Delusion)",
+                "ප්‍රඥාව (Insight)",
+                "පූර්ණත්වය (Self-actualization)"
+            ],
+            "cognitive_impact": "අවිද්‍යාව නිසා ඇතිවන පක්ෂග්‍රාහී තීරණ සහ වැරදි නිගමන ඉවත් කර, යථාභූත ඥානය (Realistic perception) වර්ධනය කරයි.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) වලදී සිදුකරන අතාර්කික සිතුවිලි දුරු කර තාර්කික පදනමක් ඇති කරගැනීම මෙයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (විචාරාත්මක බුද්ධිය)",
+                "Default Mode Network (ස්වයං-කේන්ද්‍රීය සිතුවිලි පාලනය)"
+            ],
+            "neuroplasticity_and_habit": "ප්‍රඥාව පුහුණු කිරීමේදී මොළයේ Prefrontal Cortex ප්‍රදේශයේ ස්නායුක සම්බන්ධතා ශක්තිමත් වන අතර (Neuroplasticity), එමගින් මෝහය පදනම් කරගත් පැරණි චර්යා රටා වෙනස් වේ.",
+            "stress_reduction_mechanism": "අවබෝධය වැඩිවත්ම අනියත බිය (Amygdala hyperactivity) අඩුවන අතර, Cortisol මට්ටම පහත වැටීමෙන් මානසික සමබරතාවය ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "ප්‍රජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)",
+            "සතිමත්බව (Mindfulness)",
+            "තීක්ෂණ අවබෝධය (Insight)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Serenity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අඳුරේ සිට ආලෝකය කරා ගමන් කිරීම",
+            "mood_keywords": [
+                "ශාන්ත",
+                "පිබිදුණු",
+                "නිරවුල්"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Cognitive Clarity Theory",
+                "parallel_description": "අවිද්‍යාව (Ignorance) දුරු කිරීම යනු වැරදි සහගත විශ්වාස පද්ධතීන් නිරවුල් කරමින් වඩාත් යථාර්ථවාදී තොරතුරු සැකසීමකට (Information processing) එළඹීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ප්‍රඥාවෙන් අන්ධකාරය දුරු කිරීම",
+                "related_teachings": [
+                    "ආලෝක සඤ්ඤා"
+                ],
+                "connection_type": "ධර්ම සමානතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "යම් දෙයක් දෙස නොදැනුවත්කමින් බැලීම වෙනුවට, නුවණින් විමසා බලා සත්‍යය අවබෝධ කර ගැනීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා සුළු වේලාවක් හෝ ධර්මය ශ්‍රවණය කරමින් ප්‍රඥාව වර්ධනය කරගන්න.",
+            "යම් ගැටලුවකදී මෝහයෙන් තීරණ නොගෙන, ඉවසීමෙන් යුතුව නුවණින් විමසන්න.",
+            "සිත තුළ ඇති වන නොදැනුවත්කම හඳුනාගෙන එය දැනුවත්කම (Mindfulness) මගින් ආලෝකමත් කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "පුණ්ණෝ පූරස්සු ධම්මේහි චන්දෝ පණ්ණරසෝරිව,\nපරිපුණ්ණාය පඤ්ඤාය තමොක්ඛන්ධං පදාලයාති",
+            "sinhala": "පින්වත් පුණ්ණා, පසළොස්වක පොහෝ දවසේ සඳක් වගේ උතුම් ගුණධර්මවලින් ජීවිතේ පුරවා ගන්ට ඕන. ප්‍රඥාව සම්පූර්ණ කරගෙන මේ අවිද්‍යා අන්ධකාරය පලා දමන්න."
+        },
+        {
+            "pali": "ඉත්ථං සුදං පුණ්ණා ථේරී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී පුණ්ණා නම් රහත් තෙරණිය වදාළ ගාථාවයි."
+        }
+    ]
+}

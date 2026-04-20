@@ -1,0 +1,91 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "රක්ඛිත තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15382",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අර්හත් ඵල විමුක්තිය (Liberation through Arahantship)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "රක්ඛිත රහත් මුනිඳුන්ගේ ගාථාවට අනුව රාග, ද්වේෂ, මෝහයන් සහමුලින්ම නසා දැමීමෙන් ශ්‍රද්ධාවෙන් පිරිසිදු වූ, අතිශය සිහිල් වූ නිවුණු සිතක ස්වභාවය මෙහි විස්තර වේ.",
+        "long_summary": "ආයුෂ්මත් රක්ඛිත රහතන් වහන්සේ විසින් වදාළ මෙම දේශනාවට අනුව, සිතේ පැවති සියලුම අකුශල චේතනා, රාගය, ද්වේෂය සහ මෝහය සහමුලින්ම අභාවයට පත් කර ඇත. මෙම අභ්‍යන්තරික විප්ලවය නිසා ශ්‍රද්ධාවෙන් පිරිසිදු වූ සිත අතිශය සිහිල් (Cooling) තත්ත්වයකට පත්ව ඇත. එහි කිසිදු කැලඹීමක් නොමැති අතර, එය ප්‍රඥාවෙන් නිවී ගිය අවස්ථාවකි. සියලු සංස්කාරයන්ගෙන් මිදී සිත සම්පූර්ණයෙන්ම නිවී යන පරම ශාන්තිය මෙහි ප්‍රධාන අන්තර්ගතයයි.",
+        "main_discovery": "සිතේ සියලු කෙලෙස් (රාග, ද්වේෂ, මෝහ) සහමුලින්ම ප්‍රහීණ වීමෙන් ලබන අචල මානසික ශාන්තිය සහ සිහිල් බව.",
+        "core_truth_of_sutta": "සියලු අකුශල මූලයන් (රාග, ද්වේෂ, මෝහ) සහමුලින්ම ප්‍රහීණ කිරීමෙන් පමණක් සිතෙහි පරම සිහිල් බව සහ නිවීම ළඟා කරගත හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "රාග, ද්වේෂ, මෝහයන්ගේ පරිහානිය සහ සංස්කාරයන්ගෙන් මිදීම.",
+            "how_it_aids_liberation": "සිතේ පවත්නා දැවෙන ස්වභාවය (කෙලෙස්) ඉවත් කිරීමෙන් නිර්වාණ ධාතුව අත්විඳීමට මග පාදයි.",
+            "practical_renunciation": "චේතනා මට්ටමින් සිදුවන අකුශල රැස්කිරීම් නැවැත්වීම සහ සිත පිරිසිදු කරගැනීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "රාග (Lust)",
+                "ද්වේෂ (Hatred)",
+                "මෝහ (Delusion)",
+                "ශ්‍රද්ධා (Faith/Confidence)"
+            ],
+            "cognitive_impact": "සිතේ ඇතිවන චේතනාත්මක දූෂිත බව ඉවත් වීමෙන් සංජානනීය විකෘතිතා (Cognitive Distortions) නැති වී යථාභූත ඥානය ඇති වේ.",
+            "modern_psychology_parallel": "නූතන 'Dialectical Behavior Therapy (DBT)' හි දැක්වෙන 'Emotional Regulation' සහ 'Wise Mind' යන සංකල්පවල අතිශය දියුණු අවස්ථාවක් ලෙස මෙය දැකිය හැකිය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - අක්‍රිය වීම",
+                "Amygdala - සංසුන් වීම",
+                "Prefrontal Cortex - සක්‍රිය වීම"
+            ],
+            "neuroplasticity_and_habit": "අකුශල චේතනා නැවත නැවත ජනනය කරන ස්නායුක පථ (Neural Pathways) සහමුලින්ම දුර්වල වී (Long-term Depression), සාමය සහ සතිය රැකෙන නව පථ ශක්තිමත් වීම.",
+            "stress_reduction_mechanism": "ඇමිග්ඩලා (Amygdala) මගින් ජනනය කරන 'Fight or Flight' ප්‍රතිචාර (ද්වේෂය/බය) සහමුලින්ම නැවතී, කෝටිසෝල් (Cortisol) මට්ටම අවම වී මොළය ස්වභාවික ශාන්ති තත්ත්වයකට පත්වීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Attentional Control",
+            "Emotional Regulation",
+            "Elimination of Latent Tendencies (Anusaya)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "ශාන්තිය (Equanimity)",
+            "emotional_intensity": 10,
+            "emotional_arc": "කැලඹිලි සහගත අකුශල චේතනාවල සිට අතිශය සිහිල් සහ නිසල විමුක්ති සැපය දක්වා.",
+            "mood_keywords": [
+                "Peaceful",
+                "Cool",
+                "Stable",
+                "Pure"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Emotional Equilibrium Theory",
+                "parallel_description": "සිතේ ඇතිවන ආවේගාත්මක ප්‍රතික්‍රියාකාරිත්වය (Emotional Reactivity) සම්පූර්ණයෙන්ම පාලනය වී උච්චතම මානසික ස්ථාවරත්වය ළඟා කර ගැනීම.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "කෙලෙස් ක්ෂය කිරීම (Extinction of Defilements)",
+                "related_teachings": [
+                    "රතන සූත්‍රය (ඛීණං පුරාණං නවං නත්ථි සම්භවං)",
+                    "නිබ්බාන සූත්‍ර"
+                ],
+                "connection_type": "ධර්ම සමානතාව (Doctrinal Congruence)"
+            }
+        ],
+        "practical_takeaway_sinhala": "සිතේ ඇතිවන කෝපය, ආශාව සහ නොදැනුවත්කම පාලනය කිරීමෙන් එදිනෙදා ජීවිතයේ මානසික පීඩනය අවම කරගෙන සහනයක් ලබා ගත හැකිය.",
+        "daily_practice_steps": [
+            "සිතේ ඇතිවන අකුශල චේතනා (රාග, ද්වේෂ) පිළිබඳව ක්ෂණිකව සතිමත් වන්න.",
+            "ශ්‍රද්ධාව සහ ප්‍රඥාව වැඩෙන පරිදි සිත පිරිසිදු කරගැනීමට උත්සාහ කරන්න.",
+            "සිතේ නොසන්සුන් බවක් දැනෙන විට එය කෙලෙස් නිසා සිදුවන 'දැවීමක්' බව හඳුනාගෙන එය අත්හරින්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සබ්බෝ රාගෝ පහීනෝ මේ සබ්බෝ දෝසෝ සමූහතෝ\nසබ්බෝ මේ විගතෝ මෝහෝ සීතිභූතොස්මි නිබ්බුතෝ’ති",
+            "sinhala": "මං තුළ තිබුණ හැම රාගයක් ම නැති වුණා. හැම තරහක් මත් නැති වුණා. හැම මෝඩකමක් ම නැති වුණා. දැන් මං ඉන්නෙ සිහිල් වෙලා. නිවීමට පත් වෙලා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා රක්ඛිතෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් රක්ඛිත නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

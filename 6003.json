@@ -1,0 +1,85 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "පඤ්ඤව සුත්තං",
+    "sutta_title": "ප්‍රඥාව ඇති බව ගැන වදාළ දෙසුම",
+    "id": "6003",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සප්ත බොජ්ඣංග සහ ප්‍රඥාව (BoJJhanga and Wisdom)",
+        "complexity_rating": 7,
+        "analysis_confidence": 95,
+        "short_summary": "සප්ත බොජ්ඣංගයන් පුහුණු කිරීම සහ බහුල කිරීම තුළින් ප්‍රඥාවන්ත නොකෙළතොළු බව (Wisdom) ඇති වන බව මෙම සූත්‍රය මගින් පැහැදිලි කරයි.",
+        "long_summary": "යම් අයෙකු ප්‍රඥාව ඇති, නොකෙළතොළු (Non-confused) තැනැත්තෙකු ලෙස හඳුනා ගැනීමට ඇති මූලික සාධක මෙහි සාකච්ඡා වේ. ඒ සඳහා සප්ත බොජ්ඣංගයන් වන සති, ධම්මවිචය, විරිය, පීති, පස්සද්ධි, සමාධි සහ උපෙක්ඛා යන අංගයන් නිවැරදිව භාවිත කිරීමත්, ඒවා නැවත නැවත බහුල වශයෙන් ප්‍රගුණ කිරීමත් අත්‍යවශ්‍ය වේ. විශේෂයෙන් සති සම්බොජ්ඣංගය සහ උපෙක්ඛා සම්බොජ්ඣංගය මෙහිදී ප්‍රමුඛ සාධක ලෙස දක්වා ඇත.",
+        "main_discovery": "ප්‍රඥාවන්ත බව හෝ නොකෙළතොළු බව (Non-confusion/Wisdom) තීරණය වන්නේ සප්ත බොජ්ඣංග ක්‍රමානුකූලව වැඩීම මත බව සූත්‍රය පෙන්වා දෙයි.",
+        "core_truth_of_sutta": "ප්‍රඥාව යනු හුදු තර්කයක් නොව, සප්ත බොජ්ඣංග ප්‍රගුණ කිරීමෙන් ලැබෙන මානසික නිරවුල්භාවයයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "බොජ්ඣංග ධර්ම (Enlightenment Factors) වැඩීම.",
+            "how_it_aids_liberation": "සිතේ ඇති වන ව්‍යාකූලත්වය සහ මෝහය දුරු කරමින් අනිත්‍යය දැකීමට අවශ්‍ය මානසික පසුබිම සකසයි.",
+            "practical_renunciation": "උපෙක්ඛා සම්බොජ්ඣංගය තුළින් අන්තගාමී බැඳීම් සහ ගැටීම්වලින් සිත නිදහස් කරගැනීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නොකෙළතොළු බව (Cognitive Clarity)",
+                "සති (Mindfulness)",
+                "උපෙක්ඛා (Equanimity)"
+            ],
+            "cognitive_impact": "සිතේ ඇති වන අනවශ්‍ය තොරතුරු (Mental Noise) පෙරීමෙන් අවධානය (Focus) තියුණු කිරීම සහ තීරණ ගැනීමේ හැකියාව වර්ධනය කිරීම.",
+            "modern_psychology_parallel": "Mindfulness-Based Cognitive Therapy (MBCT) සහ Dialectical Behavior Therapy (DBT) වල එන 'Wise Mind' සංකල්පයට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) පාලනය",
+                "Prefrontal Cortex උත්තේජනය",
+                "Amygdala සන්සුන් වීම"
+            ],
+            "neuroplasticity_and_habit": "බොජ්ඣංග බහුල කිරීමෙන් (Repeated practice) මොළයේ ස්නායුක සම්බන්ධතා ශක්තිමත් වී නිරවුල්ව සිතීමේ පුරුද්ද (Synaptic Plasticity) ඇති වේ.",
+            "stress_reduction_mechanism": "උපෙක්ඛා සහ පස්සද්ධි මගින් Parasympathetic nervous system එක සක්‍රිය කර කෝටිසෝල් (Cortisol) මට්ටම පහත හෙළයි."
+        },
+        "cognitive_mechanisms": [
+            "Sati (Mindfulness)",
+            "Upekkha (Equanimity)",
+            "Attention Regulation",
+            "Cognitive Flexibility"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 6,
+            "emotional_arc": "අවිනිශ්චිතභාවයේ සිට පැහැදිලි ප්‍රඥාව දක්වා",
+            "mood_keywords": [
+                "නිවුණු",
+                "පැහැදිලි",
+                "අකම්පිත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Science",
+                "theory_name": "Executive Function and Metacognition",
+                "parallel_description": "සප්ත බොජ්ඣංග මගින් සංජානන ක්‍රියාවලීන් නිරීක්ෂණය කිරීමේ සහ පාලනය කිරීමේ හැකියාව (Metacognition) වර්ධනය කරන අතර, එමගින් ව්‍යාකූලතාව (Confusion) අවම කරයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සප්ත බොජ්ඣංග (Seven Factors of Enlightenment)",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය",
+                    "ආනාපානසති සූත්‍රය"
+                ],
+                "connection_type": "ධර්ම කරුණු අතර අන්තර් සම්බන්ධතාව"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම ගැටලුවකදී කලබල නොවී, සිහියෙන් යුතුව මැදහත් සිතින් බැලීම (උපේක්ෂාව) තුළින් නිරවුල් විසඳුම් ලැබේ.",
+        "daily_practice_steps": [
+            "දිනපතා මොහොතක් නිහඬව සිට තමන් කරන ක්‍රියාවන් ගැන සතිමත්වීම (Mindfulness).",
+            "සිතේ ඇතිවන ආවේගයන් කෙරෙහි ක්ෂණිකව ප්‍රතිචාර නොදක්වා උපේක්ෂාවෙන් යුතුව නිරීක්ෂණය කිරීම.",
+            "ධර්ම කරුණු ජීවිතයට ගලපා බලමින් බුද්ධිමය විමසුම (ධම්මවිචය) පුරුදු කිරීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "“පඤ්ඤවා අනේළමූගෝ පඤ්ඤවා අනේළමූගෝ”ති භන්තේ, වුච්චති. කිත්තාවතා නු ඛෝ භන්තේ, “පඤ්ඤවා අනේළමූගෝ”ති වුච්චතීති? සත්තන්නං ඛෝ භික්ඛු, බොජ්ඣංගානං භාවිතත්තා බහුලීකතත්තා “පඤ්ඤවා අනේළමූගෝ”ති වුච්චති. කතමේසං සත්තන්නං සතිසම්බොජ්ඣංගස්ස ....(පෙ).... උපේඛාසම්බොජ්ඣංගස්ස. ඉමේසං ඛෝ භික්ඛු, සත්තන්නං බොජ්ඣංගානං භාවිතත්තා බහුලීකතත්තා “පඤ්ඤවා අනේළමූගෝ”ති වුච්චතීති.",
+            "sinhala": "“ස්වාමීනී, ‘ප්‍රඥාව ඇත්තේ ය – කෙළතොළු නොවෙයි, ප්‍රඥාව ඇත්තේ ය – කෙළතොළු නොවෙයි’ යි කියනු ලැබේ. ස්වාමීනී, ප්‍රඥාව ඇති නොකෙළතොළු යැයි කියනු ලබන්නේ කවර කරුණු මත ද?”"
+        }
+    ]
+}

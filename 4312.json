@@ -1,0 +1,87 @@
+{
+    "nikaya": "සළායතන වග්ගෝ",
+    "vagga": "වයධම්ම සුත්තං",
+    "sutta_title": "වැනසීම ස්වභාව කොට ඇති දෙය ගැන වදාළ දෙසුම",
+    "id": "4312",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනිත්‍යතාවය (Impermanence)",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "සංස්කාර ලෝකයේ පවතින විනාශ වීමේ ස්වභාවය සහ අනිත්‍යතාවය පිළිබඳ ගැඹුරු විවරණයකි.",
+        "long_summary": "මෙම දේශනාව මගින් සියලු සංස්කාරයන්ගේ (සියලු සැකසූ දෑ) පවතින අනිත්‍ය ස්වභාවය අවධාරණය කරයි. ලෝකය තුළ අප දකින සියලු දේ ස්වභාවයෙන්ම විනාශ වීමට (Destruction) නැඹුරු වී ඇති බවත්, එම පරම සත්‍යය අවබෝධ කර ගැනීම තුළින් ලෝකය දෙස යථාර්ථවාදීව බැලීමට පුහුණු කරන ලෙසත් මෙහි සඳහන් වේ.",
+        "main_discovery": "සියලු සංස්කාර ධර්මයන් ස්වභාවයෙන්ම විනාශයට පත්වන බවත්, එම අනිත්‍ය ස්වභාවය අවබෝධ කර ගැනීම දුකෙන් මිදීමේ මාවත බවත්ය.",
+        "core_truth_of_sutta": "සියලු සංස්කෘතීන් සහ පැවැත්ම ස්වභාවයෙන්ම විනාශ වීමට නැඹුරු වී ඇත.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සංස්කාරයන්ගේ අනිත්‍ය ස්වභාවය (Anicca-dhamma) දැකීම.",
+            "how_it_aids_liberation": "පැවැත්මේ විනාශවන සුළු බව අවබෝධ කර ගැනීමෙන්, තෘෂ්ණාව (Craving) ක්ෂය වී උපාදානයන් (Clinging) දුරු කිරීමට මග පාදයි.",
+            "practical_renunciation": "නිත්‍ය යැයි සලකා අල්ලාගෙන සිටින සංකල්ප සහ වස්තූන්ගේ තාවකාලික බව මෙනෙහි කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "බැඳීම (Attachment)",
+                "අවබෝධය (Insight)",
+                "යථාර්ථය පිළිගැනීම (Acceptance)"
+            ],
+            "cognitive_impact": "යම් දෙයක් සදාකාලික යැයි සිතන විපරීත සංඥාව (Permanent Illusion) ඉවත් කර, ලෝකය වෙනස් වන සුළු බව පිළිගන්නා නිරවුල් චින්තනයක් ඇති කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'පිළිගැනීම' සහ Radical Acceptance සංකල්පයට මෙය බෙහෙවින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "ලෝකය අනිත්‍ය ලෙස නැවත නැවත මෙනෙහි කිරීමේදී (Contemplation), ස්වයං-කේන්ද්‍රීය බැඳීම් ඇති කරන DMN පද්ධතියේ ක්‍රියාකාරිත්වය අඩුවී අලුත් ස්නායුක සබඳතා (Synaptic pruning) නිර්මාණය වේ.",
+            "stress_reduction_mechanism": "විනාශ වීම ලෝකයේ ස්වභාවය ලෙස පිළිගැනීම නිසා, අනපේක්ෂිත අහිමිවීම් වලදී Amygdala මගින් ඇති කරන 'බිය' හෝ 'කම්පනය' පාලනය කර Cortisol මට්ටම අඩු කරයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Pattern Recognition",
+            "Reality Testing"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Equanimity through insight)",
+            "emotional_intensity": 8,
+            "emotional_arc": "බැඳීමෙන් මිදීම (Attachment to Detachment)",
+            "mood_keywords": [
+                "නිරවුල්",
+                "ප්‍රඥාවන්ත",
+                "යථාර්ථවාදී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Physics",
+                "theory_name": "Second Law of Thermodynamics (Entropy)",
+                "parallel_description": "සෑම පද්ධතියක්ම ස්වභාවිකවම අවුල් සහගත තත්ත්වයට හෝ විනාශයට පත්වීමේ ප්‍රවණතාව (Entropy) මෙම සූත්‍රයේ 'වැනසීම ස්වභාව කොට ඇති' යන ඉගැන්වීමට සමානය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "සියලු සංස්කාර අනිත්‍යයි (Sabbe Sankhara Anicca)",
+                "related_teachings": [
+                    "ධම්මපදය",
+                    "මහාපරිනිබ්බාණ සූත්‍රය"
+                ],
+                "connection_type": "මූලික දහම් පදනම"
+            }
+        ],
+        "practical_takeaway_sinhala": "කිසිවක් සදාකාලික නැති බව වටහාගෙන, වෙනස් වීම් හමුවේ නොසැලී සිටීමට පුරුදු වන්න.",
+        "daily_practice_steps": [
+            "දවස ආරම්භයේදී තමා අවට ඇති සියල්ල වෙනස් වන සුළු බව සිහිපත් කිරීම.",
+            "යම් වස්තුවක් හෝ පුද්ගලයෙක් කෙරෙහි දැඩි ලෙස බැඳෙන විට එහි අනිත්‍ය ස්වභාවය මෙනෙහි කිරීම.",
+            "විනාශ වීම ස්වභාවික ධර්මතාවයක් ලෙස සලකා එයට සංවේගයෙන් මුහුණ දීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං….",
+            "sinhala": "සැවැත් නුවර දී …."
+        },
+        {
+            "pali": "සබ්බං භික්ඛවේ, වයධම්මං ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල වැනසීම ස්වභාව කොටයි තියෙන්නේ ….(පෙ)…."
+        }
+    ]
+}

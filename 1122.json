@@ -1,0 +1,102 @@
+{
+    "nikaya": "සගාථ වග්ගෝ",
+    "vagga": "වත්ථු සුත්තං",
+    "sutta_title": "උදව්වට තියෙන දේ ගැන වදාළ දෙසුම",
+    "id": "1122",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Social and Environmental Interdependence",
+        "complexity_rating": 2,
+        "analysis_confidence": 100,
+        "short_summary": "මිනිසුන්ට දරුවන් උපකාරයක් වන බවත්, බිරිඳ පරම මිතුරිය වන බවත්, සියලු සතුන් වැස්ස මත යැපෙන බවත් මෙහි දේශිතය.",
+        "long_summary": "ජීවිතයට උපකාර වන සාධක, උතුම්ම මිතුරා සහ සතුන්ගේ පැවැත්ම පිළිබඳව නැගුණු ප්‍රශ්නවලට පිළිතුරු දෙමින් බුදුරජාණන් වහන්සේ දේශනා කළේ මිනිසාට උපකාරී වන ප්‍රධාන සාධකය දරුවන් බවයි. මනුෂ්‍යයෙකුට සිටින සමීපතම සහ උතුම්ම මිතුරා බිරිඳ ලෙසත්, පෘථිවියේ වසන සත්වයන්ගේ ජීවත්වීම සඳහා වැසි ජලය අත්‍යවශ්‍ය සාධකය ලෙසත් මෙහිදී පැහැදිලි කරන ලදී.",
+        "main_discovery": "මානව පැවැත්මේ මූලික පදනම වන්නේ පවුල් සබඳතා සහ පාරිසරික සාධක බව තහවුරු කිරීම.",
+        "core_truth_of_sutta": "මානව පැවැත්ම සහ සමාජයීය සතුට රඳා පවතින්නේ අන්‍යෝන්‍ය උපකාරය (Mutual Support) සහ ස්වභාවික සම්පත්වල සමතුලිතතාවය මතයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ගිහි ජීවිතයේ යුතුකම් ඉටුකිරීම තුළින් ඇතිවන මානසික නිරාමිස සතුට (Innocent Happiness).",
+            "how_it_aids_liberation": "සබඳතා නිසි ලෙස හඳුනා ගැනීමෙන් ගැටුම් අවම වී, චිත්ත ඒකාග්‍රතාවයට අවශ්‍ය සාමකාමී පසුබිමක් නිර්මාණය වේ.",
+            "practical_renunciation": "තමාගේ පැවැත්ම අන් අය සහ ස්වභාවධර්මය මත රඳා පවතින බව දැකීමෙන් 'මම' යන අහංකාරය (Ego) ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සමාජීය සහයෝගීතාවය (Social Support)",
+                "විශ්වාසය (Trust)",
+                "කෘතඥතාව (Gratitude)"
+            ],
+            "cognitive_impact": "හුදකලා බව පිළිබඳ හැඟීම (Loneliness) තුරන් කර සබඳතා පිළිබඳ ධනාත්මක ආකල්පයක් (Positive schema) ගොඩනැගීම.",
+            "modern_psychology_parallel": "සමාජ සහයෝගීතා ජාල (Social Support Networks) මගින් මානසික ඔරොත්තු දීමේ හැකියාව (Resilience) වර්ධනය කිරීමේ මනෝවිද්‍යාත්මක මූලධර්මය මෙහි දැකිය හැක."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Oxytocin System (Bonding)",
+                "Reward Circuitry (Ventral Striatum)",
+                "Default Mode Network (Social Cognition)"
+            ],
+            "neuroplasticity_and_habit": "සමීප සබඳතා පවත්වා ගැනීම මගින් මොළයේ ඔක්සිටොසින් (Oxytocin) මට්ටම ඉහළ යන අතර, එය ස්නායු ආරක්ෂණ (Neuroprotective) ක්‍රියාවලියක් ලෙස ක්‍රියා කරයි.",
+            "stress_reduction_mechanism": "සුරක්ෂිත සබඳතා මගින් Amygdala හි අධි-සංවේදීතාවය අඩු කර ස්නායු පද්ධතිය සන්සුන් කරයි (Downregulation of the HPA axis)."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Appraisal of Support Systems",
+            "Social Bonding Mechanisms",
+            "Environmental Dependence Awareness"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සැනසීම (Reassurance)",
+            "emotional_intensity": 70,
+            "emotional_arc": "විමසීමෙන් විසඳුම කරා (Inquiry to Clarity)",
+            "mood_keywords": [
+                "කෘතඥතාව",
+                "ස්ථාවරත්වය",
+                "සෙනෙහස"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Attachment Theory",
+                "parallel_description": "දරුවන් සහ සහකරු හරහා ලැබෙන ආරක්ෂිත බැඳීම (Secure attachment) පුද්ගලයාගේ මානසික ස්ථාවරත්වයට මූලික වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Ecology",
+                "theory_name": "Ecosystem Services",
+                "parallel_description": "ජීවීන්ගේ පැවැත්ම සඳහා වර්ෂාපතනය වැනි ස්වභාවික සාධක මත පවතින අත්‍යවශ්‍ය යැපීම (Ecological interdependence).",
+                "confidence_score": 95
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ගිහි ජීවිතයේ මූලික සුබසිද්ධිය",
+                "related_teachings": [
+                    "මංගල සූත්‍රය (පුත්තදාරස්ස සංගහෝ)",
+                    "සිඟාලෝවාද සූත්‍රය"
+                ],
+                "connection_type": "Social Responsibility Alignment"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබේ පවුලේ සාමාජිකයන් සහ ඔබ අවට ඇති ස්වභාවධර්මය ඔබේ පැවැත්මේ මූලික පදනම බව වටහාගෙන ඔවුන්ට ගරු කරන්න, රැකබලා ගන්න.",
+        "daily_practice_steps": [
+            "තමාට උපකාර කරන දරුවන් සහ පවුලේ අය කෙරෙහි කෘතඥතාව පළ කිරීම.",
+            "සබඳතාවල ඇති මිත්‍රශීලී බව සහ විශ්වාසය ආරක්ෂා කර ගැනීමට කටයුතු කිරීම.",
+            "ස්වභාවධර්මයේ (වැස්ස/ජලය) වටිනාකම අවබෝධ කරගෙන එය සුරැකීමට දායක වීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "(දේවතා);",
+            "sinhala": "(දෙවියා) :"
+        },
+        {
+            "pali": "කිංසු වත්‌ථු මනුස්‌සානං කිං සූධ පරමෝ සඛා\nකිංසු භූතූපජීවන්‌ති යේ පාණා පඨවිංසිතාති",
+            "sinhala": "“මිනිසුන් හට උපකාරයට ඇති දේ කුමක්ද? මෙහි උතුම් ම යහළුවා කවරෙක් ද? පොළොව ඇසුරු කොට යම් ප්‍රාණීහු වසත් නම් ඒ සත්වයෝ කුමකින් ජීවත් වෙත් ද?”"
+        },
+        {
+            "pali": "(භගවා);",
+            "sinhala": "(භාග්‍යවතුන් වහන්සේ) :"
+        },
+        {
+            "pali": "පුත්‌තා වත්‌ථු මනුස්‌සානං භරියාව පරමෝ සඛා\nවුට්‌ඨිං භූතූපජීවන්‌ති යේ පාණා පඨවිංසිතාති",
+            "sinhala": "“මිනිසුන් හට උපකාරයට සිටින්නෝ දරුවෝ ය. මෙහි උතුම් ම යහළුවා බිරිඳ ය. පොළොව ඇසුරු කොට යම් ප්‍රාණීහු වසත් නම් ඒ සත්වයෝ වැස්ස නිසා ජීවත් වෙත්.”"
+        }
+    ]
+}

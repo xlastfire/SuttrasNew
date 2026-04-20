@@ -1,0 +1,92 @@
+{
+    "nikaya": "චතුක්ක නිපාතෝ",
+    "vagga": "පටිභාන පුග්ගල සුත්තං",
+    "sutta_title": "පුද්ගල ප්‍රතිභානය ගැන වදාළ දෙසුම",
+    "id": "8829",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "පුද්ගල විග්‍රහය (Individual Typology)",
+        "complexity_rating": 2,
+        "analysis_confidence": 100,
+        "short_summary": "අවබෝධය සහ ප්‍රකාශන හැකියාව යන කරුණු දෙකෙහි පැවැත්ම හෝ නොපැවැත්ම මත ලෝකයේ පුද්ගලයන් සිව්දෙනෙකු සිටින බව මෙහි දැක්වේ.",
+        "long_summary": "මෙහි පුද්ගලයන් සිව්දෙනෙකු විස්තර කෙරේ: 1. කරුණු වටහා ගැනීමේ ශක්තිය ඇති නමුත් ප්‍රකාශ කිරීමේ හැකියාව නැති අය. 2. කරුණු වටහා ගැනීමේ ශක්තිය නැති නමුත් ප්‍රකාශ කිරීමේ හැකියාව ඇති අය. 3. අවබෝධය සහ ප්‍රකාශනය යන දෙකම ඇති අය. 4. අවබෝධය සහ ප්‍රකාශනය යන දෙකම නොමැති අය. ලෝක ස්වභාවය තුළ පවතින මෙම විවිධත්වය මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "අවබෝධ කිරීමේ හැකියාව (Cognitive Comprehension) සහ ප්‍රකාශ කිරීමේ හැකියාව (Articulative Proficiency) යන ද්විත්ව සාධක මත පදනම් වූ මානව වර්ගීකරණය.",
+        "core_truth_of_sutta": "මානසික ධාරිතාව (Cognitive Capacity) සහ වාචික නිපුණතාව (Communicative Skill) යනු එකිනෙකට වෙනස්, පුද්ගලයාගෙන් පුද්ගලයාට විවිධ සංයෝජනවලින් පිහිටන ශක්තීන් දෙකකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ඉන්ද්‍රිය පරෝපරියත්ත ඥානය (අනුන්ගේ ඉන්ද්‍රිය ශක්තීන් හඳුනාගැනීම) හා සම්බන්ධය.",
+            "how_it_aids_liberation": "තමන්ගේ සහ අන්‍යයන්ගේ ස්වභාවය නිවැරදිව හඳුනා ගැනීමෙන් මානය (Pride) දුරු කිරීමට සහ තමාට ගැලපෙන ධර්ම ශ්‍රවණ/දේශන ක්‍රමවේදය තෝරා ගැනීමට උපකාරී වේ.",
+            "practical_renunciation": "තමාට නැති හැකියාවන් ගැන දුක් වීම හෝ ඇති හැකියාවන් ගැන උඩඟු වීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවබෝධය (Comprehension)",
+                "ප්‍රතිභානය (Intuitive Expression)"
+            ],
+            "cognitive_impact": "සංජානන හැකියාව (Input Processing) සහ නිමැවුම් හැකියාව (Output Generation) අතර පවතින අසමතුලිතතාවය හඳුනා ගැනීමට මග පාදයි.",
+            "modern_psychology_parallel": "සන්නිවේදන ආබාධ (Communication Disorders) සහ සංජානන මනෝවිද්‍යාවේ එන 'Expressive vs Receptive' භාෂාමය හැකියාවන් පිළිබඳ විග්‍රහයට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Wernicke’s Area (අවබෝධය)",
+                "Broca’s Area (ප්‍රකාශනය)",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "මෙම අවබෝධය තුළින් ස්නායුක පථ ශක්තිමත් කරමින් (Long-term Potentiation), තමා දුර්වල පාර්ශවය පුහුණුව මගින් වර්ධනය කර ගැනීමට Neuroplasticity උපකාරී වේ.",
+            "stress_reduction_mechanism": "තමාගේ ස්වභාවය තේරුම් ගැනීමෙන් අසාර්ථක සන්නිවේදනය නිසා ඇතිවන Cortisol මට්ටම සහ Amygdala සක්‍රිය වීම පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Processing",
+            "Verbal Articulation",
+            "Self-Awareness",
+            "Information Encoding"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 3,
+            "emotional_arc": "Neutral and Analytical",
+            "mood_keywords": [
+                "Objective",
+                "Analytical",
+                "Realistic"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Multiple Intelligences Theory",
+                "parallel_description": "හොවාර්ඩ් ගාඩ්නර්ගේ බහුවිධ බුද්ධි න්‍යායෙහි එන වාචික-භාෂාමය බුද්ධිය (Linguistic Intelligence) සහ තර්කන බුද්ධිය (Logical Intelligence) අතර පවතින වෙනසට සමානය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "පුද්ගල ප්‍රභේද (Types of Persons)",
+                "related_teachings": [
+                    "Puggala Pannatti",
+                    "Anguttara Nikaya 4.131"
+                ],
+                "connection_type": "Classification based on mental faculties"
+            }
+        ],
+        "practical_takeaway_sinhala": "සෑම කෙනෙකුටම එක හා සමාන දක්ෂතා නැති බව වටහාගෙන, අන් අය විනිශ්චය නොකර ඔවුන්ගේ සැබෑ ස්වභාවය තේරුම් ගෙන කටයුතු කරන්න.",
+        "daily_practice_steps": [
+            "තමා තුළ ඇති අවබෝධ කිරීමේ සහ ප්‍රකාශ කිරීමේ හැකියාවන් අවංකව තක්සේරු කරන්න.",
+            "අන් අය සමග ගනුදෙනු කිරීමේදී ඔවුන් මෙම කුමන ගණයට අයත් දැයි සතිමත්ව නිරීක්ෂණය කරන්න.",
+            "අවබෝධය ඇති නමුත් ප්‍රකාශනය දුර්වල නම්, සරලව අදහස් දැක්වීමට පුහුණු වන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "චත්තාරෝමේ භික්ඛවේ පුග්ගලා සන්තෝ සංවිජ්ජමානා ලෝකස්මිං. කතමේ චත්තාරෝ?",
+            "sinhala": "මහණෙනි, මේ පුද්ගලයෝ සතර දෙනෙක් ලෝකයෙහි විද්‍යමාන ව සිටිති. ඒ කවර සතර දෙනෙක් ද යත්;"
+        },
+        {
+            "pali": "යුත්තපටිභානෝ න මුත්තපටිභානෝ, මුත්තපටිභානෝ න යුත්තපටිභානෝ, යුත්තපටිභානෝ ච මුත්තපටිභානෝ ච, නේව යුත්තපටිභානෝ නේව මුත්තපටිභානෝ.",
+            "sinhala": "කරුණු කාරණා වටහා ගැනීමේ ශක්තිය ඇත්තේ ය. එනමුදු අන්‍යයන් හට පැහැදිලි ව කීමෙහි ප්‍රතිභාන නැත්තේ ය."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ චත්තාරෝ පුග්ගලා සන්තෝ සංවිජ්ජමානා ලෝකස්මින්ති.",
+            "sinhala": "මහණෙනි, මේ පුද්ගලයෝ සතර දෙනා ලෝකයෙහි විද්‍යමාන ව සිටිති."
+        }
+    ]
+}

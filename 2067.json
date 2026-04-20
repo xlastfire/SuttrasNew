@@ -1,0 +1,85 @@
+{
+    "nikaya": "නිදාන වග්ගෝ",
+    "vagga": "කෝණාගමන සුත්තං",
+    "sutta_title": "කෝණාගමන බුදු සමිඳුන් මුල් කොට වදාළ දෙසුම",
+    "id": "2067",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "බුද්ධත්වයේ ස්වභාවය සහ අවබෝධය (Enlightenment and Realization)",
+        "complexity_rating": 8,
+        "analysis_confidence": 95,
+        "short_summary": "කෝණාගමන බුදුරජාණන් වහන්සේ බුද්ධත්වයට පෙර බෝධි මූලයේදී ලැබූ ගැඹුරු අභ්‍යන්තර අවබෝධය සහ විමර්ශනය මෙයින් හෙළිවේ.",
+        "long_summary": "මෙම සූත්‍රය මගින් විස්තර කරනුයේ කෝණාගමන නම් වූ භාග්‍යවත් අරහත් සම්මා සම්බුදුරජාණන් වහන්සේ සම්බුද්ධත්වයට පත්වීමට ප්‍රථම, එනම් බෝධිසත්ව අවධියේදී බෝධි මූලයේ වැඩ සිටියදී උන්වහන්සේ තුළ ඇති වූ සුවිශේෂී චින්තන ක්‍රියාවලියයි. සම්බුද්ධත්වය ලැබීමට පෙර පවා ලෝකයේ දුක සහ එහි හටගැනීම පිළිබඳව වූ ගැඹුරු අවබෝධය සඳහා පදනම වැටුණු ආකාරයත්, එම ධර්මතා පිළිබඳව ස්වයංව ඇති වූ අදහසත් මෙහි මූලික වේ.",
+        "main_discovery": "කෝණාගමන බුදුරජාණන් වහන්සේ සම්බුද්ධත්වයට පෙර බෝසත් අවධියේදීම පටිච්චසමුප්පාදය හෝ ධර්මයේ මූලික ස්වභාවය පිළිබඳව ගැඹුරු විමර්ශනයක (Reflective Insight) යෙදුණු බව.",
+        "core_truth_of_sutta": "සම්මා සම්බුද්ධත්වය යනු ක්ෂණික අහඹු සිදුවීමක් නොව, බෝසත් අවධියේ පටන් විමර්ශනශීලීව ගොඩනැගුණු ගැඹුරු ප්‍රඥාවක (Systematic Insight) ප්‍රතිඵලයකි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "පූර්ව බුද්ධත්ව අවබෝධය (Pre-Enlightenment Realization)",
+            "how_it_aids_liberation": "සංසාරයේ දුක පිළිබඳව හේතුඵල දහම (Causality) විමර්ශනය කිරීමෙන් විමුක්තිය උදාවේ.",
+            "practical_renunciation": "තමා තුළම පවතින සිතීමේ රටාවන් විමර්ශනය කිරීම (Introspection) මගින් බැඳීම් ලිහිල් කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "විමර්ශනය (Investigation)",
+                "සති (Mindfulness)",
+                "ප්‍රඥාව (Cognition)"
+            ],
+            "cognitive_impact": "සිතෙහි ඇතිවන සාවද්‍ය ලෝක දැක්ම (Cognitive Distortions) වෙනුවට හේතුඵල දහම මත පදනම් වූ නිවැරදි දැක්ම (Cognitive Restructuring) ස්ථාපනය කිරීම.",
+            "modern_psychology_parallel": "Metacognitive Therapy (MCT) - සිතෙහි ක්‍රියාවලිය දෙස මධ්‍යස්ථව බැලීමේ හැකියාව."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) - Inhibition",
+                "Executive Control Network",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "තීක්ෂණ අවධානය මගින් මොළයේ පැරණි සිතීමේ රටාවන් (Neural Pathways) බිඳ දමා නව අවබෝධාත්මක සබඳතා ඇති කිරීම (Synaptic Remodeling).",
+            "stress_reduction_mechanism": "Prefrontal Cortex මගින් Amygdala පාලනය කිරීම නිසා අවිද්‍යාවෙන් හටගන්නා අනියත බිය සහ ආතතිය නැති වී යයි."
+        },
+        "cognitive_mechanisms": [
+            "Self-Reflection",
+            "Causal Inquiry",
+            "Pattern Recognition",
+            "Metacognition"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සන්සුන් බව (Equanimity)",
+            "emotional_intensity": 7,
+            "emotional_arc": "විමර්ශනයේ සිට අවබෝධය දක්වා (Investigation to Realization)",
+            "mood_keywords": [
+                "Peaceful",
+                "Profound",
+                "Insightful"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Metacognition & Insight Learning",
+                "parallel_description": "යමක් අවබෝධ වීමට පෙර සිතෙහි ඇතිවන තීක්ෂණ විමර්ශන හැකියාව හදිසි අවබෝධයක් (Aha! moment) කරා මෙහෙයවන ආකාරය.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "බෝධි සත්ත තත්ත්වය (Bodhisatta State)",
+                "related_teachings": [
+                    "මහාපදාන සූත්‍රය",
+                    "විපස්සී බුද්ධ සූත්‍රය"
+                ],
+                "connection_type": "Comparative Hagiography"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඕනෑම ගැටලුවකට විසඳුම ඇත්තේ ඒ දෙස හේතුඵල සහිතව ගැඹුරින් විමර්ශනය කිරීම තුළ බව වටහා ගැනීම.",
+        "daily_practice_steps": [
+            "යම් සිදුවීමක හෝ හැඟීමක මූලය (Causality) සෙවීමට පුරුදු වන්න.",
+            "බාහිර දේවලට ප්‍රතිචාර දැක්වීමට පෙර සිතෙහි ඇතිවන අදහස් දෙස විමසිලිමත් වන්න.",
+            "නිහඬව තමාගේම සිත විමර්ශනය කිරීමට දිනපතා කාලයක් වෙන් කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "කෝණාගමනස්‌ස භික්ඛවේ භගවතෝ අරහතෝ සම්‌මාසම්‌බුද්‌ධස්‌ස පුබ්බේව සම්බෝධා අනභිසම්බුද්ධස්ස බෝධිසත්තස්ස ඒව සතෝ ඒතදහෝසි ....(පෙ)....",
+            "sinhala": "පින්වත් මහණෙනි, කෝණාගමන නම් වූ භාග්‍යවත් අරහත් සම්මා සම්බුදුරජාණන් වහන්සේට සම්බුදු බව ලබන්නට පෙර සිටම සම්බුදු නොවී සිටියදීම, බෝසත්ව සිටියදීම (බෝධි මූලයේදී) මේ අදහස ඇතිවුණා. .... (පෙ) ...."
+        }
+    ]
+}

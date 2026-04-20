@@ -1,0 +1,104 @@
+{
+    "nikaya": "සත්තක නිපාතෝ",
+    "vagga": "අනුසය සුත්තං",
+    "sutta_title": "සිතෙහි අප්‍රකට ව පවතින කෙලෙස් ගැන වදාළ දෙසුම",
+    "id": "10698",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "අනුසය ක්ලේශ විශ්ලේෂණය (Analysis of Latent Tendencies)",
+        "complexity_rating": 9,
+        "analysis_confidence": 10,
+        "short_summary": "සිතේ යටිපෙළෙහි අප්‍රකටව පවතින කාමරාග, ද්වේෂ, දෘෂ්ටි ආදී අනුසය ක්ලේශ හත සහ ඒවායේ ක්‍රියාකාරිත්වය පිළිබඳ ගැඹුරු විග්‍රහයකි.",
+        "long_summary": "මෙම දේශනාව මගින් සිතේ මතුපිටට නොපෙනෙන, නමුත් අභ්‍යන්තරයේ තැන්පත් වී පවතින 'අනුසය' නම් ක්ලේශයන් හතක් පිළිබඳව විස්තර කෙරේ. කාමරාගය, ද්වේෂය, දෘෂ්ටිය, විචිකිච්ඡාව, මාන්නය, භවරාගය සහ අවිද්‍යාව යන මේවා සිතේ අඳුරු ස්වභාවයන් ලෙසත්, අකුසල චේතනාවන් ප්‍රකාශ වන මූලික ආකාරයන් ලෙසත් හඳුන්වා දී ඇත. සත්ත්වයින්ගේ චර්යාවන් සහ චේතනාමය බැඳීම් පාලනය කරන මෙම සැඟවුණු කෙලෙස් ප්‍රහාණය කිරීමේ වැදගත්කම මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "සිතේ යටිපෙළෙහි සැඟවී පවතින, සත්ත්වයා සසරට බඳින මූලික අකුසල ශක්තීන් හත (Anusaya) හඳුනාගැනීම.",
+        "core_truth_of_sutta": "සිතේ පවතින අකුසල මූලයන් හුදෙක් මතුපිටින් පෙනෙන දේට වඩා ගැඹුරින්, 'අනුසය' ලෙස යටිසිතේ තැන්පත් වී සත්ත්වයා මෙහෙයවයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනුසය ප්‍රහාණය (Elimination of latent tendencies)",
+            "how_it_aids_liberation": "සැඟවුණු කෙලෙස් හඳුනාගෙන ඒවා මුලිනුපුටා දැමීමෙන් සසර බැඳීම් (Samyojana) බිඳී පරම විමුක්තිය උදා වේ.",
+            "practical_renunciation": "සිතේ ඇතිවන සියුම් ආශාවන් සහ ගැටීම් පිළිබඳව සතිමත්ව (Mindfulness) විමසමින් ඒවායේ බැඳීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "කාමරාගය (Sensual Lust)",
+                "ද්වේෂය (Aversion)",
+                "මාන්නය (Conceit)",
+                "අවිද්‍යාව (Ignorance)"
+            ],
+            "cognitive_impact": "සිතේ පවතින පූර්ව නිගමන සහ වැරදි දෘෂ්ටි (Cognitive Distortions) නිවැරදි කරමින් යථාර්ථය දැකීමට මග පාදයි.",
+            "modern_psychology_parallel": "මෙය මනෝවිශ්ලේෂණයේදී (Psychoanalysis) පවසන 'Unconscious mind' සහ CBT වල එන 'Core Beliefs' වලට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Limbic System (Amygdala)",
+                "Default Mode Network (DMN)",
+                "Basal Ganglia"
+            ],
+            "neuroplasticity_and_habit": "අනුසය ක්ලේශ යනු මොළයේ තැන්පත් වී ඇති ස්නායුක රටාවන් (Neural patterns) වන අතර, භාවනාව මගින් මෙම පථ වෙනස් කර (Neuroplasticity) නව කුසල පථ නිර්මාණය කළ හැකිය.",
+            "stress_reduction_mechanism": "ද්වේෂය සහ භය පාලනය කිරීමෙන් Amygdala හි අධි-ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහත වැටේ."
+        },
+        "cognitive_mechanisms": [
+            "Implicit Bias",
+            "Subconscious Conditioning",
+            "Maladaptive Schemas",
+            "Cognitive Distortion"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "විමර්ශනාත්මක (Investigative)",
+            "emotional_intensity": 8,
+            "emotional_arc": "අඳුරු සැඟවුණු කෙලෙස් හඳුනාගැනීමේ සිට ඒවා ප්‍රහාණය කිරීමේ අවබෝධය දක්වා",
+            "mood_keywords": [
+                "ගැඹුරු",
+                "විශ්ලේෂණාත්මක",
+                "සංවේදී"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Unconscious Mind & Core Beliefs",
+                "parallel_description": "අනුසය ක්ලේශ යනු මනෝවිද්‍යාවේ සඳහන් වන යටිසිතේ පවතින, සවිඥානිකව හඳුනා නොගත් නමුත් චර්යාවන් පාලනය කරන මූලික විශ්වාසයන් (Core Beliefs) සහ ආවේගයන්ට සමාන වේ.",
+                "confidence_score": 9
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Neural Habituation & Long-term Potentiation (LTP)",
+                "parallel_description": "දිගුකාලීන අකුසල චේතනා මගින් මොළයේ ස්නායුක ජාල (Neural Pathways) ශක්තිමත් වී, ස්වයංක්‍රීය ප්‍රතිචාර ලෙස තැන්පත් වීම අනුසය ක්ලේශයන්ගේ ස්නායුක පදනමයි.",
+                "confidence_score": 8
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අනුසය ධර්ම (Latent Tendencies)",
+                "related_teachings": [
+                    "සංයෝජන ධර්ම",
+                    "ආසව ධර්ම"
+                ],
+                "connection_type": "සෘජු අනුපූරක"
+            }
+        ],
+        "practical_takeaway_sinhala": "අපගේ වැරදි චර්යාවන්ට හේතුව මතුපිටින් පෙනෙන කරුණු නොව, සිතේ ගැඹුරේ සැඟවී ඇති අනුසය ක්ලේශ බව වටහාගෙන ඒවා පාලනයට උත්සාහ කිරීම.",
+        "daily_practice_steps": [
+            "සිතේ ඇතිවන සියුම් කේන්තිය හෝ ආශාව දෙස උපේක්ෂාවෙන් බැලීම",
+            "තමාගේ මතයම නිවැරදි යැයි ගන්නා දෘෂ්ටි (Ditthi) පිළිබඳ විමසිලිමත් වීම",
+            "අවිද්‍යාව දුරු කිරීමට ධර්මය ශ්‍රවණය සහ මෙනෙහි කිරීම"
+        ]
+    },
+    "content": [
+        {
+            "pali": "(සාවත්ථිනිදානං)",
+            "sinhala": "සැවැත් නුවර දී ය ....."
+        },
+        {
+            "pali": "සත්තිමේ භික්ඛවේ, අනුසයා. කතමේ සත්ත:",
+            "sinhala": "මහණෙනි, මේ සිතෙහි අප්‍රකට ව පවතින කෙලෙස් සතකි. ඒ කවර සතක් ද යත්;"
+        },
+        {
+            "pali": "කාමාරාගානුසයෝ, පටිඝානුසයෝ, දිට්ඨානුසයෝ, විචිකිච්ඡානුසයෝ, මානානුසයෝ, භවරාගානුසයෝ, අවිජ්ජානුසයෝ.",
+            "sinhala": "කාමරාගය නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. ද්වේෂය නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. දෘෂ්ටිය නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. විචිකිච්ඡාව නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. මාන්නය නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. භවරාගය නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි. අවිද්‍යාව නම් වූ සිතෙහි අප්‍රකට ක්ලේශයකි."
+        },
+        {
+            "pali": "ඉමේ ඛෝ භික්ඛවේ, සත්ත අනුසයාති.",
+            "sinhala": "මහණෙනි, මේ වනාහී සිතෙහි අප්‍රකට ව පවතින කෙලෙස් සත ය."
+        }
+    ]
+}

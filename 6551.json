@@ -1,0 +1,85 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "සෝතාපන්න සුත්තං",
+    "sutta_title": "සෝවාන් පුද්ගලයා ගැන වදාළ දෙසුම",
+    "id": "6551",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Soteriology and Sensory Perception",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ඇස ප්‍රමුඛ ඉන්ද්‍රිය හය පිළිබඳව නිවැරදි අවබෝධය හා විමර්ශනය තුළින් සෝවාන් ඵලයට පත්වීම මෙම දේශනාවේ හරයයි.",
+        "long_summary": "මිනිසා සතු ඇස, කන, නාසය, දිව, කය සහ මනස යන ඉන්ද්‍රියයන් හය පිළිබඳව ආර්ය ශ්‍රාවකයෙකු විසින් ගැඹුරු අවබෝධයක් ලබාගත යුතුය. එම ඉන්ද්‍රියයන් නිවැරදිව පරිහරණය කිරීම, ඒවායේ ආශ්වාදය (සුවය) අත්දැකීම, ඒවායේ ස්වභාවය විමර්ශනය කිරීම සහ ඒවායින් මිදීමේ මාර්ගය හඳුනා ගැනීම මෙහිදී අත්‍යවශ්‍ය වේ. මෙම පරිපූර්ණ අවබෝධය ඇති කරගන්නා ශ්‍රාවකයා සෝවාන් පුද්ගලයෙකු ලෙස හඳුන්වන අතර ඔහු කිසිසේත් අපායගාමී නොවන, නිවන ස්ථිර කරගත් අයෙකු බව අවධාරණය කෙරේ.",
+        "main_discovery": "සය ඉන්ද්‍රියයන්ගේ යථාර්ථය අවබෝධ කර ගැනීම තුළින් අපායෙන් මිදී සෝවාන් ඵලය සාක්ෂාත් කර ගැනීම.",
+        "core_truth_of_sutta": "ඉන්ද්‍රියයන්ගේ ඇතිවීම, පැවැත්ම සහ ඒවායින් නිදහස් වීම පිළිබඳ යථාභූත ඥානය සෝවාන් ඵලයේ පදනමයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සළායතන විභාගය (Analysis of Six Sense Bases).",
+            "how_it_aids_liberation": "සංවේදනයන් කෙරෙහි ඇති බැඳීම (Upadana) ඉවත් කිරීම මගින් භවගාමී ගමන නතර කර සෝවාන් ඵලය ලබා දෙයි.",
+            "practical_renunciation": "ඉන්ද්‍රිය ආශ්වාදයන්ගේ අනිත්‍ය ස්වභාවය විමර්ශනය කිරීමෙන් (Vimamsana) ඒවා කෙරෙහි ඇති තෘෂ්ණාව අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ඉන්ද්‍රිය සංවේදනය (Sensory Perception)",
+                "විමර්ශනශීලී බව (Critical Investigation)",
+                "අවබෝධය (Insight)"
+            ],
+            "cognitive_impact": "බාහිර ලෝකය පිළිබඳ පවතින විකෘති සංජානනයන් (Perceptual Distortions) ඉවත් කර, තොරතුරු සැකසීමේ ක්‍රියාවලිය (Information Processing) වඩාත් යථාර්ථවාදී කරයි.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) හි සඳහන් වන 'Wise Mind' සංකල්පය මෙයට සමානය. එනම් හැඟීම් සහ තර්කනය ඉක්මවා ගිය ගැඹුරු අවබෝධයකින් යුතුව ඉන්ද්‍රියන් දෙස බැලීමයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Default Mode Network (DMN)",
+                "Anterior Cingulate Cortex (ACC)"
+            ],
+            "neuroplasticity_and_habit": "ඉන්ද්‍රියන් විමර්ශනය කිරීමේදී Prefrontal Cortex සක්‍රීය වන අතර, එමගින් පැරණි ප්‍රතික්‍රියාශීලී රටාවන් (Reactive Patterns) දුර්වල වී නව 'සතිමත්' ස්නායුක සම්බන්ධතා ගොඩනැගේ (Synaptic pruning of habitual responses).",
+            "stress_reduction_mechanism": "ඉන්ද්‍රියයන්ගේ ස්වභාවය අවබෝධ කර ගැනීමෙන් අනිසි බිය (Fear) පාලනය වන බැවින් Amygdala හි අධි-සක්‍රීයතාවය අඩු වී කෝටිසෝල් (Cortisol) මට්ටම පහළ යයි."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Sensory Integration",
+            "Self-Monitoring",
+            "Perceptual Discernment"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Confidence (ශ්‍රද්ධාව/අචල ප්‍රසාදය)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Ignorance to Certainty",
+            "mood_keywords": [
+                "Secured",
+                "Clarity",
+                "Liberation"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Processing Therapy (CPT)",
+                "parallel_description": "ඉන්ද්‍රිය සංවේදනයන් දෙස උපේක්ෂාවෙන් බැලීම මගින් පුද්ගලයාගේ සංජානන රටාවන් (Schemas) නිවැරදි කිරීම, සෝවාන් මාර්ගයේදී ඉන්ද්‍රියන්ගේ ස්වභාවය විමර්ශනය කිරීමට සමාන වේ.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Salayatana (Six Sense Bases)",
+                "related_teachings": [
+                    "Chachakka Sutta",
+                    "Salayatana Samyutta"
+                ],
+                "connection_type": "Thematic Alignment"
+            }
+        ],
+        "practical_takeaway_sinhala": "අප ඇසින් දකින, කනින් ඇසෙන දේ පිළිබඳව ක්ෂණිකව ප්‍රතික්‍රියා නොකොට, ඒවායේ ස්වභාවය බුද්ධිමත්ව විමර්ශනය කිරීමට පුරුදු වීම.",
+        "daily_practice_steps": [
+            "බාහිර රූපයක් දුටු විට හෝ ශබ්දයක් ඇසුණු විට ඒ කෙරෙහි සිතේ ඇතිවන ආශාව හෝ අමනාපය නිරීක්ෂණය කරන්න.",
+            "එම සංවේදනය ඉන්ද්‍රිය හා ගැටීමෙන් හටගත් තාවකාලික දෙයක් බව මෙනෙහි කරන්න.",
+            "දිනකට කිහිප වතාවක් 'මනස' නම් ඉන්ද්‍රිය තුළින් ගලා යන සිතුවිලි දෙස විනිශ්චයකින් තොරව බලා සිටින්න (Mindful Monitoring)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඡයිමානි භික්ඛවේ, ඉන්ද්‍රියානි. කතමානි ඡ: චක්ඛුන්ද්‍රියං ....(පෙ).... මනින්ද්‍රියං. යතෝ ඛෝ භික්ඛවේ, අරියසාවකෝ ඉමේසං ඡන්නං ඉන්ද්‍රියානං සමුදයඤ්ච අත්ථගමඤ්ච අස්සාදඤ්ච ආදීනවඤ්ච නිස්සරණඤ්ච යථාභූතං පජානාති. අයං වුච්චති භික්ඛවේ, අරියසාවකෝ සෝතාපන්නෝ අවිනිපාතධම්මෝ නියතෝ සම්බෝධිපරායණෝති.",
+            "sinhala": "මහණෙනි, මේ ඉන්ද්‍රියයෝ සයකි. ඒ කවර සයක් ද යත්, ඇස නම් වූ ඉන්ද්‍රිය ය, කන නම් වූ ඉන්ද්‍රිය ය, නාසය නම් වූ ඉන්ද්‍රිය ය, දිව නම් වූ ඉන්ද්‍රිය ය, කය නම් වූ ඉන්ද්‍රිය ය, මනස නම් වූ ඉන්ද්‍රිය ය. මහණෙනි, යම් කලක ආර්ය ශ්‍රාවකයා මේ ඉන්ද්‍රියයන් සය පිළිබඳ ව හටගැනීම ත්, නැසීම ත්, ආශ්වාදය ත්, ආදීනවය ත්, නිස්සරණය ත් ඒ වූ සැටියෙන් ම දැනගනියි ද, මහණෙනි, මෙම ආර්ය ශ්‍රාවකයා අපායට නොවැටෙන ස්වභාවයෙන් යුතු වූයේ නියත වශයෙන් ම නිවන පිහිට කොට ඇත්තේ සෝවාන් පුද්ගලයා යැයි කියනු ලැබේ."
+        }
+    ]
+}

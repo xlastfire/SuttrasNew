@@ -1,0 +1,95 @@
+{
+    "nikaya": "තික නිපාතෝ",
+    "vagga": "",
+    "sutta_title": "",
+    "id": "7904",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Soteriology and Cognitive Transformation",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "චතුරාර්ය සත්‍යය අවබෝධයෙන් දහම් ඇස පහළ වීම හරහා සක්කාය දිට්ඨිය ඇතුළු සංයෝජන ප්‍රහාණය වී, කාමයන්ගෙන් වෙන්ව ප්‍රථම ධ්‍යානයට හා අනාගාමී තත්ත්වයට පත්වීම මෙහි දැක්වේ.",
+        "long_summary": "සරත් ඍතුවේ වළාකුළු රහිත අහසක හිරු උදාවන්නාක් මෙන්, කෙලෙස් රහිතව චතුරාර්ය සත්‍යය අවබෝධ කරගන්නා ආර්ය ශ්‍රාවකයා තුළ සත්‍ය ඥානය පහළ වේ. මෙමගින් සක්කාය දිට්ඨිය (Identity view), විචිකිච්ඡාව (Doubt), සහ සීලබ්බත පරාමාසය (Clinging to rites and rituals) යන සංයෝජන තුන මුලින්ම ප්‍රහාණය වේ. ඉන් අනතුරුව අභිධ්‍යාව (Covetousness) සහ ව්‍යාපාදය (Ill-will) දුරු කරමින් කාමයන්ගෙන් වෙන්ව ප්‍රථම ධ්‍යානය ලබන ඔහු, නැවත උපතක් කරා ගෙන යන සංයෝජනවලින් නිදහස් වී නැවත ලෝකයට නොපැමිණෙන (අනාගාමී) තත්ත්වයට පත්වේ.",
+        "main_discovery": "චතුරාර්ය සත්‍යය අවබෝධය (Insight into the Four Noble Truths) තුළින් සක්කාය දිට්ඨි ආදී සංයෝජන ප්‍රහාණය වීම සහ කාමයන්ගෙන් වෙන්වී ධ්‍යාන මට්ටම් කරා ළඟාවීම.",
+        "core_truth_of_sutta": "යථාර්ථවාදී අවබෝධය (Insight) මගින් මානසික බැඳීම් (Fetters) ක්‍රමානුකූලව සහ සම්පූර්ණයෙන්ම සහමුලින්ම උදුරා දැමිය හැකිය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "සංයෝජන ප්‍රහාණය (Elimination of Fetters) සහ චතුරාර්ය සත්‍ය අවබෝධය.",
+            "how_it_aids_liberation": "සක්කාය දිට්ඨිය ආදී සංයෝජන බිඳ දැමීම මගින් භව ගමනට හේතු වන බැඳීම් නැති කර නිවනට මඟ විවර කරයි.",
+            "practical_renunciation": "සීලබ්බත පරාමාසය වැනි අන්ධ විශ්වාස අත්හැරීම සහ කාමයන්ගෙන් වෙන්වීම (Nekkhamma)."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Sakkaya Ditthi (Self-identity)",
+                "Vicikiccha (Cognitive Dissonance/Doubt)",
+                "Abhijjha (Greed)",
+                "Vyapada (Aversion)"
+            ],
+            "cognitive_impact": "යථාර්ථය පිළිබඳව ඇති 'අවිද්‍යා' සහගත වැරදි දෘෂ්ටි (Cognitive distortions) ඉවත් කර පිරිසිදු ඥානය ස්ථාපිත කරයි.",
+            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Self-as-Context' සංකල්පය සක්කාය දිට්ඨිය ප්‍රහාණය කිරීමට සමානකමක් දක්වයි."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex (PFC)"
+            ],
+            "neuroplasticity_and_habit": "සක්කාය දිට්ඨිය ප්‍රහාණය වීම යනු ස්වයං-කේන්ද්‍රීය චින්තනයට අදාළ DMN ජාලයේ ක්‍රියාකාරිත්වය ස්ථිරවම වෙනස් වීමයි (Long-term structural plastic change).",
+            "stress_reduction_mechanism": "ව්‍යාපාදය සහ අභිධ්‍යාව දුරුවීමෙන් Amygdala හි අධි-ප්‍රතික්‍රියාශීලීත්වය අඩුවී Cortisol මට්ටම පහත වැටේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Belief Revision",
+            "Inhibitory Control",
+            "Affective Regulation"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "Ignorance and attachment to clarity and liberation",
+            "mood_keywords": [
+                "Clarification",
+                "Liberation",
+                "Purity",
+                "Insight"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Clinical Psychology",
+                "theory_name": "Cognitive Reframing / Radical Acceptance",
+                "parallel_description": "සක්කාය දිට්ඨිය දුරුවීම යනු ස්වයං-ප්‍රතිරූපය පිළිබඳ ඇති වැරදි සහගත සහ පීඩාකාරී සංකල්පිත ව්‍යුහයන් (Maladaptive Self-schemas) බිඳ හෙලීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Sotapatti Magga (සෝවාන් මාර්ගය)",
+                "related_teachings": [
+                    "Dhammacakkappavattana Sutta",
+                    "Samyojana Sutta"
+                ],
+                "connection_type": "Thematic identity regarding the elimination of the first three fetters."
+            }
+        ],
+        "practical_takeaway_sinhala": "බාහිර වත්පිළිවෙත්වලට වඩා සිතේ ඇති වැරදි දෘෂ්ටි සහ අකුසල මූලයන් හඳුනාගෙන ඒවා ප්‍රඥාවෙන් දුරු කිරීම උසස් මානසික නිදහසකට මගයි.",
+        "daily_practice_steps": [
+            "තමා හෝ වස්තූන් පිළිබඳ ඇති දැඩි 'මමත්වය' (Self-clinging) අවලෝකනය කරන්න.",
+            "සැකය දුරු කරගැනීමට ධර්මය සහ තර්කය නිවැරදිව ගළපා බලන්න.",
+            "බාහිර ලෝකයේ ආශ්වාදය (කාමය) පසුපස හඹා යාමේ ආදීනව මෙනෙහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සෙය්‍යථාපි භික්ඛවේ සරදසමයේ විද්ධේ විගතවලාහකේ දේවේ ආදිච්චෝ නභං අබ්භුස්සක්කමානෝ සබ්බං ආකාසගතං තමගතං අභිවිහච්ච භාසතේ ච තපතේ ච විරෝචති ච.",
+            "sinhala": "පින්වත් මහණෙනි, ඒක මේ වගේ දෙයක්. සරත් ඍතුවේ, වළාවන්ගෙන් තොර වූ අහසේ හිරු නැග එද්දී, ආකාශගත වූ සකල ඝනාන්ධකාරයම දුරුවෙලා බබලන්න ගන්නවා. රැස් විහිදුවනවා. දීප්තිමත් වෙනවා."
+        },
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ යතෝ අරියසාවකස්ස විරජං වීතමලං ධම්මචක්ඛුං උදපාදි. සහදස්සනුප්පාදා භික්ඛවේ අරියසාවකස්ස තීණි සංයෝජනානි පහීයන්ති, සක්කායදිට්ඨි විචිකිච්ඡා සීලබ්බතපරාමාසෝ.",
+            "sinhala": "අන්න ඒ වගේම තමයි පින්වත් මහණෙනි, යම් කලෙක ආර්ය ශ්‍රාවකයා හට කෙලෙස් රජස් රහිත වූ, අවිද්‍යා මල රහිත වූ දහම් ඇස පහළ වෙනවාද, පින්වත් මහණෙනි, ඒ චතුරාර්ය සත්‍යය අවබෝධය සත්‍යය ඤාණ වශයෙන් ඇතිවීමත් සමඟම ආර්ය ශ්‍රාවකයා හට සංයෝජන තුනක් ප්‍රහාණය වෙලා යනවා. සක්කාය දිට්ඨියත්, විචිකිච්ඡාවත්, සීලබ්බත පරාමාසයත්."
+        },
+        {
+            "pali": "අථාපරං ද්වීහි ධම්මේහි නිය්‍යාති අභිජ්ඣාය ච බ්‍යාපාදේන ච. සෝ විවිච්චේව කාමේහි ...පෙ... පඨමං ඣානං උපසම්පජ්ජ විහරති. තස්මිං භික්ඛවේ සමයේ අරියසාවකෝ කාලං කරෙය්‍ය, නත්ථි තං සංයෝජනං, යේන සංයෝජනේන සංයුත්තෝ අරියසාවකෝ පුන ඉමං ලෝකං ආගච්ඡෙය්‍යාති.",
+            "sinhala": "ඉන්පසු ඔහු අභිධ්‍යාවත්, ව්‍යාපාදයත් යන මේ අනෙක් කාරණා දෙකෙනුත් ඉවත් වෙනවා. ඔහු කාමයන්ගෙන් වෙන්වෙලා ....(පෙ).... පළමුවෙනි ධ්‍යානය උපදවාගෙන එයට පැමිණ වාසය කරනවා. පින්වත් මහණෙනි, ඒ ආර්ය ශ්‍රාවකයා ඒ කාලයේදී කළුරිය කළොත්, යම් සංයෝජනයකින් යුක්ත වූ ආර්ය ශ්‍රාවකයා නැවතත් මේ ලෝකයට පැමිණෙනවාද, ඒ ආකාරයේ සංයෝජනයක් ඔහුට හිටින්නේ නෑ."
+        }
+    ]
+}

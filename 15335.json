@@ -1,0 +1,90 @@
+{
+    "nikaya": "ථේර ගාථා",
+    "vagga": "සුප්පිය තෙරුන්ගේ ගාථාව",
+    "sutta_title": "",
+    "id": "15335",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimukthi (Liberation)",
+        "complexity_rating": 4,
+        "analysis_confidence": 100,
+        "short_summary": "සංසාරික දුකෙන් සහ දිරාපත් වන සංස්කාරයන්ගෙන් මිදී පරම ශාන්ත නිවන අරමුණු කිරීම.",
+        "long_summary": "මෙම දේශනාව මගින් අවධාරණය කරනුයේ සංසාරයේ පවත්නා අස්ථිර හා දිරාපත් වන ස්වභාවයයි. පුද්ගලයා සිය පැවැත්මේ මූලික අරමුණ ලෙස සියලු බැඳීම් හා සංස්කරණය වූ ජීවිතයෙන් නිදහස් වීම තෝරාගත යුතුය. තැවෙමින් රැස් කරන ලද සංස්කාරයන්ගෙන් තොර වූ, පරම ශාන්තිය විදහා දක්වන අනුත්තර නිවන කරා යන ගමන මෙහි සාරාංශයයි. මෙය ආයුෂ්මත් සුප්පිය රහත් මුනිඳුන්ගේ අත්දැකීමකි.",
+        "main_discovery": "සංස්කාරයන්ගේ අනිත්‍ය ස්වභාවය අවබෝධ කරගෙන අමා නිවන නම් වූ අසංඛත ධාතුව කරා යොමු වීම.",
+        "core_truth_of_sutta": "සියලු සංස්කාරයන්ගෙන් මිදීම ම පරම ශාන්තිය වූ නිවනයි.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අනිත්‍ය සහ සංස්කාරයන්ගේ ක්ෂය වීම (Sankhara-nirodha).",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ සත්‍ය ස්වභාවය දැකීමෙන් තෘෂ්ණාව ප්‍රහීණය කර නිදහස කරා මග පාදයි.",
+            "practical_renunciation": "බැඳීම් සහ සංස්කාරවල අස්ථිර බව මෙනෙහි කරමින් උපාදානය අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "නිදහස (Autonomy)",
+                "තැවීම (Psychological Distress)",
+                "අරමුණ (Purpose)"
+            ],
+            "cognitive_impact": "අස්ථිර දේ ස්ථිර ලෙස දැකීමේ විපල්ලාසයෙන් මිදී යථාර්ථවාදී දැක්මක් (Reality Testing) ගොඩනැගීම.",
+            "modern_psychology_parallel": "සංජානන ප්‍රතිනිර්මාණය (Cognitive Restructuring) හරහා පැවැත්මේ අරුත වෙනස් කිරීම."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Amygdala",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "නිවන අරමුණු කිරීමෙන් ස්වයං-කේන්ද්‍රිත සිතුවිලි (Self-referential processing) අඩු වී නව ස්නායුක පථ (Neural pathways) ගොඩනැගීම.",
+            "stress_reduction_mechanism": "සංස්කාරයන්ගේ බැඳීම් අත්හැරීම මගින් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Cortisol මට්ටම පහත වැටීමෙන් ශාන්තිය අත් වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Reframing",
+            "Goal Orientation",
+            "Attentional Control",
+            "Metacognitive Awareness"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "සංසාරික තැවීමෙන් ආරම්භ වී නිවී යාමේ ශාන්තියෙන් කෙළවර වේ.",
+            "mood_keywords": [
+                "ශාන්තිය",
+                "නිදහස",
+                "ප්‍රඥාව",
+                "නිවීම"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "අනිත්‍ය ස්වභාවය (Acceptance) පිළිගෙන පරම අරමුණක් කරා මනස යොමු කිරීම (Commitment) මෙහි දැකිය හැකිය.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Sankhara-Upekkha",
+                "related_teachings": [
+                    "Sabba Sutta",
+                    "Anicca Sutta"
+                ],
+                "connection_type": "Thematic Continuity"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ අනිත්‍ය බව දකිමින්, ලෞකික බැඳීම්වලට වඩා මානසික නිදහසට ප්‍රමුඛතාවය දෙන්න.",
+        "daily_practice_steps": [
+            "දවස පුරා සිදුවන වෙනස්කම් දෙස මැදහත් සිතින් බැලීම (Observing Impermanence).",
+            "අනවශ්‍ය මානසික බැඳීම් හඳුනාගෙන ඒවා ලිහිල් කිරීම (Identifying Attachments).",
+            "නිවන හෝ පරම මානසික සාමය ජීවිතයේ ප්‍රධාන අරමුණ ලෙස මෙනෙහි කිරීම (Setting Ultimate Goal)."
+        ]
+    },
+    "content": [
+        {
+            "pali": "අජරං ජීරමානේන තප්පමානේන නිබ්බුතිං\nනිම්මිස්සං පරමං සන්තිං යෝගක්ඛේමං අනුත්තර’න්ති",
+            "sinhala": "මං නම් මේ දිරායන ජීවිතෙන් නිදහස් වෙලා නොදිරන නිවන කරා ම යනවා. තැවි තැවී ඉන්න ජීවිතෙන් නිදහස් වෙලා නිවීම කරා ම යනවා. පරම ශාන්තිය වූ අනුත්තර වූ ඒ අමා නිවන ම සොයා ගෙන යනවා."
+        },
+        {
+            "pali": "ඉත්ථං සුදං ආයස්මා සුප්පියෝ ථේරෝ ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මෙය වනාහී ආයුෂ්මත් සුප්පිය නම් රහත් මුනිඳුන් වදාළ ගාථාවයි."
+        }
+    ]
+}

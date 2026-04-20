@@ -1,0 +1,94 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "දුතිය සීල සුත්තං",
+    "sutta_title": "සීලය ගැන වදාළ දෙවෙනි දෙසුම",
+    "id": "4098",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "සීල සහ මාර්ග ප්‍රගතිය (Ethics and Path Cultivation)",
+        "complexity_rating": 7,
+        "analysis_confidence": 95,
+        "short_summary": "සීල සම්පන්න භික්ෂුව රාග, ද්වේෂ, මෝහ ප්‍රහාණය කරමින් ආර්ය අෂ්ටාංගික මාර්ගය සහ චිත්තේකාග්‍රතාවය දියුණු කරන අනුපිළිවෙල මෙහි දැක්වේ.",
+        "long_summary": "සීල සම්පන්න භික්ෂුවක් ආර්ය අෂ්ටාංගික මාර්ගය ප්‍රගුණ කරන ආකාරය පිළිබඳව මෙම සූත්‍රය විස්තර කරයි. මෙහිදී ප්‍රධාන වශයෙන් අවධාරණය කරන්නේ රාගය, ද්වේෂය සහ මෝහය යන අකුසල මූලයන් ක්‍රමිකව දුරු කිරීමයි. පළමුව මෙම චිත්තවේගයන්ගෙන් මිදී සම්මා දිට්ඨිය ඇති කරගන්නා ආකාරයත්, ඉන්පසුව චිත්ත ඒකාග්‍රතාවය (සම්මා සමාධිය) දක්වා ගමන් කරන පියවරයන් මෙහි අන්තර්ගත වේ. සීලය පදනම් කරගත් මාර්ග ප්‍රගතිය මගින් මානසික නිදහස උදාවන අයුරු මෙහි විවරණය වේ.",
+        "main_discovery": "සීලය මත පදනම්ව රාග, ද්වේෂ, මෝහයන්ගේ අත්‍යන්ත ප්‍රහාණය හරහා ආර්ය අෂ්ටාංගික මාර්ගය සම්පූර්ණ වන අනුපිළිවෙල.",
+        "core_truth_of_sutta": "ආර්ය අෂ්ටාංගික මාර්ගයේ උපරිම ඵලය අත්කර ගැනීමට නම්, සීලය පදනම් කරගෙන රාග, ද්වේෂ සහ මෝහ යන මානසික ව්‍යාකූලතා සහමුලින්ම ප්‍රහාණය කළ යුතුය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අකුසල මූල (රාග, ද්වේෂ, මෝහ) නිරුද්ධ කිරීම.",
+            "how_it_aids_liberation": "සම්මා දිට්ඨිය සහ සම්මා සමාධිය අතර සහසම්බන්ධය ගොඩනගමින් සංසාරික බැඳීම් ලිහිල් කිරීමට උපකාරී වේ.",
+            "practical_renunciation": "ඉන්ද්‍රිය සංවරය සහ චිත්තවේගී ප්‍රතික්‍රියා පාලනය කිරීම මගින් අල්ලා ගැනීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "රාගය (Attachment)",
+                "ද්වේෂය (Aversion)",
+                "මෝහය (Delusion)",
+                "චිත්තේකාග්‍රතාවය (Concentration)"
+            ],
+            "cognitive_impact": "සිතේ ඇති වන ආවේගාත්මක ප්‍රතික්‍රියා (Reactivity) අවම කරමින් වඩාත් තර්කානුකූල සහ නිරවුල් චින්තනයක් (Samma Ditthi) ගොඩනැගීම.",
+            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) හි සඳහන් වන මානසික සමතුලිතතාවය සහ ආවේග පාලන ශිල්පීය ක්‍රමවලට අතිශයින් සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Prefrontal Cortex (PFC)",
+                "Amygdala",
+                "Default Mode Network (DMN)"
+            ],
+            "neuroplasticity_and_habit": "රාග, ද්වේෂ පාලනය කිරීමේදී 'Long-term Potentiation' හරහා මොළයේ ස්වයං-පාලන ස්නායු පද්ධතීන් ශක්තිමත් වී, අකුසල සහජාසයන් හීන වී යයි.",
+            "stress_reduction_mechanism": "ඇමිග්ඩලා (Amygdala) හි ක්‍රියාකාරීත්වය අඩු වීමෙන් සහ කෝටිසෝල් (Cortisol) මට්ටම පහත වැටීමෙන් මානසික ආතතිය දුරු වී සන්සුන් සමාධිමත් බවක් ඇති වේ."
+        },
+        "cognitive_mechanisms": [
+            "Affective Regulation",
+            "Attentional Control",
+            "Cognitive Restructuring",
+            "Inhibition of Maladaptive Urges"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව)",
+            "emotional_intensity": 8,
+            "emotional_arc": "විනයගත වීමෙන් ආරම්භ වී ක්ලේශයන් ක්ෂය කිරීම හරහා ලැබෙන ශාන්තිය දක්වා.",
+            "mood_keywords": [
+                "ශාන්ත",
+                "පැහැදිලි",
+                "විනයගත",
+                "අකම්පිත"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Cognitive Behavioral Therapy (CBT)",
+                "parallel_description": "අහිතකර චිත්තවේග (රාග, ද්වේෂ) පාලනය කිරීම මගින් චර්යාත්මක වෙනසක් ඇති කිරීමේ ක්‍රියාවලිය හා සමාන වේ.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Neuroscience",
+                "theory_name": "Top-down Emotional Regulation",
+                "parallel_description": "සීලය සහ සති සම්පජඤ්ඤය හරහා ප්‍රීෆ්‍රොන්ටල් කෝටෙක්ස් (Prefrontal Cortex) මගින් ලිම්බික් පද්ධතිය (Limbic System) පාලනය කිරීමේ හැකියාව.",
+                "confidence_score": 92
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "අකුසල මූල ප්‍රහාණය",
+                "related_teachings": [
+                    "මහාසතිපට්ඨාන සූත්‍රය",
+                    "සම්මා සමාධි ප්‍රගුණ කිරීම"
+                ],
+                "connection_type": "Sequential progress toward liberation"
+            }
+        ],
+        "practical_takeaway_sinhala": "ජීවිතයේ ඇති වන ආශාවන් සහ කෝපය පාලනය කිරීමෙන් පමණක් සිතේ සැබෑ සාමය සහ නිරවුල් තීරණ ගැනීමේ හැකියාව උදාවේ.",
+        "daily_practice_steps": [
+            "සීලය රැකීමෙන් දවස ආරම්භ කරන්න.",
+            "සිතේ රාගයක් හෝ ද්වේෂයක් ඇති වූ සැණින් එය හඳුනාගෙන (Mindfulness) පාලනය කරන්න.",
+            "දවස අවසානයේ සිත එකඟ කර ගැනීමට (Meditation) සුළු වේලාවක් වෙන් කරන්න.",
+            "සෑම ක්‍රියාවකදීම එය මෝහයෙන් තොරව නිවැරදි අවබෝධයෙන් යුතුව කිරීමට උත්සාහ කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒකධම්මෝ භික්ඛවේ, බහුකාරෝ අරියස්ස අට්ඨංගිකස්ස මග්ගස්ස උප්පාදාය. කතමෝ ඒකධම්මෝ: යදිදං සීලසම්පදා. සීලසම්පන්නස්සේතං භික්ඛවේ, භික්ඛුනෝ පාටිකංඛං ....(පෙ).... බහුලීකරෝතීති.",
+            "sinhala": "මහණෙනි, ආර්ය අෂ්ටාංගික මාර්ගය උපදවා ගැනීම පිණිස එක ධර්මයක් බොහෝ සෙයින් උපකාරී වෙයි. ඒ කවර එක ධර්මයක් ද යත්, එනම් සීල සම්පත් ඇති බව යි."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "nikaya": "තික නිපාතෝ",
+    "vagga": "",
+    "sutta_title": "",
+    "id": "8149",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vandana (Homage/Salutation)",
+        "complexity_rating": 2,
+        "analysis_confidence": 100,
+        "short_summary": "කය, වචනය සහ සිත යන ත්‍රිවිධ අංශයන්ගෙන් සිදුකරන වැඳීම් හෝ ගෞරව දැක්වීම් පිළිබඳව මෙහි විග්‍රහ කෙරේ.",
+        "long_summary": "මෙම දේශනාව මගින් පුද්ගලයෙකු විසින් සිදු කරනු ලබන වැඳීම් හෝ ගෞරව දැක්වීමේ ක්‍රියාවලියේ පවතින ප්‍රධාන ආකාර තුනක් පෙන්වා දෙයි. එනම් කායිකව දක්වන ගෞරවය (කය), වාචිකව සිදුකරන ගෞරවය (වචනය) සහ මානසිකව ඇති කරගන්නා ගෞරවය (සිත) යනාදියයි. මෙම අංශ තුනම වැඳීම් ලෙස හඳුන්වන අතර ඒවායේ අනුකූලතාවය වැදගත් වේ.",
+        "main_discovery": "වැඳීම හෝ ගෞරවය දැක්වීම යනු හුදු කායික ඉරියව්වක් පමණක් නොව, එය කය, වචනය සහ සිත යන ත්‍රිවිධ ද්වාරයන්හි මනා සුසංයෝගයකින් සිදුවිය යුත්තක් බව.",
+        "core_truth_of_sutta": "ගෞරවය හෝ වන්දනාව සම්පූර්ණ වන්නේ කය, වචනය සහ සිත යන තෙදොරේම ඒකාබද්ධ ස්වභාවය මතය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "කය, වචනය සහ සිත යන ත්‍රිවිධ ද්වාරයන්හි සංවරය සහ ඒකාග්‍රතාවය ඇති කිරීම.",
+            "how_it_aids_liberation": "සිත සහ ක්‍රියාව අතර පරතරය නැති කිරීමෙන් (Mindfulness) කෙලෙස් යටපත් කිරීමටත්, සිතේ විසිරුණු ස්වභාවය පාලනය කිරීමටත් මින් මග පෙන්වයි.",
+            "practical_renunciation": "තමා කෙරෙහි පවතින අහංකාරය (Mana) දුරු කරමින් අනුන් කෙරෙහි ගෞරවය දැක්වීම හරහා නිහතමානී බව පුහුණු කිරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "Saddha (Confidence/Faith)",
+                "Sati (Mindfulness)",
+                "Avihiṃsā (Non-violence)"
+            ],
+            "cognitive_impact": "කායික චලනයන් සහ මානසික චේතනා අතර සහසම්බන්ධතාවය (Mind-Body Integration) ගොඩනැගීම මගින් අවධානය තීව්‍ර කරයි.",
+            "modern_psychology_parallel": "Embodied Cognition: අපගේ ශරීරයේ ඉරියව් සහ චලනයන් අපගේ සිතුවිලි සහ හැඟීම් කෙරෙහි සෘජුවම බලපාන ආකාරය පිළිබඳ සංකල්පය මෙහි වැඳීම හරහා නිරූපණය වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Motor Cortex (කායික ක්‍රියාව)",
+                "Anterior Cingulate Cortex (චේතනා සම්බන්ධීකරණය)",
+                "Ventral Striatum (ගෞරවය හරහා ලැබෙන තෘප්තිය)"
+            ],
+            "neuroplasticity_and_habit": "කය, වචනය, සිත යන තුනම එකම අරමුණක යෙදවීමෙන් මොළයේ ස්නායුක පථ (Neural pathways) වඩාත් ශක්තිමත් වන අතර, එය විනයගරුක පුරුදු ඇති කිරීමට උපකාරී වේ (Hebbian Learning).",
+            "stress_reduction_mechanism": "ගෞරවනීය සහ ශාන්ත ඉරියව්වක් පවත්වා ගැනීම මගින් Amygdala හි ක්‍රියාකාරිත්වය අඩුවී සිරුරේ Parasympathetic Nervous System එක උත්තේජනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Intentionality (චේතනාව)",
+            "Cognitive Alignment (සංජානන අනුකූලතාවය)",
+            "Attentional Focus (අවධානය යොමු කිරීම)"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Equanimity (උපේක්ෂාව/ගෞරවය)",
+            "emotional_intensity": 6,
+            "emotional_arc": "නිශ්චලතාවයේ සිට ගැඹුරු ගෞරවය දක්වා",
+            "mood_keywords": [
+                "ශාන්ත",
+                "පිළිවෙල",
+                "ගෞරවනීය"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Congruence Theory",
+                "parallel_description": "පුද්ගලයෙකුගේ සිතුවිලි, වචන සහ ක්‍රියාවන් එකිනෙකට අනුකූල වන විට (Congruence) මානසික ආතතිය අවම වී සත්‍යවාදී බව සහ මානසික සුවතාවය වර්ධනය වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ත්‍රිවිධ ද්වාර (Three Doors of Action)",
+                "related_teachings": [
+                    "සම්මා කම්මන්ත",
+                    "සම්මා වාචා",
+                    "සම්මා සංකප්ප"
+                ],
+                "connection_type": "Structural Alignment"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඔබ යමෙකුට හෝ යමකට ගෞරව කරන විට, එය හුදෙක් බාහිර ප්‍රදර්ශනයකට සීමා නොකර ඔබේ සිතුවිලි සහ වචන ද ඊට අනුකූලව තබා ගැනීමට උත්සාහ කරන්න.",
+        "daily_practice_steps": [
+            "ඕනෑම ගෞරවනීය ක්‍රියාවකදී සිත වෙනතක නොයවා ඒ කෙරෙහිම තබා ගන්න.",
+            "පවසන වචනය සහ කරන ක්‍රියාව අතර පරස්පරතාවයක් නොමැති බව තහවුරු කරගන්න.",
+            "දිනකට එක් වරක් හෝ කය, වචනය, සිත යන තුනම එකඟ කරගෙන ගෞරවයක් පුද කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "තිස්සෝ ඉමා භික්ඛවේ, වන්දනා.",
+            "sinhala": ""
+        },
+        {
+            "pali": "කතමා තිස්සෝ?",
+            "sinhala": "පින්වත් මහණෙනි, මේ වැඳීම් තුනක් තියෙනවා. ඒ තුන මොනවාද?"
+        },
+        {
+            "pali": "කායේන වාචාය මනසා.",
+            "sinhala": ""
+        },
+        {
+            "pali": "ඉමා ඛෝ භික්ඛවේ, තිස්සෝ වන්දනාති.",
+            "sinhala": "කයෙන්, වචනයෙන් හා සිතින්ය. පින්වත් මහණෙනි, මේ තමයි වැඳීම් තුන."
+        }
+    ]
+}

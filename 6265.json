@@ -1,0 +1,84 @@
+{
+    "nikaya": "මහා වග්ගෝ",
+    "vagga": "පඤ්ඤා සුත්තං",
+    "sutta_title": "ප්‍රඥාවන්ත වීම ගැන වදාළ දෙසුම",
+    "id": "6265",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "ප්‍රඥාව සහ වීර්යය (Wisdom and Effort)",
+        "complexity_rating": 7,
+        "analysis_confidence": 100,
+        "short_summary": "මිත්‍යාවෙන් සහ අවිද්‍යාවෙන් පිරුණු ලෝකයක, ආර්ය ප්‍රඥාව ලැබූවන් විරල බැවින් දුක නැති කිරීම සඳහා අතිමහත් වීර්යයක් කළ යුතුය.",
+        "long_summary": "ලෝකයෙහි වෙසෙන සත්වයන් බහුතරයක් අවිද්‍යාව (Ignorance) නිසා මුළාවට පත්ව සිටිති. ආර්ය වූ ප්‍රඥාවෙන් සත්‍යය දකින පිරිස ඉතා අල්පය. එබැවින් සංසාරික දුක කෙළවර කිරීමට නම්, පවතින මිත්‍යා දෘෂ්ටි පසෙකලා සැබෑ දුක් නිරෝධ මාර්ගය හඳුනාගැනීම සඳහා තමන් තුළ දැඩි වීර්යයක් (Effort) ඇති කරගත යුතු බව මෙහි අවධාරණය කෙරේ.",
+        "main_discovery": "දුක නිරුද්ධ කරන ප්‍රඥාව ලැබූවන් අතිශය විරල බැවින්, ඒ සඳහා දැඩි වීර්යයක් අත්‍යවශ්‍ය බව.",
+        "core_truth_of_sutta": "අවිද්‍යාව අතිමහත්ය, ප්‍රඥාව විරලය; එබැවින් දුක නැති කිරීමට සත්‍යය අවබෝධ කර ගැනීමේ වීර්යය ප්‍රමුඛ විය යුතුය.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "අවිද්‍යාව (Avijja) ප්‍රහීණ කර ප්‍රඥාව (Panna) ලබා ගැනීම.",
+            "how_it_aids_liberation": "සංසාර බැඳීම් වලට හේතුවන මුළාව (Delusion) දුරු කර දුකෙහි නිරෝධය සාක්ෂාත් කිරීමට මඟ පෙන්වයි.",
+            "practical_renunciation": "මිත්‍යා විශ්වාස සහ වැරදි දෘෂ්ටි කෙරෙහි පවතින බැඳීම අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "අවිද්‍යාව (Ignorance)",
+                "මුළාව (Delusion)",
+                "වීර්යය (Effort)"
+            ],
+            "cognitive_impact": "සත්‍යය තේරුම් ගැනීමට බාධා කරන සංජානන දෝෂ (Perceptual errors) හඳුනාගෙන ඒවා නිවැරදි කිරීමේ ක්‍රියාවලියකි.",
+            "modern_psychology_parallel": "Metacognition - තම සිතීමේ රටාවන් ගැනම නැවත විමසා බලමින් වැරදි නිවැරදි කරගැනීමේ මනෝවිද්‍යාත්මක ක්‍රියාවලියට සමානය."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Prefrontal Cortex (PFC)",
+                "Salience Network"
+            ],
+            "neuroplasticity_and_habit": "මිත්‍යාවන් මත පදනම් වූ පැරණි ස්නායුක සම්බන්ධතා (Neural pathways) බිඳ දමා, ප්‍රඥාවන්ත විමර්ශනය හරහා නව ස්නායුක සම්බන්ධතා ඇති කිරීම (Neuroplasticity).",
+            "stress_reduction_mechanism": "අවිද්‍යාව නිසා ඇතිවන අනියත බිය සහ ආතතිය, තර්කානුකූල අවබෝධය (Executive function) මගින් පාලනය කරමින් ඇමිග්ඩලාවේ (Amygdala) ක්‍රියාකාරීත්වය සමනය කිරීම."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Restructuring",
+            "Pattern Recognition",
+            "Attentional Control"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "සංවේගය (Urgency/Spiritual Urgency)",
+            "emotional_intensity": 8,
+            "emotional_arc": "මුළාව හඳුනාගැනීමේ සිට වීර්යය වැඩීම දක්වා",
+            "mood_keywords": [
+                "අවබෝධය",
+                "වීර්යය",
+                "ප්‍රඥාව"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Psychology",
+                "theory_name": "Cognitive Bias and Heuristics",
+                "parallel_description": "අවිද්‍යාවෙන් මුළා වීම යනු මොළයේ පවතින විවිධ තර්කානුකූල නොවන පක්ෂපාතීත්වයන් (Cognitive Biases) වලට හසුවීමයි. ප්‍රඥාව යනු එම වැරදි දත්ත සැකසුම් රටා (Mental schemas) නිවැරදි කර ගැනීමයි.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "චතුරාර්ය සත්‍ය අවබෝධය",
+                "related_teachings": [
+                    "ධම්මචක්කප්පවත්තන සූත්‍රය",
+                    "විපල්ලාස සූත්‍රය"
+                ],
+                "connection_type": "සෘජු අනුපූරක (Direct Complement)"
+            }
+        ],
+        "practical_takeaway_sinhala": "බහුතරය විශ්වාස කරන දේ පසුපස නොගොස්, තමන්ගේ සිත සහ දුකේ ස්වභාවය විද්‍යාත්මකව හා ධර්මානුකූලව විමසීමට වීර්යය කරන්න.",
+        "daily_practice_steps": [
+            "දිනපතා තමන් ගන්නා තීරණ අවිද්‍යාවෙන් ගත් ඒවාදැයි විමසන්න.",
+            "දුකක් ඇති වූ විට එහි මූලය (සත්‍යය) කුමක්දැයි සතිමත්ව සොයන්න.",
+            "මිත්‍යා මත වලට නොරැවටී සත්‍යය සෙවීමට වීර්යය වඩන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "ඒවමේව ඛෝ භික්ඛවේ, අප්පකා තේ සත්තා යේ අරියේන පන පඤ්ඤාචක්ඛුනා3 සමන්නාගතා. අථ ඛෝ ඒතේව බහුතරා සත්තා යේ අවිජ්ජාගතා සම්මූළ්හා ....(පෙ).... “අයං දුක්ඛනිරෝධගාමිනී පටිපදා”ති යෝගෝ කරණීයෝති.",
+            "sinhala": "එසෙයින් ම මහණෙනි, යම් සත්වයෝ ආර්ය වූ ප්‍රඥා ඇසෙන් යුක්ත වෙත් නම්, ඔවුහු අල්ප වෙති. එසේ නමුත් යම් සත්වයෝ අවිද්‍යාවට පැමිණ, මුලා ව සිටිත් නම්, ඔවුහු ම ඉතාමත් බොහෝ ය. ….(පෙ)…. මෙය දුක් නිරුද්ධවන්නා වූ මාර්ගය යැයි අවබෝධ කරනු පිණිස වීර්යය කළ යුත්තේ ය."
+        }
+    ]
+}

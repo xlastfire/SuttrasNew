@@ -1,0 +1,94 @@
+{
+    "nikaya": "ඛන්ධක වග්ගෝ",
+    "vagga": "ඵස්ස සුත්තං",
+    "sutta_title": "ස්පර්ශය ගැන වදාළ දෙසුම",
+    "id": "3997",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "පටිච්චසමුප්පාද සහ ඉන්ද්‍රිය ස්පර්ශය (Paticcasamuppada & Sensory Contact)",
+        "complexity_rating": 4,
+        "analysis_confidence": 95,
+        "short_summary": "ඇස සහ මනස මුල් කරගත් ස්පර්ශයන්ගේ හටගැනීම හා නිරුද්ධ වීම හරහා ජරා මරණ ඇතුළු සංස්කාරයන්ගේ අස්ථිර බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+        "long_summary": "ඇසෙහි ස්පර්ශය සහ මනසෙහි ස්පර්ශය යන ද්විත්වයේම උප්පත්තිය හා නිරෝධය පිළිබඳව මෙහි ගැඹුරින් විමසා බලයි. ඕනෑම ස්පර්ශයක හටගැනීමත් සමඟ ජරා මරණ ඇතුළු දුක්ඛ ස්කන්ධයේ පහළ වීම සිදු වන අතර, එම ස්පර්ශයන් නිරුද්ධ වීමෙන් ජරා මරණයේ නැති වී යාම සිදුවේ. මේ හරහා සියලු සංස්කාරයන්ගේ පවත්නා අස්ථිර ස්වභාවය (Anicca) සහ හේතු ප්‍රත්‍යයන් මත යැපෙන ස්වභාවය අවධාරණය කෙරේ.",
+        "main_discovery": "ස්පර්ශය (Contact) සහ ජරා මරණය (Decay and Death) අතර පවතින සෘජු හේතුඵල සම්බන්ධතාවය අවබෝධ කර ගැනීමෙන් සංස්කාරයන්ගේ අස්ථිර බව වටහා ගැනීම.",
+        "core_truth_of_sutta": "ස්පර්ශය ඇති කල්හි ජරා මරණ පවතින අතර, ස්පර්ශය නිරුද්ධ වීමෙන් ජරා මරණය නිරුද්ධ වේ; සියලු සංස්කාරයෝ අස්ථිර වෙති.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "ස්පර්ශ නිරෝධය තුළින් ජරා මරණ නිරෝධය සිදුවන බව (Paticcasamuppada).",
+            "how_it_aids_liberation": "සංස්කාරයන්ගේ අස්ථිර බව දැකීමෙන් උපාදානය (Clinging) දුරු වී විමුක්තිය උදා වේ.",
+            "practical_renunciation": "ඉන්ද්‍රිය ස්පර්ශයන් කෙරෙහි පවතින තෘෂ්ණාව සහ බැඳීම අවබෝධයෙන් යුතුව අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "ස්පර්ශය (Contact)",
+                "සංස්කාර (Mental Formations)",
+                "අස්ථිර බව පිළිබඳ වැටහීම"
+            ],
+            "cognitive_impact": "බාහිර ලෝකය සහ මනස අතර සිදුවන ගනුදෙනුව හුදු 'ස්පර්ශයක්' ලෙස පමණක් දැකීමට හුරු කිරීමෙන් (Cognitive Restructuring) මානසික පීඩනය අවම වේ.",
+            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) හි උත්තේජක සහ ප්‍රතිචාර අතර ඇති සම්බන්ධය හඳුනාගැනීමට සමාන වේ."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN)",
+                "Salience Network",
+                "Prefrontal Cortex"
+            ],
+            "neuroplasticity_and_habit": "ස්පර්ශයන් කෙරෙහි දක්වන ස්වයංක්‍රීය ප්‍රතිචාර (Habitual reactivity) පාලනය කිරීමෙන් මොළයේ ස්නායුක පථයන්හි නව සබඳතා ඇති වේ (Rewiring).",
+            "stress_reduction_mechanism": "ස්පර්ශයන්ගේ අස්ථිර බව අවබෝධ කර ගැනීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී ආතතිය පාලනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Perceptual Processing",
+            "Causal Reasoning",
+            "Cognitive Appraisal",
+            "Awareness of Impermanence"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "උපේක්ෂාව (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "විමර්ශනයේ සිට අවබෝධය දක්වා (From Investigation to Insight)",
+            "mood_keywords": [
+                "Serene",
+                "Analytical",
+                "Detached"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Cognitive Science",
+                "theory_name": "Information Processing Model",
+                "parallel_description": "බාහිර උත්තේජක (Sensory input) මනස තුළ සැකසීම සහ ඒවායේ අස්ථිර බව නූතන තොරතුරු සැකසීමේ ආකෘති වලට සමාන වේ.",
+                "confidence_score": 90
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "ඵස්ස පච්චයා වේදනා (Contact leads to Feeling)",
+                "related_teachings": [
+                    "මහානිදාන සූත්‍රය",
+                    "ඡඡක්ක සූත්‍රය"
+                ],
+                "connection_type": "හේතුඵලවාදී (Causal Relationship)"
+            }
+        ],
+        "practical_takeaway_sinhala": "ඇසට පෙනෙන දේ හෝ සිතට එන සිතුවිලි ස්පර්ශයක් පමණක් බවත්, ඒවා අනිත්‍ය බවත් සිහිකිරීමෙන් ජීවිතයේ ගැටලු හමුවේ නොසැලී සිටිය හැක.",
+        "daily_practice_steps": [
+            "ඇසට රූපයක් ගැටෙන විට එය 'ස්පර්ශයක්' පමණක් ලෙස හඳුනාගන්න.",
+            "එම ස්පර්ශය නිසා සිතේ ඇතිවන වෙනස්වීම් දෙස උපේක්ෂාවෙන් බලන්න.",
+            "සෑම මානසික අත්දැකීමක්ම ක්ෂණයකින් නිරුද්ධ වන අයුරු නිරීක්ෂණය කරන්න.",
+            "ජරා මරණ ආදී දුක්ඛයන් ස්පර්ශය මත යැපෙන බව නිතර සිහි කරන්න."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සාවත්ථියං....",
+            "sinhala": "සැවැත් නුවර දී ....................."
+        },
+        {
+            "pali": "යෝ භික්ඛවේ, චක්‌ඛුසම්‌ඵස්‌සස්‌ස උප්පාදෝ ඨිති ....(පෙ).... යෝ මනෝසම්‌ඵස්‌සස්‌ස උප්පාදෝ ඨිති ....(පෙ).... ජරාමරණස්‌ස පාතුභාවෝ.",
+            "sinhala": "පින්වත් මහණෙනි, ඇසේ ස්පර්ශයක යම් උපතක් තියෙනවාද .... (පෙ) .... මනසේ ස්පර්ශයක යම් උපතක් තියෙනවාද .... (පෙ) ..... ජරා මරණයෙහි පහළ වීම."
+        },
+        {
+            "pali": "යෝ ච ඛෝ භික්ඛවේ, චක්‌ඛුසම්‌ඵස්‌සස්‌ස නිරෝධෝ වූපසමෝ ....(පෙ).... යෝ මනෝසම්‌ඵස්‌සස්‌ස නිරෝධෝ වූපසමෝ ....(පෙ).... ජරාමරණස්‌ස අත්ථගමෝති.",
+            "sinhala": "පින්වත් මහණෙනි, ඇසේ ස්පර්ශයක යම් නිරුද්ධ වීමක් තියෙනවාද .... (පෙ) .... මනසේ ස්පර්ශයක යම් නිරුද්ධ වීමක් තියෙනවාද .... (පෙ) .... ජරා මරණයෙහි නැති වී යෑම."
+        }
+    ]
+}

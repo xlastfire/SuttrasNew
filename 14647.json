@@ -1,0 +1,95 @@
+{
+    "nikaya": "ථේරී ගාථා",
+    "vagga": "අඤ්ඤතරා ථේරීගාථා",
+    "sutta_title": "එක්තරා තෙරණියකගේ ගාථාව",
+    "id": "14647",
+    "discovery_content": {
+        "is_deep_meaning_found": true,
+        "theme_category": "Vimukthi (Liberation) through Renunciation",
+        "complexity_rating": 3,
+        "analysis_confidence": 95,
+        "short_summary": "පාංශුකූල වස්ත්‍ර පරිහරණයෙන් ලැබෙන සරල බව තුළින් සංසාරික බැඳීම් සහ රාගය ස්වභාවිකවම ක්ෂය වී යන ආකාරය මෙම ගාථාවෙන් විග්‍රහ වේ.",
+        "long_summary": "මෙම ගාථාව රහත් තෙරණියකගේ අත්දැකීමක් වන අතර, එයින් භික්ෂුණී සංඝයාට පාංශුකූල වස්ත්‍ර පරිහරණය කිරීමෙන් ලැබෙන අධ්‍යාත්මික සුවය අවධාරණය කෙරේ. මෙම සුවය භෞතික සැපයක් නොව, ආශාවන් ක්ෂය වීමෙන් ලැබෙන සැනසීමකි. භාජනයක මැළුමක් කුණු වී යන ආකාරයට, සංසාරික බැඳීම් සහ රාගයන් ස්වභාවිකවම විනාශ වී යන සැටි මෙහි අපූරු උපමාවකින් දක්වා ඇත.",
+        "main_discovery": "භෞතික පරිභෝජනය අවම කිරීම (පාංශුකූල වස්ත්‍ර) හරහා මානසික නිදහස අත්කර ගැනීම සහ සංසාරික බැඳීම් ස්වභාවිකව ප්‍රහාණය වීම.",
+        "core_truth_of_sutta": "සංයමය සහ සරල ජීවන පැවැත්ම හරහා සංසාරික ඇල්ම (රාගය) ස්වභාවික ක්ෂය වීමකට ලක් වන බව.",
+        "path_to_nibbana": {
+            "doctrinal_meaning": "විරාගය (Dispassion) සහ ප්‍රහාණය (Abandonment).",
+            "how_it_aids_liberation": "උපාදාන (Clinging) ඇති කරන වස්තූන්ගෙන් වෙන් වීම හරහා භව නිරෝධයට මඟ පාදයි.",
+            "practical_renunciation": "පාංශුකූල වස්ත්‍ර වැනි අවම පහසුකම්වලින් යැපෙමින් බැඳීම් අත්හැරීම."
+        },
+        "psychological_analysis": {
+            "mental_states_analyzed": [
+                "සන්තෝසය (Contentment)",
+                "විරාගය (Detachment)",
+                "රාගය (Lust/Attachment)"
+            ],
+            "cognitive_impact": "බාහිර වස්තූන් මත පදනම් වූ සතුට වෙනුවට අභ්‍යන්තර විනය මත පදනම් වූ ස්වයං-නියාමනය (Self-regulation) ඇති කරයි.",
+            "modern_psychology_parallel": "අනිත්‍යතාව අවබෝධ කරගනිමින් චිත්තවේගීය බැඳීම්වලින් මිදීම (Emotional Decoupling)."
+        },
+        "neuroscientific_analysis": {
+            "brain_networks_involved": [
+                "Default Mode Network (DMN) inhibition",
+                "Prefrontal Cortex (PFC) activation"
+            ],
+            "neuroplasticity_and_habit": "පාංශුකූල භාවිතය වැනි සරල පුරුදු (Habituation) මගින් මොළයේ Reward System එක ලෞකික සැපවලින් ඉවත් වී ස්වයං-සංතෘප්තියට හැඩගැසෙයි (Neuroplasticity).",
+            "stress_reduction_mechanism": "අවම අවශ්‍යතා නිසා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී පැවැත්ම පිළිබඳ බිය සහ ආතතිය (Cortisol) සමනය වේ."
+        },
+        "cognitive_mechanisms": [
+            "Cognitive Decoupling",
+            "Radical Acceptance",
+            "Sensory Habituation",
+            "Non-attachment"
+        ],
+        "emotional_tone": {
+            "primary_emotion": "Upekkha (Equanimity)",
+            "emotional_intensity": 8,
+            "emotional_arc": "From worldly attachment to profound inner peace",
+            "mood_keywords": [
+                "Peace",
+                "Detachment",
+                "Contentment",
+                "Liberation"
+            ]
+        },
+        "scientific_parallels": [
+            {
+                "field": "Psychology",
+                "theory_name": "Minimalism & Subjective Well-being",
+                "parallel_description": "අඩු භෞතික අවශ්‍යතා මත යැපීම මානසික බර (Cognitive load) අඩු කරන අතර ජීවන තෘප්තිය ඉහළ නංවයි.",
+                "confidence_score": 90
+            },
+            {
+                "field": "Therapeutic Approach",
+                "theory_name": "Acceptance and Commitment Therapy (ACT)",
+                "parallel_description": "ලෞකික බැඳීම්වල අස්ථිර බව පිළිගනිමින් මූලික වටිනාකම් (විනය) මත පදනම්ව ජීවත් වීම.",
+                "confidence_score": 85
+            }
+        ],
+        "sutta_connections": [
+            {
+                "shared_concept": "Pansukula Practice",
+                "related_teachings": [
+                    "Maha-ariyanava Sutta",
+                    "Dhutaṅga Practices"
+                ],
+                "connection_type": "Practical Discipline"
+            }
+        ],
+        "practical_takeaway_sinhala": "අනවශ්‍ය භෞතික සම්පත් කෙරෙහි ඇති ඇල්ම අඩු කිරීමෙන් සහ සරල බව පුහුණු කිරීමෙන් සිතේ නොසන්සුන් බව පාලනය කරගත හැක.",
+        "daily_practice_steps": [
+            "තමන් සතු භෞතික දෑ කෙරෙහි ඇති අසීමිත ඇල්ම හඳුනාගෙන ඒවා ක්‍රමයෙන් අත්හැරීමට පුරුදු වීම.",
+            "භාවිතා කරන දෑ වල ප්‍රයෝජනය ගැන පමණක් සිතමින් (පච්චවේක්ඛණය) සරල ජීවිතයක් අගය කිරීම.",
+            "මානසික බැඳීම් ස්වභාවිකව ක්ෂය වීමට ඉඩ දෙමින් සිහියෙන් (Mindfulness) යුතුව දවස ගෙවීම."
+        ]
+    },
+    "content": [
+        {
+            "pali": "සුඛං සුපාහි ථේරිකේ කත්වා චෝළේන පාරුතා,\nඋපසන්තෝ හි තේ රාගෝ සුක්ඛඩාකං ව කුම්භියන්ති",
+            "sinhala": "පින්වත් භික්ෂුණීන් වහන්ස, පාංශුකූල වස්ත්‍රයෙන් මසාගත්ත සිවුරු පොරවා ගත්තට පස්සෙ හරිම සැප සේ වාසය කරන්ට පුළුවන්. ඔබේ රාගයත් ප්‍රහාණය වෙලා සංසිඳිලා ගියේ භාජනේක මැල්ලුමක් රොස් වුණා වගෙයි."
+        },
+        {
+            "pali": "ඉත්ථං සුදං අඤ්ඤතරා ථේරී අපඤ්ඤාතා භික්ඛුනී ගාථං අභාසිත්ථා’ති.",
+            "sinhala": "මේ වනාහී එක්තරා රහත් තෙරණියක වදාළ ගාථාවයි."
+        }
+    ]
+}
