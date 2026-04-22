@@ -3,84 +3,6 @@
     "vagga": "පුරිසබන්ධන සුත්තං",
     "sutta_title": "පුරුෂයාගේ බන්ධනය ගැන වදාළ දෙසුම",
     "id": "10983",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "කාම බන්ධන (Sensual Fetters)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "ස්ත්‍රියක විසින් රූපය, සිනහව, කථාව ඇතුළු ක්‍රම අටකින් පුරුෂයෙකු බැඳ තබා ගන්නා ආකාරයත්, විශේෂයෙන් ස්පර්ශය මගින් ඇතිවන බැඳීමේ දරුණු බවත් මෙහි විස්තර වේ.",
-        "long_summary": "සැවැත් නුවරදී දේශනා කරන ලද මෙම සූත්‍රය මගින් ස්ත්‍රියක් පුරුෂයෙකු තමා වෙත නතු කරගන්නා වූ ප්‍රධාන ක්‍රම අටක් පෙන්වා දෙයි. ඒවා නම් රූපය (Visual), සිනහව (Affective), කථාව (Auditory), ගී ගැයීම (Aesthetic), හැඬීම (Emotional manipulation), ආකල්පය/ඉරියව් (Behavioral), තෑගි දීම (Reciprocity) සහ ස්පර්ශය (Tactile) වේ. මෙහිදී ස්පර්ශය මගින් ඇතිවන බැඳීම අනෙක් සියල්ලටම වඩා ප්‍රබල හා දරුණු එකක් ලෙස බුදුරජාණන් වහන්සේ අවධාරණය කරති.",
-        "main_discovery": "ස්ත්‍රියක් විසින් පුරුෂයෙකු බැඳ තබා ගැනීමට භාවිතා කරන ප්‍රධාන ක්‍රම අට සහ ස්පර්ශය හරහා ඇතිවන බැඳීමේ අතිශය ප්‍රබල ස්වභාවය හඳුනා ගැනීම.",
-        "core_truth_of_sutta": "බාහිර රූපී සහ චර්යාත්මක උත්තේජනයන් හරහා සත්වයා කාම බැඳීම් වල සිරවන අතර, ස්පර්ශය එහි ප්‍රබලම බන්ධනය වේ.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "ඉන්ද්‍රිය සංවරය (Indriya Samvara) සහ බැඳීම් වල ස්වභාවය අවබෝධ කර ගැනීම.",
-            "how_it_aids_liberation": "බාහිර උත්තේජනයන් කෙරෙහි ඇතිවන ඇලීම (Raga) හඳුනා ගැනීමෙන් විරාගයට මග පාදයි.",
-            "practical_renunciation": "පංච කාමයන්ගේ ආදීනව දැකීමෙන් සහ ඉන්ද්‍රියයන් හමුවේ සතිමත් වීමෙන් බැඳීම් ලිහිල් කිරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "ආශාව (Lust)",
-                "බැඳීම (Attachment)",
-                "සංවේදී උත්තේජනය (Sensory Stimulation)"
-            ],
-            "cognitive_impact": "බාහිර උත්තේජක මගින් පුද්ගලයාගේ තීරණ ගැනීමේ හැකියාව (Executive function) යටපත් කර බැඳීම තහවුරු කරයි.",
-            "modern_psychology_parallel": "Operant Conditioning - ධනාත්මක උත්තේජන (සිනහව, තෑගි) හරහා චර්යාවන් තහවුරු කිරීම (Reinforcement)."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Mesolimbic Dopamine System (Reward Pathway)",
-                "Somatosensory Cortex",
-                "Oxytocin System"
-            ],
-            "neuroplasticity_and_habit": "නැවත නැවත සිදුවන මෙම උත්තේජනයන් මගින් මොළයේ ස්නායුක පථ ශක්තිමත් වී ඇබ්බැහියක් (Addiction) වැනි බැඳීමක් නිර්මාණය වේ.",
-            "stress_reduction_mechanism": "ස්පර්ශය මගින් Amygdala හි ක්‍රියාකාරිත්වය තාවකාලිකව අඩු කර (Anxiolytic effect) ආරක්ෂිත බවක් දැනවුවද, එය දිගුකාලීන බැඳීමකට (Bondage) මග පාදයි."
-        },
-        "cognitive_mechanisms": [
-            "Sensory Perception",
-            "Emotional Manipulation",
-            "Reinforcement Learning",
-            "Attachment Formation"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "Caution (ප්‍රවේශම)",
-            "emotional_intensity": 8,
-            "emotional_arc": "බාහිර උත්තේජනයන් හඳුනාගැනීමේ සිට අභ්‍යන්තර බැඳීමක ඇති දරුණු බව අවබෝධ කර ගැනීම දක්වා.",
-            "mood_keywords": [
-                "බැඳීම",
-                "අවබෝධය",
-                "ප්‍රවේශම"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Evolutionary Psychology",
-                "theory_name": "Mate Retention Strategies",
-                "parallel_description": "සූත්‍රයේ සඳහන් ක්‍රම අට (රූපය, සිනහව, තෑගි ආදිය) පරිණාමීය මනෝවිද්‍යාවේ සහකරු රඳවා ගැනීමේ උපාය මාර්ග සමඟ සෘජුවම සැසඳේ.",
-                "confidence_score": 95
-            },
-            {
-                "field": "Neurobiology",
-                "theory_name": "Oxytocin and Reward System",
-                "parallel_description": "ස්පර්ශය මගින් ඔක්සිටොසින් (Oxytocin) හෝමෝනය මුදා හැරෙන අතර, එය මොළයේ ත්‍යාග පද්ධතිය (Reward system) හරහා ප්‍රබල බැඳීමක් නිර්මාණය කරයි.",
-                "confidence_score": 98
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "කාම සංයෝජන (Sensual Fetters)",
-                "related_teachings": [
-                    "Anguttara Nikaya - Itthi Sutta"
-                ],
-                "connection_type": "Direct thematic overlap regarding sensory entrapment."
-            }
-        ],
-        "practical_takeaway_sinhala": "බාහිර ආකර්ෂණයන් සහ ස්පර්ශයන් කෙරෙහි මුලාවී බැඳීමට පෙර, ඒවායේ ඇති බන්ධන ස්වභාවය පිළිබඳව සිහියෙන් (Mindfulness) පසුවන්න.",
-        "daily_practice_steps": [
-            "ඉන්ද්‍රියයන්ට ලැබෙන අරමුණු දෙස උපේක්ෂාවෙන් බැලීම",
-            "ස්පර්ශය සහ හැඟීම් අතර ඇති සම්බන්ධය නිරීක්ෂණය කිරීම",
-            "බාහිර තෑගි හෝ ප්‍රශංසා හමුවේ සිතේ ඇතිවන ඇලීම හඳුනා ගැනීම"
-        ]
-    },
     "content": [
         {
             "pali": "(සාවත්ථි නිදානං)",
@@ -90,5 +12,43 @@
             "pali": "අට්ඨහි භික්ඛවේ ආකාරේහි ඉත්ථි පුරිසං බන්ධති, කතමේහි අට්ඨහි: රූපේන භික්ඛවේ, ඉත්ථි පුරිසං බන්ධති. හසිතේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. භණිතේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. ගීතේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. රුණ්ණේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. ආකප්පේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. වනභංගේන භික්ඛවේ, ඉත්ථී පුරිසං බන්ධති. ඵස්සේන භික්ඛවේ ඉත්ථි පුරිසං බන්ධති. ඉමේහි ඛෝ භික්ඛවේ අට්ඨහි ආකාරේහි ඉත්ථි පුරිසං බන්ධති. තේ භික්ඛවේ සත්තා සුබද්ධා යේ ඵස්සේන බද්ධාති.",
             "sinhala": "මහණෙනි, අට ආකාරයකින් ස්ත්‍රිය පුරුෂයා බැඳ තබයි. ඒ කවර අට ආකාරයකින් ද යත්;"
         }
-    ]
+    ],
+    "short_summary": "ස්ත්‍රියක විසින් රූපය, සිනහව, කථාව ඇතුළු ක්‍රම අටකින් පුරුෂයෙකු බැඳ තබා ගන්නා ආකාරයත්, විශේෂයෙන් ස්පර්ශය මගින් ඇතිවන බැඳීමේ දරුණු බවත් මෙහි විස්තර වේ.",
+    "long_summary": "සැවැත් නුවරදී දේශනා කරන ලද මෙම සූත්‍රය මගින් ස්ත්‍රියක් පුරුෂයෙකු තමා වෙත නතු කරගන්නා වූ ප්‍රධාන ක්‍රම අටක් පෙන්වා දෙයි. ඒවා නම් රූපය (Visual), සිනහව (Affective), කථාව (Auditory), ගී ගැයීම (Aesthetic), හැඬීම (Emotional manipulation), ආකල්පය/ඉරියව් (Behavioral), තෑගි දීම (Reciprocity) සහ ස්පර්ශය (Tactile) වේ. මෙහිදී ස්පර්ශය මගින් ඇතිවන බැඳීම අනෙක් සියල්ලටම වඩා ප්‍රබල හා දරුණු එකක් ලෙස බුදුරජාණන් වහන්සේ අවධාරණය කරති.",
+    "main_discovery": "ස්ත්‍රියක් විසින් පුරුෂයෙකු බැඳ තබා ගැනීමට භාවිතා කරන ප්‍රධාන ක්‍රම අට සහ ස්පර්ශය හරහා ඇතිවන බැඳීමේ අතිශය ප්‍රබල ස්වභාවය හඳුනා ගැනීම.",
+    "core_truth_of_sutta": "බාහිර රූපී සහ චර්යාත්මක උත්තේජනයන් හරහා සත්වයා කාම බැඳීම් වල සිරවන අතර, ස්පර්ශය එහි ප්‍රබලම බන්ධනය වේ.",
+    "practical_takeaway_sinhala": "බාහිර ආකර්ෂණයන් සහ ස්පර්ශයන් කෙරෙහි මුලාවී බැඳීමට පෙර, ඒවායේ ඇති බන්ධන ස්වභාවය පිළිබඳව සිහියෙන් (Mindfulness) පසුවන්න.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "සබඳතා පිළිබඳව සිතන විට",
+        "රාගය පාලනය කර ගැනීමට අවශ්‍ය වූ විට",
+        "ඇලීම සහ බැඳීම තේරුම් ගැනීමට අවශ්‍ය වූ විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [
+                {
+                    "fetters": "ස්ත්‍රිය විසින් පුරුෂයා බැඳ තබන ආකාර අට (The eight ways a woman binds a man)",
+                    "remedy": ""
+                }
+            ],
+            "check_yourself": "",
+            "mindfulness_trigger": "බාහිර ස්වරූපයන් කෙරෙහි සිතේ ඇලීමක් හෝ බැඳීමක් ඇතිවන අවස්ථාවලදී ඒ පිළිබඳව අවධානය යොමු කරන්න.",
+            "mental_tax": "මෙම බැඳීම් අට නිසා පුරුෂයාගේ සිත නිදහස් නොවී බාහිර රූප සහ ස්වරූපයන් මත යැපීමට ලක්වේ.",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": "ස්ත්‍රී රූපය/හැසිරීම + පුරුෂ බැඳීම = අෂ්ට විධ බන්ධනය"
+    },
+    "analyser": "gemini-3-flash-preview"
 }

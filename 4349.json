@@ -3,81 +3,39 @@
     "vagga": "සච්ඡිකාතබ්බ සුත්තං",
     "sutta_title": "නුවණින් සාක්ෂාත් කළ යුතු දෙය ගැන වදාළ දෙසුම",
     "id": "4349",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "ප්‍රඥාව සහ අවබෝධය (Wisdom and Realization)",
-        "complexity_rating": 4,
-        "analysis_confidence": 100,
-        "short_summary": "සියලු සංස්කාරයන් පිළිබඳ නුවණැති අවබෝධය (Wisdom-based Realization) අත්පත් කර ගැනීම නිවනට මඟ බව මෙම සූත්‍රය පෙන්වා දෙයි.",
-        "long_summary": "සූත්‍රයට අනුව ප්‍රධාන ඉලක්කය වන්නේ ලෝකය තුළ අප දකින, අසන සහ විඳින සියලුම සංස්කාරයන්ගේ (All conditioned things) ස්වභාවය නුවණින් යුතුව පිරිසිඳ දැකීමයි. එම සැබෑ තත්ත්වය සාක්ෂාත් කර ගැනීම තුළින් පමණක් සිත මුළාවෙන් මිදී අවබෝධය කරා යොමු වන බව මෙහි අවධාරණය කෙරේ.",
-        "main_discovery": "සියලු සංස්කාරයන් (Sankhara) පිළිබඳ යථාභූත ඥානය ලැබීමෙන් පමණක් විමුක්තිය උදා වන බව.",
-        "core_truth_of_sutta": "විමුක්තිය උදාවන්නේ සියලු සංස්කාරයන් පිළිබඳ නුවණින් ලබන අවබෝධය (Realization through Wisdom) තුළිනි.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "සංස්කාරයන් පිළිබඳ යථාභූත ඥානය ලැබීම.",
-            "how_it_aids_liberation": "සංස්කාරයන්ගේ පවතින 'ස්ථිර' යැයි හැඟෙන මුළාව (Delusion) දුරු කර නිවනට අවශ්‍ය අවබෝධය ලබා දෙයි.",
-            "practical_renunciation": "සංස්කාරයන්ගේ සැබෑ තත්ත්වය දකින විට ඒවා කෙරෙහි පවතින උපාදානය (Clinging) ස්වභාවිකවම ගිලිහී යයි."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "මෝහය (Delusion)",
-                "ප්‍රඥාව (Wisdom)",
-                "අවබෝධය (Insight)"
-            ],
-            "cognitive_impact": "සංස්කාර කෙරෙහි වූ වැරදි සහගත ආකල්ප (Cognitive biases) ඉවත් කර යථාර්ථවාදී දැක්මක් ඇති කරයි.",
-            "modern_psychology_parallel": "Metacognitive Therapy (MCT) - සිතුවිලි වල අන්තර්ගතයට වඩා සිතුවිලි ක්‍රියාවලිය දෙස නුවණින් බැලීම."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN)",
-                "Prefrontal Cortex (PFC)"
-            ],
-            "neuroplasticity_and_habit": "සංස්කාර සාක්ෂාත් කිරීමේ පුහුණුව හරහා DMN හි ක්‍රියාකාරීත්වය අඩු වී අලුත් ස්නායුක මාර්ග (Neural pathways) ගොඩනැගීමෙන් ආත්මීය බැඳීම් ලිහිල් වේ.",
-            "stress_reduction_mechanism": "යථාර්ථය අවබෝධ වීමෙන් Amygdala හි අනවශ්‍ය උද්දීපනය අඩුවන අතර, Cortisol මට්ටම පාලනය වීමෙන් මනස සන්සුන් වේ."
-        },
-        "cognitive_mechanisms": [
-            "යෝනිසෝ මනසිකාරය (Wise Attention)",
-            "සංජානන ප්‍රතිව්‍යුහගතකරණය (Cognitive Restructuring)",
-            "සංස්කාරයන්ගේ අනිත්‍යතාව අවබෝධය"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "උපේක්ෂාව (Equanimity)",
-            "emotional_intensity": 8,
-            "emotional_arc": "සංස්කාර කෙරෙහි වූ ඇලීමෙන් මිදී අවබෝධය තුළින් ලබන ශාන්තිය දක්වා.",
-            "mood_keywords": [
-                "ශාන්ත",
-                "ප්‍රඥාවන්ත",
-                "නිවුණු"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Cognitive Reframing",
-                "parallel_description": "අත්දැකීම් සහ සිදුවීම් පිළිබඳ පවතින දෘෂ්ටිකෝණය වෙනස් කර වඩාත් තාර්කික සහ යථාර්ථවාදී අවබෝධයක් ලබා ගැනීම.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "සංස්කාර අනිත්‍යතාව (Impermanence of Formations)",
-                "related_teachings": [
-                    "සංඛාර උප්පත්ති සූත්‍රය",
-                    "අනිච්ච සූත්‍රය"
-                ],
-                "connection_type": "ධර්ම සමානතාව"
-            }
-        ],
-        "practical_takeaway_sinhala": "යම් දෙයක් දෙස බලන විට එහි මතුපිටින් නොරැවටී, එය සැකසී ඇති ආකාරය සහ වෙනස් වන ස්වභාවය නුවණින් විමසා බැලීමට පුරුදු වන්න.",
-        "daily_practice_steps": [
-            "දිනය තුළ සිදුවන සිදුවීම් සංස්කාර (Conditioned events) ලෙස හඳුනා ගන්න.",
-            "ඒවා ඔබේ පාලනයෙන් තොර බව සහ වෙනස් වන බව (Impermanence) නුවණින් නිරීක්ෂණය කරන්න.",
-            "බාහිර දේ කෙරෙහි ඇති තදබල ඇලීම අවබෝධය තුළින් ලිහිල් කරන්න."
-        ]
-    },
     "content": [
         {
-            "pali": "සබ්බං භික්ඛවේ සච්ඡිකාතබ්බං ....(පෙ)....",
-            "sinhala": "පින්වත් මහණෙනි, සියල්ල නුවණින් සාක්ෂාත් කළ යුතු යි ….(පෙ)…."
+            "pali": "සබ්බං භික්ඛවේ සච්ඡිකාතබ්බං ",
+            "sinhala": "පින්වත් මහණෙනි, සියල්ල නුවණින් සාක්ෂාත් කළ යුතු යි "
         }
-    ]
+    ],
+    "short_summary": "සියලු සංස්කාරයන් පිළිබඳ නුවණැති අවබෝධය (Wisdom-based Realization) අත්පත් කර ගැනීම නිවනට මඟ බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+    "long_summary": "සූත්‍රයට අනුව ප්‍රධාන ඉලක්කය වන්නේ ලෝකය තුළ අප දකින, අසන සහ විඳින සියලුම සංස්කාරයන්ගේ (All conditioned things) ස්වභාවය නුවණින් යුතුව පිරිසිඳ දැකීමයි. එම සැබෑ තත්ත්වය සාක්ෂාත් කර ගැනීම තුළින් පමණක් සිත මුළාවෙන් මිදී අවබෝධය කරා යොමු වන බව මෙහි අවධාරණය කෙරේ.",
+    "main_discovery": "සියලු සංස්කාරයන් (Sankhara) පිළිබඳ යථාභූත ඥානය ලැබීමෙන් පමණක් විමුක්තිය උදා වන බව.",
+    "core_truth_of_sutta": "විමුක්තිය උදාවන්නේ සියලු සංස්කාරයන් පිළිබඳ නුවණින් ලබන අවබෝධය (Realization through Wisdom) තුළිනි.",
+    "practical_takeaway_sinhala": "යම් දෙයක් දෙස බලන විට එහි මතුපිටින් නොරැවටී, එය සැකසී ඇති ආකාරය සහ වෙනස් වන ස්වභාවය නුවණින් විමසා බැලීමට පුරුදු වන්න.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:31b"
 }

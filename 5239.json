@@ -3,82 +3,73 @@
     "vagga": "කෝධන සුත්තං",
     "sutta_title": "ක්‍රෝධ කරන ස්ත්‍රිය ගැන වදාළ දෙසුම",
     "id": "5239",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "Sila and Apaya (Ethical conduct and its consequences)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "ශ්‍රද්ධාව, ලැජ්ජාව, භය සහ ප්‍රඥාව රහිතව, ක්‍රෝධයෙන් යුක්තව වසන ස්ත්‍රිය මරණින් මතු දුගතිගාමී වන බව මෙම සූත්‍රය පෙන්වා දෙයි.",
-        "long_summary": "ශ්‍රද්ධාවෙන් තොර වීම (Assaddha), පවට ලැජ්ජාවක් නොමැති වීම (Ahirika), අකුසල විපාක පිළිබඳ භයක් නොමැති වීම (Anottappa), නිරන්තරයෙන් ක්‍රෝධ කිරීම (Kodhana) සහ සත්‍යය වටහා ගැනීමේ ප්‍රඥාව නොමැති වීම (Duppanna) යන අකුසල ධර්ම පහකින් යුක්ත ස්ත්‍රිය මරණින් මතු නිරය නම් වූ දුගතියේ උපත ලබන බව මෙහි විස්තර වේ.",
-        "main_discovery": "ස්ත්‍රියකගේ පිරිහීමට සහ දුගතියට හේතු වන මානසික ගති ලක්ෂණ පහක අහිතකර සංකලනය.",
-        "core_truth_of_sutta": "චිත්තවේග පාලනයක් නොමැතිකම සහ සදාචාරාත්මක හෘද සාක්ෂියක් නොමැතිකම පුද්ගලයෙකුගේ අනාගත ගමන පිරිහීමට ලක් කරයි.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "අකුසල මූලයන් (දෝස සහ මෝහ) සහ හිරි-ඔතප්ප නොමැතිකම සංසාර දුකට හේතු වන බව.",
-            "how_it_aids_liberation": "සිතේ පවතින අකුසල සහජාසයන් හඳුනාගෙන ඒවා ප්‍රහීණය කිරීම මගින් භව ගමන නැවැත්වීමට මග පාදයි.",
-            "practical_renunciation": "ක්‍රෝධය සහ අවිද්‍යාව අත්හැරීම සඳහා අවශ්‍ය මූලික ගුණාංග (හිරි-ඔතප්ප) වර්ධනය කිරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "ක්‍රෝධය (Anger)",
-                "අහිරික-අනොත්තප්ප (Lack of moral restraint)",
-                "අශ්‍රද්ධාව (Lack of conviction)"
-            ],
-            "cognitive_impact": "ප්‍රඥාව නොමැතිකම නිසා ඇති වන වැරදි වැටහීම් (Cognitive distortions) පුද්ගලයාගේ තීරණ ගැනීමේ හැකියාව දුර්වල කරයි.",
-            "modern_psychology_parallel": "Dialectical Behavior Therapy (DBT) මගින් සිදු කරන චිත්තවේග නියාමනය (Emotion Regulation) මෙහි ක්‍රෝධය පාලනය කිරීමේ අවශ්‍යතාවයට සමානය."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Amygdala (ක්‍රෝධය ජනනය කිරීම)",
-                "Prefrontal Cortex (ප්‍රඥාව සහ පාලනය)",
-                "Anterior Cingulate Cortex (සදාචාරාත්මක තීරණ)"
-            ],
-            "neuroplasticity_and_habit": "නිරන්තරයෙන් ක්‍රෝධ කිරීමේදී මොළයේ ස්නායු පද්ධතිය එම ආවේගයන්ට හුරු වන අතර (Neural pathways strengthening), ප්‍රඥාව සහ සිහිය පුහුණු කිරීමෙන් එම පථයන් වෙනස් කළ හැකිය.",
-            "stress_reduction_mechanism": "හිරි-ඔතප්ප සහ ශ්‍රද්ධාව වර්ධනය කිරීමෙන් Amygdala හි අධි-ප්‍රතික්‍රියාශීලීත්වය පාලනය වී Cortisol මට්ටම අඩු වේ."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Dissonance avoidance (ලැජ්ජාව සහ භය නොමැතිකම)",
-            "Emotional Dysregulation (ක්‍රෝධය)",
-            "Lack of Rational Inquiry (ප්‍රඥාව නොමැතිකම)",
-            "Moral Disengagement"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "Warning/Urgency",
-            "emotional_intensity": 8,
-            "emotional_arc": "විපාක පිළිබඳව අවධාරණය කරමින් අකුසලයෙන් මුදවා ගැනීමට උත්සාහ කිරීම.",
-            "mood_keywords": [
-                "සංවේගය",
-                "අවබෝධය",
-                "විනය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Antisocial Personality Traits",
-                "parallel_description": "ලැජ්ජාව (Hiri) සහ භය (Ottappa) නොමැතිකම නූතන මනෝවිද්‍යාවේ පශ්චාත්තාපය නොමැතිකම (Lack of remorse) සහ සමාජ විරෝධී පෞරුෂ ලක්ෂණ සමඟ සැසඳිය හැකිය.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "Hiri-Ottappa (Moral Shame and Fear)",
-                "related_teachings": [
-                    "Lokapala Dhamma"
-                ],
-                "connection_type": "ධර්මයේ ආරක්ෂක මූලධර්ම"
-            }
-        ],
-        "practical_takeaway_sinhala": "පවට ලැජ්ජාව සහ භය ඇති කර ගනිමින්, ක්‍රෝධය පාලනය කර ප්‍රඥාවෙන් යුතුව කටයුතු කිරීම මෙලොව සහ පරලොව යහපතට හේතු වේ.",
-        "daily_practice_steps": [
-            "සෑම උදෑසනකම මෛත්‍රී භාවනාව මගින් ක්‍රෝධය පාලනයට පුහුණු වීම.",
-            "යම් වැරැද්දක් කිරීමට පෙර එහි ආදීනව සහ ලැජ්ජාව ගැන සිතීමට තත්පර කිහිපයක් ගැනීම (Pause reflex).",
-            "ධර්ම කරුණු ශ්‍රවණය මගින් ප්‍රඥාව සහ ශ්‍රද්ධාව දිනපතා අලුත් කර ගැනීම."
-        ]
-    },
     "content": [
         {
             "pali": "පඤ්චහි භික්ඛවේ, ධම්මේහි සමන්නාගතෝ මාතුගාමෝ කායස්ස භේදා පරම්මරණා අපායං දුග්ගතිං විනිපාතං නිරයං උපපජ්ජති. කතමේහි පඤ්චහි: අස්සද්ධෝ ච හෝති, අහිරිකෝ ච හෝති, අනොත්තාපී ච හෝති, කෝධනෝ ච හෝති, දුප්පඤ්ඤෝ ච හෝති. ඉමේහි ඛෝ භික්ඛවේ, පඤ්චහි ධම්මේහි සමන්නාගතෝ මාතුගාමෝ කායස්ස භේදා පරම්මරණා අපායං දුග්ගතිං විනිපාතං නිරයං උපපජ්ජතීති.",
             "sinhala": "පින්වත් මහණෙනි, කරුණු පහකින් සමන්විත වූ ස්ත්‍රිය කය බිඳී මරණින් මතු අපාය නම් වූ, දුගතිය නම් වූ, විනිපාතය නම් වූ නිරයේ උපදිනවා. කවර කරුණු පහකින්ද යත්? ශ්‍රද්ධාවකින් තොරව ඉන්නවා. පවට ලැජ්ජාවක් නැතුව ඉන්නවා. විපාකයට භයක් නැතුව ඉන්නවා. ක්‍රෝධ කරනවා. ප්‍රඥාවකින් තොරව ඉන්නවා. පින්වත් මහණෙනි, මේ කරුණු පහෙන් සමන්විත වූ ස්ත්‍රිය කය බිඳී මරණින් මතු අපාය නම් වූ, දුගතිය නම් වූ, විනිපාතය නම් වූ නිරයේ උපදිනවා."
         }
-    ]
+    ],
+    "short_summary": "ශ්‍රද්ධාව, ලැජ්ජාව, භය සහ ප්‍රඥාව රහිතව, ක්‍රෝධයෙන් යුක්තව වසන ස්ත්‍රිය මරණින් මතු දුගතිගාමී වන බව මෙම සූත්‍රය පෙන්වා දෙයි.",
+    "long_summary": "ශ්‍රද්ධාවෙන් තොර වීම (Assaddha), පවට ලැජ්ජාවක් නොමැති වීම (Ahirika), අකුසල විපාක පිළිබඳ භයක් නොමැති වීම (Anottappa), නිරන්තරයෙන් ක්‍රෝධ කිරීම (Kodhana) සහ සත්‍යය වටහා ගැනීමේ ප්‍රඥාව නොමැති වීම (Duppanna) යන අකුසල ධර්ම පහකින් යුක්ත ස්ත්‍රිය මරණින් මතු නිරය නම් වූ දුගතියේ උපත ලබන බව මෙහි විස්තර වේ.",
+    "main_discovery": "ස්ත්‍රියකගේ පිරිහීමට සහ දුගතියට හේතු වන මානසික ගති ලක්ෂණ පහක අහිතකර සංකලනය.",
+    "core_truth_of_sutta": "චිත්තවේග පාලනයක් නොමැතිකම සහ සදාචාරාත්මක හෘද සාක්ෂියක් නොමැතිකම පුද්ගලයෙකුගේ අනාගත ගමන පිරිහීමට ලක් කරයි.",
+    "practical_takeaway_sinhala": "පවට ලැජ්ජාව සහ භය ඇති කර ගනිමින්, ක්‍රෝධය පාලනය කර ප්‍රඥාවෙන් යුතුව කටයුතු කිරීම මෙලොව සහ පරලොව යහපතට හේතු වේ.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "අපරාධකාරී චර්යාවන් දුරු කිරීමට",
+        "සිත පිරිසිදු කර ගැනීමට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [
+                {
+                    "fetters": "ශ්‍රද්ධාවකින් තොර වීම",
+                    "remedy": ""
+                },
+                {
+                    "fetters": "ලැජ්ජාවක් නැති වීම",
+                    "remedy": ""
+                },
+                {
+                    "fetters": "විපාකයට භයක් නැති වීම",
+                    "remedy": ""
+                },
+                {
+                    "fetters": "ක්‍රෝධ කිරීම",
+                    "remedy": ""
+                },
+                {
+                    "fetters": "ප්‍රඥාවකින් තොර වීම",
+                    "remedy": ""
+                }
+            ],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [
+            {
+                "obstacle": "",
+                "workaround": ""
+            }
+        ],
+        "clarifications": [
+            {
+                "myth": "",
+                "truth": ""
+            }
+        ],
+        "logic_equation": "ශ්‍රද්ධාව + ලැජ්ජාව + විපාක භය + ප්‍රඥාව = නිරයේ උපත වැළැක්වීම"
+    },
+    "analyser": "gemma4:e4b"
 }

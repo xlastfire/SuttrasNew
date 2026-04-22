@@ -3,81 +3,39 @@
     "vagga": "- සන්තුසිත සූත්‍ර",
     "sutta_title": "- සන්තුසිත දෙව්පුතුට වදාළ දෙසුම්",
     "id": "5443",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "සංවේදන සහ සංකල්පීය විශ්ලේෂණය",
-        "complexity_rating": 7,
-        "analysis_confidence": 9,
-        "short_summary": "සන්තුසිත දිව්‍ය පුත්‍රයාගේ ස්පර්ශය පදනම් කරගෙන හටගන්නා වූ සුවිශේෂී මානසික සංකල්ප හෝ වස්තූන් දසය පිළිබඳ විස්තරය.",
-        "long_summary": "මෙම දේශනාව මගින් සන්තුසිත දිව්‍ය පුත්‍රයාට අදාළ කථා පුවතක් තුළින් දිව්‍යමය ස්පර්ශයකින් උත්පාදනය වන්නා වූ කරුණු දසයක් විස්තර කෙරේ. මෙහිදී දිව්‍යමය බලපෑමක් හෝ ස්පර්ශයක් (Divine touch) නිමිත්තක් කරගනිමින් සන්තුසිතයා තුළ හෝ ඔහු වටා නිර්මාණය වන්නා වූ විශේෂිත සංකල්පීය හෝ භෞතික දසය කෙරෙහි අවධානය යොමු කරමින්, සංවේදන සහ එමගින් හටගන්නා මානසික ප්‍රපංචයන්ගේ ස්වභාවය පැහැදිලි කරයි.",
-        "main_discovery": "බාහිර දිව්‍යමය ස්පර්ශයකින් (Divine Touch) පසුව හටගන්නා මානසික සංකල්ප දසයක (Ten Concepts/Objects) ස්වභාවය හඳුනාගැනීම.",
-        "core_truth_of_sutta": "ඕනෑම මානසික සංකල්පයක් හෝ වස්තුවක් හටගැනීම සඳහා බාහිර ස්පර්ශයක් හෝ බලපෑමක් (Phassa/Contact) මූලික නිමිත්ත වන බව.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "ඵස්සය (ස්පර්ශය) සහ ඒ ඇසුරින් නිර්මාණය වන සංකල්පයන්ගේ අනිත්‍ය ස්වභාවය වටහා ගැනීම.",
-            "how_it_aids_liberation": "සංවේදනයන්ගෙන් හටගන්නා දස වැදෑරුම් ප්‍රපංචයන් කෙරෙහි ඇති බැඳීම (Upadana) ලිහිල් කිරීමෙන් විමුක්තිය උදාවේ.",
-            "practical_renunciation": "සංවේදන මගින් හටගන්නා වූ අභ්‍යන්තර සංකල්ප කෙරෙහි 'මම' හෝ 'මගේ' යනුවෙන් පවතින දැඩි ග්‍රහණය අත්හැරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "සංවේදනය (Sensation)",
-                "සංකල්ප රූප (Mental Imagery)",
-                "සංජානනය (Perception)"
-            ],
-            "cognitive_impact": "බාහිර උත්තේජනයක් (External Stimulus) හරහා සංකීර්ණ මානසික ව්‍යුහයන් (Complex mental constructs) නිර්මාණය වන ආකාරය පිළිබඳව අවබෝධය ලබා දෙයි.",
-            "modern_psychology_parallel": "සංවේදන කළමනාකරණය (Sensory Processing) සහ සංජානන ප්‍රතිනිර්මාණය (Cognitive Restructuring) මගින් මානසික යහපැවැත්ම ඇති කරන ආකාරය මීට සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Somatosensory Cortex (ස්පර්ශය හඳුනාගැනීමට)",
-                "Default Mode Network (DMN) (සංකල්ප ගොඩනැගීමට)",
-                "Thalamus (සංවේදන පෙරීමට)"
-            ],
-            "neuroplasticity_and_habit": "විශේෂිත උත්තේජනයන් කෙරෙහි මොළය ප්‍රතිචාර දක්වන ආකාරය හඳුනාගැනීමෙන්, පවතින සංජානන රටාවන් (Cognitive schemas) වෙනස් කිරීමේ හැකියාව (Neuroplasticity) දියුණු වේ.",
-            "stress_reduction_mechanism": "දිව්‍යමය ස්පර්ශයක් වැනි සන්සුන් සංවේදනයන් මගින් Amygdala හි ක්‍රියාකාරිත්වය අඩුවී Cortisol මට්ටම පහත වැටීමෙන් මානසික සමබරතාවය ඇති වේ."
-        },
-        "cognitive_mechanisms": [
-            "Perceptual Processing",
-            "Conceptual Formation",
-            "Sensory Integration"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "සන්සුන් බව (Serenity)",
-            "emotional_intensity": 6,
-            "emotional_arc": "බාහිර ස්පර්ශයකින් ආරම්භ වී අභ්‍යන්තර සංකල්පීය අවබෝධය දක්වා ගමන් කිරීම.",
-            "mood_keywords": [
-                "දිව්‍යමය",
-                "ප්‍රසන්න",
-                "නිශ්චල"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Cognitive Neuroscience",
-                "theory_name": "Bottom-Up Processing",
-                "parallel_description": "බාහිර ස්පර්ශමය සංවේදනයක (Sensory input) සිට පද්ධතිමය වශයෙන් උසස් මානසික සංකල්ප (Ten concepts) ගොඩනැගීමේ ක්‍රියාවලිය මීට සමාන වේ.",
-                "confidence_score": 8
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "ස්පර්ශ පච්චයා වේදනා (Contact leads to Feeling)",
-                "related_teachings": [
-                    "ඵස්ස මූලක සූත්‍රය"
-                ],
-                "connection_type": "හේතුඵල සම්බන්ධතාවය"
-            }
-        ],
-        "practical_takeaway_sinhala": "අපගේ සිතේ ඇතිවන ඕනෑම සංකල්පයක් බාහිර නිමිත්තක් නිසා හටගන්නක් බව වටහාගෙන, එම අදහස්වලට අන්ධ ලෙස ඇලී නොසිටීමට වගබලා ගත යුතුය.",
-        "daily_practice_steps": [
-            "තමාට දැනෙන ස්පර්ශයන් (Sensation) කෙරෙහි සතිමත් වන්න.",
-            "එම ස්පර්ශයන් නිසා සිතේ හටගන්නා සිතුවිලි සහ සංකල්ප (Thoughts/Concepts) මොනවාදැයි විමසිලිමත් වන්න.",
-            "එම සංකල්ප ස්ථිර නොවන බවත්, ස්පර්ශය නැති වූ විට ඒවා ද වෙනස් වන බවත් මෙනෙහි කරන්න."
-        ]
-    },
     "content": [
         {
             "pali": "අථ ඛෝ සන්තුසිතෝ දේවපුත්තෝ ....(පෙ).... ඵොට්ඨබ්බේහීති.",
             "sinhala": "එතකොට සන්තුසිත දිව්‍ය පුත්‍රයා ….(පෙ)…. දිව්‍ය ස්පර්ශයෙන් කියන මේ දහයෙනුයි."
         }
-    ]
+    ],
+    "short_summary": "සන්තුසිත දිව්‍ය පුත්‍රයාගේ ස්පර්ශය පදනම් කරගෙන හටගන්නා වූ සුවිශේෂී මානසික සංකල්ප හෝ වස්තූන් දසය පිළිබඳ විස්තරය.",
+    "long_summary": "මෙම දේශනාව මගින් සන්තුසිත දිව්‍ය පුත්‍රයාට අදාළ කථා පුවතක් තුළින් දිව්‍යමය ස්පර්ශයකින් උත්පාදනය වන්නා වූ කරුණු දසයක් විස්තර කෙරේ. මෙහිදී දිව්‍යමය බලපෑමක් හෝ ස්පර්ශයක් (Divine touch) නිමිත්තක් කරගනිමින් සන්තුසිතයා තුළ හෝ ඔහු වටා නිර්මාණය වන්නා වූ විශේෂිත සංකල්පීය හෝ භෞතික දසය කෙරෙහි අවධානය යොමු කරමින්, සංවේදන සහ එමගින් හටගන්නා මානසික ප්‍රපංචයන්ගේ ස්වභාවය පැහැදිලි කරයි.",
+    "main_discovery": "බාහිර දිව්‍යමය ස්පර්ශයකින් (Divine Touch) පසුව හටගන්නා මානසික සංකල්ප දසයක (Ten Concepts/Objects) ස්වභාවය හඳුනාගැනීම.",
+    "core_truth_of_sutta": "ඕනෑම මානසික සංකල්පයක් හෝ වස්තුවක් හටගැනීම සඳහා බාහිර ස්පර්ශයක් හෝ බලපෑමක් (Phassa/Contact) මූලික නිමිත්ත වන බව.",
+    "practical_takeaway_sinhala": "අපගේ සිතේ ඇතිවන ඕනෑම සංකල්පයක් බාහිර නිමිත්තක් නිසා හටගන්නක් බව වටහාගෙන, එම අදහස්වලට අන්ධ ලෙස ඇලී නොසිටීමට වගබලා ගත යුතුය.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }

@@ -3,79 +3,6 @@
     "vagga": "සුරාධ තෙරුන්ගේ ගාථා",
     "sutta_title": "",
     "id": "15433",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "අර්හත් සාක්ෂාත්කරණය (Attainment of Arahatship)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "සුරාධ රහත් මුනිඳුන් තෘෂ්ණාව සහ අවිද්‍යාව මුලිනුපුටා දමමින් භව ගමන අවසන් කළ ආකාරය මෙහි දැක්වේ.",
-        "long_summary": "සුරාධ මහරහතන් වහන්සේ විසින් දේශනා කරන ලද මෙම ගාථාවන්ගෙන් විස්තර වන්නේ උන්වහන්සේගේ අධ්‍යාත්මික විමුක්තියයි. දෑස් අඳුරු කරන දැලක් බඳු අවිද්‍යාව දුරු කර, භවය ගැට ගසන තෘෂ්ණාව මුලින්ම උදුරා දමමින් උන්වහන්සේ නිවන් මග සම්පූර්ණ කළ සේක. ගිහි ගෙය අත්හැර පැවිදි වීම තුළින් සියලු බන්ධන සිඳලමින් ජීවිතයේ නියම අර්ථය සාක්ෂාත් කරගත් බව මෙහි අවධාරණය කෙරේ.",
-        "main_discovery": "අවිද්‍යාව (Ignorance) සහ තෘෂ්ණාව (Craving) සම්පූර්ණයෙන් ප්‍රහීණ කිරීම හරහා පුනර්භවය අවසන් කිරීම.",
-        "core_truth_of_sutta": "අවිද්‍යාව සහ තෘෂ්ණාව යනු සසර බැඳ තබන ප්‍රධාන සාධක දෙක වන අතර, ඒවා ප්‍රහීණ කිරීමෙන් භවය සහ දුක අවසන් කළ හැකිය.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "අවිද්‍යාව (Ignorance) සහ තෘෂ්ණාව (Tanha) ප්‍රහීණ කිරීම.",
-            "how_it_aids_liberation": "සසර පැවැත්මට හේතු වන මානසික කෙලෙස් මුලිනුපුටා දැමීම මගින් නිවන (Nibbana) සාක්ෂාත් වේ.",
-            "practical_renunciation": "භවය කෙරෙහි ඇති බැඳීම් සහ අභ්‍යන්තර තෘෂ්ණාව ක්‍රමයෙන් අත්හැරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "අවිද්‍යාව (Delusion)",
-                "තෘෂ්ණාව (Craving)",
-                "විමුක්තිය (Liberation)"
-            ],
-            "cognitive_impact": "සත්‍යය දැකීම වළක්වන 'දැලක්' වැනි පූර්ව නිගමන (Cognitive biases) ඉවත් කර පිරිසිදු ප්‍රඥාව ඇති කරයි.",
-            "modern_psychology_parallel": "අහිතකර සිතුවිලි සහ ඇබ්බැහිවීම් වලින් මිදීම සඳහා භාවිතා කරන 'Acceptance and Commitment Therapy' (ACT) හි අන්තර්ගත 'Cognitive Defusion' ක්‍රියාවලියට සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN)",
-                "Amygdala",
-                "Prefrontal Cortex"
-            ],
-            "neuroplasticity_and_habit": "තෘෂ්ණාව උදුරා දැමීම යනු මොළයේ විපාක පද්ධතියේ (Reward System/Dopamine pathways) පවතින ගැඹුරු ස්නායුක රටාවන් වෙනස් කර නව 'ශාන්ති' තත්ත්වයකට ස්නායු පද්ධතිය හැඩගැස්වීමයි.",
-            "stress_reduction_mechanism": "අවිද්‍යාව සහ භව බිය දුරු වීමත් සමඟ Amygdala හි ක්‍රියාකාරීත්වය අවම වී Cortisol මට්ටම ස්ථාවර මට්ටමකට පත්වේ."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Restructuring (ප්‍රජානන ප්‍රතිව්‍යුහගතකරණය)",
-            "Attention Regulation (අවධානය පාලනය)",
-            "Pattern Breaking (පුරුදු රටා බිඳදැමීම)"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "උදාරත්වය සහ ශාන්තිය (Equanimity and Triumph)",
-            "emotional_intensity": 10,
-            "emotional_arc": "බන්ධන සහ අඳුරේ සිට නිදහස සහ ආලෝකය කරා (From bondage to liberation)",
-            "mood_keywords": [
-                "නිදහස",
-                "නිසල බව",
-                "ප්‍රඥාව",
-                "තෘප්තිය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Attachment Theory",
-                "parallel_description": "තෘෂ්ණාව සහ බන්ධන (Bondage) දුරු කිරීම තුළින් මානසික පීඩනය අවම කර ගැනීමේ ක්‍රියාවලිය මෙහි විග්‍රහ වන 'Attachment' සංකල්පයට සමාන්තර වේ.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "තෘෂ්ණාව සහ අවිද්‍යාව ප්‍රහීණ කිරීම",
-                "related_teachings": [
-                    "ධම්මචක්කප්පවත්තන සූත්‍රය",
-                    "මහාසතිපට්ඨාන සූත්‍රය"
-                ],
-                "connection_type": "සෘජු දෘෂ්ටිමය සම්බන්ධතාවය (Direct Doctrinal Link)"
-            }
-        ],
-        "practical_takeaway_sinhala": "ජීවිතයේ දුකට හේතුව බාහිර ලෝකය නොව, සිත තුළ පවතින තෘෂ්ණාව සහ නොදැනුවත්කම බව වටහාගෙන, ක්‍රමයෙන් බැඳීම් අත්හැරීමට උත්සාහ කරන්න.",
-        "daily_practice_steps": [
-            "තමා යම් දෙයකට දැඩි ලෙස ඇලෙන අවස්ථාවකදී ඒ පිළිබඳව 'සතිමත්' (Mindful) වන්න.",
-            "දෛනිකව කෙටි කාලයක් හෝ අනිත්‍ය භාවනාවක යෙදෙමින් බැඳීම් වල නිෂ්ඵල බව මෙනෙහි කරන්න.",
-            "බාහිර දේවලින් සතුට සෙවීම වෙනුවට අභ්‍යන්තර නිදහස අගය කිරීමට පුහුණු වන්න."
-        ]
-    },
     "content": [
         {
             "pali": "ඛීණා හි මය්හං ජාති වුසිතං ජිනසාසනං\nපහීනෝ ජාලසංඛාතෝ භවනෙත්ති සමූහතා",
@@ -89,5 +16,38 @@
             "pali": "ඉත්ථං සුදං ආයස්මා සුරාධෝ ථේරෝ ගාථායෝ අභාසිත්ථා’ති.",
             "sinhala": "මෙය වනාහී ආයුෂ්මත් සුරාධ නම් රහත් මුනිඳුන් වදාළ ගාථාවන්ය."
         }
-    ]
+    ],
+    "short_summary": "සුරාධ රහත් මුනිඳුන් තෘෂ්ණාව සහ අවිද්‍යාව මුලිනුපුටා දමමින් භව ගමන අවසන් කළ ආකාරය මෙහි දැක්වේ.",
+    "long_summary": "සුරාධ මහරහතන් වහන්සේ විසින් දේශනා කරන ලද මෙම ගාථාවන්ගෙන් විස්තර වන්නේ උන්වහන්සේගේ අධ්‍යාත්මික විමුක්තියයි. දෑස් අඳුරු කරන දැලක් බඳු අවිද්‍යාව දුරු කර, භවය ගැට ගසන තෘෂ්ණාව මුලින්ම උදුරා දමමින් උන්වහන්සේ නිවන් මග සම්පූර්ණ කළ සේක. ගිහි ගෙය අත්හැර පැවිදි වීම තුළින් සියලු බන්ධන සිඳලමින් ජීවිතයේ නියම අර්ථය සාක්ෂාත් කරගත් බව මෙහි අවධාරණය කෙරේ.",
+    "main_discovery": "අවිද්‍යාව (Ignorance) සහ තෘෂ්ණාව (Craving) සම්පූර්ණයෙන් ප්‍රහීණ කිරීම හරහා පුනර්භවය අවසන් කිරීම.",
+    "core_truth_of_sutta": "අවිද්‍යාව සහ තෘෂ්ණාව යනු සසර බැඳ තබන ප්‍රධාන සාධක දෙක වන අතර, ඒවා ප්‍රහීණ කිරීමෙන් භවය සහ දුක අවසන් කළ හැකිය.",
+    "practical_takeaway_sinhala": "ජීවිතයේ දුකට හේතුව බාහිර ලෝකය නොව, සිත තුළ පවතින තෘෂ්ණාව සහ නොදැනුවත්කම බව වටහාගෙන, ක්‍රමයෙන් බැඳීම් අත්හැරීමට උත්සාහ කරන්න.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "රහත් උතුමන්ගේ ගුණ සිහි කරන විට",
+        "දහම් කරුණු සොයන විට",
+        "ශ්‍රාවක චරිත කියවන විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemini-3-flash-preview"
 }

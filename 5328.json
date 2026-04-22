@@ -3,82 +3,42 @@
     "vagga": "සුද්ධ සුත්තං",
     "sutta_title": "පිරිසිදු ස්ත්‍රිය ගැන වදාළ දෙසුම",
     "id": "5328",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "සමාජීය සහ සදාචාරාත්මක සංවර්ධනය (Social and Ethical Development)",
-        "complexity_rating": 2,
-        "analysis_confidence": 100,
-        "short_summary": "ස්ත්‍රියක සතු රූප, භෝග, නෑදෑ, පුත්‍ර සහ සීල යන පංචවිධ බලයන් මෙහි විග්‍රහ කෙරේ.",
-        "long_summary": "මෙම සූත්‍රය මගින් ස්ත්‍රියකගේ ජීවිතයේ සාර්ථකත්වයට සහ බලපෑමට හේතු වන ප්‍රධාන සාධක පහක් පෙන්වා දෙයි. ඒවා නම් ඇය සතු රූප සෝභාව (රූප බලය), ඇය සතු වස්තු සම්පත් (භෝග සම්පත් බලය), ඇයගේ ඥාති පිරිසගේ සහයෝගය (නෑදෑ බලය), ඇයට සිටින පුත්‍රයන්ගේ ශක්තිය (පුත්‍ර බලය) සහ ඇයගේ ගුණවත්භාවය හෙවත් විනයගරුක පැවැත්ම (සීල බලය) වේ.",
-        "main_discovery": "ස්ත්‍රියකගේ සැබෑ ශක්තිය භෞතික සහ සාමාජීය සාධක මත පමණක් නොව, ඇයගේ සදාචාරාත්මක පදනම (සීලය) මත තීරණය වන බව.",
-        "core_truth_of_sutta": "ස්ත්‍රියකගේ බලය යනු භෞතික රූපය, ආර්ථිකය සහ සමාජ සබඳතා මෙන්ම ඇයගේ චරිත ශුද්ධිය යන සාධකයන්ගේ එකතුවකි.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "ලෞකික බලයන් අතර සීල බලය (Moral integrity) අග්‍ර කොට දැක්වීම.",
-            "how_it_aids_liberation": "බාහිර අස්ථිර බලයන්ට වඩා අභ්‍යන්තර සීලයේ ඇති වැදගත්කම අවබෝධ කර ගැනීමෙන් තෘෂ්ණාව අත්හැරීමට මග පෑදේ.",
-            "practical_renunciation": "භෞතික සම්පත් හා රූපය කෙරෙහි ඇති බැඳීම (Attachment) අඩු කරමින් ගුණධර්ම වර්ධනයට යොමු වීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "සීලය (Moral integrity)",
-                "ආත්ම විශ්වාසය (Self-efficacy)",
-                "සමාජීය අනුකූලතාවය (Social integration)"
-            ],
-            "cognitive_impact": "පුද්ගල වටිනාකම තීරණය කිරීමේදී බාහිර සාධක (Extrinsic factors) මෙන්ම අභ්‍යන්තර චරිත ලක්ෂණ (Intrinsic traits) කෙරෙහි අවධානය යොමු කරවයි.",
-            "modern_psychology_parallel": "ධනාත්මක මනෝවිද්‍යාවේ (Positive Psychology) සඳහන් වන 'Character Strengths' සහ සමාජ ප්‍රාග්ධනය (Social Capital) පිළිබඳ සංකල්පයට සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Prefrontal Cortex (Executive control)",
-                "Ventral Striatum (Reward system)",
-                "Default Mode Network (Self-referential processing)"
-            ],
-            "neuroplasticity_and_habit": "සීල බලය පුහුණු කිරීම මගින් Prefrontal Cortex ශක්තිමත් වන අතර එමගින් ආවේග පාලනය (Impulse control) සහ යහපත් පුරුදු (Neuroplasticity) වර්ධනය වේ.",
-            "stress_reduction_mechanism": "සීලය නිසා ඇතිවන නිවැරදි සාහසිකත්වය (Lack of guilt) මගින් Cortisol මට්ටම අඩු වී Amygdala හි ක්‍රියාකාරිත්වය සමනය වේ."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive appraisal of power dynamics",
-            "Self-regulation through virtue",
-            "Value-based hierarchy processing"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "විශ්වාසය (Confidence)",
-            "emotional_intensity": 7,
-            "emotional_arc": "භෞතික බලවේගයන්ගෙන් ආරම්භ වී ආධ්‍යාත්මික ස්ථාවරත්වය දක්වා ගමන් කිරීම.",
-            "mood_keywords": [
-                "ශක්තිය",
-                "ගෞරවය",
-                "සීලය",
-                "ආත්ම අභිමානය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Social Psychology",
-                "theory_name": "Social Power Bases",
-                "parallel_description": "French and Raven ගේ සමාජ බල මූලාශ්‍ර හා සමානව, මෙහි රූපය (Referent power), භෝග (Reward power) සහ නෑදෑ/පුත්‍ර (Social capital) ලෙස බලය වර්ගීකරණය කර ඇත.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "සීල බලය",
-                "related_teachings": [
-                    "අංගුත්තර නිකාය - බල සූත්‍ර"
-                ],
-                "connection_type": "ධර්මානුකූල ශක්ති විශේෂයන් පිළිබඳ සමානතාවය"
-            }
-        ],
-        "practical_takeaway_sinhala": "බාහිර රූපය හෝ සම්පත් මත පමණක් යැපෙන්නේ නැතිව, ගුණවත්කම හා විනය තුලින් තම පෞරුෂය සහ බලය ගොඩනගා ගත යුතුය.",
-        "daily_practice_steps": [
-            "තම පංච ශීලය ආරක්ෂා කිරීමට දැඩිව අධිෂ්ඨානය කරන්න.",
-            "බාහිර දේවලින් ලැබෙන බලයට වඩා තම චරිතය තුළින් ලැබෙන ආත්ම ශක්තිය ගැන මෙනෙහි කරන්න.",
-            "පවුලේ සහ සමාජයේ සබඳතා යහපත් ලෙස පවත්වා ගැනීමට උත්සාහ කරන්න."
-        ]
-    },
     "content": [
         {
             "pali": "පඤ්චිමානි භික්ඛවේ, මාතුගාමස්ස බලානි. කතමානි පඤ්ච: රූපබලං, භෝගබලං, ඤාතිබලං, පුත්තබලං, සීලබලං. ඉමානි ඛෝ භික්ඛවේ පඤ්ච මාතුගාමස්ස බලානීති.",
             "sinhala": "පින්වත් මහණෙනි, මේවා තමයි ස්ත්‍රියට ඇති බල පහ. කවර පහක් ද යත්? රූප බලය. භෝග සම්පත් බලය. නෑදෑ බලය. පුත්‍ර බලය. සීල බලය. පින්වත් මහණෙනි, ස්ත්‍රියට ඇති බල පහ මේවාය."
         }
-    ]
+    ],
+    "short_summary": "ස්ත්‍රියක සතු රූප, භෝග, නෑදෑ, පුත්‍ර සහ සීල යන පංචවිධ බලයන් මෙහි විග්‍රහ කෙරේ.",
+    "long_summary": "මෙම සූත්‍රය මගින් ස්ත්‍රියකගේ ජීවිතයේ සාර්ථකත්වයට සහ බලපෑමට හේතු වන ප්‍රධාන සාධක පහක් පෙන්වා දෙයි. ඒවා නම් ඇය සතු රූප සෝභාව (රූප බලය), ඇය සතු වස්තු සම්පත් (භෝග සම්පත් බලය), ඇයගේ ඥාති පිරිසගේ සහයෝගය (නෑදෑ බලය), ඇයට සිටින පුත්‍රයන්ගේ ශක්තිය (පුත්‍ර බලය) සහ ඇයගේ ගුණවත්භාවය හෙවත් විනයගරුක පැවැත්ම (සීල බලය) වේ.",
+    "main_discovery": "ස්ත්‍රියකගේ සැබෑ ශක්තිය භෞතික සහ සාමාජීය සාධක මත පමණක් නොව, ඇයගේ සදාචාරාත්මක පදනම (සීලය) මත තීරණය වන බව.",
+    "core_truth_of_sutta": "ස්ත්‍රියකගේ බලය යනු භෞතික රූපය, ආර්ථිකය සහ සමාජ සබඳතා මෙන්ම ඇයගේ චරිත ශුද්ධිය යන සාධකයන්ගේ එකතුවකි.",
+    "practical_takeaway_sinhala": "බාහිර රූපය හෝ සම්පත් මත පමණක් යැපෙන්නේ නැතිව, ගුණවත්කම හා විනය තුලින් තම පෞරුෂය සහ බලය ගොඩනගා ගත යුතුය.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "ස්ත්‍රීත්වය ගැන සිතන විට",
+        "බල ගැන සිතන විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }

@@ -3,82 +3,9 @@
     "vagga": "- අප්පමාද වග්ගෝ",
     "sutta_title": "- අප්පමාද වර්ගය",
     "id": "15272",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "අප්පමාද සහ සතිපට්ඨාන (Heedfulness and Mindfulness)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "සතිපට්ඨානය පදනම් කරගත් අප්‍රමාදය, සියලු කුසල ධර්මයන් අතර අග්‍ර වන බවත් එය විවිධ සත්ව කොට්ඨාස සහ ස්වභාවික උපමා මගින් තහවුරු කරන බවත් මෙහි දැක්වේ.",
-        "long_summary": "සංයුක්ත නිකායට අයත් අප්පමාද වර්ගය තුළ තථාගත, පද, කූට ආදී වශයෙන් නම් කළ සූත්‍ර දසයක් අඩංගු වේ. මෙම දසය එක් එක් කොටසකට සූත්‍ර හතර බැගින් වන සේ සූත්‍ර 40 කින් සමන්විතය. මෙහිදී පා රහිත, දෙපා, සිවුපා සහ බොහෝ පා ඇති සත්ව කොට්ඨාස පිළිබඳව විස්තර කරමින්, සතිපට්ඨානය හා බැඳුණු අප්‍රමාදය (Heedfulness) සියලු ධර්මයන්ගේ මූලය, සාරය සහ අග්‍රය ලෙස අවධාරණය කෙරේ.",
-        "main_discovery": "අප්පමාදය (අප්‍රමාදය) යනු සියලු කුසල ධර්මයන්ගේ අග්‍රතම ස්ථානය බවත්, සතිපට්ඨානය තුළින් එය ප්‍රගුණ කළ යුතු බවත් මෙහි මූලික සොයාගැනීමයි.",
-        "core_truth_of_sutta": "සියලු කුසල ධර්මයන් අප්‍රමාදය (Heedfulness) තුළ එකාබද්ධ වන අතර, සතිපට්ඨාන වැඩීම තුළින් එම අප්‍රමාදය සම්පූර්ණ වේ.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "අප්‍රමාදය (Appamada) - සතිය පවත්වා ගැනීමෙන් අකුසලයෙන් වැළකී කුසලයෙහි පිහිටීම.",
-            "how_it_aids_liberation": "සතිපට්ඨානය ප්‍රගුණ කිරීමෙන් සිතේ විසිරීම පාලනය වී අවසාන විමුක්තිය වන නිවන කරා මග විවර කරයි.",
-            "practical_renunciation": "විවිධ සත්ව කොට්ඨාස සහ සංස්කාරයන්ගේ අනිත්‍ය බව හඳුනාගෙන ඒවා කෙරෙහි ඇති බැඳීම (Upadana) අත්හැරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "අප්‍රමාදය (Heedfulness)",
-                "සතිය (Mindfulness)",
-                "සංජානනය (Perception)"
-            ],
-            "cognitive_impact": "සිතේ විසිරුණු ස්වභාවය පාලනය කර (Attention stabilization), වස්තූන්ගේ ස්වභාවය විකෘති නොවී දැකීමේ හැකියාව වර්ධනය කරයි.",
-            "modern_psychology_parallel": "සතිපට්ඨානය ප්‍රගුණ කිරීම Mindfulness-Based Cognitive Therapy (MBCT) හා සමාන වන අතර, අප්‍රමාදය යනු Executive Functioning වල ඉහළම අවස්ථාවකි."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN)",
-                "Central Executive Network (CEN)",
-                "Anterior Cingulate Cortex (ACC)"
-            ],
-            "neuroplasticity_and_habit": "නිරන්තර සතිපට්ඨාන පුහුණුව මගින් සිත විසිරී යාමේ (Mind-wandering) රටාව වෙනස් කර, අවධානය පවත්වා ගැනීමේ නව ස්නායුක පථ (Neural pathways) ශක්තිමත් කරයි.",
-            "stress_reduction_mechanism": "අප්‍රමාදය මගින් Amygdala හි ක්‍රියාකාරිත්වය සමනය කර, Prefrontal Cortex හරහා චිත්තවේග පාලනය (Emotional regulation) විධිමත් කරයි."
-        },
-        "cognitive_mechanisms": [
-            "Attentional Control",
-            "Pattern Recognition",
-            "Metacognition",
-            "Categorization"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "සන්සුන් බව (Equanimity)",
-            "emotional_intensity": 8,
-            "emotional_arc": "විවිධත්වය හඳුනාගැනීමේ සිට ඒකාග්‍රතාවය දක්වා",
-            "mood_keywords": [
-                "අවදිමත්",
-                "විනයගරුක",
-                "පැහැදිලි"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Biology/Evolution",
-                "theory_name": "Taxonomy & Phylogeny",
-                "parallel_description": "සත්ව කොට්ඨාස ශාරීරික ලක්ෂණ අනුව වර්ගීකරණය කිරීමේ (Morphological classification) විද්‍යාත්මක පදනම හා සමාන වේ.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "අප්‍රමාදය (Heedfulness)",
-                "related_teachings": [
-                    "සතිපට්ඨාන සූත්‍රය",
-                    "අංගුත්තර නිකායේ අප්පමාද වර්ගය"
-                ],
-                "connection_type": "Direct Implementation of Mindfulness"
-            }
-        ],
-        "practical_takeaway_sinhala": "ඔබ කුමන තත්ත්වයක සිටියත්, එදිනෙදා වැඩකටයුතු වලදී සිහිය (Awareness) පවත්වා ගැනීම සාර්ථකත්වයට හා මානසික සුවයට ඇති එකම මගයි.",
-        "daily_practice_steps": [
-            "කරන කියන සෑම දෙයකදීම එම මොහොත පිළිබඳව අවධානයෙන් සිටින්න (Mindful Awareness).",
-            "සිතේ ඇතිවන ක්ලේශයන් (ආශාව, තරහව) හඳුනාගෙන ඒවාට ක්ෂණිකව ප්‍රතිචාර නොදක්වා උපේක්ෂාවෙන් සිටීමට පුරුදු වන්න.",
-            "දිනකට සුළු වේලාවක් හෝ සතිපට්ඨාන භාවනාවක නිරත වන්න."
-        ]
-    },
     "content": [
         {
-            "pali": "යාවතා භික්ඛවේ, සත්තා අපදා වා ද්විපදා වා චතුප්පදා වා බහුප්පදා වා ....(පෙ).... බහුලීකරෝතීති. (අප්පමාදවග්ගෝ සතිපට්ඨානවසේන විත්ථාරේතබ්බෝ.)",
+            "pali": "යාවතා භික්ඛවේ, සත්තා අපදා වා ද්විපදා වා චතුප්පදා වා බහුප්පදා වා  බහුලීකරෝතීති. (අප්පමාදවග්ගෝ සතිපට්ඨානවසේන විත්ථාරේතබ්බෝ.)",
             "sinhala": "මහණෙනි, යම්තාක් පා රහිත වූ ද, දෙපා ඇත්තා වූ ද, සිවු පා ඇත්තා වූ ද, බොහෝ පා ඇත්තා වූ ද සත්වයෝ සිටිත් ද, ….(පෙ)… බහුල ව ප්‍රගුණ කරයි."
         },
         {
@@ -93,5 +20,37 @@
             "pali": "(අත්‍රාපි ඒකේකස්මිං චත්තාරෝ චත්තාරෝ කත්වා චත්තාලීසසුත්තන්තා විත්ථාරේතබ්බා.)",
             "sinhala": "(මෙහි ද එක එක සතර බැගින් හතළිසක් සූත්‍රයෝ විස්තර කළ යුත්තාහු ය.)"
         }
-    ]
+    ],
+    "short_summary": "සතිපට්ඨානය පදනම් කරගත් අප්‍රමාදය, සියලු කුසල ධර්මයන් අතර අග්‍ර වන බවත් එය විවිධ සත්ව කොට්ඨාස සහ ස්වභාවික උපමා මගින් තහවුරු කරන බවත් මෙහි දැක්වේ.",
+    "long_summary": "සංයුක්ත නිකායට අයත් අප්පමාද වර්ගය තුළ තථාගත, පද, කූට ආදී වශයෙන් නම් කළ සූත්‍ර දසයක් අඩංගු වේ. මෙම දසය එක් එක් කොටසකට සූත්‍ර හතර බැගින් වන සේ සූත්‍ර 40 කින් සමන්විතය. මෙහිදී පා රහිත, දෙපා, සිවුපා සහ බොහෝ පා ඇති සත්ව කොට්ඨාස පිළිබඳව විස්තර කරමින්, සතිපට්ඨානය හා බැඳුණු අප්‍රමාදය (Heedfulness) සියලු ධර්මයන්ගේ මූලය, සාරය සහ අග්‍රය ලෙස අවධාරණය කෙරේ.",
+    "main_discovery": "අප්පමාදය (අප්‍රමාදය) යනු සියලු කුසල ධර්මයන්ගේ අග්‍රතම ස්ථානය බවත්, සතිපට්ඨානය තුළින් එය ප්‍රගුණ කළ යුතු බවත් මෙහි මූලික සොයාගැනීමයි.",
+    "core_truth_of_sutta": "සියලු කුසල ධර්මයන් අප්‍රමාදය (Heedfulness) තුළ එකාබද්ධ වන අතර, සතිපට්ඨාන වැඩීම තුළින් එම අප්‍රමාදය සම්පූර්ණ වේ.",
+    "practical_takeaway_sinhala": "ඔබ කුමන තත්ත්වයක සිටියත්, එදිනෙදා වැඩකටයුතු වලදී සිහිය (Awareness) පවත්වා ගැනීම සාර්ථකත්වයට හා මානසික සුවයට ඇති එකම මගයි.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "ධර්ම කරුණු අධ්‍යයනය කරන විට",
+        "සූත්‍ර දේශනා වර්ගීකරණය තේරුම් ගැනීම සඳහා"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": "තථාගත + පද + කූට + මූල + සාර + වස්සික + රාජ + චන්දිම + සුරිය + වත්ථ = සූත්‍ර දසය (වර්ගය)"
+    },
+    "analyser": "gemini-3-flash-preview"
 }

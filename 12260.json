@@ -3,78 +3,6 @@
     "vagga": "පාපකසීල සුත්තං",
     "sutta_title": "සිල් කිලිටි වීම නිසා සිදුවන දේ ගැන වදාළ දෙසුම",
     "id": "12260",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "Sila and Ditthi (Morality and View)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "වැරදි චර්යාවන් සහ වැරදි දැක්මෙන් යුත් පුද්ගලයා මියගිය පසු බරක් බිම තැබුවාක් මෙන් නිරයේ උපත ලබන බව මෙහි අවධාරණය කෙරේ.",
-        "long_summary": "අරහත් මුනිඳුන්ගේ අනුශාසනය පරිදි, පවිටු සීලය (දුසිරිත) සහ පවිටු දෘෂ්ටිය (වැරදි විශ්වාස) යන ද්විත්වයෙන් යුක්ත පුද්ගලයා තම ශරීරය බිඳී මියගිය පසු, බරක් බිම තැබුවාක් මෙන් ඉතා සෘජුවම නිරයෙහි උපත ලබයි. පුද්ගලයෙකුගේ සදාචාරාත්මක හැසිරීම සහ ඔහුගේ ලෝක දෘෂ්ටිය අතර ඇති සම්බන්ධයත්, එමගින් තීරණය වන භවික ප්‍රතිඵලත් මෙහි සවිස්තරාත්මකව දක්වා ඇත.",
-        "main_discovery": "පවිටු සීලය (Immoral conduct) සහ පවිටු දෘෂ්ටිය (Wrong view) යන සාධක දෙකෙහි සංයෝජනය පුද්ගලයෙකු දුගතිය කරා මෙහෙයවන ප්‍රබලතම බලවේගය බව.",
-        "core_truth_of_sutta": "චර්යාත්මක පිරිහීම (Immoral conduct) සහ මතවාදී පිරිහීම (Wrong view) යන දෙකෙහි එකතුව අනිවාර්ය දුක්ඛිත විපාකයන්ට (Niraya) මඟ පාදයි.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "සීල සහ දෘෂ්ටි සම්පන්න බව මගින් අකුසල මූලයන් ක්ෂය කිරීම.",
-            "how_it_aids_liberation": "වැරදි දෘෂ්ටි දුරු කිරීමෙන් මෝහය දුරු වන අතර, සීලය පිරිසිදු කර ගැනීමෙන් අකුසල විපාකයන්ගෙන් මිදී මානසික ඒකාග්‍රතාවයට මඟ පාදයි.",
-            "practical_renunciation": "පවිටු දෘෂ්ටිවලට ඇති ඇලීම (Ditthi-upadana) අත්හැරීම සහ අකුසල සහගත චර්යාවන්ගෙන් (Sila-bbata-paramasa) මිදීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "අඥානත්වය (Ignorance)",
-                "වැරදි තීරණ ගැනීම (Maladaptive decision making)",
-                "අකුසල චේතනා"
-            ],
-            "cognitive_impact": "වැරදි දෘෂ්ටිය මගින් පුද්ගලයාගේ තර්කනය සහ විචාර බුද්ධිය අකර්මන්‍ය කර, වැරදි ක්‍රියාවන් සාධාරණීකරණය කිරීමට (Rationalization) පොළඹවයි.",
-            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Cognitive Fusion' සංකල්පයට සමානව, වැරදි දෘෂ්ටි සමඟ මනස තදින් බැඳී තිබීම පුද්ගල සතුට හා යහපැවැත්ම විනාශ කරයි."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN)",
-                "Amygdala",
-                "Prefrontal Cortex (PFC)"
-            ],
-            "neuroplasticity_and_habit": "දිගින් දිගටම පවිටු සීලයෙහි යෙදීමෙන් මොළයේ අකුසල සහගත ස්නායුක පථ (Neural pathways) ශක්තිමත් වන අතර, එය වැරදි දෘෂ්ටි මගින් තවදුරටත් ස්ථාවර (Reinforcement learning) කරනු ලබයි.",
-            "stress_reduction_mechanism": "නිවැරදි දෘෂ්ටිය හා සීලය මගින් Amygdala හි ක්‍රියාකාරිත්වය (බිය සහ ආතතිය) පාලනය කර, Prefrontal Cortex හි තීරණ ගැනීමේ හැකියාව වර්ධනය කරයි."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Dissonance avoidance through wrong view",
-            "Reinforcement of harmful behavioral patterns",
-            "Value-action misalignment"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "Urgency (සංවේගය)",
-            "emotional_intensity": 8,
-            "emotional_arc": "Warning and Realization",
-            "mood_keywords": [
-                "අවබෝධය",
-                "බිය",
-                "අවධානය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Cognitive Behavioral Cycle",
-                "parallel_description": "වැරදි දෘෂ්ටිය (Thought) වැරදි චර්යාවන් (Behavior) පෝෂණය කරන අතර එය පුද්ගලයාගේ සමස්ත මානසික පරිහානියට (Negative outcome) හේතු වන ආකාරය.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "Kamma and Result",
-                "related_teachings": [
-                    "Dhammapada (Citta Vagga)",
-                    "Kammavibhanga Sutta"
-                ],
-                "connection_type": "Thematic Consistency"
-            }
-        ],
-        "practical_takeaway_sinhala": "තමා කරන ක්‍රියාවන් මෙන්ම තමා දරන විශ්වාසයන් ගැනත් නිරන්තර අවධානයෙන් (Self-awareness) පසුවීම වැදගත්ය.",
-        "daily_practice_steps": [
-            "සෑම දිනකම අවසානයේ තම චර්යාවන් (Sila) සමාලෝචනය කරන්න.",
-            "තමා දරන අදහස් සහ විශ්වාසයන් සත්‍යයට අනුකූලදැයි (Right View) විමසා බලන්න.",
-            "අකුසල සහගත සිතුවිල්ලක් උපන් සැණින් එය හඳුනාගෙන බැහැර කිරීමට පුහුණු වන්න."
-        ]
-    },
     "content": [
         {
             "pali": "වුත්තං හේතං භගවතා, වුත්තමරහතා’ති මේ සුතං:",
@@ -96,5 +24,63 @@
             "pali": "අයම්පි අත්ථෝ වුත්තෝ භගවතා ඉති මේ සුතන්ති.",
             "sinhala": "මේ අර්ථය වදාරණ ලද්දේ භාග්‍යවතුන් වහන්සේ විසින්මයි. මේ විදිහට මා හට අසන්නට ලැබුනා."
         }
-    ]
+    ],
+    "short_summary": "වැරදි චර්යාවන් සහ වැරදි දැක්මෙන් යුත් පුද්ගලයා මියගිය පසු බරක් බිම තැබුවාක් මෙන් නිරයේ උපත ලබන බව මෙහි අවධාරණය කෙරේ.",
+    "long_summary": "අරහත් මුනිඳුන්ගේ අනුශාසනය පරිදි, පවිටු සීලය (දුසිරිත) සහ පවිටු දෘෂ්ටිය (වැරදි විශ්වාස) යන ද්විත්වයෙන් යුක්ත පුද්ගලයා තම ශරීරය බිඳී මියගිය පසු, බරක් බිම තැබුවාක් මෙන් ඉතා සෘජුවම නිරයෙහි උපත ලබයි. පුද්ගලයෙකුගේ සදාචාරාත්මක හැසිරීම සහ ඔහුගේ ලෝක දෘෂ්ටිය අතර ඇති සම්බන්ධයත්, එමගින් තීරණය වන භවික ප්‍රතිඵලත් මෙහි සවිස්තරාත්මකව දක්වා ඇත.",
+    "main_discovery": "පවිටු සීලය (Immoral conduct) සහ පවිටු දෘෂ්ටිය (Wrong view) යන සාධක දෙකෙහි සංයෝජනය පුද්ගලයෙකු දුගතිය කරා මෙහෙයවන ප්‍රබලතම බලවේගය බව.",
+    "core_truth_of_sutta": "චර්යාත්මක පිරිහීම (Immoral conduct) සහ මතවාදී පිරිහීම (Wrong view) යන දෙකෙහි එකතුව අනිවාර්ය දුක්ඛිත විපාකයන්ට (Niraya) මඟ පාදයි.",
+    "practical_takeaway_sinhala": "තමා කරන ක්‍රියාවන් මෙන්ම තමා දරන විශ්වාසයන් ගැනත් නිරන්තර අවධානයෙන් (Self-awareness) පසුවීම වැදගත්ය.",
+    "path_to_nibbana": [],
+    "daily_practise": [
+        "තමා තුළ පවතින වැරදි සහගත හැසිරීම් හඳුනාගෙන ඒවායින් ඉවත් වීම.",
+        "යම් විෂයක හෝ ක්‍රියාවක පවතින වැරදි මතවාද සහ දෘෂ්ටි බැහැර කර නිවැරදි දැක්මක් ඇති කර ගැනීම."
+    ],
+    "tags": [
+        "තමාගේ හැසිරීම් ගැන සිතන විට",
+        "වැරදි දෘෂ්ටි හඳුනා ගැනීම සඳහා",
+        "අකුසලයේ විපාක වටහා ගැනීමට",
+        "නිරය පිළිබඳව භයක් ඇති කර ගැනීමට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [
+                {
+                    "fetters": "පවිටු සීලය (Bad conduct/morality)",
+                    "remedy": "යහපත් වූ සීලයක පිහිටීම (Good conduct)"
+                },
+                {
+                    "fetters": "පවිටු දෘෂ්ටිය (Wrong view)",
+                    "remedy": "සම්මා දිට්ඨිය හෙවත් නිවැරදි දැක්ම ඇති කර ගැනීම (Right view)"
+                }
+            ],
+            "check_yourself": "මගේ කායික සහ වාචසික හැසිරීම් අකුසල සහගත ද? මා තුළ ලෝකය දෙස බලන වැරදි මතවාදයක් තිබේද?",
+            "mindfulness_trigger": "අකුසල් කිරීමට හෝ වැරදි මතයක් දැරීමට සිත පෙළඹෙන සෑම මොහොතකම එහි විපාකය සිහි කරන්න.",
+            "mental_tax": "පවිටු සීලය සහ දෘෂ්ටිය පුද්ගලයා අඥානයෙකු කරන අතර එමඟින් සිතේ බරක් ලෙස පවතින දුක්ඛිත විපාක උදා කරයි.",
+            "visual_metaphor": "උසුලාගෙන ආ බරක් බිමින් තබන්නාක් මෙන් ඉතා වේගයෙන් නිරය වෙත ඇද වැටීම.",
+            "psychological_benefit": "වැරදි හැසිරීම් සහ වැරදි දෘෂ්ටි වලින් මිදීමෙන් මරණින් මතු දුගතියට පත්වීමේ බියෙන් නිදහස් විය හැක.",
+            "success_indicators": [
+                "අකුසල සහගත ක්‍රියා සහ අකුසල සහගත දෘෂ්ටි වලින් සම්පූර්ණයෙන් බැහැර වීම."
+            ]
+        },
+        "daily_quest": {
+            "title": "චර්යා පිරිසිදු කිරීම",
+            "task": "අද දින ඔබ තුළ ඇති එක් වැරදි පුරුද්දක් හෝ වැරදි මතයක් හඳුනාගෙන එය අත්හැරීමට අධිෂ්ඨාන කරන්න.",
+            "difficulty_level": "Medium",
+            "estimated_time_minutes": 10
+        },
+        "friction_points": [
+            {
+                "obstacle": "තමාගේ දෘෂ්ටිය වැරදි බව පිළිගැනීමට ඇති අකමැත්ත.",
+                "workaround": "ධර්මය හා ගලපා තමාගේ මතවාදයන් නැවත නැවත විමර්ශනය කිරීම."
+            }
+        ],
+        "clarifications": [
+            {
+                "myth": "නිරයේ උපදින්නේ භෞතිකව කරන වැරදි වලින් පමණි.",
+                "truth": "නැත, වැරදි දෘෂ්ටිය හෙවත් වැරදි මතවාද දැරීම ද නිරයේ ඉපදීමට ප්‍රධාන හේතුවකි."
+            }
+        ],
+        "logic_equation": "පවිටු සීලය + පවිටු දෘෂ්ටිය = නිරයේ උපත"
+    },
+    "analyser": "gemini-3-flash-preview"
 }

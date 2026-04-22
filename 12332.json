@@ -3,79 +3,6 @@
     "vagga": "අකුසලමූල සුත්තං",
     "sutta_title": "අකුසල් මුල් ගැන වදාළ දෙසුම",
     "id": "12332",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "අකුසල මූල (Root of Unwholesome Actions)",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "ලෝභ, ද්වේෂ, මෝහ යන අකුසල මුල් පුද්ගලයා තුළම හටගෙන ඔහුටම විපත පමුණුවන බව උණ ගසක ඵලය (Fruit of bamboo) උපමාවෙන් මෙහි පැහැදිලි කෙරේ.",
-        "long_summary": "ලෝභය (Greed), ද්වේෂය (Hatred) සහ මෝහය (Delusion) යන අකුසල මුල් තුන පිළිබඳව මෙහි විස්තර වේ. පාපී අදහස් ඇති පුද්ගලයෙකු තුළ මේවා ක්‍රියාත්මක වන විට, එමගින්ම ඔහු පීඩාවට පත්වේ. උණ ගසක හටගන්නා ඵලය එම ගසෙහි විනාශයට හේතු වන්නාක් මෙන්, පුද්ගලයා තුළ හටගන්නා අකුසල චේතනාවන් එම පුද්ගලයාටම දුක සහ විනාශය ගෙන එන බව භාග්‍යවතුන් වහන්සේ වදාරා ඇත.",
-        "main_discovery": "අකුසල මුල් තුන (ලෝභ, ද්වේෂ, මෝහ) පුද්ගලයා තුළම ක්‍රියාත්මක වෙමින් ඔහුව විනාශයට පත් කරන අභ්‍යන්තර යාන්ත්‍රණයක් බව.",
-        "core_truth_of_sutta": "තමන් තුළ හටගන්නා අකුසලයන් තමන්වම විනාශ කරන බව (Self-inflicted suffering through unwholesome roots).",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "අකුසල මූල ප්‍රහාණය (Eradication of unwholesome roots).",
-            "how_it_aids_liberation": "සසර දුකට හේතුවන මූලික මනෝභාවයන් හඳුනාගෙන ඒවා අත්හැරීමෙන් විමුක්තිය ලබාගත හැක.",
-            "practical_renunciation": "ලෝභී, ද්වේෂ සහගත සහ මුළා වූ අදහස් උපදින විට ඒවා තමාවම විනාශ කරන ධර්මතාවන් ලෙස දැක අත්හැරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "ලෝභය (Attachment)",
-                "ද්වේෂය (Aversion)",
-                "මෝහය (Delusion)"
-            ],
-            "cognitive_impact": "අකුසල චේතනා මගින් තීරණ ගැනීමේ හැකියාව සහ මානසික සමබරතාවය බිඳ දමයි (Maladaptive thinking patterns).",
-            "modern_psychology_parallel": "CBT (Cognitive Behavioral Therapy) තුළ මනෝභාවයන් විසින් පුද්ගලයාගේ හැසිරීම සහ පීඩනය පාලනය කරන ආකාරය මෙයට සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Amygdala (Emotional reactivity)",
-                "Default Mode Network (Self-referential processing)",
-                "Prefrontal Cortex (Regulation)"
-            ],
-            "neuroplasticity_and_habit": "අකුසල චේතනා නැවත නැවතත් පුහුණු කිරීමෙන් මොළයේ ස්නායු පථ (Neural pathways) පීඩනය සහ ආතතිය සඳහා වඩාත් සංවේදී ලෙස හැඩගැසීම (Long-term potentiation of negative states).",
-            "stress_reduction_mechanism": "මෙම අකුසල මුල් හඳුනාගැනීමේදී Amygdala හි ක්‍රියාකාරීත්වය අඩු වී Prefrontal Cortex මගින් ආවේග පාලනය වීම නිසා Cortisol මට්ටම අඩු වේ."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Distortion (විපරීත අවබෝධය)",
-            "Affective Reactivity (සංවේදන ප්‍රතික්‍රියාව)",
-            "Self-Destructive Processing (ස්වයං-විනාශකාරී සැකසුම්)"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "Equanimity through understanding",
-            "emotional_intensity": 8,
-            "emotional_arc": "විපත්තිය හඳුනාගැනීමේ සිට ප්‍රඥාව දක්වා",
-            "mood_keywords": [
-                "කලකිරීම",
-                "අවබෝධය",
-                "සංවේගය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Cognitive Triad of Distress",
-                "parallel_description": "ලෝභය (Attachment), ද්වේෂය (Aversion) සහ මෝහය (Delusion) යන ත්‍රිත්වය පුද්ගලයාගේ මානසික පීඩාව (Distress) නිර්මාණය කරන මූලික සංජානනීය දෝෂ ලෙස ක්‍රියා කරයි.",
-                "confidence_score": 95
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "අකුසල මූල",
-                "related_teachings": [
-                    "මූල පරියාය සූත්‍රය",
-                    "ලෝභ සූත්‍රය"
-                ],
-                "connection_type": "ධර්ම කරුණු අතිපිහිත වීම"
-            }
-        ],
-        "practical_takeaway_sinhala": "ඔබ තුළ ඇතිවන ලෝභය හෝ තරහව අනුන්ට පෙර ඔබවම විනාශ කරන බව වටහාගෙන සතිමත්ව ඒවා පාලනය කරන්න.",
-        "daily_practice_steps": [
-            "අකුසල සිතක් උපන් විගස එය හඳුනාගන්න (Mindfulness).",
-            "එම සිත තමාට හානිකර බව සිහි කරන්න (Cognitive reframing).",
-            "උණ ගස සහ ඵලය පිළිබඳ උපමාව මෙනෙහි කරන්න.",
-            "අකුසලයට ඉඩ නොදී සිත උපේක්ෂාවට පත් කරන්න."
-        ]
-    },
     "content": [
         {
             "pali": "වුත්තං හේතං භගවතා වුත්තමරහතා’ති මේ සුතං.",
@@ -97,5 +24,69 @@
             "pali": "අයම්පි අත්ථෝ වුත්තෝ භගවතා. ඉති මේ සුතන්ති.",
             "sinhala": "මේ අර්ථය වදාරණ ලද්දේ භාග්‍යවතුන් වහන්සේ විසින්මයි. මේ විදිහට මා හට අසන්නට ලැබුනා."
         }
-    ]
+    ],
+    "short_summary": "ලෝභ, ද්වේෂ, මෝහ යන අකුසල මුල් පුද්ගලයා තුළම හටගෙන ඔහුටම විපත පමුණුවන බව උණ ගසක ඵලය (Fruit of bamboo) උපමාවෙන් මෙහි පැහැදිලි කෙරේ.",
+    "long_summary": "ලෝභය (Greed), ද්වේෂය (Hatred) සහ මෝහය (Delusion) යන අකුසල මුල් තුන පිළිබඳව මෙහි විස්තර වේ. පාපී අදහස් ඇති පුද්ගලයෙකු තුළ මේවා ක්‍රියාත්මක වන විට, එමගින්ම ඔහු පීඩාවට පත්වේ. උණ ගසක හටගන්නා ඵලය එම ගසෙහි විනාශයට හේතු වන්නාක් මෙන්, පුද්ගලයා තුළ හටගන්නා අකුසල චේතනාවන් එම පුද්ගලයාටම දුක සහ විනාශය ගෙන එන බව භාග්‍යවතුන් වහන්සේ වදාරා ඇත.",
+    "main_discovery": "අකුසල මුල් තුන (ලෝභ, ද්වේෂ, මෝහ) පුද්ගලයා තුළම ක්‍රියාත්මක වෙමින් ඔහුව විනාශයට පත් කරන අභ්‍යන්තර යාන්ත්‍රණයක් බව.",
+    "core_truth_of_sutta": "තමන් තුළ හටගන්නා අකුසලයන් තමන්වම විනාශ කරන බව (Self-inflicted suffering through unwholesome roots).",
+    "practical_takeaway_sinhala": "ඔබ තුළ ඇතිවන ලෝභය හෝ තරහව අනුන්ට පෙර ඔබවම විනාශ කරන බව වටහාගෙන සතිමත්ව ඒවා පාලනය කරන්න.",
+    "path_to_nibbana": [
+        "සිත තුළ හටගන්නා ලෝභ, ද්වේෂ සහ මෝහ යන අකුසල මුල් තුන හඳුනාගෙන ඒවා ප්‍රහීණ කිරීම නිවන කරා යන මඟට උපකාරී වේ."
+    ],
+    "daily_practise": [
+        "තමන් තුළ ලෝභය, තරහව (ද්වේෂය) හෝ මුළාව (මෝහය) ඇතිවන අවස්ථාවන් පිළිබඳව අවධානයෙන් සිටීම.",
+        "මෙම අකුසලයන් නිසා තමාම පීඩාවට පත්වන බව වටහාගෙන ඒවා පාලනය කිරීමට උත්සාහ කිරීම."
+    ],
+    "tags": [
+        "සිතේ නොසන්සුන් බවක් දැනෙන විට",
+        "අකුසලයන් හඳුනා ගැනීම සඳහා",
+        "පාපී අදහස් පාලනය කිරීමට",
+        "තමාටම හානි කරගන්නා බව වැටහෙන විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [
+                {
+                    "fetters": "ලෝභය (Greed)",
+                    "remedy": "අලෝභය හෙවත් අත්හැරීම පුරුදු කිරීම"
+                },
+                {
+                    "fetters": "ද්වේෂය (Hatred)",
+                    "remedy": "අද්වේෂය හෙවත් මෛත්‍රිය පැතිරවීම"
+                },
+                {
+                    "fetters": "මෝහය (Delusion)",
+                    "remedy": "අමෝහය හෙවත් ප්‍රඥාව දියුණු කිරීම"
+                }
+            ],
+            "check_yourself": "අද දවසේ මා තුළ ලෝභය, තරහව හෝ මුළාව නිසා මා පීඩාවට පත් වූ අවස්ථා තිබේද?",
+            "mindfulness_trigger": "සිතේ තදබල ආශාවක්, ක්‍රෝධයක් හෝ ව්‍යාකූල බවක් දැනෙන සැණින් එය තමාටම විනාශය ගෙන දෙන අකුසල මුලක් බව සිහිපත් කරන්න.",
+            "mental_tax": "ලෝභ, ද්වේෂ, මෝහ යන අකුසලයන් නිසා සිත නිරන්තර පීඩාවටත්, දැවීමටත් පත් වේ.",
+            "visual_metaphor": "තමන්ගේම ඵලය නිසා විනාශ වී යන උණ ගසක් මෙන්, තමා තුළ හටගන්නා අකුසලයන් විසින්ම තමා විනාශ කරයි.",
+            "psychological_benefit": "සිත පීඩාවට පත් කරන මූලික හේතු හඳුනා ගැනීමෙන් මානසික සැහැල්ලුව උදා කරගත හැකිය.",
+            "success_indicators": [
+                "බාහිර අරමුණු හමුවේ සිත අසහනයට පත්වන වාර ගණන අඩු වීම."
+            ]
+        },
+        "daily_quest": {
+            "title": "අකුසල මුල් හඳුනා ගැනීම",
+            "task": "අද දවස පුරා සිතේ ලෝභය හෝ ද්වේෂය හටගන්නා එක් අවස්ථාවක් හෝ නිරීක්ෂණය කර එය තමාට පීඩාවක් බව තේරුම් ගන්න.",
+            "difficulty_level": "මධ්‍යම",
+            "estimated_time_minutes": 5
+        },
+        "friction_points": [
+            {
+                "obstacle": "අකුසලයන් තමා තුළම හටගන්නා බව පිළිගැනීමට ඇති අකමැත්ත.",
+                "workaround": "මෙය තමාටම හානි පමුණුවන දෙයක් බව උණ ගසේ උපමාවෙන් මෙනෙහි කරන්න."
+            }
+        ],
+        "clarifications": [
+            {
+                "myth": "අකුසලයන්ගෙන් හානි වන්නේ අන් අයට පමණි.",
+                "truth": "අකුසලයන් නිසා පළමුව පීඩාවට පත් වන්නේ එය ඇති කරගන්නා තැනැත්තාම වේ."
+            }
+        ],
+        "logic_equation": "ලෝභය + ද්වේෂය + මෝහය = ස්වයං පීඩාව"
+    },
+    "analyser": "gemini-3-flash-preview"
 }

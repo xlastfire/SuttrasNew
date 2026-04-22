@@ -3,78 +3,6 @@
     "vagga": "- තථාගතාදී සූත්‍රයෝ",
     "sutta_title": "පුන අප්පමාද වර්ගය",
     "id": "15266",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "ධර්ම ව්‍යුහය සහ අප්‍රමාදය (Dhamma Structure and Heedfulness)",
-        "complexity_rating": 3,
-        "analysis_confidence": 95,
-        "short_summary": "රාගය දුරු කිරීමේ මාර්ගය තථාගත, පද, කූට ආදී ප්‍රමුඛ අංශ දහයකට (සූත්‍ර 30ක්) ව්‍යුහගත කොට ඉදිරිපත් කරන දේශනාවකි.",
-        "long_summary": "මෙම ධර්ම පද්ධතිය රාගය විනයනය කිරීම (රාග විනය) සඳහා වූ කරුණු විස්තර කරයි. එය 'උද්දානය' නම් ක්‍රමානුකූල පිළිවෙලකට සංවිධානය කර ඇත. මෙහි ප්‍රධාන අංශ දහයක් පවතී: තථාගත, පද, කූට, මූල, සාර, වස්සික, රාජ, චන්දිම, සුරිය සහ වත්ථ. එක් අංශයකට සූත්‍ර තුන බැගින් සමස්තයක් ලෙස සූත්‍ර තිහකින් සමන්විත මෙම දේශනාව, ධර්මය තේරුම් ගැනීම සහ පුහුණු කිරීම පහසු කිරීම සඳහා ඉතාමත් ක්‍රමවත් ලෙස ව්‍යුහගත කර ඇත.",
-        "main_discovery": "රාගය විනයනය කිරීම සඳහා වූ ධර්ම කරුණු දස වැදෑරුම් ප්‍රමුඛතා (Priority categories) අනුව ව්‍යුහගත කර තිබීම.",
-        "core_truth_of_sutta": "මානසික කෙලෙස් (රාගය) දුරු කිරීම සඳහා ක්‍රමානුකූල ව්‍යුහගත පුහුණුවක් (Systematic Training) අත්‍යවශ්‍ය වේ.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "රාග විනය (රාගය පාලනය සහ නැති කිරීම) නිර්වාණය සඳහා වූ මූලික පදනමයි.",
-            "how_it_aids_liberation": "සිතේ ඇති වන ඇලීම් (Attachment) ක්‍රමානුකූලව හඳුනාගෙන ඒවා දුරු කිරීමට මග පෙන්වයි.",
-            "practical_renunciation": "ඉදිරිපත් කර ඇති දස වැදෑරුම් ප්‍රමුඛතා ඔස්සේ සිතේ බැඳීම් අනුපිළිවෙලින් අත්හැරීමට පුහුණු වීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "රාගය (Lust/Attachment)",
-                "අප්‍රමාදය (Heedfulness)",
-                "විනය (Discipline)"
-            ],
-            "cognitive_impact": "සිතේ ඇති විසිරුණු ස්වභාවය පාලනය කර, තොරතුරු කාණ්ඩගත කිරීම (Organizing information) මගින් මානසික අවුල් සහගත බව (Cognitive Dissonance) අඩු කරයි.",
-            "modern_psychology_parallel": "සංජානන චර්යාත්මක ප්‍රතිකාරයේ (CBT) එන ව්‍යුහගත ක්‍රමවේදයන්ට (Structured Intervention) සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Prefrontal Cortex",
-                "Executive Control Network",
-                "Hippocampus"
-            ],
-            "neuroplasticity_and_habit": "ධර්ම කරුණු ක්‍රමානුකූලව මෙනෙහි කිරීමේදී (Systematic reflection), පැරණි ආශා සහගත ස්නායුක රටා (Neural pathways) වෙනස් වී අලුත් විනයානුකූල රටා ගොඩනැගේ.",
-            "stress_reduction_mechanism": "ධර්මය ව්‍යුහගතව හදාරන විට මොළයේ අවිනිශ්චිතභාවය පිළිබඳ ඇති බිය (Uncertainty) අඩු වී Amygdala හි ක්‍රියාකාරීත්වය පාලනය වේ."
-        },
-        "cognitive_mechanisms": [
-            "Categorization",
-            "Hierarchical Organization",
-            "Pattern Recognition"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "සන්සුන් බව (Equanimity)",
-            "emotional_intensity": 4,
-            "emotional_arc": "විනය සහ පිළිවෙල තුළින් මානසික විනය කරා යොමු වීම.",
-            "mood_keywords": [
-                "පිළිවෙල",
-                "අප්‍රමාදය",
-                "විනය"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Cognitive Psychology",
-                "theory_name": "Chunking and Schemas",
-                "parallel_description": "තොරතුරු දස වැදෑරුම් කාණ්ඩවලට බෙදා දැක්වීම මගින් මතකය (Working Memory) සහ අවබෝධය පහසු කිරීමේ සංජානන ක්‍රියාවලිය මෙහි දැකිය හැකිය.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "අප්‍රමාදය (Appamada)",
-                "related_teachings": [
-                    "අප්පමාද වග්ගය",
-                    "ධම්මපදය"
-                ],
-                "connection_type": "ධර්මයේ මූලික පදනම ලෙස අප්‍රමාදය දැක්වීම."
-            }
-        ],
-        "practical_takeaway_sinhala": "ජීවිතයේ ගැටලු විසඳා ගැනීමට සහ මානසික සහනය ලබා ගැනීමට නම්, අක්‍රමවත් පිළිවෙත් වෙනුවට ධර්මානුකූල වූත් ක්‍රමවත් වූත් පිළිවෙලක් අනුගමනය කළ යුතුය.",
-        "daily_practice_steps": [
-            "දිනපතා තමා තුළ ඇති ඇලීම් සහ බැඳීම් (රාගය) හඳුනා ගැනීමට උත්සාහ කිරීම.",
-            "තෝරාගත් ධර්ම කරුණු කිහිපයක් ක්‍රමානුකූලව (උද්දාන පිළිවෙලට අනුව) මෙනෙහි කිරීම.",
-            "සෑම ක්‍රියාවකදීම අප්‍රමාදය (සිහිය) පවත්වා ගැනීමට උත්සාහ කිරීම."
-        ]
-    },
     "content": [
         {
             "pali": "(රාගවිනයාදිවසේන විත්ථාරේතබ්බානි)",
@@ -88,5 +16,44 @@
             "pali": "තථාගතං පදං කූටං මූලං සාරේන වස්සිතං\nරාජා චන්දිමසූරියා ච වත්ථේන දසමං පදන්ති",
             "sinhala": "තථාගත, පද, කූට, මූල, සාර, වස්සික, රාජ, චන්දිම, සුරිය, වත්ථ වශයෙන් තුන බැගින් දසයකි. සූත්‍ර තිහකි."
         }
-    ]
+    ],
+    "short_summary": "රාගය දුරු කිරීමේ මාර්ගය තථාගත, පද, කූට ආදී ප්‍රමුඛ අංශ දහයකට (සූත්‍ර 30ක්) ව්‍යුහගත කොට ඉදිරිපත් කරන දේශනාවකි.",
+    "long_summary": "මෙම ධර්ම පද්ධතිය රාගය විනයනය කිරීම (රාග විනය) සඳහා වූ කරුණු විස්තර කරයි. එය 'උද්දානය' නම් ක්‍රමානුකූල පිළිවෙලකට සංවිධානය කර ඇත. මෙහි ප්‍රධාන අංශ දහයක් පවතී: තථාගත, පද, කූට, මූල, සාර, වස්සික, රාජ, චන්දිම, සුරිය සහ වත්ථ. එක් අංශයකට සූත්‍ර තුන බැගින් සමස්තයක් ලෙස සූත්‍ර තිහකින් සමන්විත මෙම දේශනාව, ධර්මය තේරුම් ගැනීම සහ පුහුණු කිරීම පහසු කිරීම සඳහා ඉතාමත් ක්‍රමවත් ලෙස ව්‍යුහගත කර ඇත.",
+    "main_discovery": "රාගය විනයනය කිරීම සඳහා වූ ධර්ම කරුණු දස වැදෑරුම් ප්‍රමුඛතා (Priority categories) අනුව ව්‍යුහගත කර තිබීම.",
+    "core_truth_of_sutta": "මානසික කෙලෙස් (රාගය) දුරු කිරීම සඳහා ක්‍රමානුකූල ව්‍යුහගත පුහුණුවක් (Systematic Training) අත්‍යවශ්‍ය වේ.",
+    "practical_takeaway_sinhala": "ජීවිතයේ ගැටලු විසඳා ගැනීමට සහ මානසික සහනය ලබා ගැනීමට නම්, අක්‍රමවත් පිළිවෙත් වෙනුවට ධර්මානුකූල වූත් ක්‍රමවත් වූත් පිළිවෙලක් අනුගමනය කළ යුතුය.",
+    "path_to_nibbana": [
+        "රාගය විනයනය කිරීම (දුරු කිරීම) නිවන කරා යන මගෙහි මූලික පියවරක් ලෙස මෙහි දක්වා ඇත."
+    ],
+    "daily_practise": [],
+    "tags": [
+        "ධර්ම කරුණු විමසන විට",
+        "රාගය පාලනය කිරීම සඳහා"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [
+                {
+                    "fetters": "රාගය (Lust/Attachment)",
+                    "remedy": "රාගය විනයනය කිරීම (Discipline/Removal of Lust)"
+                }
+            ],
+            "check_yourself": "",
+            "mindfulness_trigger": "සිතේ රාගයක් හෝ ඇලීමක් ඇතිවන අවස්ථාවන්හිදී එය හඳුනාගැනීමට උත්සාහ කරන්න.",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "රාගය විනයනය කිරීම තුළින් සිතේ පවතින නොසන්සුන් බව පහව යයි.",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": "රාගය + විනයනය = සන්සුන් බව"
+    },
+    "analyser": "gemini-3-flash-preview"
 }

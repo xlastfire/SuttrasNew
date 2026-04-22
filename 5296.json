@@ -3,84 +3,43 @@
     "vagga": "අනුපනාහී සුත්තං",
     "sutta_title": "බද්ධ වෛර නැති ස්ත්‍රිය ගැන වදාළ දෙසුම",
     "id": "5296",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "Samma Ditthi and Moral Conduct",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "ශ්‍රද්ධාව, හිරි-ඔතප්, ක්‍රෝධය නොකිරීම සහ ප්‍රඥාව යන ගුණාංගවලින් යුත් කාන්තාව මරණින් පසු සුගතිගාමී වන බව මෙහි දැක්වේ.",
-        "long_summary": "ශ්‍රද්ධාව (Saddha), පව් කිරීමට ඇති ලැජ්ජාව (Hiri), පව් කිරීමට ඇති බිය (Ottappa), බද්ධ වෛරයෙන් තොර වීම (Non-hatred) සහ ප්‍රඥාව (Panna) යන අංග පහෙන් යුක්ත වන කාන්තාව, තම කය බිඳී මරණයට පත්වීමෙන් පසු උසස් උපතක් කරා හෙවත් ස්වර්ග ලෝකයට යන බව බුදුරජාණන් වහන්සේ මෙම සූත්‍රය මගින් දේශනා කරති.",
-        "main_discovery": "මානසික ගුණාංග පහක් (පංච ධර්ම) පදනම් කරගෙන පුද්ගලයෙකුගේ මරණයෙන් පසු පැවැත්ම තීරණය වන ආකාරය.",
-        "core_truth_of_sutta": "මානසික සංස්කාරයන්ගේ (Mental formations) පිරිසිදු බව මරණයෙන් පසු උපතේ ස්වභාවය තීරණය කරන මූලික සාධකය වේ.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "ශීල සහ ප්‍රඥා පදනම මත සකස් වන මානසික දියුණුව.",
-            "how_it_aids_liberation": "බද්ධ වෛරය ප්‍රහාණය කිරීම (Elimination of ill-will) මගින් සිත බැඳීම්වලින් මුදා නිවනට යොමු කරයි.",
-            "practical_renunciation": "ද්වේශය (Hatred) සහ අකුසලයට ඇති ඇලීම අත්හැරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "Akkodha (Absence of anger)",
-                "Saddha (Trust in causality)",
-                "Panna (Cognitive clarity)"
-            ],
-            "cognitive_impact": "සංජානනය පිරිසිදු කිරීම (Cognitive restructuring) මගින් ක්‍රෝධය වෙනුවට මෙත්තාව සහ ප්‍රඥාව ආදේශ කිරීම.",
-            "modern_psychology_parallel": "Cognitive Behavioral Therapy (CBT) සහ Dialectical Behavior Therapy (DBT) වල හැඟීම් පාලනය (Emotional Regulation) හා සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Prefrontal Cortex",
-                "Amygdala",
-                "Default Mode Network (DMN)"
-            ],
-            "neuroplasticity_and_habit": "වෛරය නොකිරීම දිගින් දිගටම පුහුණු කිරීමෙන් (Neuroplasticity) මොළයේ චිත්තවේග පාලන කලාප ශක්තිමත් වී ද්වේශ සහගත ප්‍රතිචාර (Neural pathways) දුර්වල වේ.",
-            "stress_reduction_mechanism": "අකුසලයට ඇති බිය සහ ලැජ්ජාව මගින් Amygdala හි අධි-ප්‍රතිචාර දැක්වීම් පාලනය කර Cortisol මට්ටම අඩු කරයි."
-        },
-        "cognitive_mechanisms": [
-            "Hiri (Moral Shame)",
-            "Ottappa (Moral Dread)",
-            "Saddha (Faith/Confidence)",
-            "Akkodha (Non-hatred)",
-            "Panna (Wisdom)"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "Upekkha (Equanimity)",
-            "emotional_intensity": 7,
-            "emotional_arc": "Negative to Positive transformation via ethical discipline.",
-            "mood_keywords": [
-                "Peaceful",
-                "Disciplined",
-                "Harmonious"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Prosocial Behavior Theory",
-                "parallel_description": "වෛරයෙන් තොර වීම (Non-hatred) සහ ලැජ්ජා-භය (Moral emotions) සමාජීය යහපැවැත්මට සහ මානසික සෞඛ්‍යයට සෘජුව බලපාන බව.",
-                "confidence_score": 95
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "Panca Dhamma",
-                "related_teachings": [
-                    "Itivuttaka - Akkodha Sutta",
-                    "Anguttara Nikaya - Matugama Samyutta"
-                ],
-                "connection_type": "Thematic Consistency"
-            }
-        ],
-        "practical_takeaway_sinhala": "සිත තුළ ක්‍රෝධය තබා නොගැනීමත්, පව් කිරීමට ලැජ්ජාව සහ බිය ඇති කර ගැනීමත් මෙලොව මෙන්ම පරලොව යහපතට හේතු වේ.",
-        "daily_practice_steps": [
-            "යම් පුද්ගලයෙකු කෙරෙහි තරහක් ඇති වූ විට එය බද්ධ වෛරයක් ලෙස තබා නොගෙන වහාම අත්හැරීම.",
-            "වැරදි ක්‍රියාවක් කිරීමට පෙර එහි විපාකය ගැන සිතා 'හිරි-ඔතප්' මතු කර ගැනීම.",
-            "සෑම දිනකම සුළු වෙලාවක් හෝ ධර්මය මෙනෙහි කර ප්‍රඥාව වර්ධනය කිරීම."
-        ]
-    },
     "content": [
         {
             "pali": "පඤ්චහි භික්ඛවේ, ධම්මේහි සමන්නාගතෝ මාතුගාමෝ කායස්ස භේදා පරම්මරණා සුගතිං සග්ගං ලෝකං උපපජ්ජති. කතමේහි පඤ්චහි: සද්ධෝ ච හෝති, හිරිමා ච හෝති, ඔත්තාපී ච හෝති, අනුපනාහී ච හෝති, පඤ්ඤවා ච හෝති. ඉමේහි ඛෝ භික්ඛවේ, පඤ්චහි ධම්මේහි සමන්නාගතෝ මාතුගාමෝ කායස්ස භේදා පරම්මරණා සුගතිං සග්ගං ලෝකං උපපජ්ජතීති.",
             "sinhala": "පින්වත් මහණෙනි, කරුණු පහකින් සමන්විත වූ ස්ත්‍රිය කය බිඳී මරණින් මතු සුගතිය නම් වූ, ස්වර්ග ලෝකයේ උපදිනවා. කවර කරුණු පහකින් ද යත්? ශ්‍රද්ධාවකින් යුතුව ඉන්නවා. පවට ලැජ්ජාවක් ඇතිව ඉන්නවා. විපාකයට භයක් ඇතුව ඉන්නවා. වෛර බඳින්නේ නෑ. ප්‍රඥාවකින් යුතුව ඉන්නවා. පින්වත් මහණෙනි, මේ කරුණු පහෙන් සමන්විත වූ ස්ත්‍රිය කය බිඳී මරණින් මතු සුගතිය නම් වූ, ස්වර්ග ලෝකයේ උපදිනවා."
         }
-    ]
+    ],
+    "short_summary": "ශ්‍රද්ධාව, හිරි-ඔතප්, ක්‍රෝධය නොකිරීම සහ ප්‍රඥාව යන ගුණාංගවලින් යුත් කාන්තාව මරණින් පසු සුගතිගාමී වන බව මෙහි දැක්වේ.",
+    "long_summary": "ශ්‍රද්ධාව (Saddha), පව් කිරීමට ඇති ලැජ්ජාව (Hiri), පව් කිරීමට ඇති බිය (Ottappa), බද්ධ වෛරයෙන් තොර වීම (Non-hatred) සහ ප්‍රඥාව (Panna) යන අංග පහෙන් යුක්ත වන කාන්තාව, තම කය බිඳී මරණයට පත්වීමෙන් පසු උසස් උපතක් කරා හෙවත් ස්වර්ග ලෝකයට යන බව බුදුරජාණන් වහන්සේ මෙම සූත්‍රය මගින් දේශනා කරති.",
+    "main_discovery": "මානසික ගුණාංග පහක් (පංච ධර්ම) පදනම් කරගෙන පුද්ගලයෙකුගේ මරණයෙන් පසු පැවැත්ම තීරණය වන ආකාරය.",
+    "core_truth_of_sutta": "මානසික සංස්කාරයන්ගේ (Mental formations) පිරිසිදු බව මරණයෙන් පසු උපතේ ස්වභාවය තීරණය කරන මූලික සාධකය වේ.",
+    "practical_takeaway_sinhala": "සිත තුළ ක්‍රෝධය තබා නොගැනීමත්, පව් කිරීමට ලැජ්ජාව සහ බිය ඇති කර ගැනීමත් මෙලොව මෙන්ම පරලොව යහපතට හේතු වේ.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [
+        "සතුටු වීමට",
+        "හොඳ ජීවිතයක් ගත කිරීමට",
+        "සිත පිරිසිදු කිරීමට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": "ශ්‍රද්ධාව + ලැජ්ජාව + විපාක භය + වෛර නොකිරීම + ප්‍රඥාව = සුගතිය (ස්වර්ග ලෝකය)"
+    },
+    "analyser": "gemma4:e4b"
 }

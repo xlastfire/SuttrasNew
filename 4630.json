@@ -3,83 +3,44 @@
     "vagga": "දුතිය පාචීනනින්න සුත්තං",
     "sutta_title": "පෙරදිගට නැමී තිබීම ගැන වදාළ දෙවෙනි දෙසුම",
     "id": "4630",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "සම්මා සමාධි සහ මාර්ගඵල (Path to Liberation)",
-        "complexity_rating": 2,
-        "analysis_confidence": 100,
-        "short_summary": "යමුනා නදිය පෙරදිගට බෑවුම් වී ගලා යන්නා සේ, භික්ෂුවක් තම මානසික නැඹුරුව සහ ජීවන අරමුණ නිරන්තරයෙන් නිවන දෙසටම යොමු කළ යුතුය.",
-        "long_summary": "මෙම සූත්‍රය මගින් නිවන ළඟා කර ගැනීමේ අත්‍යවශ්‍යතාව අවධාරණය කරයි. යමුනා නදිය ස්වභාවිකවම පෙරදිගට නැමී (Ninna), පෙරදිගට නැඹුරු වී (Pona), පෙරදිගට බර වී (Pabbhara) ගලා බසින්නාක් මෙන්, බුද්ධ ශ්‍රාවකයා වූ භික්ෂුවගේ අධ්‍යාත්මික චර්යාව සහ මානසික ශක්තිය නිවන නමැති අරමුණ කෙරෙහිම ඒකාග්‍ර විය යුතු බව මෙහිදී පැහැදිලි කෙරේ.",
-        "main_discovery": "භික්ෂුවකගේ සමස්ත ජීවන රටාව සහ මානසික අවධානය ස්වභාවිකවම නිවන දෙසට යොමු විය යුතු බව යමුනා නදියේ ගලායාම ඇසුරින් පෙන්වා දීම.",
-        "core_truth_of_sutta": "මානසික අවධානය සහ කැපවීම නිවන දෙසටම අභිමුඛ වූ විට, විමුක්තිය කරා යාම ස්වභාවික ස්වයංක්‍රීය ක්‍රියාවලියක් බවට පත්වේ.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "නිවනට නැඹුරු වීම (Nibbana-ninna).",
-            "how_it_aids_liberation": "සිතේ ඇති විසිරුණු ස්වභාවය පාලනය කර, එය එකම අරමුණක් කරා යොමු කිරීමෙන් පංච නීවරණ යටපත් වී ප්‍රඥාව වැඩීමට මග පාදයි.",
-            "practical_renunciation": "ලෞකික ආශාවන්ගෙන් සිත ඉවත් කර ගනිමින්, අධ්‍යාත්මික විමුක්තිය මූලික අවශ්‍යතාව ලෙස සැලකීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "සතිමත්බව (Mindfulness)",
-                "අධිෂ්ඨානය (Determination)",
-                "නොසැලෙන අවධානය (One-pointedness)"
-            ],
-            "cognitive_impact": "Cognitive Reframing හරහා එදිනෙදා සිදුවීම් නිවනට උපකාරී වන අත්දැකීම් ලෙස අර්ථකථනය කර ගැනීමට සිත හුරු කරයි.",
-            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Value-driven living' යන්නට සමාන වේ; එනම් තමාගේ ඉහළම වටිනාකම වෙනුවෙන් ක්‍රියා කිරීම."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN)",
-                "Task Positive Network (TPN)",
-                "Prefrontal Cortex"
-            ],
-            "neuroplasticity_and_habit": "නිරන්තරයෙන් නිවන ගැන සිහිකිරීමෙන් මොළයේ Synaptic connections ශක්තිමත් වී, ලෞකික උත්තේජන වලට දක්වන ප්‍රතිචාර (Habitual responses) වෙනස් වේ (Long-term potentiation).",
-            "stress_reduction_mechanism": "අරමුණක් සහිත බව නිසා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, ආතතිය පාලනය කරන Prefrontal Cortex හි පාලනය ශක්තිමත් වේ."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Bias towards Liberation",
-            "Goal-Oriented Attention",
-            "Mental Framing",
-            "Intentional Focus"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "ශාන්තිය (Serenity)",
-            "emotional_intensity": 7,
-            "emotional_arc": "අරමුණක් නැති බවෙන් අරමුණක් සහිත බවට (Directionless to Purposeful)",
-            "mood_keywords": [
-                "සන්සුන්",
-                "අකලංක",
-                "අධිෂ්ඨානශීලී"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Priming and Goal Setting Theory",
-                "parallel_description": "යම් නිශ්චිත අරමුණක් (Goal) වෙත සිත නිරන්තරයෙන් යොමු කිරීමෙන්, උපවිඥානය ස්වභාවිකවම එම අරමුණට අනුකූල තීරණ ගැනීම (Automaticity) සිදු කරයි.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "නිවනට බෑවුම් වීම (Slanting towards Nibbana)",
-                "related_teachings": [
-                    "අවිජ්ජා සූත්‍රය",
-                    "ගංගා පේයාල වර්ගය"
-                ],
-                "connection_type": "Metaphorical Consistency"
-            }
-        ],
-        "practical_takeaway_sinhala": "ඔබේ දෛනික වැඩකටයුතු අතරතුර පවා, ඔබේ අවසාන අරමුණ දුක නිවීම බව නිරන්තරයෙන් සිහිපත් කරමින් සිත ඒ දෙසටම මෙහෙයවන්න.",
-        "daily_practice_steps": [
-            "උදෑසන අවදි වූ පසු දවසේ අරමුණ නිවන බව මෙනෙහි කරන්න (Setting Intentions).",
-            "බාහිර අරමුණු වලට සිත ඇදී යන විට, යමුනා නදිය මෙන් නැවත සිත නිසි මගට හරවන්න (Attention Reorientation).",
-            "රාත්‍රියේ නිදා ගැනීමට පෙර සිත කෙතරම් දුරට නිවනට බරව පැවතියේදැයි විමසා බලන්න (Self-Reflection)."
-        ]
-    },
     "content": [
         {
-            "pali": "සෙය්‍යථාපි භික්ඛවේ, යමුනා නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
-            "sinhala": "මහණෙනි, යමුනා නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, යමුනා නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු  නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, යමුනා නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක්  නිවනට බර වූයේ වෙයි."
         }
-    ]
+    ],
+    "short_summary": "යමුනා නදිය පෙරදිගට බෑවුම් වී ගලා යන්නා සේ, භික්ෂුවක් තම මානසික නැඹුරුව සහ ජීවන අරමුණ නිරන්තරයෙන් නිවන දෙසටම යොමු කළ යුතුය.",
+    "long_summary": "මෙම සූත්‍රය මගින් නිවන ළඟා කර ගැනීමේ අත්‍යවශ්‍යතාව අවධාරණය කරයි. යමුනා නදිය ස්වභාවිකවම පෙරදිගට නැමී (Ninna), පෙරදිගට නැඹුරු වී (Pona), පෙරදිගට බර වී (Pabbhara) ගලා බසින්නාක් මෙන්, බුද්ධ ශ්‍රාවකයා වූ භික්ෂුවගේ අධ්‍යාත්මික චර්යාව සහ මානසික ශක්තිය නිවන නමැති අරමුණ කෙරෙහිම ඒකාග්‍ර විය යුතු බව මෙහිදී පැහැදිලි කෙරේ.",
+    "main_discovery": "භික්ෂුවකගේ සමස්ත ජීවන රටාව සහ මානසික අවධානය ස්වභාවිකවම නිවන දෙසට යොමු විය යුතු බව යමුනා නදියේ ගලායාම ඇසුරින් පෙන්වා දීම.",
+    "core_truth_of_sutta": "මානසික අවධානය සහ කැපවීම නිවන දෙසටම අභිමුඛ වූ විට, විමුක්තිය කරා යාම ස්වභාවික ස්වයංක්‍රීය ක්‍රියාවලියක් බවට පත්වේ.",
+    "practical_takeaway_sinhala": "ඔබේ දෛනික වැඩකටයුතු අතරතුර පවා, ඔබේ අවසාන අරමුණ දුක නිවීම බව නිරන්තරයෙන් සිහිපත් කරමින් සිත ඒ දෙසටම මෙහෙයවන්න.",
+    "path_to_nibbana": [
+        "එසෙයින් ම මහණෙනි, භික්ෂුවක් ... නිවනට බර වූයේ වෙයි."
+    ],
+    "daily_practise": [],
+    "tags": [
+        "සිත බර වූ විට",
+        "නිවන ගැන සිතන විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }

@@ -3,83 +3,39 @@
     "vagga": "හත්ථාරෝහ සුත්තං",
     "sutta_title": "හත්ථාරෝහ ගාමණීට වදාළ දෙසුම",
     "id": "5552",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "Saranagamana (Refuge and Commitment)",
-        "complexity_rating": 2,
-        "analysis_confidence": 95,
-        "short_summary": "හත්ථාරෝහ ගාමණී භාග්‍යවතුන් වහන්සේ සරණ ගොස්, දිවි හිමියෙන් උපාසකයෙකු ලෙස කැපවීමට ප්‍රතිඥා දීම මෙහි විස්තර වේ.",
-        "long_summary": "හත්ථාරෝහ ගාමණී බුදුරජාණන් වහන්සේ වෙත පැමිණ, උන්වහන්සේගේ ශාසනය කෙරෙහි පැහැදී, තෙරුවන් සරණ යන ආකාරය මෙහි දැක්වේ. ඔහු එතැන් පටන් දිවි හිමියෙන් තෙරුවන් සරණ ගිය උපාසකයෙකු ලෙස තමන්ව පිළිගන්නා ලෙස ඉල්ලා සිටින අතර, එය හුදු වචනවලට සීමා නොවූ ජීවිත කාලය පුරා පවතින ගැඹුරු කැපවීමක් ප්‍රකාශ කිරීමකි.",
-        "main_discovery": "විශ්වාසය සහ කැපවීම තුළින් පුද්ගල අනන්‍යතාවය පරිවර්තනය කරගැනීමේ මූලික පදනම.",
-        "core_truth_of_sutta": "විමුක්ති මාර්ගය ආරම්භ වන්නේ පූර්ණ විශ්වාසය මත පදනම් වූ සරණාගත වීම සහ ශික්ෂණයට ඇති කැපවීම තුළිනි.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "සරණාගත වීම (Saranagamana) යනු නිවන් මගෙහි ප්‍රථම පියවර වන අතර, එමගින් සීලයට සහ සමාධියට අවශ්‍ය අත්තිවාරම සැකසේ.",
-            "how_it_aids_liberation": "ආධ්‍යාත්මික මාර්ගෝපදේශනය පිළිගැනීම තුළින් 'මම' යන අහංකාරය (Ego) ලිහිල් වී, ගුරු උපදෙස් පිළිපැදීමට සිත සකස් වේ.",
-            "practical_renunciation": "තමාගේ පැරණි අදූරදර්ශී මතවාද සහ වැරදි චර්යාවන් අත්හැර, උසස් ගුණධර්ම කරා යොමු වීමට සපථ කිරීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "ප්‍රසාදය (Confidence)",
-                "සතිමත්බව (Mindfulness of Purpose)",
-                "අධිෂ්ඨානය (Resolution)"
-            ],
-            "cognitive_impact": "අස්ථිර සහ අවිනිශ්චිත චින්තන රටාවන් වෙනුවට, යම් උසස් අරමුණක් වෙත අවධානය යොමු කිරීම නිසා ඇතිවන 'Cognitive Clarity' තත්ත්වය.",
-            "modern_psychology_parallel": "Acceptance and Commitment Therapy (ACT) හි එන 'Values-based living' සංකල්පයට සමානය; පුද්ගලයා තමන් වටිනාකම් ලෙස පිළිගන්නා දේට අනුකූලව ජීවත් වීමට තීරණය කිරීම."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Prefrontal Cortex (PFC)",
-                "Limbic System (Amygdala)",
-                "Default Mode Network (DMN)"
-            ],
-            "neuroplasticity_and_habit": "දිවි හිමියෙන් සරණ යාමේ ප්‍රතිඥාව මගින් Prefrontal Cortex සක්‍රීය වී, පැරණි අකුසල සහගත ස්නායුක රටාවන් යටපත් කර නව 'සදාචාරාත්මක පුරුදු' (Neural pathways) ගොඩනැගීමට මග පාදයි.",
-            "stress_reduction_mechanism": "ආරක්ෂිත සරණක් හමුවීම නිසා Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, බිය සහ ආතතිය සමනය වේ (Regulation of Fear-processing)."
-        },
-        "cognitive_mechanisms": [
-            "Cognitive Restructuring",
-            "Identity Shift",
-            "Attentional Bias toward Safety"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "ශ්‍රද්ධාව (Devotion/Faith)",
-            "emotional_intensity": 8,
-            "emotional_arc": "සෙවීම සහ සැකය තුළින් පැමිණ සැනසීම සහ ස්ථිර ප්‍රතිඥාවකට එළඹීම.",
-            "mood_keywords": [
-                "Peace",
-                "Dedication",
-                "Security",
-                "Clarity"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Commitment and Consistency Theory",
-                "parallel_description": "යම් දර්ශනයකට හෝ පුද්ගලයෙකුට ප්‍රසිද්ධියේ ප්‍රතිඥා දීම මගින් (Commitment), පුද්ගලයාගේ ඉදිරි චර්යාවන් එම මතවාදයට අනුකූලව හැඩගැසීමේ ප්‍රවණතාව.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "සරණාගත වීම (Taking Refuge)",
-                "related_teachings": [
-                    "Saranagamana Sutta",
-                    "Dhammapada (Verses 188-192)"
-                ],
-                "connection_type": "Direct Doctrine"
-            }
-        ],
-        "practical_takeaway_sinhala": "ජීවිතයේ නිවැරදි දැක්මක් ඇති කර ගැනීමට නම්, පළමුව උසස් දර්ශනයක් හෝ මගපෙන්වීමක් කෙරෙහි විශ්වාසය තබා ඒ අනුව හැඩගැසීමට ස්ථිර අධිෂ්ඨානයක් තිබිය යුතුය.",
-        "daily_practice_steps": [
-            "තෙරුවන් සරණ යාමේ අර්ථය දිනපතා සිහිපත් කිරීම.",
-            "අද දින මාගේ හැසිරීම් උපාසකයෙකුට සුදුසු දැයි විමසා බැලීම.",
-            "බාහිර ලෝකයේ අස්ථිර දේ සරණ නොගොස්, අභ්‍යන්තර ගුණධර්ම දියුණු කිරීමට උත්සාහ කිරීම."
-        ]
-    },
     "content": [
         {
             "pali": "අථ ඛෝ හත්ථාරෝහෝ ගාමණී යේන භගවා තේනුපසංකමි ....(පෙ).... අජ්ජතග්ගේ පාණුපේතං සරණං ගතන්ති.",
             "sinhala": "එදා හත්ථාරෝහ ගාමණී භාග්‍යවතුන් වහන්සේ වැඩසිටි තැනට පැමිණුනා ….(පෙ)…. අද පටන් දිවි හිමියෙන් සරණ ගිය (උපාසකයෙකු වශයෙන්) මා පිළිගන්නා සේක්වා."
         }
-    ]
+    ],
+    "short_summary": "හත්ථාරෝහ ගාමණී භාග්‍යවතුන් වහන්සේ සරණ ගොස්, දිවි හිමියෙන් උපාසකයෙකු ලෙස කැපවීමට ප්‍රතිඥා දීම මෙහි විස්තර වේ.",
+    "long_summary": "හත්ථාරෝහ ගාමණී බුදුරජාණන් වහන්සේ වෙත පැමිණ, උන්වහන්සේගේ ශාසනය කෙරෙහි පැහැදී, තෙරුවන් සරණ යන ආකාරය මෙහි දැක්වේ. ඔහු එතැන් පටන් දිවි හිමියෙන් තෙරුවන් සරණ ගිය උපාසකයෙකු ලෙස තමන්ව පිළිගන්නා ලෙස ඉල්ලා සිටින අතර, එය හුදු වචනවලට සීමා නොවූ ජීවිත කාලය පුරා පවතින ගැඹුරු කැපවීමක් ප්‍රකාශ කිරීමකි.",
+    "main_discovery": "විශ්වාසය සහ කැපවීම තුළින් පුද්ගල අනන්‍යතාවය පරිවර්තනය කරගැනීමේ මූලික පදනම.",
+    "core_truth_of_sutta": "විමුක්ති මාර්ගය ආරම්භ වන්නේ පූර්ණ විශ්වාසය මත පදනම් වූ සරණාගත වීම සහ ශික්ෂණයට ඇති කැපවීම තුළිනි.",
+    "practical_takeaway_sinhala": "ජීවිතයේ නිවැරදි දැක්මක් ඇති කර ගැනීමට නම්, පළමුව උසස් දර්ශනයක් හෝ මගපෙන්වීමක් කෙරෙහි විශ්වාසය තබා ඒ අනුව හැඩගැසීමට ස්ථිර අධිෂ්ඨානයක් තිබිය යුතුය.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }

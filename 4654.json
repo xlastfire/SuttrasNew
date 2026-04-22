@@ -3,81 +3,44 @@
     "vagga": "දුතිය පාචීනනින්න සුත්තං",
     "sutta_title": "පෙරදිගට නැමී තිබීම ගැන වදාළ දෙවෙනි දෙසුම",
     "id": "4654",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "නිවන වෙත යොමු වූ ජීවිතය",
-        "complexity_rating": 3,
-        "analysis_confidence": 100,
-        "short_summary": "යමුනා නදිය පෙරදිගට ගලා යන්නා සේ, භික්ෂු ජීවිතයේ සියලු අරමුණු සහ ක්‍රියාවන් නිවන දෙසටම නැඹුරු විය යුතු බව මෙහි ඉගැන්වේ.",
-        "long_summary": "මෙම සූත්‍රය මගින් නිවන අරමුණු කරගත් ජීවිතයක ඇති වැදගත්කම පැහැදිලි කරයි. යමුනා නදිය ස්වභාවිකවම පෙරදිග දිශාවට නැමී, නැඹුරු වී, එම දිශාවටම බර වී පවතින්නා සේම, භික්ෂුවකගේ සියලු අධ්‍යාත්මික චේතනාවන්, දෛනික ක්‍රියාවන් සහ ජීවිතයේ පරම අභිලාෂය විය යුත්තේ නිවනයි. බාහිර ලෝකය වෙත විසිරී නොගොස් එක් අරමුණක් කරා යන මෙම ස්වභාවික ගමන භික්ෂු ජීවිතයේ පදනම විය යුතුය.",
-        "main_discovery": "භික්ෂුවකගේ සමස්ත පැවැත්ම නිවන කෙරෙහි ස්වභාවිකව නැඹුරු විය යුතුය.",
-        "core_truth_of_sutta": "විමුක්තිය උදෙසා සිතේ සහ ක්‍රියාවලියේ පූර්ණ නැඹුරුව (Total alignment of intent and action towards liberation).",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "නිවනට නැඹුරු වූ මානසිකත්වය (Nibbana-ninna, Nibbana-pona, Nibbana-pabbhara).",
-            "how_it_aids_liberation": "සිතේ විසිරුණු ස්වභාවය පාලනය කර, සියලු ශක්තිය නිවන සඳහා පමණක් යෙදවීමට උපකාරී වේ.",
-            "practical_renunciation": "ලෞකික ආශාවන්ගෙන් ඉවත් වී, චිත්තවේගීය බර නිවන වෙත යොමු කිරීමෙන් අත්හැරීම පුහුණු වේ."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "ඒකාග්‍රතාව (Focus)",
-                "අරමුණ (Intent)",
-                "ස්ථාවර බව (Consistency)"
-            ],
-            "cognitive_impact": "සිතේ ඇති 'Cognitive Dissonance' හෙවත් පරස්පර අරමුණු ඉවත් කර, තනි ඉලක්කයක් වෙත (Single-pointed focus) මනස හැඩගස්වයි.",
-            "modern_psychology_parallel": "ගලනය (Flow State) - ක්‍රියාව සහ අරමුණ එකට ඒකාබද්ධ වී බාහිර බාධාවන්ගෙන් තොරව ඉලක්කය කරා ගමන් කිරීම."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Default Mode Network (DMN) පාලනය",
-                "Executive Control Network (ECN) සක්‍රීය වීම"
-            ],
-            "neuroplasticity_and_habit": "දිගින් දිගටම නිවන අරමුණු කිරීමෙන් (Focused attention), මොළයේ ස්නායු පද්ධතිය එම අරමුණට අදාළව නව සබඳතා ඇති කර ගනී (Long-term Potentiation).",
-            "stress_reduction_mechanism": "අරමුණක් නැතිව සිත විසිරී යාම වැළකීමෙන් Amygdala හි ක්‍රියාකාරිත්වය අඩු වී ආතතිය පහව යයි."
-        },
-        "cognitive_mechanisms": [
-            "චේතනාත්මක අවධානය (Intentional Attention)",
-            "දිශානතිය (Orientation)",
-            "ප්‍රජානන නැඹුරුව (Cognitive Bias towards Liberation)"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "සන්සුන් බව (Equanimity)",
-            "emotional_intensity": 4,
-            "emotional_arc": "විසිරුණු බවේ සිට ඒකාග්‍ර ස්ථාවරත්වය දක්වා",
-            "mood_keywords": [
-                "නිරාමිස",
-                "ස්ථාවර",
-                "නැඹුරු"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Physics/Biology",
-                "theory_name": "Tropism/Natural Gradient",
-                "parallel_description": "යම් පද්ධතියක් ස්වභාවික බලවේගයක් හේතුවෙන් එක් දිශාවකට පමණක් නැඹුරු වීම (උදා: ශාක ආලෝකය දෙසට හැරීම), සිත නිවන දෙසට හැරවීමට සමාන වේ.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "නිවනට නැඹුරු වීම (Inclination towards Nibbana)",
-                "related_teachings": [
-                    "අරිය අට්ඨංගික මග්ග (Ariya Atthangika Magga)",
-                    "ගංගා පේයාල වග්ග (Ganga Peyala Vagga)"
-                ],
-                "connection_type": "උපමා සමානතාව"
-            }
-        ],
-        "practical_takeaway_sinhala": "ඔබ කරන සෑම සුළු හෝ යහපත් ක්‍රියාවක්ම ඔබේ පරම නිදහස හෙවත් නිවන උදෙසාම යොමු කරන්න.",
-        "daily_practice_steps": [
-            "උදෑසන අවදි වූ පසු එදින කරන සියලු කටයුතු නිවන සඳහා උපකාරයක් කර ගැනීමට අධිෂ්ඨාන කරන්න.",
-            "දවස පුරා සිතේ නැඹුරුව පරීක්ෂා කරන්න (සිත නිවනටද නැත්නම් ලෞකික ආශාවන්ටද නැඹුරු වී ඇත්තේ?).",
-            "යම් වැරදි නැඹුරුවක් දුටු විට යමුනා නදිය සේ සිත නැවත නිවැරදි දිශාවට හරවන්න."
-        ]
-    },
     "content": [
         {
-            "pali": "සෙය්‍යථාපි භික්ඛවේ, යමුනා නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු ....(පෙ).... නිබ්බානපබ්භාරෝති.",
-            "sinhala": "මහණෙනි, යමුනා නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක් ….(පෙ)…. නිවනට බර වූයේ වෙයි."
+            "pali": "සෙය්‍යථාපි භික්ඛවේ, යමුනා නදී පාචීනනින්නා පාචීනපෝණා පාචීනපබ්භාරා. ඒවමේව ඛෝ භික්ඛවේ, භික්ඛු  නිබ්බානපබ්භාරෝති.",
+            "sinhala": "මහණෙනි, යමුනා නදිය පෙරදිගට නැමී, පෙරදිගට නැඹුරු වී, පෙරදිගට බර වී ඇත්තේ යම් සේ ද, එසෙයින් ම මහණෙනි, භික්ෂුවක්  නිවනට බර වූයේ වෙයි."
         }
-    ]
+    ],
+    "short_summary": "යමුනා නදිය පෙරදිගට ගලා යන්නා සේ, භික්ෂු ජීවිතයේ සියලු අරමුණු සහ ක්‍රියාවන් නිවන දෙසටම නැඹුරු විය යුතු බව මෙහි ඉගැන්වේ.",
+    "long_summary": "මෙම සූත්‍රය මගින් නිවන අරමුණු කරගත් ජීවිතයක ඇති වැදගත්කම පැහැදිලි කරයි. යමුනා නදිය ස්වභාවිකවම පෙරදිග දිශාවට නැමී, නැඹුරු වී, එම දිශාවටම බර වී පවතින්නා සේම, භික්ෂුවකගේ සියලු අධ්‍යාත්මික චේතනාවන්, දෛනික ක්‍රියාවන් සහ ජීවිතයේ පරම අභිලාෂය විය යුත්තේ නිවනයි. බාහිර ලෝකය වෙත විසිරී නොගොස් එක් අරමුණක් කරා යන මෙම ස්වභාවික ගමන භික්ෂු ජීවිතයේ පදනම විය යුතුය.",
+    "main_discovery": "භික්ෂුවකගේ සමස්ත පැවැත්ම නිවන කෙරෙහි ස්වභාවිකව නැඹුරු විය යුතුය.",
+    "core_truth_of_sutta": "විමුක්තිය උදෙසා සිතේ සහ ක්‍රියාවලියේ පූර්ණ නැඹුරුව (Total alignment of intent and action towards liberation).",
+    "practical_takeaway_sinhala": "ඔබ කරන සෑම සුළු හෝ යහපත් ක්‍රියාවක්ම ඔබේ පරම නිදහස හෙවත් නිවන උදෙසාම යොමු කරන්න.",
+    "path_to_nibbana": [
+        "එසෙයින් ම මහණෙනි, භික්ෂුවක්  නිවනට බර වූයේ වෙයි."
+    ],
+    "daily_practise": [],
+    "tags": [
+        "සංවිධානය ගැන සිතන විට",
+        "අරමුණක් තීරණය කරන විට"
+    ],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }

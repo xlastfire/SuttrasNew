@@ -3,83 +3,39 @@
     "vagga": "- නන්දන සූත්‍ර",
     "sutta_title": "- නන්දන දෙව්පුතුට වදාළ දෙසුම්",
     "id": "5442",
-    "discovery_content": {
-        "is_deep_meaning_found": true,
-        "theme_category": "Sensory Perception and Attachment",
-        "complexity_rating": 7,
-        "analysis_confidence": 95,
-        "short_summary": "නන්දන දිව්‍ය පුත්‍රයා මුල් කරගෙන, දිව්‍යමය ඉන්ද්‍රිය ස්පර්ශයන් දස වැදෑරුම් ආකාරයකින් විශ්ලේෂණය කරමින් ඒවායේ ස්වභාවය පෙන්වා දෙන දේශනාවකි.",
-        "long_summary": "මෙම සූත්‍රය මගින් නන්දන දිව්‍ය පුත්‍රයා මුල් කරගනිමින් දිව්‍ය ලෝකයේ අත්විඳින ස්පර්ශයන් (Divine Touches) පිළිබඳව ගැඹුරු විග්‍රහයක් ඉදිරිපත් කරයි. දිව්‍යමය වූ රූප, ශබ්ද, ගන්ධ, රස සහ ස්පර්ශයන් දස වැදෑරුම් ආකාරයකින් මෙහි විස්තර කෙරේ. සැප සහගත වූත්, ප්‍රියජනක වූත් මෙම අත්දැකීම් පවා ඉන්ද්‍රිය සහ විඥානය අතර සිදුවන ස්පර්ශය මත රඳා පවතින බව මෙහි මූලික හරයයි. දිව්‍ය ස්පර්ශයන් පිළිබඳ සංකල්පමය විස්තරය තුළින් ඉන්ද්‍රිය අත්දැකීම් කෙරෙහි පවතින බැඳීම සහ එහි යථාර්ථය අවබෝධ කර ගැනීමට මග පෙන්වයි.",
-        "main_discovery": "දිව්‍යමය සැප සම්පත් වුවද ඉන්ද්‍රිය ස්පර්ශය මත පදනම් වූ අනිත්‍ය ස්වභාවයකින් යුක්ත බව සහ එය අවබෝධ කර ගැනීම නිවනට මග වන බව.",
-        "core_truth_of_sutta": "දිව්‍යමය සැපය පවා ස්පර්ශය (Phassa) මත පදනම් වූ අනිත්‍ය සංකල්පයක් පමණක් බව අවබෝධ කර ගැනීම.",
-        "path_to_nibbana": {
-            "doctrinal_meaning": "ස්පර්ශය නිරෝධ කිරීමෙන් වේදනාව නිරෝධ වන බවත්, එයින් තණ්හාව නැති වන බවත් පෙන්වා දීම (පටිච්චසමුප්පාද පදනම).",
-            "how_it_aids_liberation": "උසස්ම සැපය ලෙස සැලකෙන දිව්‍ය සැපය පවා ඉන්ද්‍රිය ස්පර්ශයක් බව හඳුනා ගැනීමෙන් ලෝකය කෙරෙහි පවතින 'නන්දිය' (Delight) ප්‍රහීණ කර නිවනට යොමු කරයි.",
-            "practical_renunciation": "ඉන්ද්‍රිය ස්පර්ශයකින් හටගන්නා වින්දනය 'මගේ' කර නොගෙන එය හුදු ක්‍රියාවලියක් ලෙස බැලීමට පුහුණු වීම."
-        },
-        "psychological_analysis": {
-            "mental_states_analyzed": [
-                "සැප වේදනාව (Pleasant Feeling)",
-                "ඇලීම (Lust/Raga)",
-                "සංජානනය (Perception)"
-            ],
-            "cognitive_impact": "සංවේදන අත්දැකීම් කෙරෙහි මොළය දක්වන ස්වයංක්‍රීය ඇලීම (Cognitive Attachment) පිළිබඳව දැනුවත් වීමෙන් ප්‍රතික්‍රියාශීලී බව පාලනය කිරීම (Emotional Regulation).",
-            "modern_psychology_parallel": "මෙය පිළිගැනීමේ සහ කැපවීමේ චිකිත්සාව (Acceptance and Commitment Therapy - ACT) තුළ එන 'Cognitive Defusion' හෙවත් සිතුවිලි සහ හැඟීම් වලින් වෙන්වී ඒවා දෙස බැලීමේ ක්‍රමවේදයට සමාන වේ."
-        },
-        "neuroscientific_analysis": {
-            "brain_networks_involved": [
-                "Ventral Striatum (Reward Circuitry)",
-                "Default Mode Network (DMN)",
-                "Insular Cortex"
-            ],
-            "neuroplasticity_and_habit": "දිව්‍ය සැප වැනි උත්තේජක කෙරෙහි දක්වන ස්නායුක ඇබ්බැහිය (Dopaminergic pathways) මනස පුහුණු කිරීම (Mental Training) හරහා වෙනස් කළ හැකි බවත්, එමගින් අලුත් ස්නායුක සබඳතා (Synaptic plasticity) ගොඩනැගෙන බවත් පෙන්වයි.",
-            "stress_reduction_mechanism": "බාහිර උත්තේජන කෙරෙහි පවතින අධික ඇලීම අඩු කිරීමෙන් Amygdala හි ක්‍රියාකාරීත්වය අඩු වී, පූර්ව මස්තිෂ්ක බාහිකය (Prefrontal Cortex) මගින් හැඟීම් පාලනය කිරීමේ හැකියාව වැඩි වේ."
-        },
-        "cognitive_mechanisms": [
-            "Sensory Processing",
-            "Hedonic Adaptation",
-            "Conceptual Proliferation (Papanca)",
-            "Attentional Bias"
-        ],
-        "emotional_tone": {
-            "primary_emotion": "සන්සුන් බව (Equanimity)",
-            "emotional_intensity": 6,
-            "emotional_arc": "විස්මිත භාවයේ සිට යථාර්ථවාදී අවබෝධය දක්වා",
-            "mood_keywords": [
-                "Peaceful",
-                "Analytical",
-                "Detached"
-            ]
-        },
-        "scientific_parallels": [
-            {
-                "field": "Psychology",
-                "theory_name": "Hedonic Treadmill",
-                "parallel_description": "දිව්‍ය සැප වුවද නැවත නැවත සෙවීමට සිදුවන ආශාවේ චක්‍රීය ස්වභාවය නූතන මනෝවිද්‍යාවේ හෙඩොනික් ට්‍රෙඩ්මිල් සංකල්පයට සමාන වේ.",
-                "confidence_score": 90
-            }
-        ],
-        "sutta_connections": [
-            {
-                "shared_concept": "සළායතන (Six Sense Bases)",
-                "related_teachings": [
-                    "Chachakka Sutta",
-                    "Salayatana Vibhanga Sutta"
-                ],
-                "connection_type": "ධර්ම කරුණු පැහැදිලි කිරීමේ සමානතාව"
-            }
-        ],
-        "practical_takeaway_sinhala": "ජීවිතයේ අප ලබන ඕනෑම සැපයක් හෝ දුකක් හුදෙක් ඉන්ද්‍රිය ස්පර්ශයක් (Sensory contact) පමණක් බවත්, එයට නොවැලී සිටීමෙන් මානසික නිදහස ලැබිය හැකි බවත් වටහා ගැනීම.",
-        "daily_practice_steps": [
-            "යම් දෙයක් ඇසට පෙනෙන විට හෝ කනට ඇසෙන විට එය හුදු 'ස්පර්ශයක්' (Contact) ලෙස පමණක් හඳුනා ගන්න.",
-            "එම සංවේදනය නිසා සිතේ හටගන්නා 'සැප' හෝ 'දුක්' ස්වභාවය දෙස උපේක්ෂාවෙන් බැලීමට උත්සාහ කරන්න.",
-            "සංවේදනයන් පසුපස හඹා යෑමෙන් තාවකාලික තෘප්තියක් මිස ස්ථිර සැනසීමක් නොලැබෙන බව නිතර මෙනෙහි කරන්න."
-        ]
-    },
     "content": [
         {
             "pali": "අථ ඛෝ නන්දනෝ දේවපුත්තෝ ....(පෙ).... ඵොට්ඨබ්බේහීති.",
             "sinhala": "එතකොට නන්දන දිව්‍ය පුත්‍රයා ….(පෙ)…. දිව්‍ය ස්පර්ශයෙන් කියන මේ දහයෙනුයි."
         }
-    ]
+    ],
+    "short_summary": "නන්දන දිව්‍ය පුත්‍රයා මුල් කරගෙන, දිව්‍යමය ඉන්ද්‍රිය ස්පර්ශයන් දස වැදෑරුම් ආකාරයකින් විශ්ලේෂණය කරමින් ඒවායේ ස්වභාවය පෙන්වා දෙන දේශනාවකි.",
+    "long_summary": "මෙම සූත්‍රය මගින් නන්දන දිව්‍ය පුත්‍රයා මුල් කරගනිමින් දිව්‍ය ලෝකයේ අත්විඳින ස්පර්ශයන් (Divine Touches) පිළිබඳව ගැඹුරු විග්‍රහයක් ඉදිරිපත් කරයි. දිව්‍යමය වූ රූප, ශබ්ද, ගන්ධ, රස සහ ස්පර්ශයන් දස වැදෑරුම් ආකාරයකින් මෙහි විස්තර කෙරේ. සැප සහගත වූත්, ප්‍රියජනක වූත් මෙම අත්දැකීම් පවා ඉන්ද්‍රිය සහ විඥානය අතර සිදුවන ස්පර්ශය මත රඳා පවතින බව මෙහි මූලික හරයයි. දිව්‍ය ස්පර්ශයන් පිළිබඳ සංකල්පමය විස්තරය තුළින් ඉන්ද්‍රිය අත්දැකීම් කෙරෙහි පවතින බැඳීම සහ එහි යථාර්ථය අවබෝධ කර ගැනීමට මග පෙන්වයි.",
+    "main_discovery": "දිව්‍යමය සැප සම්පත් වුවද ඉන්ද්‍රිය ස්පර්ශය මත පදනම් වූ අනිත්‍ය ස්වභාවයකින් යුක්ත බව සහ එය අවබෝධ කර ගැනීම නිවනට මග වන බව.",
+    "core_truth_of_sutta": "දිව්‍යමය සැපය පවා ස්පර්ශය (Phassa) මත පදනම් වූ අනිත්‍ය සංකල්පයක් පමණක් බව අවබෝධ කර ගැනීම.",
+    "practical_takeaway_sinhala": "ජීවිතයේ අප ලබන ඕනෑම සැපයක් හෝ දුකක් හුදෙක් ඉන්ද්‍රිය ස්පර්ශයක් (Sensory contact) පමණක් බවත්, එයට නොවැලී සිටීමෙන් මානසික නිදහස ලැබිය හැකි බවත් වටහා ගැනීම.",
+    "path_to_nibbana": [],
+    "daily_practise": [],
+    "tags": [],
+    "analysis": {
+        "interactive_guide": {
+            "antidote_map": [],
+            "check_yourself": "",
+            "mindfulness_trigger": "",
+            "mental_tax": "",
+            "visual_metaphor": "",
+            "psychological_benefit": "",
+            "success_indicators": []
+        },
+        "daily_quest": {
+            "title": "",
+            "task": "",
+            "difficulty_level": "",
+            "estimated_time_minutes": 0
+        },
+        "friction_points": [],
+        "clarifications": [],
+        "logic_equation": ""
+    },
+    "analyser": "gemma4:e4b"
 }
