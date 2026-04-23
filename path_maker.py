@@ -1,6 +1,7 @@
 from glob import glob
 import json
 import os
+from tqdm import tqdm
 
 # Configuration
 path_filepath = 'paths'
@@ -32,12 +33,12 @@ index_added_ids = {each['id'] for each in index_data if isinstance(each, dict) a
 files = glob('*.json')
 starting_count = len(index_data)
 added_count = 0
-error_files = [] # වැරදි ගොනු ලැයිස්තුව
+error_files = []
 
 print("ගොනු පරීක්ෂා කරමින් පවතී...\n")
 
-for file_name in files:
-    # Skip the index and path files themselves
+for file_name in tqdm(files, desc="Processing JSON files"):
+    
     if file_name in [path_filepath, index_filepath]:
         continue
 
@@ -49,35 +50,31 @@ for file_name in files:
         error_files.append(file_name)
         continue
 
-    # මෙන්න මෙතැනදී අපි දත්ත Dictionary එකක්දැයි පරීක්ෂා කරනවා
     if not isinstance(data, dict):
         print(f"වැරදි දත්ත ව්‍යුහය (Not a JSON object/dict): {file_name}")
         error_files.append(file_name)
         continue
 
-    # Ensure the JSON has an ID
     item_id = data.get('id')
     if not item_id:
         continue
 
-    # Update path_data (simple list of IDs)
     if item_id not in path_data:
         path_data.append(item_id)
 
-    # Update index_data (list of dictionaries)
     if item_id not in index_added_ids:
         temp = {
             "nikaya": data.get("nikaya"),
             "vagga": data.get("vagga"),
             "sutta_title": data.get("sutta_title"),
+            "short_summary": data.get('short_summary'),
             "id": item_id
         }
 
-        # Safely check for nested discovery content
         discovery = data.get('discovery_content')
         if isinstance(discovery, dict) and 'short_summary' in discovery:
             temp['short_summary'] = discovery['short_summary']
-        
+
         index_data.append(temp)
         index_added_ids.add(item_id)
         added_count += 1
@@ -88,7 +85,7 @@ save_file(index_data, index_filepath)
 
 # 5. Final Report
 print("-" * 30)
-print(f"Processing Complete")
+print("Processing Complete")
 print("-" * 30)
 print(f"Files scanned:      {len(files)}")
 print(f"Existing in index:  {starting_count}")
